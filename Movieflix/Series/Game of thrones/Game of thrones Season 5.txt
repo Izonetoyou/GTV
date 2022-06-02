@@ -1,0 +1,82 @@
+{
+"name": "Game of Thrones Season 5",
+"author": "Godzilla TV",
+"image": "https://watchersonthewall.com/wp-content/uploads/2015/02/GOT-S5-Poster.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1rt6HbYyYejX37ZUE8pHfmmUfghElV9eY",
+
+
+"stations": [
+
+{
+"name": "EP 1",  
+"image": "https://watchersonthewall.com/wp-content/uploads/2015/02/GOT-S5-Poster.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2s2e3i4b4m5j435r3y3p5e3q5p4x43634",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 2",  
+"image": "https://watchersonthewall.com/wp-content/uploads/2015/02/GOT-S5-Poster.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2v2g484u2q4t374o4h4n4m324b4i57534",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 3",  
+"image": "https://watchersonthewall.com/wp-content/uploads/2015/02/GOT-S5-Poster.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2o3l4b4t484h47563e3t454w4s3v53534",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 4",  
+"image": "https://watchersonthewall.com/wp-content/uploads/2015/02/GOT-S5-Poster.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2c3h3h484k4j3v5a4j436i41684740634",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 5",  
+"image": "https://watchersonthewall.com/wp-content/uploads/2015/02/GOT-S5-Poster.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2k4d4j3v2157306t433j5y2o4e4u56434",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 6",  
+"image": "https://watchersonthewall.com/wp-content/uploads/2015/02/GOT-S5-Poster.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w284u243k4m5n3w4p4x4j5b375s3052634",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 7",  
+"image": "https://watchersonthewall.com/wp-content/uploads/2015/02/GOT-S5-Poster.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2p4a3r48424j4q4p42494f344l3g57434",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 8",  
+"image": "https://watchersonthewall.com/wp-content/uploads/2015/02/GOT-S5-Poster.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2t2l3e4d3m5h4m4m404z4j3h5g324v434",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 9",  
+"image": "https://watchersonthewall.com/wp-content/uploads/2015/02/GOT-S5-Poster.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2n413o4v4m4c3x4g4w4m5s3q48425k434",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 10",  
+"image": "https://watchersonthewall.com/wp-content/uploads/2015/02/GOT-S5-Poster.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2r2f4y2z37554u4v3f346j3w4y3168434",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+
+]
+}

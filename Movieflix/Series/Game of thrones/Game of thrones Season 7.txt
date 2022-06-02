@@ -1,0 +1,61 @@
+{
+"name": "Game of Thrones Season 7",
+"author": "Godzilla TV",
+"image": "http://f.ptcdn.info/835/046/000/ofng4d8fjtfvD2ic6Om-o.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1sooHaOx6n1ouMvhH3FeIRzZh3RIvJ5hN",
+
+
+"stations": [
+
+{
+"name": "EP 1",  
+"image": "http://f.ptcdn.info/835/046/000/ofng4d8fjtfvD2ic6Om-o.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2c4k313w215q4h5g4l3k424j4u3y5s434",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 2",  
+"image": "http://f.ptcdn.info/835/046/000/ofng4d8fjtfvD2ic6Om-o.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2f313k39424d35413k4w5m305y206u534",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 3",  
+"image": "http://f.ptcdn.info/835/046/000/ofng4d8fjtfvD2ic6Om-o.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2s4e4o404m4d315g3i3u4d38533n40534",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 4",  
+"image": "http://f.ptcdn.info/835/046/000/ofng4d8fjtfvD2ic6Om-o.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2p364f4j4m4l446y353748474p3543434",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 5",  
+"image": "http://f.ptcdn.info/835/046/000/ofng4d8fjtfvD2ic6Om-o.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2a4c3p3u2r5l364k394n5v3z4i3945434",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 6",  
+"image": "http://f.ptcdn.info/835/046/000/ofng4d8fjtfvD2ic6Om-o.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2i3s4x2m375p2w4f4x3n4a3u5p4q5l434",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 7",  
+"image": "http://f.ptcdn.info/835/046/000/ofng4d8fjtfvD2ic6Om-o.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2r464f4l436k3p5o3o46493f5w3v5r534",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+
+]
+}

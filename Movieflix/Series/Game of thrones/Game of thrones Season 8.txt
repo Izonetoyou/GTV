@@ -1,0 +1,54 @@
+{
+"name": "Game of Thrones Season 8",
+"author": "Godzilla TV",
+"image": "https://www.i-moviehd.com/wp-content/uploads/2019/04/Game-of-Thrones-Season-8.png",
+"url": "https://drive.google.com/uc?export=download&id=1kwBFJ2wL7UhYnib0LAxefWc5cGwy8xfL",
+
+
+"stations": [
+
+{
+"name": "EP 1",  
+"image": "https://www.i-moviehd.com/wp-content/uploads/2019/04/Game-of-Thrones-Season-8.png",  
+"url": "https://www.series108.com/video/game-of-thrones-season-8-ep-1/",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 2",  
+"image": "https://www.i-moviehd.com/wp-content/uploads/2019/04/Game-of-Thrones-Season-8.png",  
+"url": "https://www.series108.com/video/game-of-thrones-season-8-ep-2/",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 3",  
+"image": "https://www.i-moviehd.com/wp-content/uploads/2019/04/Game-of-Thrones-Season-8.png",  
+"url": "https://www.series108.com/video/game-of-thrones-season-8-ep-3/",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 4",  
+"image": "https://www.i-moviehd.com/wp-content/uploads/2019/04/Game-of-Thrones-Season-8.png",  
+"url": "https://www.series108.com/video/game-of-thrones-season-8-ep-4/",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 5",  
+"image": "https://www.i-moviehd.com/wp-content/uploads/2019/04/Game-of-Thrones-Season-8.png",  
+"url": "https://www.series108.com/video/game-of-thrones-season-8-ep-5/",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 6",  
+"image": "https://www.i-moviehd.com/wp-content/uploads/2019/04/Game-of-Thrones-Season-8.png",  
+"url": "https://www.series108.com/video/game-of-thrones-season-8-ep-6/",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+
+]
+}

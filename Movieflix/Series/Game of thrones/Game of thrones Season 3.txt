@@ -1,0 +1,82 @@
+{
+"name": "Game of Thrones Season 3",
+"author": "Godzilla TV",
+"image": "https://www.mgmmovie.com/images/movie/rhnrJ9xtREK0eYK71nvzK3byGw6kxtVGame_of_Thrones_-_Season_3.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1xz_LR_Wh8jp9ZKW7M5ZUpTovmZ9xUKh1",
+
+
+"stations": [
+
+{
+"name": "EP 1",  
+"image": "https://www.mgmmovie.com/images/movie/rhnrJ9xtREK0eYK71nvzK3byGw6kxtVGame_of_Thrones_-_Season_3.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2k3b4p3g4n5p45513q4u5r3p5r394z434",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 2",  
+"image": "https://www.mgmmovie.com/images/movie/rhnrJ9xtREK0eYK71nvzK3byGw6kxtVGame_of_Thrones_-_Season_3.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w23464k433p4e364i4p385q3b484l45434",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 3",  
+"image": "https://www.mgmmovie.com/images/movie/rhnrJ9xtREK0eYK71nvzK3byGw6kxtVGame_of_Thrones_-_Season_3.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2t2k4s3i3k544a4k3j4c4m444f454s534",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 4",  
+"image": "https://www.mgmmovie.com/images/movie/rhnrJ9xtREK0eYK71nvzK3byGw6kxtVGame_of_Thrones_-_Season_3.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2c3n4o3p3f5n326q3n4j5r3u5o4w53634",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 5",  
+"image": "https://www.mgmmovie.com/images/movie/rhnrJ9xtREK0eYK71nvzK3byGw6kxtVGame_of_Thrones_-_Season_3.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w283g423m4v554p4c4l3z4q3f513h56534",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 6",  
+"image": "https://www.mgmmovie.com/images/movie/rhnrJ9xtREK0eYK71nvzK3byGw6kxtVGame_of_Thrones_-_Season_3.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2q3v2d3o3e5v216t4k3o4m4k4m4s44434",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 7",  
+"image": "https://www.mgmmovie.com/images/movie/rhnrJ9xtREK0eYK71nvzK3byGw6kxtVGame_of_Thrones_-_Season_3.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2g3q4m4k315c435a4w4n4c4m403b40634",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 8",  
+"image": "https://www.mgmmovie.com/images/movie/rhnrJ9xtREK0eYK71nvzK3byGw6kxtVGame_of_Thrones_-_Season_3.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w274y3h3k3x4c344z2p3v5b354w346e534",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 9",  
+"image": "https://www.mgmmovie.com/images/movie/rhnrJ9xtREK0eYK71nvzK3byGw6kxtVGame_of_Thrones_-_Season_3.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2t2r333h43693u5k4a495y2r4d4r4t534",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 10",  
+"image": "https://www.mgmmovie.com/images/movie/rhnrJ9xtREK0eYK71nvzK3byGw6kxtVGame_of_Thrones_-_Season_3.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w244k4q3d4w4u255u4y246p2j494n48434",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+
+]
+}

@@ -1,0 +1,82 @@
+{
+"name": "Game of Thrones Season 6",
+"author": "Godzilla TV",
+"image": "https://m.media-amazon.com/images/I/81orCMbEg6L._SL1425_.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1ZsS5fsfLAPJTSaDhOa22SDEMgV66Awdf",
+
+
+"stations": [
+
+{
+"name": "EP 1",  
+"image": "https://m.media-amazon.com/images/I/81orCMbEg6L._SL1425_.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2f3t3x3l364g4r5f4u334o4p4w235g534",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 2",  
+"image": "https://m.media-amazon.com/images/I/81orCMbEg6L._SL1425_.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2q203u30425i484r30325v305x3s4n434",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 3",  
+"image": "https://m.media-amazon.com/images/I/81orCMbEg6L._SL1425_.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2l3j314l364p3n563x21593s43306x534",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 4",  
+"image": "https://m.media-amazon.com/images/I/81orCMbEg6L._SL1425_.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2i4w3d303y4p256o4g316t354n3f5h534",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 5",  
+"image": "https://m.media-amazon.com/images/I/81orCMbEg6L._SL1425_.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2h3n3u3t406n415j30344g4v4z2n4a434",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 6",  
+"image": "https://m.media-amazon.com/images/I/81orCMbEg6L._SL1425_.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2b3n4w3s4s4g374j39445b3n4j455x534",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 7",  
+"image": "https://m.media-amazon.com/images/I/81orCMbEg6L._SL1425_.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w244k3x4b3o564u4i3g3w5a3s5e4h5q434",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 8",  
+"image": "https://m.media-amazon.com/images/I/81orCMbEg6L._SL1425_.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2d4q4k4o306h336p3x3j524y5l4j5n434",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 9",  
+"image": "https://m.media-amazon.com/images/I/81orCMbEg6L._SL1425_.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2a4i3i404p5n485q3m4g5n326v4u54434",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 10",  
+"image": "https://m.media-amazon.com/images/I/81orCMbEg6L._SL1425_.jpg",  
+"url": "https://nungnaja.com/embed/l50626l4q473n2s2i5j4e4u494f41614b4l4u5t2s4f4a4n5u5w2q4l4r4k3x56326h4h334k3k5k354n434",
+"referer": "https://nungnaja.com/",
+"playInNatPlayer": "true"
+},
+
+]
+}
