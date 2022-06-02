@@ -10,13 +10,13 @@
 {
 "name": "Ep 1",  
 "image": "https://www.doofree88.com/storage/images/2020/11/BViovKGQrkbS2AIZ243NEz1PrxdEXV5oh5MgBA0R.jpg",  
-"url": "https://www.doofree88.com/movie/18-again",
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=cfc7389c7ce554c6832d660d26c8c352&seek=0&seekmin=0",
 "playInNatPlayer": "true"
 },
 {
 "name": "Ep 2",  
 "image": "https://www.doofree88.com/storage/images/2020/11/BViovKGQrkbS2AIZ243NEz1PrxdEXV5oh5MgBA0R.jpg",  
-"url": "https://www.doofree88.com/movie/18-again-lb3fnOfY9X",
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=408f18735d215281d79eda5070b82dfe&seek=0&seekmin=0",
 "playInNatPlayer": "true"
 },
 {
