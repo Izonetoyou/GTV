@@ -1,0 +1,87 @@
+{
+"name": "💖 Discovery TV 💖 ",
+"author": "Godzilla TV",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_320.png",
+"url": "",
+"info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
+
+
+"stations":[
+
+
+{
+"name": "History HD",
+"image":"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F17%2Ff6168174-fabb-410c-a589-e5c30ff485f3.png&w=320&h=240",
+"url": "https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "History HD (สำรอง)",
+"image":"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F17%2Ff6168174-fabb-410c-a589-e5c30ff485f3.png&w=320&h=240",
+"url": "https://www.123-hd.com/tv?ver=tv_vie&id=30",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "History H2",
+"image":"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2F64a7b379-e7f9-4a12-b978-08fd58bd8f09.png&w=320&h=240",
+"url": "https://streaming.livescorethai.net/iptv/hd-history2.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "History H2 (สำรอง)",
+"image":"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2F64a7b379-e7f9-4a12-b978-08fd58bd8f09.png&w=320&h=240",
+"url": "https://www.123-hd.com/tv?ver=tv_vie&id=29",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Discovery Channel",
+"image":"https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_320.png",
+"url": "https://www.doofootball.com/dootv/live/discovery#main_dootv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Discovery Channel (สำรอง)",
+"image":"https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_320.png",
+"url": "https://www.123-hd.com/tv?ver=tv_vie&id=15",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Discovery Asia",
+"image":"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F978fc2da-8f65-410f-bff8-931b22c37324.png&w=320&h=240",
+"url": "https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Discovery Asia (สำรอง)",
+"image":"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F978fc2da-8f65-410f-bff8-931b22c37324.png&w=320&h=240",
+"url": "https://www.123-hd.com/tv?ver=tv_vie&id=15",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "National Geographic",
+"image":"https://avpn.asia/wp-content/uploads/2016/03/National-Geographic-logo.png",
+"url": "https://mediasv.online/stream_live/558_Nationnal_geographic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0ODo0NSBQTSZoYXNoX3ZhbHVlPUZBaHVsNUJXeVgxbTQ5RTh3VDA5UWc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzYmaWQ9Y2hfODg0MTM=",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+
+
+]
+}

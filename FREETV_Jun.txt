@@ -1,0 +1,48 @@
+{
+"name": "🎞🎞 Jun 2022 🎞🎞 ",
+"author": "by Godzilla TV ",
+"image": "https://www.fumettologica.it/wp-content/uploads/2022/03/ms-marvel-serie-tv.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1x5Z8kqm_V1miSWSv5yZZb64eBowiEZ4V",
+"info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
+
+
+"groups": [
+{
+"name": "MOVIE FLIX",
+"image": "https://newssow.com/wp-content/uploads/2021/07/moviesflix.png",
+"url": "https://drive.google.com/uc?export=download&id=1GhDQzBJ0CtWH0ts2zzHZgqOBlBthryNX",
+"import": false
+},
+{
+"name": "Thai TV",
+"image": "https://image.winudf.com/v2/image/Y29tLnN1d2F0c2oudGhhaXR2cHJvMjU2MV9zY3JlZW5fMF8xNTMwNzg0ODExXzA5Mw/screen-0.jpg?fakeurl=1&type=.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1G-HaGcqEIcDX1z57NmjQGXV8l6taoh4k",
+"import": false
+},
+{
+"name": "ENTERTAINMENT TV",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5I-Hg04bRcxnfLrtvZkWQX5qac9ZgafZblw&usqp=CAU",
+"url": "https://drive.google.com/uc?export=download&id=1pIAOzKwn4CsBT7lUFOaHVlJBBNN15ZYA",
+"import": false
+},
+{
+"name": "Sports TV",
+"image": "https://cdn.digitbin.com/wp-content/uploads/Live-TV-Sports-for-Android.png",
+"url": "https://drive.google.com/uc?export=download&id=1mqaaNSV3k3yjoY7KWY9iuBzRupCoH8Xb",
+"import": false
+},
+{
+"name": "Discovery TV",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_320.png",
+"url": "https://drive.google.com/uc?export=download&id=1oex15Qd7FTcXP3nxUi70QHHClPKCbwsP",
+"import": false
+},
+{
+"name": "KIDS TV",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRijX04JzTg1tid1MV5KkEvldG7Wdj7Jox96Q&usqp=CAU",
+"url": "https://drive.google.com/uc?export=download&id=1JRnPsY1yw0q5fgrI_HTp8se3ohv0rxES",
+"import": false
+},
+
+]
+}
