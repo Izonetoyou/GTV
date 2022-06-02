@@ -1,0 +1,117 @@
+{
+"name": "18 Againย้อนรัก ย้อนวัยฝัน (Sub)",
+"author": "Godzilla TV",
+"image": "https://www.doofree88.com/storage/images/2020/11/BViovKGQrkbS2AIZ243NEz1PrxdEXV5oh5MgBA0R.jpg",
+"url": "https://drive.google.com/uc?export=download&id=193WGqH7qvKpIC8vXO3e7PFBEFuJyFId3",
+
+
+"stations": [
+
+{
+"name": "Ep 1",  
+"image": "https://www.doofree88.com/storage/images/2020/11/BViovKGQrkbS2AIZ243NEz1PrxdEXV5oh5MgBA0R.jpg",  
+"url": "https://www.doofree88.com/movie/18-again",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 2",  
+"image": "https://www.doofree88.com/storage/images/2020/11/BViovKGQrkbS2AIZ243NEz1PrxdEXV5oh5MgBA0R.jpg",  
+"url": "https://www.doofree88.com/movie/18-again-lb3fnOfY9X",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 3",  
+"image": "https://www.doofree88.com/storage/images/2020/11/BViovKGQrkbS2AIZ243NEz1PrxdEXV5oh5MgBA0R.jpg",  
+"url": "https://www.doofree88.com/movie/18-again-idf121r68s",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 4",  
+"image": "https://www.doofree88.com/storage/images/2020/11/BViovKGQrkbS2AIZ243NEz1PrxdEXV5oh5MgBA0R.jpg",  
+"url": "https://www.doofree88.com/movie/18-again-4EbhzK7ckz",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 5",  
+"image": "https://www.doofree88.com/storage/images/2020/11/BViovKGQrkbS2AIZ243NEz1PrxdEXV5oh5MgBA0R.jpg",  
+"url": "https://www.doofree88.com/movie/18-again-G0ow6XFR9d",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 6",  
+"image": "https://www.doofree88.com/storage/images/2020/11/BViovKGQrkbS2AIZ243NEz1PrxdEXV5oh5MgBA0R.jpg",  
+"url": "https://www.doofree88.com/movie/18-again-vv1dOdFGib",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 7",  
+"image": "https://www.doofree88.com/storage/images/2020/11/BViovKGQrkbS2AIZ243NEz1PrxdEXV5oh5MgBA0R.jpg",  
+"url": "https://www.doofree88.com/movie/18-again-R0ob1NpuAn",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 8",  
+"image": "https://www.doofree88.com/storage/images/2020/11/BViovKGQrkbS2AIZ243NEz1PrxdEXV5oh5MgBA0R.jpg",  
+"url": "https://www.doofree88.com/movie/18-again-9KRSMEkAfN",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 9",  
+"image": "https://www.doofree88.com/storage/images/2020/11/BViovKGQrkbS2AIZ243NEz1PrxdEXV5oh5MgBA0R.jpg",  
+"url": "https://www.doofree88.com/movie/18-again-Ay7ok9U5X7",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 10",  
+"image": "https://www.doofree88.com/storage/images/2020/11/BViovKGQrkbS2AIZ243NEz1PrxdEXV5oh5MgBA0R.jpg",  
+"url": "https://www.doofree88.com/movie/18-again-lmDhMPAFtq",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 11",  
+"image": "https://www.doofree88.com/storage/images/2020/11/BViovKGQrkbS2AIZ243NEz1PrxdEXV5oh5MgBA0R.jpg",  
+"url": "https://www.doofree88.com/movie/18-again-5HOwBqJTPs",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 12",  
+"image": "https://www.doofree88.com/storage/images/2020/11/BViovKGQrkbS2AIZ243NEz1PrxdEXV5oh5MgBA0R.jpg",  
+"url": "https://www.doofree88.com/movie/18-again-qr6y9rNPUH",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 13",  
+"image": "https://www.doofree88.com/storage/images/2020/11/BViovKGQrkbS2AIZ243NEz1PrxdEXV5oh5MgBA0R.jpg",  
+"url": "https://www.doofree88.com/movie/18-again-4MNYiNYCgx",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 14",  
+"image": "https://www.doofree88.com/storage/images/2020/11/BViovKGQrkbS2AIZ243NEz1PrxdEXV5oh5MgBA0R.jpg",  
+"url": "https://www.doofree88.com/movie/18-again-dmFftckFSY",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 15",  
+"image": "https://www.doofree88.com/storage/images/2020/11/BViovKGQrkbS2AIZ243NEz1PrxdEXV5oh5MgBA0R.jpg",  
+"url": "https://www.doofree88.com/movie/18-again-NarOWACfBm",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 16",  
+"image": "https://www.doofree88.com/storage/images/2020/11/BViovKGQrkbS2AIZ243NEz1PrxdEXV5oh5MgBA0R.jpg",  
+"url": "https://www.doofree88.com/movie/18-again-9fiNrx6nwv",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 17",  
+"image": "https://www.doofree88.com/storage/images/2020/11/BViovKGQrkbS2AIZ243NEz1PrxdEXV5oh5MgBA0R.jpg",  
+"url": "https://www.doofree88.com/movie/18-again-AHXFXpRgXO",
+"playInNatPlayer": "true"
+},
+
+
+
+
+]
+}

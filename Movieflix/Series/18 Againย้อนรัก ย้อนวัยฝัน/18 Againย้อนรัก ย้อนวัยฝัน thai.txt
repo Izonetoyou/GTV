@@ -1,0 +1,111 @@
+{
+"name": "18 Againย้อนรัก ย้อนวัยฝัน (พากย์ไทย) ",
+"author": "Godzilla TV",
+"image": "https://www.doofree88.com/storage/images/2021/4/1kPrU7eqd3kWj7Upcz6rBQ9Px7BedGt28Y3JwpOp.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1jIOMaLTgfrALAfBLeBKf7TLloywD1mv-",
+
+
+"stations": [
+
+{
+"name": "Ep 1",  
+"image": "https://www.doofree88.com/storage/images/2021/4/1kPrU7eqd3kWj7Upcz6rBQ9Px7BedGt28Y3JwpOp.jpg",  
+"url": "https://www.123-hd.com/18-again",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 2",  
+"image": "https://www.doofree88.com/storage/images/2021/4/1kPrU7eqd3kWj7Upcz6rBQ9Px7BedGt28Y3JwpOp.jpg",  
+"url": "https://www.123-hd.com/18-again-ep-2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 3",  
+"image": "https://www.doofree88.com/storage/images/2021/4/1kPrU7eqd3kWj7Upcz6rBQ9Px7BedGt28Y3JwpOp.jpg",  
+"url": "https://www.123-hd.com/18-again-ep-3",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 4",  
+"image": "https://www.doofree88.com/storage/images/2021/4/1kPrU7eqd3kWj7Upcz6rBQ9Px7BedGt28Y3JwpOp.jpg",  
+"url": "https://www.123-hd.com/18-again-ep-4",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 5",  
+"image": "https://www.doofree88.com/storage/images/2021/4/1kPrU7eqd3kWj7Upcz6rBQ9Px7BedGt28Y3JwpOp.jpg",  
+"url": "https://www.123-hd.com/18-again-ep-5",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 6",  
+"image": "https://www.doofree88.com/storage/images/2021/4/1kPrU7eqd3kWj7Upcz6rBQ9Px7BedGt28Y3JwpOp.jpg",  
+"url": "https://www.123-hd.com/18-again-ep-6",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 7",  
+"image": "https://www.doofree88.com/storage/images/2021/4/1kPrU7eqd3kWj7Upcz6rBQ9Px7BedGt28Y3JwpOp.jpg",  
+"url": "https://www.123-hd.com/18-again-ep-7",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 8",  
+"image": "https://www.doofree88.com/storage/images/2021/4/1kPrU7eqd3kWj7Upcz6rBQ9Px7BedGt28Y3JwpOp.jpg",  
+"url": "https://www.123-hd.com/18-again-ep-8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 9",  
+"image": "https://www.doofree88.com/storage/images/2021/4/1kPrU7eqd3kWj7Upcz6rBQ9Px7BedGt28Y3JwpOp.jpg",  
+"url": "https://www.123-hd.com/18-again-ep-9",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 10",  
+"image": "https://www.doofree88.com/storage/images/2021/4/1kPrU7eqd3kWj7Upcz6rBQ9Px7BedGt28Y3JwpOp.jpg",  
+"url": "https://www.123-hd.com/18-again-ep-10",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 11",  
+"image": "https://www.doofree88.com/storage/images/2021/4/1kPrU7eqd3kWj7Upcz6rBQ9Px7BedGt28Y3JwpOp.jpg",  
+"url": "https://www.123-hd.com/18-again-ep-11",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 12",  
+"image": "https://www.doofree88.com/storage/images/2021/4/1kPrU7eqd3kWj7Upcz6rBQ9Px7BedGt28Y3JwpOp.jpg",  
+"url": "https://www.123-hd.com/18-again-ep-12",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 13",  
+"image": "https://www.doofree88.com/storage/images/2021/4/1kPrU7eqd3kWj7Upcz6rBQ9Px7BedGt28Y3JwpOp.jpg",  
+"url": "https://www.123-hd.com/18-again-ep-13",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 14",  
+"image": "https://www.doofree88.com/storage/images/2021/4/1kPrU7eqd3kWj7Upcz6rBQ9Px7BedGt28Y3JwpOp.jpg",  
+"url": "https://www.123-hd.com/18-again-ep-14",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 15",  
+"image": "https://www.doofree88.com/storage/images/2021/4/1kPrU7eqd3kWj7Upcz6rBQ9Px7BedGt28Y3JwpOp.jpg",  
+"url": "https://www.123-hd.com/18-again-ep-15",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 16",  
+"image": "https://www.doofree88.com/storage/images/2021/4/1kPrU7eqd3kWj7Upcz6rBQ9Px7BedGt28Y3JwpOp.jpg",  
+"url": "https://www.123-hd.com/18-again-ep-16",
+"playInNatPlayer": "true"
+},
+
+
+
+
+]
+}
