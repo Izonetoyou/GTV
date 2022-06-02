@@ -8,14 +8,14 @@
 {
 "name": "18 Againย้อนรัก ย้อนวัยฝัน (พากย์ไทย)",
 "image": "https://www.doofree88.com/storage/images/2021/4/1kPrU7eqd3kWj7Upcz6rBQ9Px7BedGt28Y3JwpOp.jpg",
-"url": "https://drive.google.com/uc?export=download&id=1jIOMaLTgfrALAfBLeBKf7TLloywD1mv-",
+"url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/Series/18%20Again%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%20%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B8%9D%E0%B8%B1%E0%B8%99/18%20Again%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%20%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B8%9D%E0%B8%B1%E0%B8%99%20thai.txt",
 "import": false
 },
 
 {
 "name": "18 Againย้อนรัก ย้อนวัยฝัน (Sub)",
 "image": "https://www.doofree88.com/storage/images/2020/11/BViovKGQrkbS2AIZ243NEz1PrxdEXV5oh5MgBA0R.jpg",
-"url": "https://drive.google.com/uc?export=download&id=193WGqH7qvKpIC8vXO3e7PFBEFuJyFId3",
+"url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/Series/18%20Again%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%20%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B8%9D%E0%B8%B1%E0%B8%99/18%20Again%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%20%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B8%9D%E0%B8%B1%E0%B8%99%20Sub.txt",
 "import": false
 },
 ]
