@@ -1,0 +1,55 @@
+{
+"name": "The Falcon and the Winter Soldier (2021)",
+"author": "Godzilla TV",
+"image": "https://www.doofree88.com/storage/images/2021/7/HJwNRge7spkx8zJFpAgK0L13mPnkXBaPBDGUiYh6.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1vYYuLmpMCAPD8NE9WKbnq3dvebafs9s6",
+
+
+"stations": [
+
+{
+"name": "EP1",  
+"image": "https://www.doofree88.com/storage/images/2021/7/HJwNRge7spkx8zJFpAgK0L13mPnkXBaPBDGUiYh6.jpg",  
+"url": "https://www.doofree88.com/movie/the-falcon-and-the-winter-soldier-2021-za4R06mUAI",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP2",  
+"image": "https://www.doofree88.com/storage/images/2021/7/HJwNRge7spkx8zJFpAgK0L13mPnkXBaPBDGUiYh6.jpg",  
+"url": "https://www.doofree88.com/movie/the-falcon-and-the-winter-soldier-2021-qYR1PjbGJK",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP3",   
+"image": "https://www.doofree88.com/storage/images/2021/7/HJwNRge7spkx8zJFpAgK0L13mPnkXBaPBDGUiYh6.jpg",  
+"url": "https://www.doofree88.com/movie/the-falcon-and-the-winter-soldier-2021-VufAlY5AIc",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP4",   
+"image": "https://www.doofree88.com/storage/images/2021/7/HJwNRge7spkx8zJFpAgK0L13mPnkXBaPBDGUiYh6.jpg",  
+"url": "https://www.doofree88.com/movie/the-falcon-and-the-winter-soldier-2021-B3O1Uocll9",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP5",   
+"image": "https://www.doofree88.com/storage/images/2021/7/HJwNRge7spkx8zJFpAgK0L13mPnkXBaPBDGUiYh6.jpg",  
+"url": "https://www.doofree88.com/movie/the-falcon-and-the-winter-soldier-2021-PCQ6dB0xQE",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP6",   
+"image": "https://www.doofree88.com/storage/images/2021/7/HJwNRge7spkx8zJFpAgK0L13mPnkXBaPBDGUiYh6.jpg",  
+"url": "https://www.doofree88.com/movie/the-falcon-and-the-winter-soldier-2021-MK4B5xcU7A",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+
+]
+}

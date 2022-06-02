@@ -1,0 +1,57 @@
+{
+"name": "The Last Kingdom",
+"author": "Godzilla TV",
+"image": "https://www.doofree88.com/storage/images/2020/2/QaoBBjlIEVbNVPzGgpBX9AddIiCOzYdlkenuHC6U.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1ENJrVdtqFRwZ3eDUTmos5bDQoHNxkt-A",
+"info": "",
+"groups": [
+{
+"name": "The Last Kingdom Season 1 (พากย์ไทย)",
+"image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/ycqr6s4ks0gcc00sgc.png",
+"url": "https://drive.google.com/uc?export=download&id=107N5NgV0yxyYpx6eQSvq2OhIsuqrZTCS",
+"import": false
+},
+{
+"name": "The Last Kingdom Season 1 (Sub)",
+"image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/x8o45sy8zoggcw40o4.png",
+"url": "https://drive.google.com/uc?export=download&id=1aMeQ1bazmV68aXja1FnYL7J9K9-2eqfA",
+"import": false
+},
+{
+"name": "The Last Kingdom Season 2 (พากย์ไทย)",
+"image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/hk9udhm64zwok0s00w.png",
+"url": "https://drive.google.com/uc?export=download&id=1LY958b5iN36sxEA_IlWtu_0bF_APWgsW",
+"import": false
+},
+{
+"name": "The Last Kingdom Season 2 (Sub)",
+"image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/ah28kizj7nk040s4so.png",
+"url": "https://drive.google.com/uc?export=download&id=1T9brftgIn2RdPzBFxdweqX4UZXz1i4H1",
+"import": false
+},
+{
+"name": "The Last Kingdom Season 3 (พากย์ไทย)",
+"image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/8atfxoyzkd4wow84c4.png",
+"url": "https://drive.google.com/uc?export=download&id=1Cloo08wv3dODlZNYLZPbsZYhn2mw06BS",
+"import": false
+},
+{
+"name": "The Last Kingdom Season 3 (Sub)",
+"image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1jydp6fk7qm88sg0o0.png",
+"url": "https://drive.google.com/uc?export=download&id=1bpnKBhhjiAsaSJLUhw6vs6K___usbDmL",
+"import": false
+},
+{
+"name": "The Last Kingdom Season 4 (Sub)",
+"image": "https://www.tvguide.com/a/img/catalog/provider/1/1/1-9574421300.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1_u1RuVvpu2LEKYnNXt5_yk7SAR-Us10m",
+"import": false
+},
+{
+"name": "The Last Kingdom Season 5 (Sub)",
+"image": "https://www.doofree88.com/storage/images/2022/3/mUu0farSQXGqA7Su5OU2IUoKZcJVe0zTRMHw2MrK.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1CoNlbuZG4wAZd3QsFAKTx6-SPapmGLQz",
+"import": false
+},
+]
+}

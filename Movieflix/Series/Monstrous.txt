@@ -1,0 +1,41 @@
+{
+"name": "Monstrous",
+"author": "Godzilla TV",
+"image": "https://www.doofree88.com/storage/images/2022/5/Wt16RPewFnaPu7UHiqytSaxjIUFpRhXDbAtVp0LY.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1jfV9ffYq3g10zqsfuwRugH0u5z5ccxTZ",
+
+
+"stations": [
+
+{
+"name": "EP1",  
+"image": "https://www.doofree88.com/storage/images/2022/5/Wt16RPewFnaPu7UHiqytSaxjIUFpRhXDbAtVp0LY.jpg",  
+"url": "https://www.doofree88.com/movie/monstrous-2022-Coh5jM6yRg",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP2",  
+"image": "https://www.doofree88.com/storage/images/2022/5/Wt16RPewFnaPu7UHiqytSaxjIUFpRhXDbAtVp0LY.jpg",  
+"url": "https://www.doofree88.com/movie/monstrous-2022",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP3",  
+"image": "https://www.doofree88.com/storage/images/2022/5/Wt16RPewFnaPu7UHiqytSaxjIUFpRhXDbAtVp0LY.jpg",  
+"url": "https://www.doofree88.com/movie/monstrous-2022-9biqyct3x2",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP4",  
+"image": "https://www.doofree88.com/storage/images/2022/5/Wt16RPewFnaPu7UHiqytSaxjIUFpRhXDbAtVp0LY.jpg",  
+"url": "https://www.doofree88.com/movie/monstrous-2022-L4Xu7t3vhT",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+]
+}

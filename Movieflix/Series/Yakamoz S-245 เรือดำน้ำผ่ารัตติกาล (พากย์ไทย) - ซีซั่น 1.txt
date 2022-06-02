@@ -1,0 +1,62 @@
+{
+"name": "Yakamoz S-245 เรือดำน้ำผ่ารัตติกาล (พากย์ไทย) - ซีซั่น 1",
+"author": "Godzilla TV",
+"image": "https://dunnung.com/wp-content/uploads/2022/04/387.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1PsOw722iNo7DjrczwRTX7RVhoSm2VtTP",
+
+
+"stations": [
+
+{
+"name": "EP1",  
+"image": "https://dunnung.com/wp-content/uploads/2022/04/387.jpg",  
+"url": "https://we-play.live/watching/series/yakamoz-s245-2022/season1/ep1",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP2",  
+"image": "https://dunnung.com/wp-content/uploads/2022/04/387.jpg",  
+"url": "https://we-play.live/watching/series/yakamoz-s245-dub-th-2022/season1/ep2",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP3",  
+"image": "https://dunnung.com/wp-content/uploads/2022/04/387.jpg",  
+"url": "https://we-play.live/watching/series/yakamoz-s245-dub-th-2022/season1/ep3",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP4",  
+"image": "https://dunnung.com/wp-content/uploads/2022/04/387.jpg",  
+"url": "https://we-play.live/watching/series/yakamoz-s245-dub-th-2022/season1/ep4",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP5",  
+"image": "https://dunnung.com/wp-content/uploads/2022/04/387.jpg",  
+"url": "https://we-play.live/watching/series/yakamoz-s245-2022/season1/ep5",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP6",  
+"image": "https://dunnung.com/wp-content/uploads/2022/04/387.jpg",  
+"url": "https://we-play.live/watching/series/yakamoz-s245-2022/season1/ep6",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP7",  
+"image": "https://dunnung.com/wp-content/uploads/2022/04/387.jpg",  
+"url": "https://we-play.live/watching/series/yakamoz-s245-2022/season1/ep7",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+]
+}

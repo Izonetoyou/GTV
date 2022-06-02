@@ -1,0 +1,51 @@
+{
+"name": "Parallels - ซีซั่น 1 ",
+"author": "Godzilla TV",
+"image": "https://i0.wp.com/anysubtitle.com/wp-content/uploads/2022/03/gx1wLgADsSsyjnXaqHtcAYXUinj.jpg?fit=200%2C300&ssl=1E0%B8%A2.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1KiuFGJsVZKojQnJh05yOegREl86iZy6Y",
+
+
+"stations": [
+
+{
+"name": "Ep 1",  
+"image": "https://i0.wp.com/anysubtitle.com/wp-content/uploads/2022/03/gx1wLgADsSsyjnXaqHtcAYXUinj.jpg?fit=200%2C300&ssl=1E0%B8%A2.jpg",  
+"url": "https://we-play.live/watching/series/parallels-2022/season1/ep1",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 2",  
+"image": "https://i0.wp.com/anysubtitle.com/wp-content/uploads/2022/03/gx1wLgADsSsyjnXaqHtcAYXUinj.jpg?fit=200%2C300&ssl=1E0%B8%A2.jpg",  
+"url": "https://we-play.live/watching/series/parallels-2022/season1/ep2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 3",  
+"image": "https://i0.wp.com/anysubtitle.com/wp-content/uploads/2022/03/gx1wLgADsSsyjnXaqHtcAYXUinj.jpg?fit=200%2C300&ssl=1E0%B8%A2.jpg",  
+"url": "https://we-play.live/watching/series/parallels-2022/season1/ep3",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 4",  
+"image": "https://i0.wp.com/anysubtitle.com/wp-content/uploads/2022/03/gx1wLgADsSsyjnXaqHtcAYXUinj.jpg?fit=200%2C300&ssl=1E0%B8%A2.jpg",  
+"url": "https://we-play.live/watching/series/parallels-2022/season1/ep4",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 5",  
+"image": "https://i0.wp.com/anysubtitle.com/wp-content/uploads/2022/03/gx1wLgADsSsyjnXaqHtcAYXUinj.jpg?fit=200%2C300&ssl=1E0%B8%A2.jpg",  
+"url": "https://we-play.live/watching/series/parallels-2022/season1/ep5",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 6",  
+"image": "https://i0.wp.com/anysubtitle.com/wp-content/uploads/2022/03/gx1wLgADsSsyjnXaqHtcAYXUinj.jpg?fit=200%2C300&ssl=1E0%B8%A2.jpg",  
+"url": "https://we-play.live/watching/series/parallels-2022/season1/ep6",
+"playInNatPlayer": "true"
+},
+
+
+
+
+]
+}

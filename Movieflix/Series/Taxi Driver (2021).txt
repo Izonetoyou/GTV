@@ -1,0 +1,239 @@
+{
+"name": "Taxi Driver (2021)",
+"author": "Godzilla TV",
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",
+"url": "https://drive.google.com/uc?export=download&id=1xJwgnjo9mbf2doGxIFIvJj2phYYsZ86r",
+
+
+"stations": [
+
+{
+"name": "EP 1",  
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=eb66dea022e7b88e30bbb1e5debeb9ba&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 2",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=dbda45763c348ff9582857c84d3116fe&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 3",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=8aea5af21ebf40030af52566bb6093b2&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 4",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=cd2aa962ebc45bd9ed90daea2610ad66&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 5",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=ae333e41d0cfca3df9035b1952e90ae0&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP 6",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=b91af03dd23556a7d3a4e21b6805a3ac&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP 7",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=d9d3154b534a54ff74eaa301ef3a912e&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 8",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=680e16e83caaca66a8366fe621729ffd&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 9",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=9d09299899c92f35bd8a3b8697976465&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 10",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=5a36bd13a69e04e89e001f7ceda005ec&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 11",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=7bbce85516433673d5394426543417d2&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 12",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=c6067247b035e812ebbc50773d142941&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 13",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=09bea9025919e490ef08c767d09c6d54&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 14",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=6465ae973080a135269aed2b982d7b9f&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 15",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=b23a9eca8654d3c9033c7c4a8085761b&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 16",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=8393c3e3a3396a34d472c2ba5d05c232&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 17",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=949c10a04ccb60bdbbda1aa39446b93d&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 18",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=9e15e7fd84c581d7d360a2862d305d3d&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 19",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=605d43f3a5b31f00086ca9fd5e333c55&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 20",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=20d8c0fdfbae67142da8fa568911fa58&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 21",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=7b6aecb25d3305649328dd89a9382fce&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 22",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=6bd9942b201bc465ce8221f48c0d20c8&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 23",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=c73659421ac1e1c27fdfef2cd85f24b3&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 24",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=1a2a02e42732e6f36e4f98e6c7825048&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 25",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=f6ab2f0a1236271452a68ff5a0c24d7e&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 26",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=f0fabe6eb8685793bc4f6576a8016406&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 27",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=c8b824b8e1ee549e01364dd9aac000f3&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 28",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=73761405dc67f02f650ec48b37324495&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 29",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=d4b1eacb38d90c74d970af8a7f3894f2&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 30",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=806f8ebdf41551fb07e468957118e134&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 31",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=05882a3be9f60f516a98c0bd417fb43b&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 32",   
+"image": "https://www.123-hd.com/wp-content/uploads/2021/04/Taxi-Driver-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=0e068aa96b528c8e6c1cda20ee22b1db&seek=0&seekmin=0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+
+]
+}

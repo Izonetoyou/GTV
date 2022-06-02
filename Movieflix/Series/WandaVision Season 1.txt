@@ -1,0 +1,75 @@
+{
+"name": "WandaVision Season 1",
+"author": "Godzilla TV",
+"image": "https://www.doofree88.com/storage/images/2021/7/UE2v9K6McLwH37gh0pTxHSK8DRx2CThHm2zp76DP.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1ptU2aDn_1MPE7w8aIii6FjHqym-CKIny",
+
+
+"stations": [
+
+{
+"name": "EP 1",  
+"image": "https://www.doofree88.com/storage/images/2021/7/UE2v9K6McLwH37gh0pTxHSK8DRx2CThHm2zp76DP.jpg",  
+"url": "https://www.doofree88.com/movie/wandavision-season-1",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 2",   
+"image": "https://www.doofree88.com/storage/images/2021/7/UE2v9K6McLwH37gh0pTxHSK8DRx2CThHm2zp76DP.jpg",  
+"url": "https://www.doofree88.com/movie/wandavision-season-1-0jVqEjIHWf",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 3",   
+"image": "https://www.doofree88.com/storage/images/2021/7/UE2v9K6McLwH37gh0pTxHSK8DRx2CThHm2zp76DP.jpg",  
+"url": "https://www.doofree88.com/movie/wandavision-season-1-JBJOzIVF5J",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 4",   
+"image": "https://www.doofree88.com/storage/images/2021/7/UE2v9K6McLwH37gh0pTxHSK8DRx2CThHm2zp76DP.jpg",  
+"url": "https://www.doofree88.com/movie/wandavision-season-1-h9sZ1a3H2C",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 5",   
+"image": "https://www.doofree88.com/storage/images/2021/7/UE2v9K6McLwH37gh0pTxHSK8DRx2CThHm2zp76DP.jpg",  
+"url": "https://www.doofree88.com/movie/wandavision-season-1-LeS4BoO1UG",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 6",   
+"image": "https://www.doofree88.com/storage/images/2021/7/UE2v9K6McLwH37gh0pTxHSK8DRx2CThHm2zp76DP.jpg",  
+"url": "https://www.doofree88.com/movie/wandavision-season-1-I9iWLWJaT1",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 7",   
+"image": "https://www.doofree88.com/storage/images/2021/7/UE2v9K6McLwH37gh0pTxHSK8DRx2CThHm2zp76DP.jpg",  
+"url": "https://www.doofree88.com/movie/wandavision-season-1-a2mL8nJ62p",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 8",   
+"image": "https://www.doofree88.com/storage/images/2021/7/UE2v9K6McLwH37gh0pTxHSK8DRx2CThHm2zp76DP.jpg",  
+"url": "https://www.doofree88.com/movie/wandavision-season-1-Y5PXb7eyFK",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 9",   
+"image": "https://www.doofree88.com/storage/images/2021/7/UE2v9K6McLwH37gh0pTxHSK8DRx2CThHm2zp76DP.jpg",  
+"url": "https://www.doofree88.com/movie/wandavision-season-1-bh7CNBzmIh",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+]
+}

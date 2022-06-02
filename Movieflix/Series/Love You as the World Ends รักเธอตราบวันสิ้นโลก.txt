@@ -1,0 +1,126 @@
+{
+"name": "Love You as the World Ends รักเธอตราบวันสิ้นโลก",
+"author": "Godzilla TV",
+"image": "https://cinemas1.com/wp-content/uploads/2022/02/7256-185x239.jpg?v=1.0",
+"url": "https://drive.google.com/uc?export=download&id=1WAwoXViUISPxXzRhrShul1gEI_DOnbic",
+
+
+"stations": [
+
+{
+"name": "EP 1",  
+"image": "https://cinemas1.com/wp-content/uploads/2022/02/7256-185x239.jpg?v=1.0",  
+"url": "https://we-play.live/watching/series/love-you-as-the-world-ends-2021/season1/ep1",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 2",  
+"image": "https://cinemas1.com/wp-content/uploads/2022/02/7256-185x239.jpg?v=1.0",  
+"url": "https://we-play.live/watching/series/love-you-as-the-world-ends-2021/season1/ep2",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 3",  
+"image": "https://cinemas1.com/wp-content/uploads/2022/02/7256-185x239.jpg?v=1.0",  
+"url": "https://we-play.live/watching/series/love-you-as-the-world-ends-2021/season1/ep3",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 4",  
+"image": "https://cinemas1.com/wp-content/uploads/2022/02/7256-185x239.jpg?v=1.0",  
+"url": "https://we-play.live/watching/series/love-you-as-the-world-ends-2021/season1/ep4",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 5",  
+"image": "https://cinemas1.com/wp-content/uploads/2022/02/7256-185x239.jpg?v=1.0",  
+"url": "https://we-play.live/watching/series/love-you-as-the-world-ends-2021/season1/ep5",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 6",  
+"image": "https://cinemas1.com/wp-content/uploads/2022/02/7256-185x239.jpg?v=1.0",  
+"url": "https://we-play.live/watching/series/love-you-as-the-world-ends-2021/season1/ep6",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 7",  
+"image": "https://cinemas1.com/wp-content/uploads/2022/02/7256-185x239.jpg?v=1.0",  
+"url": "https://we-play.live/watching/series/love-you-as-the-world-ends-2021/season1/ep7",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 8",  
+"image": "https://cinemas1.com/wp-content/uploads/2022/02/7256-185x239.jpg?v=1.0",  
+"url": "https://we-play.live/watching/series/love-you-as-the-world-ends-2021/season1/ep8",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 9",  
+"image": "https://cinemas1.com/wp-content/uploads/2022/02/7256-185x239.jpg?v=1.0",  
+"url": "https://we-play.live/watching/series/love-you-as-the-world-ends-2021/season1/ep9",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 10",  
+"image": "https://cinemas1.com/wp-content/uploads/2022/02/7256-185x239.jpg?v=1.0",  
+"url": "https://we-play.live/watching/series/love-you-as-the-world-ends-2021/season1/ep10",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 11",  
+"image": "https://cinemas1.com/wp-content/uploads/2022/02/7256-185x239.jpg?v=1.0",  
+"url": "https://we-play.live/watching/series/love-you-as-the-world-ends-2021/season1/ep11",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 12",  
+"image": "https://cinemas1.com/wp-content/uploads/2022/02/7256-185x239.jpg?v=1.0",  
+"url": "https://we-play.live/watching/series/love-you-as-the-world-ends-2021/season1/ep12",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 13",  
+"image": "https://cinemas1.com/wp-content/uploads/2022/02/7256-185x239.jpg?v=1.0",  
+"url": "https://we-play.live/watching/series/love-you-as-the-world-ends-2021/season1/ep13",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 14",  
+"image": "https://cinemas1.com/wp-content/uploads/2022/02/7256-185x239.jpg?v=1.0",  
+"url": "https://we-play.live/watching/series/love-you-as-the-world-ends-2021/season1/ep14",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 15",  
+"image": "https://cinemas1.com/wp-content/uploads/2022/02/7256-185x239.jpg?v=1.0",  
+"url": "https://we-play.live/watching/series/love-you-as-the-world-ends-2021/season1/ep15",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 16",  
+"image": "https://cinemas1.com/wp-content/uploads/2022/02/7256-185x239.jpg?v=1.0",  
+"url": "https://we-play.live/watching/series/love-you-as-the-world-ends-2021/season1/ep16",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+
+
+]
+}

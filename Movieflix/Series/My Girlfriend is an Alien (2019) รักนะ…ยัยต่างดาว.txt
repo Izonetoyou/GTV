@@ -1,0 +1,210 @@
+{
+"name": "My Girlfriend is an Alien (2019) รักนะ…ยัยต่างดาว",
+"author": "Godzilla TV",
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",
+"url": "https://drive.google.com/uc?export=download&id=1wr8GL9XRR2XKj1dlwkQ7EEwc55YKKNe2",
+
+
+"stations": [
+
+{
+"name": "EP 1",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/3895904045573",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 2",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/3895904307717",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 3",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/3895904176645",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 4",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/3895904242181",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 5",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/3895904111109",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 6",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/2931648695035",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 7",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/2931648563963",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 8",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/2931648826107",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 9",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/2931648629499",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 10",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/2931648760571",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 11",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/3895904373253",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 12",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/3895904504325",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 13",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/3895904635397",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 14",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/3895904569861",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 15",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/3895904438789",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 16",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/2931649088251",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 17",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/2931649350395",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 18",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/2931649219323",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 19",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/2931649153787",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 20",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/2931649284859",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 21",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/3895904832005",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 22",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/3895905094149",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 23",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/3895904963077",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 24",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/3895905028613",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 25",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/3895904897541",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 26",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/2931649481467",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 27",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/2931649612539",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 28",  
+"image": "https://www.seriesk.co/wp-content/uploads/2021/11/02-1-2.jpeg",  
+"url": "https://ok.ru/video/2931649547003",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+
+
+]
+}

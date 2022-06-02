@@ -1,0 +1,255 @@
+{
+"name": "โปรแกรมเมอร์ที่รัก",
+"author": "Godzilla TV",
+"image": "https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1_YFu5ZOE-EOI9IbCm18hc3Hg1SawbWl6",
+
+
+"stations": [
+
+
+{
+"name": "Ep 1",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/v0040pr89t9-EP1-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 2",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/r0040wccvd6-EP2-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 3",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/d00409i1e8l-EP3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 4",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/v0040mbqp2j-EP4-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 5",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/f0040fdl1al-EP5-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 6",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/s0040wa144b-EP6-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 7",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/o0040eteojl-EP7-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 8",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/s00409zgtxb-EP8-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 9",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/e0040msf5ax-EP9-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 10",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/w0040q911vl-EP10-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 11",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/n0040vz3f1s-EP11-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 12",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/q0040znz33q-EP12-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 13",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/f0040knb921-EP13-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 14",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/p0040u698oi-EP14-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 15",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/z0040z48d8d-EP15-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 16",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/b0040j8nmat-EP16-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 17",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/h0040tkjt9k-EP17-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 18",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/o0040efk0tp-EP18-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Ep 19",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/m0040ot3s4f-EP19-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 20",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/v0040ljovsv-EP20-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 21",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/c0040vu1q5j-EP21-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 22",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/x0040e2ipkp-EP22-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 23",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/f0040z8lb20-EP23-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 24",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/t0040y5lcoe-EP24-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 25",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/r0040nzae4d-EP25-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 26",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/r0040ijqif8-EP26-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 27",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/a0040eu0z3f-EP27-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 28",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/h0040oxh68j-EP28-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 29",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/i00408n4vp8-EP29-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 30",  
+"image":"https://i3.wp.com/woseries.com/wp-content/uploads/2021/09/Cute-Programmer.jpg",
+"url": "https://wetv.vip/play/air11ooo2rdsdi3-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81/j0040so9lfn-EP30-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+
+
+]
+}

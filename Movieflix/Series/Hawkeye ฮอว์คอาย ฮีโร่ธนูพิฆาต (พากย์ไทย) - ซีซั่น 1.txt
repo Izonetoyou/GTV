@@ -1,0 +1,54 @@
+{
+"name": "Hawkeye ฮอว์คอาย ฮีโร่ธนูพิฆาต (พากย์ไทย) - ซีซั่น 1",
+"author": "Godzilla TV",
+"image": "https://www.banmuang.co.th/uploads/userfiles/images/HAWKEYE%20key%20art_4.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1LrGHVXdOmzaKI61aVJmF5ppoq2Zww3fS",
+
+
+"stations": [
+
+{
+"name": "EP 1",  
+"image": "https://www.banmuang.co.th/uploads/userfiles/images/HAWKEYE%20key%20art_4.jpg",  
+"url": "https://www.doofree88.com/movie/hawkeye-season-1-KAHPsYafPe",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 2",   
+"image": "https://www.banmuang.co.th/uploads/userfiles/images/HAWKEYE%20key%20art_4.jpg",  
+"url": "https://www.doofree88.com/movie/hawkeye-season-1-XOgRseHx17",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 3",   
+"image": "https://www.banmuang.co.th/uploads/userfiles/images/HAWKEYE%20key%20art_4.jpg",  
+"url": "https://www.doofree88.com/movie/hawkeye-season-1-5jsCyPjqez",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 4",   
+"image": "https://www.banmuang.co.th/uploads/userfiles/images/HAWKEYE%20key%20art_4.jpg",  
+"url": "https://www.doofree88.com/movie/hawkeye-season-1-vosi7rZy36",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 5",   
+"image": "https://www.banmuang.co.th/uploads/userfiles/images/HAWKEYE%20key%20art_4.jpg",  
+"url": "https://www.doofree88.com/movie/hawkeye-season-1-dPchQJ57vg",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 6",   
+"image": "https://www.banmuang.co.th/uploads/userfiles/images/HAWKEYE%20key%20art_4.jpg",  
+"url": "https://www.doofree88.com/movie/hawkeye-season-1-ZPcTiRc0RJ",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+]
+}

@@ -1,0 +1,21 @@
+{
+"name": "Goblin",
+"author": "Godzilla TV",
+"image": "https://s.isanook.com/mv/0/ui/23/119409/TH_All-of-Us-Are-Dead_Character_On-jo_Cheong-san.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1jVWJPFXX-wGotNw3D1m-bpDLFMF92Gyd",
+"info": "",
+"groups": [
+{
+"name": "Goblin (พากย์ไทย)",
+"image": "https://f.ptcdn.info/683/069/000/qbg2z49o8e4Q0ZfkId4-o.png",
+"url": "https://drive.google.com/uc?export=download&id=1G93VjKIi74OaRKYTv1QxOiKlCB3TRAh2",
+"import": false
+},
+{
+"name": "Goblin (Sub)",
+"image": "https://i.pinimg.com/originals/41/89/6e/41896eb5d61eef4c17bea02b53168c98.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1LLwN2Pc111bbofgGH1TZc3S8Hmbs-C2W",
+"import": false
+},
+]
+}

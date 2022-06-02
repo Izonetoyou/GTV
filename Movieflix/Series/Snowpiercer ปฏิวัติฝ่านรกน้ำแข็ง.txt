@@ -1,0 +1,27 @@
+{
+"name": "Snowpiercer ปฏิวัติฝ่านรกน้ำแข็ง",
+"author": "Godzilla TV",
+"image": "https://static.posttoday.com/media/content/2020/05/13/25132BE9AFD2C02A183B89E1F5D8332C.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1-3UP3sxVXJIwwGHsjRjqTvwu7025b6OL",
+"info": "",
+"groups": [
+{
+"name": "Snowpiercer ปฏิวัติฝ่านรกน้ำแข็ง (พากย์ไทย) - ซีซั่น 1",
+"image": "https://tvshows.show/wp-content/uploads/Snowpiercer-season-1-poster.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1SFrl9xkfvMY4jJuMS1vOIAhgACi6aTAZ",
+"import": false
+},
+{
+"name": "Snowpiercer ปฏิวัติฝ่านรกน้ำแข็ง (พากย์ไทย) - ซีซั่น 2",
+"image": "https://i.ytimg.com/vi/qDOmT5AcSZM/maxresdefault.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1mnkBJvzIFf25xYkdHl5AA8nJAoruNf2i",
+"import": false
+},
+{
+"name": "Snowpiercer ปฏิวัติฝ่านรกน้ำแข็ง (พากย์ไทย) - ซีซั่น 3",
+"image": "https://subserieshd.com/img/Snowpiercer-Season-3.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1H3RB2lgaK2FMPel71gWDqJF4zH3slYnk",
+"import": false
+},
+]
+}

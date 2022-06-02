@@ -1,0 +1,55 @@
+{
+"name": " Loki Season 1",
+"author": "Godzilla TV",
+"image": "https://www.doofree88.com/storage/images/2021/7/Fub8WCvBDE1CMT4htSbaW6D6PTGCNSTpLZQWUOlI.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1J0uTiuo6yfH4N6vG1szGCo4FhiztkJAd",
+
+
+"stations": [
+
+{
+"name": "EP 1",  
+"image": "https://www.doofree88.com/storage/images/2021/7/Fub8WCvBDE1CMT4htSbaW6D6PTGCNSTpLZQWUOlI.jpg",  
+"url": "https://www.doofree88.com/movie/loki-season-1%e0%b8%a5%e0%b8%b4%e0%b8%82%e0%b8%b4%e0%b8%95%e0%b8%ad%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b8%87%e0%b9%80%e0%b8%81%e0%b8%b5%e0%b8%a2%e0%b8%a3%e0%b8%95%e0%b8%b4-%e0%b8%9b%e0%b8%b5-1",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 2",   
+"image": "https://www.doofree88.com/storage/images/2021/7/Fub8WCvBDE1CMT4htSbaW6D6PTGCNSTpLZQWUOlI.jpg",  
+"url": "https://www.doofree88.com/movie/loki-season-1%e0%b8%a5%e0%b8%b4%e0%b8%82%e0%b8%b4%e0%b8%95%e0%b8%ad%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b8%87%e0%b9%80%e0%b8%81%e0%b8%b5%e0%b8%a2%e0%b8%a3%e0%b8%95%e0%b8%b4-%e0%b8%9b%e0%b8%b5-1-ahyUEFCLbQ",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 3",   
+"image": "https://www.doofree88.com/storage/images/2021/7/Fub8WCvBDE1CMT4htSbaW6D6PTGCNSTpLZQWUOlI.jpg",  
+"url": "https://www.doofree88.com/movie/loki-season-1%e0%b8%a5%e0%b8%b4%e0%b8%82%e0%b8%b4%e0%b8%95%e0%b8%ad%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b8%87%e0%b9%80%e0%b8%81%e0%b8%b5%e0%b8%a2%e0%b8%a3%e0%b8%95%e0%b8%b4-%e0%b8%9b%e0%b8%b5-1-v4XNxlBeNo",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 4",   
+"image": "https://www.doofree88.com/storage/images/2021/7/Fub8WCvBDE1CMT4htSbaW6D6PTGCNSTpLZQWUOlI.jpg",  
+"url": "https://www.doofree88.com/movie/loki-season-1%e0%b8%a5%e0%b8%b4%e0%b8%82%e0%b8%b4%e0%b8%95%e0%b8%ad%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b8%87%e0%b9%80%e0%b8%81%e0%b8%b5%e0%b8%a2%e0%b8%a3%e0%b8%95%e0%b8%b4-%e0%b8%9b%e0%b8%b5-1-hXh85m5MWu",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 5",   
+"image": "https://www.doofree88.com/storage/images/2021/7/Fub8WCvBDE1CMT4htSbaW6D6PTGCNSTpLZQWUOlI.jpg",  
+"url": "https://www.doofree88.com/movie/loki-season-1%e0%b8%a5%e0%b8%b4%e0%b8%82%e0%b8%b4%e0%b8%95%e0%b8%ad%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b8%87%e0%b9%80%e0%b8%81%e0%b8%b5%e0%b8%a2%e0%b8%a3%e0%b8%95%e0%b8%b4-%e0%b8%9b%e0%b8%b5-1-YcqEdDM4Tq",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 6",   
+"image": "https://www.doofree88.com/storage/images/2021/7/Fub8WCvBDE1CMT4htSbaW6D6PTGCNSTpLZQWUOlI.jpg",  
+"url": "https://www.doofree88.com/movie/loki-season-1%e0%b8%a5%e0%b8%b4%e0%b8%82%e0%b8%b4%e0%b8%95%e0%b8%ad%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b8%87%e0%b9%80%e0%b8%81%e0%b8%b5%e0%b8%a2%e0%b8%a3%e0%b8%95%e0%b8%b4-%e0%b8%9b%e0%b8%b5-1-EszSQmoOoH",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+
+]
+}

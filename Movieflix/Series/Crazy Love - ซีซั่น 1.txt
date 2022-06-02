@@ -1,0 +1,124 @@
+{
+"name": "크레이지 러브 Crazy Love - ซีซั่น 1",
+"author": "Godzilla TV",
+"image": "https://woseries.com/wp-content/uploads/2022/03/4848k_4f.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1qXsQ8OcARfvt-bqTjnvB2PpyNcmd5jAL",
+
+
+"stations": [
+
+{
+"name": "EP 1",  
+"image": "https://woseries.com/wp-content/uploads/2022/03/4848k_4f.jpg",  
+"url": "https://www.123-hd.com/crazy-love",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 2",   
+"image": "https://woseries.com/wp-content/uploads/2022/03/4848k_4f.jpg",  
+"url": "https://www.123-hd.com/crazy-love-ep-2",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 3",   
+"image": "https://woseries.com/wp-content/uploads/2022/03/4848k_4f.jpg",  
+"url": "https://www.123-hd.com/crazy-love-ep-3",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 4",   
+"image": "https://woseries.com/wp-content/uploads/2022/03/4848k_4f.jpg",  
+"url": "https://www.123-hd.com/crazy-love-ep-4",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 5",   
+"image": "https://woseries.com/wp-content/uploads/2022/03/4848k_4f.jpg",  
+"url": "https://www.123-hd.com/crazy-love-ep-5",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP 6",   
+"image": "https://woseries.com/wp-content/uploads/2022/03/4848k_4f.jpg",  
+"url": "https://www.123-hd.com/crazy-love-ep-6",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 7",   
+"image": "https://woseries.com/wp-content/uploads/2022/03/4848k_4f.jpg",  
+"url": "https://www.123-hd.com/crazy-love-ep-7",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 8",   
+"image": "https://woseries.com/wp-content/uploads/2022/03/4848k_4f.jpg",  
+"url": "https://www.123-hd.com/crazy-love-ep-8",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 9",   
+"image": "https://woseries.com/wp-content/uploads/2022/03/4848k_4f.jpg",  
+"url": "https://www.123-hd.com/crazy-love-ep-9",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 10",   
+"image": "https://woseries.com/wp-content/uploads/2022/03/4848k_4f.jpg",  
+"url": "https://www.123-hd.com/crazy-love-ep-10",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 11",   
+"image": "https://woseries.com/wp-content/uploads/2022/03/4848k_4f.jpg",  
+"url": "https://www.123-hd.com/crazy-love-ep-11",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 12",   
+"image": "https://woseries.com/wp-content/uploads/2022/03/4848k_4f.jpg",  
+"url": "https://www.123-hd.com/crazy-love-ep-12",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 13",   
+"image": "https://woseries.com/wp-content/uploads/2022/03/4848k_4f.jpg",  
+"url": "https://www.123-hd.com/crazy-love-ep-13",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 14",   
+"image": "https://woseries.com/wp-content/uploads/2022/03/4848k_4f.jpg",  
+"url": "https://www.123-hd.com/crazy-love-ep-14",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 15",   
+"image": "https://woseries.com/wp-content/uploads/2022/03/4848k_4f.jpg",  
+"url": "https://www.123-hd.com/crazy-love-ep-15",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP 16",   
+"image": "https://woseries.com/wp-content/uploads/2022/03/4848k_4f.jpg",  
+"url": "https://www.123-hd.com/crazy-love-ep-16",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+]
+}

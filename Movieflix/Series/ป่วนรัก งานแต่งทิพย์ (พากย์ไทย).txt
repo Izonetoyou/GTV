@@ -1,0 +1,208 @@
+{
+"name": "ป่วนรัก งานแต่งทิพย์ (พากย์ไทย)",
+"author": "Godzilla TV",
+"image": "https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1_YFu5ZOE-EOI9IbCm18hc3Hg1SawbWl6",
+
+
+"stations": [
+
+
+{
+"name": "Ep 1",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/v004121bfh1-EP1-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 2",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/g0041qxsaan-EP2-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 3",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/f0041q4h3sz-EP3-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 4",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/s0041jcqbjx-EP4-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 5",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/h0041tb2s31-EP5-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 6",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/o0041leew02-EP6-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 7",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/p0041dom7vg-EP7-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 8",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/g0041g0mql1-EP8-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 9",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/l00410wcyip-EP9-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 10",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/f0041v649ea-EP10-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 11",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/c0041s3mfn1-EP11-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 12",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/t00416zdusw-EP12-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 13",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/m0041d5fpcs-EP13-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 14",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/m0041muhmbh-EP14-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 15",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/z0041nbqufo-EP15-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 16",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/a0041rvf3fd-EP16-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 17",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/n00419g7dkq-EP17-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 18",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/s00412hcklc-EP18-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Ep 19",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/n0041co45u0-EP19-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 20",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/i00414o4iuv-EP20-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 21",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/d0041l7cqnq-EP21-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 22",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/c0041qptn0y-EP22-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 23",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/t0041qqt434-EP23-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 24",  
+"image":"https://www.the1za.com/wp-content/uploads/2021/10/0088JyVHly1guwactjugbj60u0163jwo02.jpg",
+"url": "https://wetv.vip/play/zxh6jf97kuyrw3h-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)/a0041amroyo-EP24-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-(%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2)",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+
+
+
+]
+}

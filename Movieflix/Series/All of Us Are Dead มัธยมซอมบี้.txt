@@ -1,0 +1,21 @@
+{
+"name": "All of Us Are Dead มัธยมซอมบี้",
+"author": "Godzilla TV",
+"image": "https://s.isanook.com/mv/0/ui/23/119409/TH_All-of-Us-Are-Dead_Character_On-jo_Cheong-san.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1jVWJPFXX-wGotNw3D1m-bpDLFMF92Gyd",
+"info": "",
+"groups": [
+{
+"name": "All of Us Are Dead มัธยมซอมบี้ (พากย์ไทย)",
+"image": "https://s.isanook.com/mv/0/ui/23/119409/TH_All-of-Us-Are-Dead_Character_On-jo_Cheong-san.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1HXeFUDKwf3v0CimGufprczDiD7tAHzBz",
+"import": false
+},
+{
+"name": "All of Us Are Dead มัธยมซอมบี้ (Sub)",
+"image": "https://www.tvseriesclub.org/wp-content/uploads/2022/01/All-of-Us-Are-Dead-%E0%B8%A1%E0%B8%B1%E0%B8%98%E0%B8%A2%E0%B8%A1%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89.jpeg",
+"url": "https://drive.google.com/uc?export=download&id=1RxwzM900HfY2icCz-uHKURUl2BCCbRtO",
+"import": false
+},
+]
+}
