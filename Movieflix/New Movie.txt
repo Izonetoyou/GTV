@@ -1,0 +1,246 @@
+{
+"name": "New Movie",
+"author": "Godzilla TV",
+"image": "https://img.freepik.com/free-vector/colorful-movie-logo_18099-26.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1pSb2xbyJqo93Tn-76xOtz8ty3mNY82RO",
+"info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
+
+
+"stations":[
+{
+"name": "Father Stu (2022)",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/06/Father-Stu-2022-300x450.png",
+"url": "https://www.123-hd.com/father-stu",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "4 KINGS อาชีวะยุค90",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/04/4Kings-2022-%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%84-90-300x450.png",
+"url": "https://www.123-hd.com/4-kings",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "(zoom)Top Gun Maverick (2022)",  
+"image": "https://www.doofree88.com/storage/images/2022/5/shI2IB4KIgd8J4nHGxQHTS2cAFDiSCWAhrPfD1jB.jpg",
+"url": "https://www.123-hd.com/top-gun-maverick",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "JACKASS 4.5",  
+"image": "https://play24hours.com/wp-content/uploads/2022/05/kewHZSdRyOWaLwVwhmoMhjp40Lz-200x300.jpg",
+"url": "https://369movies.com/netflix-jackass-4-5-2022-%e0%b9%81%e0%b8%88%e0%b9%87%e0%b8%84%e0%b9%81%e0%b8%ad%e0%b8%aa-4-5/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "(Zoom)The Unbearable Weight of Massive Talent (2022)",  
+"image": "https://www.doofree88.com/storage/images/2022/5/CyWGErwaS5EdjeYNESTuo9Oz8TxoHJUiDJxs6dmi.jpg",
+"url": "https://www.123-hd.com/the-unbearable-weight-of-massive-talent",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Chip ‘n Dale Rescue Rangers (2022)",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/05/Chip-n-Dale-Rescue-Rangers-2022-300x450.png",
+"url": "https://www.123-hd.com/chip-n-dale-rescue-rangers",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Memory (2022)",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/05/Memory-2022-300x450.png",
+"url": "https://www.123-hd.com/memory-2",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Tongshan Past Without Darkness Under the Lamp (2022) ตำนานแห่งถงซาน",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/05/Tongshan-Past-Without-Darkness-Under-the-Lamp-2022-%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%96%E0%B8%87%E0%B8%8B%E0%B8%B2%E0%B8%99-300x450.png",
+"url": "https://www.123-hd.com/tongshan-past-without-darkness-under-the-lamp",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Everything Everywhere All at Once (2022)",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/05/Everything-Everywhere-All-at-Once-2022-%E0%B8%8B%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B8%B1%E0%B8%A5%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%AA-300x450.png",
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=eb3c3723888fa5c135de8664&seek=0&seekmin=0",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cyber Hell (2022)",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/05/Cyber-Hell-2022-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%82%E0%B8%9B%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%84%E0%B8%8B%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C-300x450.png",
+"url": "https://www.123-hd.com/cyber-hell",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Panama (2022)",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/05/Panama-2022-300x450.png",
+"url": "https://www.123-hd.com/panama",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Firestarter (2022)​",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/05/Firestarter-2022-300x450.png",
+"url": "https://www.123-hd.com/firestarter-2",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sonic the Hedgehog 2  (2022)​",  
+"image": "https://www.doofree88.com/storage/images/2022/4/Nd4vXHP5YvmBe1Wic256M77XF3s0arTKq8DioJXi.jpg",
+"url": "https://www.123-hd.com/sonic-the-hedgehog-2",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fantastic Beasts : The Secrets of Dumbledore - Official Trailer (เสียงไทย)",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/04/Fantastic-Beasts-The-Secrets-of-Dumbledore-2022-%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B9%8C%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A5%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-300x450.png",  
+"url": "https://www.123-hd.com/fantastic-beasts-the-secrets-of-dumbledore",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name": "Senior Year ปีสุดท้าย​",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwiPE_xO1hR4qe9ISIEsOjuFg-avYL44Glqw&usqp=CAU",
+"url": "https:\u002F\u002Fapi.999flix.com\u002Fvideos\u002F0756089c-a22c-4e5c-bc11-8b6b513294bb\u002Fplaylist.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Morbius (2022)",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/05/Morbius-2022-%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%AA-%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94-300x450.png",
+"url": "https://www.123-hd.com/morbius",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sneakerella (2022)",  
+"image": "https://www.doofree88.com/storage/images/2022/5/5rzMzKEKLlSEjAQbwLaDDpumSsNtvbqyzuzGFVxD.jpg",
+"url": "https://www.123-hd.com/sneakerella",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Infinite Storm (2022)",  
+"image": "https://imovie-hd.net/wp-content/uploads/2022/05/OiXIM3a4nG7EKvJ2dIlCHHrHpG7ZgTX-211x300.jpg",
+"url": "https://imovie-hd.net/movie/infinite-storm-2022/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Northman (2022):เดอะ นอร์ทแมน",  
+"image": "https://www.doofree88.com/storage/images/2022/5/dqanRgtwk74zVDDIr6inRS3cHgwNeqA1Tcqf1XXv.jpg",
+"url": "https://www.123-hd.com/the-northman",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Lost City (2022):ผจญภัยนครสาบสูญ",  
+"image": "https://www.doofree88.com/storage/images/2022/5/vdxNhMRR3H7I1BJFCGLuGEdLhlu7TvvewI9tgqtA.jpg",
+"url": "https://www.123-hd.com/the-lost-city",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Uncharted ผจญภัยล่าขุมทรัพย์สุดขอบโลก",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmMeyQ8mbEp6WjNAt-Pa1kTdlGGiddCa7-nw&usqp=CAU",
+"url": "https://www.123-hd.com/uncharted",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "E-San of the Dead ซอมบี้ไทบ้าน",  
+"image": "https://img.monomax.me/unsafe/www.monomax.me/uploads/products/103562_Gz3zeMCItGEg4hDRbpxo.jpg",
+"url": "https://www.123-hd.com/e-san-of-the-dead",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "One for the Road วันสุดท้าย..ก่อนบายเธอ",  
+"image": "https://cms.dmpcdn.com/dara/2021/12/30/c58ceb20-6936-11ec-926d-15625161706e_webp_original.jpg",
+"url": "https://www.123-hd.com/one-for-the-road",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Along for the Ride ลมรักคืนฤดูร้อน",  
+"image": "https://movie2uhd.com/wp-content/uploads/2022/05/along-for-the-Ride-683x1024.jpg",
+"url": "https://www.123-hd.com/along-for-the-ride",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Gangubai Kathiawadi หญิงแกร่งแห่งมุมไบ",  
+"image": "https://ดูหนังออนไลน์2022.com/wp-content/uploads/2022/05/Gangubai-Kathiawadi-2022-%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B9%84%E0%B8%9A.jpg",
+"url": "https://xxx.77player.xyz/public/dist/inde_rbt.html?id=32855ccc6a56718fd3b06ef74b8f5149&seek=0&seekmin=0",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Takedown เดอะ เทคดาวน์",  
+"image": "https://www.037hdmovie.com/wp-content/uploads/2022/05/The-Takedown-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%80%E0%B8%97%E0%B8%84%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C-2022-NETFLIX.jpg",
+"url": "https://www.123-hd.com/the-takedown",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "(Zoom)Doctor Strange in the Multiverse of Madness (2022):จอมเวทย์มหากาฬ ในมัลติเวิร์สมหาภัย",  
+"image": "https://www.doofree88.com/storage/images/2022/5/GlurGJlBh5WxALzwNCN0qLoWkC6NfhQlk72HJnpT.jpg",
+"url": "https://www.123-hd.com/doctor-strange-in-the-multiverse-of-madness",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "The Perfect Couple (2022):หร่อยจังจ้าว",  
+"image": "https://www.doofree88.com/storage/images/2022/5/y553dY4cGo2H43uFzcZRxDCPkiCiQ4VvU90Tj655.jpg",
+"url": "https://www.123-hd.com/the-perfect-couple",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Rumspringa - Ein Amish in Berlin รัมสปริงก้า กว่าจะข้ามวัยวุ่น (2022)",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/05/Rumspringa-2022-%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%AA%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%81%E0%B9%89%E0%B8%B2-%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%B0%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B8%A7%E0%B8%B8%E0%B9%88%E0%B8%99-300x450.png",
+"url": "https://www.123-hd.com/rumspringa",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Silverton Siege วินาศกรรมซิลเวอร์ตัน (2022)",  
+"image": "https://www.037hdmovie.com/wp-content/uploads/2022/04/Silverton-Siege-%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8B%E0%B8%B4%E0%B8%A5%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B1%E0%B8%99-2022-NETFLIX-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/silverton-siege",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Dog ด็อก เพื่อนกันพันธุ์ห้าว (2022)",  
+"image": "https://cdn.majorcineplex.com/uploads/movie/3315/thumb_3315.jpg",
+"url": "https://www.123-hd.com/dog",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ambulance (2022):ปล้นระห่ำ ฉุกเฉินระทึก",  
+"image": "https://www.doofree88.com/storage/images/2022/4/gqUK8gFWTwVtjprRHvi6lk8It8klEqLa4UMke07O.jpg",
+"url": "https://www.123-hd.com/ambulance",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "365 dni 2 365 วัน  2(2022)",  
+"image": "https://iforum-sg.c.hihonor.com/tr/tr_data/image_temp_dir/2022/4/27/22654d12-fab9-4ee2-8f23-09f1870c38d3.jpg?imageId=310664",
+"url": "https://www.123-hd.com/365-days-this-day",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+]
+}

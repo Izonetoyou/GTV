@@ -1,0 +1,148 @@
+{
+"name": "💖Happy valentine's day💖 ",
+"author": "Godzilla TV",
+"image": "https://www.moviefreetv.com/wp-content/uploads/2020/12/MovieFreeTv_Logo.png",
+"url": "https://drive.google.com/uc?export=download&id=18yvEr7vYYHKx1-lxvQqgTAZsYkGRDMOG",
+"info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
+
+
+"stations":[
+{
+"name": "Be with You ปาฏิหาริย์ สัญญารัก ฤดูฝน",
+"image":"http://sahamongkolfilm.com/Sahamongkolfilm/wp-content/uploads/2018/04/BeWithYou-2018-Poster-TH.jpg",
+"url": "https://we-play.live/watching/movie/be-with-you-2018",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Love and Leashes รักจูงรัก",
+"image":"https://www.seoul2me.com/wp-content/uploads/2022/01/7a020ff0-d04b-4232-bf02-52fcbd30967e.jpg",
+"url": "https://we-play.live/watching/movie/love-and-leashes-2022#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Tall Girl 2 รักยุ่งของสาวโย่ง 2",
+"image":"https://serieshd24.com/wp-content/uploads/2022/02/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-Tall-Girl-2-2022-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B9%82%E0%B8%A2%E0%B9%88%E0%B8%87.jpg",
+"url": "https://we-play.live/watching/movie/tall-girl-2-2022#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Through My Window รักผ่านหน้าต่าง",
+"image":"https://ดูหนังฟรี2022.com/wp-content/uploads/2022/02/Through-My-Window-2022-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87.jpg",
+"url": "https://we-play.live/watching/movie/through-my-window-2022#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "200 Pounds Beauty (2006):ฮันนะซัง สวยสั่งได้ (HD)",
+"image":"https://www.doofree88.com/storage/images/2022/1/FvEViU2wkCo2VJDbV4KVgtC0H3g6hO7dvNJ7LxfV.jpg",
+"url": "https://www.doofree88.com/movie/200-pounds-beauty-2006%e0%b8%ae%e0%b8%b1%e0%b8%99%e0%b8%99%e0%b8%b0%e0%b8%8b%e0%b8%b1%e0%b8%87-%e0%b8%aa%e0%b8%a7%e0%b8%a2%e0%b8%aa%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b9%84%e0%b8%94%e0%b9%89-hd",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Made of Honor (2008):กั๊กใจให้เพื่อนเลิฟ (HD)",
+"image":"https://www.doofree88.com/storage/images/2022/1/EUjw0JOL17VPZkgjm1oIgOx47uBOF0UbY1m0bxJQ.jpg",
+"url": "https://www.doofree88.com/movie/made-of-honor-2008%e0%b8%81%e0%b8%b1%e0%b9%8a%e0%b8%81%e0%b9%83%e0%b8%88%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%a5%e0%b8%b4%e0%b8%9f-hd",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "A California Christmas (2020) (HD)",
+"image":"https://www.doofree88.com/storage/images/2022/1/65ktpc9S20ledsVABGZRDTGdoKE9LHCrSxu6O9tW.jpg",
+"url": "https://www.doofree88.com/movie/a-california-christmas-2020-hd",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Operation Christmas Drop (2020):ภารกิจของขวัญจากฟ้า (HD)",
+"image":"https://www.doofree88.com/storage/images/2022/1/XsaiTREBwBlJ5ziUZ4f7fqlPaW3UtelR4EiOVFur.jpg",
+"url": "https://www.doofree88.com/movie/operation-christmas-drop-2020%e0%b8%a0%e0%b8%b2%e0%b8%a3%e0%b8%81%e0%b8%b4%e0%b8%88%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%82%e0%b8%a7%e0%b8%b1%e0%b8%8d%e0%b8%88%e0%b8%b2%e0%b8%81%e0%b8%9f%e0%b9%89",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Risky Business (1983):บริษัทรักไม่จำกัด (HD)",
+"image":"https://www.doofree88.com/storage/images/2022/1/4DRhxj89vslK3ynlPynjPocijOsEWgbjP9riC3LF.jpg",
+"url": "https://www.doofree88.com/movie/risky-business-1983%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%a9%e0%b8%b1%e0%b8%97%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%88%e0%b8%b3%e0%b8%81%e0%b8%b1%e0%b8%94-hd",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sounds Like Love (2021):เพลงรักของเรา",
+"image":"https://www.doofree88.com/storage/images/2022/1/vx1BowDXTqYptqoK9LXOPUkk72PrTtjsOgkgctqd.jpg",
+"url": "https://www.doofree88.com/movie/sounds-like-love-2021%e0%b9%80%e0%b8%9e%e0%b8%a5%e0%b8%87%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%a3%e0%b8%b2",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Friendzone (2021):โซนนี้เพื่อนขอ",
+"image":"https://www.doofree88.com/storage/images/2022/1/vTD3LTxeT3VWMDabT6rUE99gM0EecmfMcKNoPAuD.jpg",
+"url": "https://www.doofree88.com/movie/friendzone-2021%e0%b9%82%e0%b8%8b%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b8%82%e0%b8%ad",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Vinterviken (2021):วินเทอร์ไวเคน (HD)",
+"image":"https://www.doofree88.com/storage/images/2022/1/A49lzWLf7PAexZ5uGIZT2pWJ5yh6q4u8tOqitwMj.jpg",
+"url": "https://www.doofree88.com/movie/vinterviken-2021%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%84%e0%b8%a7%e0%b9%80%e0%b8%84%e0%b8%99-hd",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Elizabethtown (2005):อลิซาเบ็ธทาวน์ เส้นทางสายรัก (HD)",
+"image":"https://www.doofree88.com/storage/images/2022/1/CA5QoYJF7sfshecBPkCxYgcJRZu1zx3dg9oGCWEw.jpg",
+"url": "https://www.doofree88.com/movie/elizabethtown-2005%e0%b8%ad%e0%b8%a5%e0%b8%b4%e0%b8%8b%e0%b8%b2%e0%b9%80%e0%b8%9a%e0%b9%87%e0%b8%98%e0%b8%97%e0%b8%b2%e0%b8%a7%e0%b8%99%e0%b9%8c-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Hes All That (2021):ภารกิจปั้นหนุ่มในฝัน (HD)",
+"image":"https://www.doofree88.com/storage/images/2021/8/Fxsy7f6NzpGgnSHF87v65FFP0U2G1nnUO4OlSMgq.jpg",
+"url": "https://www.doofree88.com/movie/hes-all-that-2021%e0%b8%a0%e0%b8%b2%e0%b8%a3%e0%b8%81%e0%b8%b4%e0%b8%88%e0%b8%9b%e0%b8%b1%e0%b9%89%e0%b8%99%e0%b8%ab%e0%b8%99%e0%b8%b8%e0%b9%88%e0%b8%a1%e0%b9%83%e0%b8%99%e0%b8%9d%e0%b8%b1%e0%b8%99",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Secret Diary of an Exchange Student (2021):ไดอารี่ลับนักเรียนแลกเปลี่ยน",
+"image":"https://www.doofree88.com/storage/images/2022/1/WnJOaOHxnUYG82REQjkvYY9GBbzBBULpymwKYBrQ.jpg",
+"url": "https://www.doofree88.com/movie/the-secret-diary-of-an-exchange-student-2021%e0%b9%84%e0%b8%94%e0%b8%ad%e0%b8%b2%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%a5%e0%b8%b1%e0%b8%9a%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "CODA (2021)",
+"image":"https://www.doofree88.com/storage/images/2022/1/k2BVlgMJ4dflyhsnhNFnkMvAGdvLPgDck5a5bQGP.jpg",
+"url": "https://www.doofree88.com/movie/coda-2021",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Kissing Booth 3 (2021)",
+"image":"https://www.doofree88.com/storage/images/2022/1/IjH9pCpyHkP9zmgHrW0TRVhHGrBE2GUe2V6oBqaA.jpg",
+"url": "https://www.doofree88.com/movie/the-kissing-booth-3-2021",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Love You My Arrogance (2020):สปาร์คใจนายจอมหยิ่ง เดอะ มูฟวี่",
+"image":"https://www.doofree88.com/storage/images/2021/7/yXVGgOHSP39tmy4IOiNLRUl6G8iSjU7VwVJQF48q.jpg",
+"url": "https://www.doofree88.com/movie/love-you-my-arrogance-2020%e0%b8%aa%e0%b8%9b%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%84%e0%b9%83%e0%b8%88%e0%b8%99%e0%b8%b2%e0%b8%a2%e0%b8%88%e0%b8%ad%e0%b8%a1%e0%b8%ab%e0%b8%a2%e0%b8%b4%e0%b9%88%e0%b8%87",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+
+
+
+]
+
+
+
+}

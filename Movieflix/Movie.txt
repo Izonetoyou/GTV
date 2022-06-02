@@ -1,0 +1,2377 @@
+{
+"name": "Movie",
+"author": "Godzilla TV",
+"image": "https://www.moviefreetv.com/wp-content/uploads/2020/12/MovieFreeTv_Logo.png",
+"url": "https://drive.google.com/uc?export=download&id=18yvEr7vYYHKx1-lxvQqgTAZsYkGRDMOG",
+"info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
+
+
+"stations":[
+
+{
+"name": "A QUIET PLACE (2018) ดินแดนไร้เสียง​",  
+"image": "https://www.037hdmovie.com/wp-content/uploads/2018/06/A-Quiet-Place-2018.jpg",
+"url": "https://369movies.com/a-quiet-place-2018-%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b9%81%e0%b8%94%e0%b8%99%e0%b9%84%e0%b8%a3%e0%b9%89%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b8%a2%e0%b8%87/" ,
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Meg เม็ก โคตรหลามพันล้านปี 2018",  
+"image": "https://www.037hdmovie.com/wp-content/uploads/2018/08/The-Meg-2018.jpg",
+"url": "https://369movies.com/the-meg-2018-%e0%b9%80%e0%b8%a1%e0%b9%87%e0%b8%81-%e0%b9%82%e0%b8%84%e0%b8%95%e0%b8%a3%e0%b8%ab%e0%b8%a5%e0%b8%b2%e0%b8%a1%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%a5%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%9b/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "365 dni 365 วัน (2020)",  
+"image": "https://www.doofree88.com/storage/images/2022/4/wDhKzwbqDpDiRnIx8SiLqGzCV7GOaFCr09ADQkSX.jpg",
+"url": "https://www.doofree88.com/movie/365-dni-2020",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "ส่ม ภัค เสี่ยน E-SAN LOVE STORY (2017)",  
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/zVycDWiWcv6KgTqSELIU4XkhqBp-200x300.jpg",
+"url": "https://www.doofree88.com/movie/%e0%b8%aa%e0%b9%88%e0%b8%a1-%e0%b8%a0%e0%b8%b1%e0%b8%84-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%99-e-san-love-story",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Turning Point จุดเปลี่ยน",  
+"image": "https://i0.wp.com/www7.nungsub.com/wp-content/uploads/2022/04/The-Turning-Point-2022.jpg",
+"url": "https://www.doofree88.com/movie/the-turning-point-2022%e0%b8%88%e0%b8%b8%e0%b8%94%e0%b9%80%e0%b8%9b%e0%b8%a5%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%99",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "The Batman (Thai)(2022)​",  
+"image": "https://www.doofree88.com/storage/images/2022/4/STywQLbmX6ycVPHSNSpeIG6xXq3hMKAS7UBbABF2.jpg",
+"url": "https://www.123-hd.com/the-batman",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Batman (Sub)(2022)​",  
+"image": "https://www.doofree88.com/storage/images/2022/4/STywQLbmX6ycVPHSNSpeIG6xXq3hMKAS7UBbABF2.jpg",
+"url": "https://www.doofree88.com/movie/the-batman-2022-4AEtgaQv6d",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "ส้ม ปลา น้อย ​2021",  
+"image": "https://www.i-moviehd.com/wp-content/uploads/2022/04/Som-Pla-Noi-2021-%E0%B8%AA%E0%B9%89%E0%B8%A1-%E0%B8%9B%E0%B8%A5%E0%B8%B2-%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2.png",
+"url": "https://www.doofree88.com/movie/%e0%b8%aa%e0%b9%89%e0%b8%a1-%e0%b8%9b%e0%b8%a5%e0%b8%b2-%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%a2",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Voyagers คนอนาคตโลก​ ​2022",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDKyUBWOGQRCLzmYpFDgzjYhb1Zz6VDdRqHg&usqp=CAU",
+"url": "https://www.doofree88.com/movie/voyagers-2021%e0%b8%84%e0%b8%99%e0%b8%ad%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%95%e0%b9%82%e0%b8%a5%e0%b8%81-hd",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Moonshot มูนช็อต",  
+"image": "https://movieonlinepro.com/wp-content/uploads/2022/04/1-1.png",
+"url": "https://www.123-hd.com/moonshot",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Shock Wave 2 คนคมถล่มนิวเคลียร์",  
+"image": "https://www.i-moviehd.com/wp-content/uploads/2022/04/Shock-Wave-2-2020-%E0%B8%84%E0%B8%99%E0%B8%84%E0%B8%A1%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C-2.png",
+"url": "https://www.123-hd.com/shock-wave-2",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Under Wraps (2021) [บรรยายไทย]",  
+"image": "https://imovie-hd.net/wp-content/uploads/2022/04/xaQvxbIj0izelR2AeMD1coymzM5FQdI-211x300.jpg",
+"url": "https://imovie-hd.net/movie/under-wraps-2021/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "All The Old Knives (2022) [บรรยายไทย]",  
+"image": "https://image.govmovie.org/uploads/images/3zi6v2usj328w48w8c.jpg",
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-all-the-old-knives-all-the-old-knives-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/20632",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Metal Lords เมทัลลอร์ด",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/04/Metal-Lords-2022-%E0%B9%80%E0%B8%A1%E0%B8%97%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94-300x450.png",
+"url": "https://www.123-hd.com/metal-lords",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Yaksha: Ruthless Operations ปฏิบัติการยักษ์ล้มยักษ์",  
+"image": "https://kdramadiary.com/wp-content/uploads/2022/03/Yaksha-Ruthless-Operations_kdramadiary.png",
+"url": "https://www.doofree88.com/movie/yaksha-ruthless-operations-2022%e0%b8%9b%e0%b8%8f%e0%b8%b4%e0%b8%9a%e0%b8%b1%e0%b8%95%e0%b8%b4%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%a2%e0%b8%b1%e0%b8%81%e0%b8%a9%e0%b9%8c%e0%b8%a5%e0%b9%89%e0%b8%a1",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Dancing on Glass ระบำพื้นแก้ว",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/04/Dancing-on-Glass-2022-%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B3%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7-300x450.png",
+"url": "https://www.123-hd.com/dancing-on-glass",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Death on the Nile ฆาตกรรมบนลำน้ำไนล์ (2022)",  
+"image": "https://imovie-hd.net/wp-content/uploads/2022/04/ffiqHQTvU8pkxgKjEJ4Jos381a2uPMQ-211x300.jpg",
+"url": "https://www.123-hd.com/death-on-the-nile",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Spellbound หวานใจยัยเห็นผี (2011)",  
+"image": "https://moviefast4k.com/images/movie/iNd4GbGQYDy9g0QKcHIulTzgylPNP1ww87.jpg",
+"url": "https://cdn9x.com/play.php?v=q66l9rng",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Return to Space คืนสู่อวกาศ (2022)",  
+"image": "https://image.govmovie.org/uploads/images/38mp6tgqiksg4gco8s.jpg",
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%AD%E0%B8%A7%E0%B8%81%E0%B8%B2%E0%B8%A8-return-to-space-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/20629",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cheaper by the Dozen ครอบครัวเหมาโหลถูกกว่า (2022)",  
+"image": "https://image.govmovie.org/uploads/images/o2y5dclqaj4cw8s8k0.jpg",
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2-cheaper-by-the-dozen-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2/info/20581",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Desperate Hour ฝ่าวิกฤต วิ่งหนีตาย (2022)",  
+"image": "https://image.govmovie.org/uploads/images/1e24uoplw8jogcwgwc.jpg",
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%A4%E0%B8%95-%E0%B8%A7%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B5%E0%B8%95%E0%B8%B2%E0%B8%A2-the-desperate-hour-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2/info/20622",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Till We Meet Again ภารกิจรักด้ายแดง (2022)",  
+"image": "https://image.govmovie.org/uploads/images/2l7g4df2u0ysw00cog.jpg",
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%94%E0%B8%87-till-we-meet-again-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87/info/20618",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Better Nate Than Ever (2022)",  
+"image": "https://image.govmovie.org/uploads/images/qmf97lhj7vkg4kg8gg.jpg",
+"url": "https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-better-nate-than-ever-2022-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-better-nate-than-ever-2022-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/20615",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Blacklight โคตรระห่ำ ล้างบางนรก (2022) [บรรยายไทย]",  
+"image": "https://ดูหนังใหม่.video/wp-content/uploads/2022/02/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-Black-Light-2022-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81.jpg",
+"url": "https://www.123-hd.com/blacklight",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Most Dangerous Game เกมส์ล่าโคตรอันตราย",  
+"image": "https://i2.wp.com/unseenthaisub.com/wp-content/uploads/2020/06/Most-Dangerous-Game-2020-poster.jpg",
+"url": "https://www.123-hd.com/most-dangerous-game",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Contractor (2022):คนพิฆาตคอนแทรคเตอร์",
+"image":"https://www.doofree88.com/storage/images/2022/4/oKDrrOmQnJ6wUv9wG4ylqZfywd3SzcsvACeQMRYv.jpg",
+"url": "https://www.123-hd.com/the-contractor",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Battle: Freestyle แบตเทิล สงครามจังหวะ: ฟรีสไตล์",
+"image":"https://www.i-moviehd.com/wp-content/uploads/2022/04/Battle-Freestyle-2022-%E0%B9%81%E0%B8%9A%E0%B8%95%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A5-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B0-%E0%B8%9F%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C.png",
+"url": "https://www.123-hd.com/battle-freestyle",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Age of Shadows คน ล่า ฅน",
+"image":"https://www.metalbridges.com/wp-content/uploads/2017/01/THE-AGE-OF-SHADOWS2017.jpg",
+"url": "https://www.123-hd.com/the-age-of-shadows",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Moonfall (2022):วันวิบัติ จันทร์ถล่มโลก TV",
+"image":"https://www.doofree88.com/storage/images/2022/3/5eUiDSH6p7eJF9MYE6bAL19RED5w5LEmHu1Q5SLh.jpg",
+"url": "https://www.doofree88.com/movie/moonfall-2022%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%a7%e0%b8%b4%e0%b8%9a%e0%b8%b1%e0%b8%95%e0%b8%b4-%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c%e0%b8%96%e0%b8%a5%e0%b9%88%e0%b8%a1%e0%b9%82-fnErE2ifYs",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Lingering {Hotel Lake} โรงแรมผีจอง(เวร) (2020)",
+"image":"https://www.govmovie.org/uploads/images/1e56a5ak4c2s0g04so.jpg",
+"url": "https://www.govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1%E0%B8%9C%E0%B8%B5%E0%B8%88%E0%B8%AD%E0%B8%87-%E0%B9%80%E0%B8%A7%E0%B8%A3-lingering-hotel-lake-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/20594",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Burning Sea {Nordsjøen} (2021)",
+"image":"https://govmovie.org/uploads/images/fnhsl5k72io044wk0s.jpg",
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-the-burning-sea-nordsj-en-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%A5-the-burning-sea-nordsj-en-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%A5-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87/info/20595",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Trust No One: The Hunt for the Crypto King ล่าราชาคริปโต (2022)",
+"image":"https://govmovie.org/uploads/images/y3vy4ei0k9w04ck0o8.jpg",
+"url": "https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%9B%E0%B9%82%E0%B8%95-trust-no-one-the-hunt-for-the-crypto-king-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87/info/20602",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Leap {Duo guan} ตบให้สนั่นแล้วไปให้ถึงแชมป์โลก (2020)",
+"image":"https://govmovie.org/uploads/images/v8gukmfjz5wg4gkc04.jpg",
+"url": "https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-%E0%B8%95%E0%B8%9A%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B8%9B%E0%B9%8C%E0%B9%82%E0%B8%A5%E0%B8%81-leap-duo-guan-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2/info/20608",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "มายริทึ่ม My Rhythm (2021)",
+"image":"https://govmovie.org/uploads/images/891km4hm2l8g4w0g8s.jpg",
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B8%B4%E0%B8%97%E0%B8%B6%E0%B9%88%E0%B8%A1-my-rhythm-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2/info/20607",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Bubble",
+"image":"https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQaf6cmnqV-Fcs-YvUdTwrV8k7ZWIA5EV2_6Rs34iOh1XjC_6tvCOq7N_x5KjcoA70mi_05kmwUd4sBoY1KF320ZNIm3n1QG9yaar2W-wve2J4ZD3Muoefja-x693-E-Nr2hqNWmwasEEyVp3HAsVaaUD.jpg?r=721",
+"url": "https://www.123-hd.com/the-bubble",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Willy's Wonderland หุ่นนรก VS ภารโรงคลั่ง",
+"image":"https://www.c2movie.com/wp-content/uploads/2021/03/Willys-Wonderland-2021.jpg",
+"url": "https://www.123-hd.com/willys-wonderland",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Hypnosis สั่งจิตสยอง",
+"image":"https://www.037hdmovie.com/wp-content/uploads/2022/03/The-Hypnosis-%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87-2021.jpg",
+"url": "https://www.123-hd.com/the-hypnosis",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "All Hail พายุป่วน",
+"image":"https://www.nanamovies.me/wp-content/uploads/2022/03/All-Hail-2022-%E0%B8%9E%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-Full-HD.jpeg",
+"url": "https://www.doofree88.com/movie/all-hail-granizo-2022%e0%b8%9e%e0%b8%b2%e0%b8%a2%e0%b8%b8%e0%b8%9b%e0%b9%88%e0%b8%a7%e0%b8%99",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Cleaner เดอะคลีนเนอร์ล่าล้างบาป",
+"image":"https://i1.wp.com/mydramafan.com/wp-content/uploads/2022/03/The-Cleaner-2022-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%84%E0%B8%A5%E0%B8%B5%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%B2%E0%B8%9B-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/the-cleaner",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "More Than Robots (2022)",
+"image":"https://govmovie.org/uploads/images/135bv26qjtrkso008o.jpg",
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-more-than-robots-more-than-robots-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2/info/20587",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Jackass Forever (2022)",
+"image":"https://www.doofree88.com/storage/images/2022/3/xYlHdl5jtEZRPhwPvjUWlKqOPB6wCvibzImLoGTu.jpg",
+"url": "https://www.doofree88.com/movie/jackass-forever-2022%e0%b9%81%e0%b8%88%e0%b9%87%e0%b8%84%e0%b9%81%e0%b8%ad%e0%b8%aa-%e0%b8%9f%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%80%e0%b8%ad%e0%b8%9f%e0%b9%80%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "World War Z มหาวิบัติสงคราม Z",
+"image":"https://imovie-hd.net/wp-content/uploads/2021/08/1N8xpXxp4r1ZK1ED5ysJQpx46EVd9roWorld_War_Z-202x300.jpg",
+"url": "https://imovie-hd.net/movie/world-war-z-%e0%b8%a1%e0%b8%ab%e0%b8%b2%e0%b8%a7%e0%b8%b4%e0%b8%9a%e0%b8%b1%e0%b8%95%e0%b8%b4%e0%b8%aa%e0%b8%87%e0%b8%84%e0%b8%a3%e0%b8%b2%e0%b8%a1-z/",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Downfall: The Case Against Boeing ร่วง: วิกฤติโบอิ้ง (2022)[Sub]",
+"image":"https://govmovie.org/uploads/images/7ouhg0ujfbsws8s8.jpg",
+"url": "https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%87-%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%B4%E0%B9%82%E0%B8%9A%E0%B8%AD%E0%B8%B4%E0%B9%89%E0%B8%87-downfall-the-case-against-boeing-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%A5/info/20479",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cheaper by the Dozen ครอบครัวเหมาโหลถูกกว่า (2022) [Sub]",
+"image":"https://govmovie.org/uploads/images/o2y5dclqaj4cw8s8k0.jpg",
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2-cheaper-by-the-dozen-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2/info/20581",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Without Saying Goodbye จนกว่าจะพบกันอีก (2022) [Sub]",
+"image":"https://govmovie.org/uploads/images/gaasb9atlj40kk0gc4.jpg",
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-%E0%B8%88%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%B0%E0%B8%9E%E0%B8%9A%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%B5%E0%B8%81-without-saying-goodbye-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%A5/info/20577",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "A Writer's Odyssey จอมยุทธทะลุภพ",
+"image":"https://i0.wp.com/mereview.in.th/wp-content/uploads/2021/12/A-Writers-Odyssey.jpg?fit=805%2C1200&ssl=1",
+"url": "https://www.123-hd.com/a-writers-odyssey",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Black Crab แบล็กแคร็บ",
+"image":"https://ดูหนังออนไลน์ฟรี2022.com/wp-content/uploads/2022/03/Filmdelisi-Black-Crab-e1647593449392.jpg",
+"url": "https://www.123-hd.com/black-crab",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Django Unchained จังโก้ โคตรคนแดนเถื่อน",
+"image":"https://s.isanook.com/mv/0/ud/6/32107/jang3-ss.jpg",
+"url": "https://www.123-hd.com/django-unchained",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Scream หวีดสุดขีด",
+"image":"https://cms.dmpcdn.com/moviearticle/2021/10/11/e7009d90-2a45-11ec-aa19-1502e73ab2f6_webp_original.jpg",
+"url": "https://www.123-hd.com/scream",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Great White ฉลามขาวเพชฌฆาต",  
+"image": "https://cdn.majorcineplex.com/uploads/movie/3262/thumb_3262.jpg",  
+"url": "https://www.123-hd.com/great-white",
+"playInNatPlayer": "true"
+},
+{
+"name": "New Kung Fu Cult Master 2 ดาบมังกรหยก 2022 ภาค 2",  
+"image": "https://f.ptcdn.info/612/076/000/r8hg85byoJT51FojmDp-o.jpg",  
+"url": "https://www.123-hd.com/new-kung-fu-cult-master-2",
+"playInNatPlayer": "true"
+},
+{
+"name": "New Kung Fu Cult Master 1 ดาบมังกรหยก 2022",  
+"image": "https://kingofmovie.com/images/movie/8LQ2E8WxbEbUVeuScwmzbATXzEGVwXgMV5BMjNiMDcyNmYtOTgyNy00ZTJhLWJmMGYtYTc0MTRkNWFlZmRiXkEyXkFqcGdeQXVyNDM1Nzc0MTI@._V1_.jpg",  
+"url": "https://www.123-hd.com/new-kung-fu-cult-master-1",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Green Knight (2021)",  
+"image": "https://pics.filmaffinity.com/The_Green_Knight-675804482-large.jpg",  
+"url": "https://www.999flix.com/movie/view/the-green-knight?id=4416",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Adam Project ย้อนเวลาหาอดัม",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_Oiv4QkQV3BtWwm1WREwTsLBtlgSvW1tng&usqp=CAU",  
+"url": "https://www.123-hd.com/the-adam-project",
+"playInNatPlayer": "true"
+},
+{
+"name": "Rogue Hostage (2021) [บรรยายไทย]",  
+"image": "https://govmovie.org/uploads/images/2qqbrsgtgw4k80g80k.jpg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-rogue-hostage-rogue-hostage-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87/info/20535",
+"playInNatPlayer": "true"
+},
+{
+"name": "Jolt (2021)",  
+"image": "https://govmovie.org/uploads/images/d4y458yd2ds8g4s8wk.jpg",  
+"url": "https://www.doofree88.com/movie/jolt-2021",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Wolf and the Lion {Le Loup et le Lion} (2021) [บรรยายไทย]",  
+"image": "https://govmovie.org/uploads/images/zxv69m7j7q8k444kk.jpg",
+"url": "https://govmovie.org/the-wolf-and-the-lion-le-loup-et-le-lion-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2/info/20524",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "เพราะเราคู่กัน The Movie | 2gether: The Movie (2021)",  
+"image": "https://govmovie.org/uploads/images/2zqe25m7h9iccw0wkc.jpg",
+"url": "https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%81%E0%B8%B1%E0%B8%99-2gether-the-movie-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87/info/20516",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Weekend Away (2022)",  
+"image": "https://govmovie.org/uploads/images/kfv6n8gpzgg4kssg0c.jpg",
+"url": "https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-the-weekend-away-the-weekend-away-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2/info/20505",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Pirates: The Last Royal Treasure The Pirates ศึกโจรสลัดชิงสมบัติราชวงศ์",  
+"image": "https://i0.wp.com/www.korseries.com/wp-content/uploads/2022/02/The-Pirates-The-Last-Royal-Treasure-Poster-scaled.jpeg?resize=750%2C1074&ssl=1",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3-%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81-blacklight-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/20515",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Against the Ice มหันตภัยเยือกแข็ง",  
+"image": "https://m.media-amazon.com/images/M/MV5BMmIwYzA4YTAtYTMwYy00NzA3LWFmZGQtYWY3MTNlMGM3NDc5XkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_.jpg",  
+"url": "https://www.123-hd.com/against-the-ice",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Valerian and the City of a Thousand Planets วาเลเรียน พลิกจักรวาล (2017)",  
+"image": "https://s.isanook.com/mv/0/ud/14/70433/valerian_th-poster_1.jpg",  
+"url": "https://www.999flix.com/movie/view/valerian-and-the-city-of-a-thousand-planets?id=532",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Gunpowder Milkshake นรกเรียกแม่",  
+"image": "https://s.isanook.com/mv/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL212LzAvdWQvMjQvMTIwMzMzL2d1bnBvd2Rlci1mb3ItdHJ1ZS5qcGc=.jpg",  
+"url": "https://we-play.live/watching/movie/gunpowder-milkshake-2021#",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Resident Evil: Welcome to Raccoon City ผีชีวะ: ปฐมบทแห่งเมืองผีดิบ",
+"image":"https://movie-2022.com/images/movie/a06Mv5my7064yQ2UR9UnexHOEqyWSgDe475cc221b04889ae375a1821de87541.jpg",
+"url": "https://we-play.live/watching/movie/resident-evil-welcome-to-raccoon-city-2021#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Tyler Perry's A Madea Homecoming มาเดีย โฮมคัมมิง",
+"image":"https://m.media-amazon.com/images/M/MV5BZjQwMmMyMWYtMGM2NS00NTJiLTg4YWYtM2E2NGIyMmMwZDhmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",
+"url": "https://we-play.live/watching/movie/tyler-perrys-a-madea-homecoming-2022",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Restless ตาย...ตาไม่หลับ",
+"image":"https://newmovies-thai.com/wp-content/uploads/2022/02/Restless.jpg",
+"url": "https://we-play.live/watching/movie/restless-2022",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Dark World เกม ล่า ฆ่า รอด",
+"image":"https://static.thairath.co.th/media/Dtbezn3nNUxytg04aYmUSKgqZPBALHkt7zV5xiXL2oCYYE.jpg",
+"url": "https://we-play.live/watching/movie/dark-world-2021",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The King's Man กำเนิดโคตรพยัคฆ์คิงส์แมน (2021)[Thai]",
+"image":"https://govmovie.org/uploads/images/fu2ggavrezso8so4ck.jpg",
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-the-king-s-man-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/20476",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The King's Man กำเนิดโคตรพยัคฆ์คิงส์แมน (2021)[Sub]",
+"image":"https://govmovie.org/uploads/images/fu2ggavrezso8so4ck.jpg",
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-the-king-s-man-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/20426",
+"referer": "https://govmovie.org/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Judas and the Black Messiah จูดาส แอนด์ เดอะ แบล็ก เมสไซอาห์",
+"image":"https://movieonlinepro.com/wp-content/uploads/2021/07/1-20.jpg",
+"url": "https://we-play.live/watching/movie/judas-and-the-black-messiah-2021#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Kimi (2022):คิมิ",
+"image":"https://www.doofree88.com/storage/images/2022/2/L7w5vA26z4Ls42AHPEh3nwUyszKiWGdzjqtMr77K.jpg",
+"url": "https://www.govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-kimi-kimi-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/20469",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "PBTB 4 ผู้บ่าวไทบ้าน อีสานจ๊วด",
+"image":"https://lh3.googleusercontent.com/5aDnU51vGFtC4Zq--la72lUrkGkY00-YNOEiGL0HGqSmGC-ZorDgNUHIV5NoxoviqwW55wi0Avkad_zrGWFC5XO5q-400U44-A=w260",
+"url": "https://we-play.live/watching/movie/pbtb-4-2021",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Texas Chainsaw Massacre สิงหาสับ 2022",
+"image":"https://newmovies-thai.com/wp-content/uploads/2022/02/Texas-Chainsaw-Massacre-2022-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%B1%E0%B8%9A-2022.jpg",
+"url": "https://we-play.live/watching/movie/texas-chainsaw-massacre-2022",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Apex (2021)",
+"image":"https://moviehdfree.net/wp-content/uploads/2021/11/Apex-2021.jpg",
+"url": "https://we-play.live/watching/movie/apex-2021#",
+"referer": "https://moviehdfree.net/",
+"playInNatPlayer": "true"
+},
+{
+"name": "AI Love You เอไอหัวใจโอเวอร์โหลด",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT34cZldMSGYURT9cOCyXOTzDoP9vRk9EK1A&usqp=CAU",
+"url": "https://we-play.live/watching/movie/ai-love-you-2022",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Core:ผ่านรกกลางใจโลก",
+"image":"https://www.doofree88.com/storage/images/2021/12/wIPMgKyXM3oM6A3yZIGLwYbIEH20I2Vuyl5eF9E1.jpg",
+"url": "https://www.doofree88.com/movie/the-core%e0%b8%9c%e0%b9%88%e0%b8%b2%e0%b8%99%e0%b8%a3%e0%b8%81%e0%b8%81%e0%b8%a5%e0%b8%b2%e0%b8%87%e0%b9%83%e0%b8%88%e0%b9%82%e0%b8%a5%e0%b8%81",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Misfits พยัคฆ์ทรชน ปล้นพลิกโลก",
+"image":"https://govmovie.org/uploads/images/3t6aws15xkcgw0kwco.jpg",
+"url": "https://govmovie.org/%e0%b8%94%e0%b8%b9%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87-%e0%b8%9e%e0%b8%a2%e0%b8%b1%e0%b8%84%e0%b8%86%e0%b9%8c%e0%b8%97%e0%b8%a3%e0%b8%8a%e0%b8%99-%e0%b8%9b%e0%b8%a5%e0%b9%89%e0%b8%99%e0%b8%9e%e0%b8%a5%e0%b8%b4%e0%b8%81%e0%b9%82%e0%b8%a5%e0%b8%81-the-misfits-%e0%b8%8a%e0%b8%b1%e0%b8%94hd/info/20431",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bigbug บิ๊กบั๊ก",
+"image":"https://cinemas1.com/wp-content/uploads/2022/02/95621-185x239.jpg?v=1.0",
+"url": "https://we-play.live/watching/movie/bigbug-2022#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Rescue เดือดกู้ภัย พิทักษ์โลก (2020)",
+"image":"https://govmovie.org/uploads/images/34bhru2kd8kks48kw8.jpg",
+"url": "https://we-play.live/watching/movie/the-rescue-2021",
+"referer": "https://govmovie.org/",
+"playInNatPlayer": "true"
+},
+{
+"name": "My Fathers Violin (2022):ไวโอลินของพ่อ",
+"image":"https://www.doofree88.com/storage/images/2022/2/5qR3fC3CsSYXuPzwHcQ9d61Mw93jco4dnyuRW6hx.jpg",
+"url": "https://www.doofree88.com/movie/my-fathers-violin-2022%e0%b9%84%e0%b8%a7%e0%b9%82%e0%b8%ad%e0%b8%a5%e0%b8%b4%e0%b8%99%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%9e%e0%b9%88%e0%b8%ad",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Medium (2021):ร่างทรง",
+"image":"https://s359.kapook.com/pagebuilder/d2a72b7b-27d0-4346-b9c1-b488b0f76e2e.jpg",
+"url": "https://we-play.live/watching/movie/the-medium-2021",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "My Paparotti (2012)",
+"image":"https://www.doofree88.com/storage/images/2021/8/8NaAAsAIB2TFvlClmckxzHNS6XpdCbyOGnA02Ygx.jpg",
+"url": "https://www.doofree88.com/movie/my-paparotti-2012%e0%b8%a1%e0%b8%b2%e0%b8%a2-%e0%b8%9b%e0%b8%b2%e0%b8%9e%e0%b8%b2%e0%b8%a3%e0%b8%ad%e0%b8%95%e0%b8%95%e0%b8%b5-hd",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "빅매치 Big Match",
+"image":"https://t1.daumcdn.net/cfile/tistory/21725B3855CAED7327",
+"url": "https://we-play.live/watching/movie/big-match-2014",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Detective Chinatown 3 แก๊งม่วนป่วนโตเกียว",
+"image":"https://www.thaiuhd.com/wp-content/uploads/2021/03/Detective-Chinatown-3-2021-%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B9%82%E0%B8%95%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A7-3-400x593-1.jpg",
+"url": "https://we-play.live/watching/movie/detective-chinatown-3-2021#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ghostbusters:Afterlife (2021)",
+"image":"https://www.doofree88.com/storage/images/2022/1/0wQCYm8h7o5wA5LHRjinodNrhssB8MfR7DLGC8iq.jpg",
+"url": "https://we-play.live/watching/movie/ghostbusters-afterlife-2021#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Beautiful Vampire รักนะแวมไพร์",
+"image":"https://clicrhonealpes.com/wp-content/uploads/2020/10/fullsizephoto1013436.jpg",
+"url": "https://we-play.live/watching/movie/beautiful-vampire-2018",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Tai Chi Master ปรมาจารย์จางซานเฟิง",
+"image":"https://mydramafan.com/wp-content/uploads/2022/01/The-TaiChi-Master-2022-%E0%B8%9B%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B2%E0%B8%87%E0%B8%8B%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%9F%E0%B8%B4%E0%B8%87-2.webp",
+"url": "https://www.123-hd.com/the-taichi-master",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Demon Sealer Bureau สำนักผนึกปีศาจ",
+"image":"https://seriesmy.com/wp-content/uploads/2022/01/Demon-Sealer-Bureau-2022-%E0%B8%AA%E0%B8%B3%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9C%E0%B8%99%E0%B8%B6%E0%B8%81%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88-e1643210718585.jpg",
+"url": "https://we-play.live/watching/movie/demon-sealer-bureau-2022",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Tinder Swindler สิบแปดมงกุฎทินเดอร์",
+"image":"https://netflix2u.com/wp-content/uploads/2022/01/The-Tinder-Swindler-Poster.jpg",
+"url": "https://we-play.live/watching/movie/the-tinder-swindler-2022",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Togo (2019)",
+"image":"https://www.doofree88.com/storage/images/2022/1/lUIGBnV9RXVGenJEpDg6vHBBeMgyEewj4XKYybHl.jpg",
+"url": "https://www.doofree88.com/movie/togo-2019",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Raging Fire (2021):โคตรเดือดฉะเดือด",
+"image":"https://i.ytimg.com/vi/_WAE-hXgxJg/movieposter_en.jpg",
+"url": "https://we-play.live/watching/movie/raging-fire-2021#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Gold (2022)",
+"image":"https://www.doofree88.com/storage/images/2022/1/nuxjDJHqIPDsBDIMYeuCBVK6xbbqYm2KAuAVnn8k.jpg",
+"url": "https://www.doofree88.com/movie/gold-2022",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Matrix Resurrections (2021) เดอะ เมทริกซ์ เรเซอเร็คชั่นส์",
+"image":"https://www.doofree88.com/storage/images/2021/12/UnJRhMS2BwKM6wKCZrChORIblnZB6x1bioAH6nOo.jpg",
+"url": "https://we-play.live/watching/movie/the-matrix-resurrections-2021#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Matrix Resurrections (2021) เดอะ เมทริกซ์ เรเซอเร็คชั่นส์ (Sub) ",
+"image":"https://www.doofree88.com/storage/images/2021/12/UnJRhMS2BwKM6wKCZrChORIblnZB6x1bioAH6nOo.jpg",
+"url": "https://www.doofree88.com/movie/the-matrix-4-resurrections-2021-ib0O6548t9",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Reincarnation Land ตำนานลั่วหยาง: อาณาจักรแห่งหยินหยาง",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2022/01/tl5dE3XhUELk1kDrsgvaFexn0cB-200x300.jpg",
+"url": "https://we-play.live/watching/movie/reincarnation-land-2022",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Home Team โฮมทีม",
+"image":"https://i0.wp.com/www7.nungsub.com/wp-content/uploads/2022/01/Home-Team-2022.jpg",
+"url": "https://we-play.live/watching/movie/home-team-2022#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The mysterious story of Longyun Town หลงอวิ๋น ดินแดนแสนประหลาด",
+"image":"https://movie2uhd.com/wp-content/uploads/2022/01/The-mysterious-story-of-Longyun-Town-2022-187x259.png",
+"url": "https://we-play.live/watching/movie/the-mysterious-story-of-longyun-town-2022",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "해피 뉴 이어 A Year-End Medley",
+"image":"https://asianwiki.com/images/8/8f/A_Year-End_Medley-p1.jpg",
+"url": "https://we-play.live/watching/movie/a-yearend-medley-2021",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "발신제한 Hard Hit",
+"image":"https://series88hd.com/wp-content/uploads/2021/12/Hard-Hit-193x278.jpg",
+"url": "https://we-play.live/watching/movie/hard-hit-2021",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Munich: The Edge of War:มิวนิค ปากเหวสงคราม",
+"image":"https://www.doofree88.com/storage/images/2022/1/g28Q82aUfMW2YlJh5UOdKbTBdz5Sp4qk2I7FhuMm.jpg",
+"url": "https://we-play.live/watching/movie/munich-the-edge-of-war-2021#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Coming 2 America:กลับมาอเมริกาน่าจะดี ​(2022)",
+"image":"https://www.doofree88.com/storage/images/2022/1/CPoOM1odnB7jTL53xc6MCOeaXCTjA3mOx9mxO4CX.jpg",
+"url": "https://www.doofree88.com/movie/coming-2-america%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%9a%e0%b8%a1%e0%b8%b2%e0%b8%ad%e0%b9%80%e0%b8%a1%e0%b8%a3%e0%b8%b4%e0%b8%81%e0%b8%b2%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%88%e0%b8%b0%e0%b8%94%e0%b8%b5-h",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Brazen ใคร่ฆ่า​(2022)",
+"image":"https://movie2ufree.com/wp-content/uploads/2022/01/Brazen-683x1024.jpg",
+"url": "https://we-play.live/watching/movie/brazen-2022#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Eternals (thai)​(2021)",
+"image":"https://www.doofree88.com/storage/images/2021/11/YQrFPrZHyRKktQjUnAsK9LCHOmELvcohszDs2Mqn.jpg",
+"url": "https://we-play.live/watching/movie/eternals-2021#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Eternals (Sub)​(2021)",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrFODqUJw1LwA4mVDZWWiQAJKgxHmxnIfUPw&usqp=CAU",
+"url": "https://www.i-moviehd.com/eternals-2021/",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "How I Fell in Love with a Gangster วิถีรักมาเฟีย",
+"image":"https://image.tmdb.org/t/p/w185/mOPXksoNwfmiqJCgmik6w0xnVQS.jpg",
+"url": "https://we-play.live/watching/movie/how-i-fell-in-love-with-a-gangster-2022",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Wasteland (2022):แผ่นดินร้าง (HD)",
+"image":"https://www.doofree88.com/storage/images/2022/1/wDGwDda77oJZT0h3okWVechLiSJ7ckVWAelbFmnq.jpg",
+"url": "https://we-play.live/watching/movie/the-wasteland-2021#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Harry potter 20th anniversary return to hogwarts",  
+"image": "https://img-ha.mthcdn.com/3u_TUEzKt_Dj5dcdrO0BuDlm9xg=/mthai.com/app/uploads/2021/12/Official-Key-Art-Harry-Potter-20th-Anniversary-Return-to-Hogwarts-819x1024.jpg",
+"url": "https://we-play.live/watching/movie/harry-potter-20th-anniversary-return-to-hogwarts-2022",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Mother/Android (2021)",
+"image":"https://movie123-days.com/wp-content/uploads/2021/12/Mother-Android-2021.jpg",
+"url": "https://we-play.live/watching/movie/motherandroid-2021#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "ส้มป่อย(2021)",
+"image":"https://www.doofree88.com/storage/images/2022/1/DzdGBC9I9QqdRQ8db1kmgNGsMeIXkYrE4L70caYU.jpg",
+"url": "https://www.doofree88.com/movie/sompoy-2021%e0%b8%aa%e0%b9%89%e0%b8%a1%e0%b8%9b%e0%b9%88%e0%b8%ad%e0%b8%a2",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Dont Look Up (2021)",
+"image":"https://www.doofree88.com/storage/images/2021/12/rNxAlLnwHrqvER4WIkepkMlBhD6Q7J9EDmcn08sT.jpg",
+"url": "https://we-play.live/watching/movie/dont-look-up-2021",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "멀리가지마라 Don't Go Too Far",
+"image":"https://t1.daumcdn.net/movie/7fae9149d477ffaaac367a8e7b0ea5cfcf1e720b",
+"url": "https://we-play.live/watching/movie/dont-go-too-far-2021",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Escape From Mogadishu (2021):หนีตาย โมกาดิชู",
+"image":"https://www.doofree88.com/storage/images/2021/12/7uJRE3dCo2ApYPalVRr4obLNCrEkGnjdHZpbEXAI.jpg",
+"url": "https://we-play.live/watching/movie/escape-from-mogadishu-2021",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Chaos Walking จิตปฏิวัติโลก(2021)",  
+"image": "https://cdn.majorcineplex.com/uploads/movie/2466/thumb_2466.jpg",
+"url": "https://we-play.live/watching/movie/chaos-walking-2021#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+ "name": "Jumanji 1: Welcome to the Jungle เกมดูดโลก บุกป่ามหัศจรรย์" , 
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpWlIol8TPvNoEv_HH9z739lWdPYayxLar2g&usqp=CAU", 
+"url": "https://we-play.live/watching/movie/jumanji-welcome-to-the-jungle-2017#", 
+"referer": "https://www.doofree88.com/", 
+"playInNatPlayer": "true"
+},
+{
+ "name": "Jumanji 2: The Next Level เกมดูดโลก ตะลุยด่านมหัศจรรย์" , 
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnpH-T3uf1OQ8IzCuJsG4kR0YB3Y7FBg1wWw&usqp=CAU", 
+"url": "https://we-play.live/watching/movie/jumanji-the-next-level-2019#", 
+"referer": "https://www.doofree88.com/", 
+"playInNatPlayer": "true"
+},
+{
+"name": "The Call of the Wild (2020)",
+"image":"https://www.doofree88.com/storage/images/2020/6/952ll8ndvbdujZN5frtCyXtZNHone2rQQbI51Tqf.jpg",
+"url": "https://we-play.live/watching/movie/the-call-of-the-wild-2020#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Con-Heartist (2020):อ้ายคนหล่อลวง",
+"image":"https://www.doofree88.com/storage/images/2021/3/qmcbg1SBJ1kxUutrhEKWkScEjrAv5yHI9nf5jRzE.jpg",
+"url": "https://www.doofree88.com/movie/the-con-heartist-2020%e0%b8%ad%e0%b9%89%e0%b8%b2%e0%b8%a2%e0%b8%84%e0%b8%99%e0%b8%ab%e0%b8%a5%e0%b9%88%e0%b8%ad%e0%b8%a5%e0%b8%a7%e0%b8%87",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Last Duel ศึกสุดท้าย",
+"image":"https://www.doofree88.com/storage/images/2021/12/1TISO5dZ64kzgQ9i0HcxlUUvbemf1e39wLRrOSZq.jpg",
+"url": "https://govmovie.org/%e0%b8%94%e0%b8%b9%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b8%9f%e0%b8%a3%e0%b8%b5-the-last-duel-2021-%e0%b8%9e%e0%b8%b2%e0%b8%81%e0%b8%a2%e0%b9%8c%e0%b9%84%e0%b8%97%e0%b8%a2-%e0%b8%9a%e0%b8%a3%e0%b8%a3%e0%b8%a2%e0%b8%b2%e0%b8%a2%e0%b9%84%e0%b8%97%e0%b8%a2-the-last-duel-2021-%e0%b8%9e%e0%b8%b2%e0%b8%81%e0%b8%a2%e0%b9%8c%e0%b9%84%e0%b8%97%e0%b8%a2-%e0%b8%9a%e0%b8%a3%e0%b8%a3%e0%b8%a2%e0%b8%b2%e0%b8%a2%e0%b9%84%e0%b8%97%e0%b8%a2-%e0%b9%80%e0%b8%95%e0%b9%87%e0%b8%a1%e0%b9%80%e0%b8%a3%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%87/info/20328",
+"referer": "https://we-play.live/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Stronghold (BAC Nord):ตำรวจเหล็กมาร์แซย์ (HD)",
+"image":"https://www.doofree88.com/storage/images/2022/1/W0lvj0ZVflSWywmvVriuZnbWB4DmaQdWDveQeDZ4.jpg",
+"url": "https://www.doofree88.com/movie/the-stronghold-bac-nord%e0%b8%95%e0%b8%b3%e0%b8%a3%e0%b8%a7%e0%b8%88%e0%b9%80%e0%b8%ab%e0%b8%a5%e0%b9%87%e0%b8%81%e0%b8%a1%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b9%81%e0%b8%8b%e0%b8%a2%e0%b9%8c-hd",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Minnal Murali มุราลีฟ้าฟาด(2021)",  
+"image": "https://moviehdfree.net/wp-content/uploads/2021/12/Minnal-Murali-2021.jpg",
+"url": "https://we-play.live/watching/movie/minnal-murali-2021",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Castle Falls (2021)",
+"image":"https://www.123-hd.com/wp-content/uploads/2021/12/Castle.Falls_-300x450.jpeg",
+"url": "https://www.123-hd.com/castle-falls-2021",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Deadlock (2021)",
+"image":"https://www.123-hd.com/wp-content/uploads/2021/12/Deadlock-300x450.jpeg",
+"url": "https://www.123-hd.com/deadlock-2021",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Baby Driver จี้ (เบ)บี้ ปล้น",
+"image":"https://www.037hdmovie.com/wp-content/uploads/2018/04/oud6cW5x1BscGHEm6kK.jpg",
+"url": "https://we-play.live/watching/movie/baby-driver-2017#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Be with You ปาฏิหาริย์ สัญญารัก ฤดูฝน",
+"image":"http://sahamongkolfilm.com/Sahamongkolfilm/wp-content/uploads/2018/04/BeWithYou-2018-Poster-TH.jpg",
+"url": "https://we-play.live/watching/movie/be-with-you-2018",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Love and Leashes รักจูงรัก",
+"image":"https://www.seoul2me.com/wp-content/uploads/2022/01/7a020ff0-d04b-4232-bf02-52fcbd30967e.jpg",
+"url": "https://we-play.live/watching/movie/love-and-leashes-2022#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Tall Girl 2 รักยุ่งของสาวโย่ง 2",
+"image":"https://serieshd24.com/wp-content/uploads/2022/02/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-Tall-Girl-2-2022-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B9%82%E0%B8%A2%E0%B9%88%E0%B8%87.jpg",
+"url": "https://we-play.live/watching/movie/tall-girl-2-2022#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Through My Window รักผ่านหน้าต่าง",
+"image":"https://ดูหนังฟรี2022.com/wp-content/uploads/2022/02/Through-My-Window-2022-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87.jpg",
+"url": "https://we-play.live/watching/movie/through-my-window-2022#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "200 Pounds Beauty (2006):ฮันนะซัง สวยสั่งได้ (HD)",
+"image":"https://www.doofree88.com/storage/images/2022/1/FvEViU2wkCo2VJDbV4KVgtC0H3g6hO7dvNJ7LxfV.jpg",
+"url": "https://www.doofree88.com/movie/200-pounds-beauty-2006%e0%b8%ae%e0%b8%b1%e0%b8%99%e0%b8%99%e0%b8%b0%e0%b8%8b%e0%b8%b1%e0%b8%87-%e0%b8%aa%e0%b8%a7%e0%b8%a2%e0%b8%aa%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b9%84%e0%b8%94%e0%b9%89-hd",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Made of Honor (2008):กั๊กใจให้เพื่อนเลิฟ (HD)",
+"image":"https://www.doofree88.com/storage/images/2022/1/EUjw0JOL17VPZkgjm1oIgOx47uBOF0UbY1m0bxJQ.jpg",
+"url": "https://www.doofree88.com/movie/made-of-honor-2008%e0%b8%81%e0%b8%b1%e0%b9%8a%e0%b8%81%e0%b9%83%e0%b8%88%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%a5%e0%b8%b4%e0%b8%9f-hd",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "A California Christmas (2020) (HD)",
+"image":"https://www.doofree88.com/storage/images/2022/1/65ktpc9S20ledsVABGZRDTGdoKE9LHCrSxu6O9tW.jpg",
+"url": "https://www.doofree88.com/movie/a-california-christmas-2020-hd",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Operation Christmas Drop (2020):ภารกิจของขวัญจากฟ้า (HD)",
+"image":"https://www.doofree88.com/storage/images/2022/1/XsaiTREBwBlJ5ziUZ4f7fqlPaW3UtelR4EiOVFur.jpg",
+"url": "https://www.doofree88.com/movie/operation-christmas-drop-2020%e0%b8%a0%e0%b8%b2%e0%b8%a3%e0%b8%81%e0%b8%b4%e0%b8%88%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%82%e0%b8%a7%e0%b8%b1%e0%b8%8d%e0%b8%88%e0%b8%b2%e0%b8%81%e0%b8%9f%e0%b9%89",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Risky Business (1983):บริษัทรักไม่จำกัด (HD)",
+"image":"https://www.doofree88.com/storage/images/2022/1/4DRhxj89vslK3ynlPynjPocijOsEWgbjP9riC3LF.jpg",
+"url": "https://www.doofree88.com/movie/risky-business-1983%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%a9%e0%b8%b1%e0%b8%97%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%88%e0%b8%b3%e0%b8%81%e0%b8%b1%e0%b8%94-hd",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sounds Like Love (2021):เพลงรักของเรา",
+"image":"https://www.doofree88.com/storage/images/2022/1/vx1BowDXTqYptqoK9LXOPUkk72PrTtjsOgkgctqd.jpg",
+"url": "https://www.doofree88.com/movie/sounds-like-love-2021%e0%b9%80%e0%b8%9e%e0%b8%a5%e0%b8%87%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%a3%e0%b8%b2",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Friendzone (2021):โซนนี้เพื่อนขอ",
+"image":"https://www.doofree88.com/storage/images/2022/1/vTD3LTxeT3VWMDabT6rUE99gM0EecmfMcKNoPAuD.jpg",
+"url": "https://www.doofree88.com/movie/friendzone-2021%e0%b9%82%e0%b8%8b%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b8%82%e0%b8%ad",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Vinterviken (2021):วินเทอร์ไวเคน (HD)",
+"image":"https://www.doofree88.com/storage/images/2022/1/A49lzWLf7PAexZ5uGIZT2pWJ5yh6q4u8tOqitwMj.jpg",
+"url": "https://www.doofree88.com/movie/vinterviken-2021%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%84%e0%b8%a7%e0%b9%80%e0%b8%84%e0%b8%99-hd",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Elizabethtown (2005):อลิซาเบ็ธทาวน์ เส้นทางสายรัก (HD)",
+"image":"https://www.doofree88.com/storage/images/2022/1/CA5QoYJF7sfshecBPkCxYgcJRZu1zx3dg9oGCWEw.jpg",
+"url": "https://www.doofree88.com/movie/elizabethtown-2005%e0%b8%ad%e0%b8%a5%e0%b8%b4%e0%b8%8b%e0%b8%b2%e0%b9%80%e0%b8%9a%e0%b9%87%e0%b8%98%e0%b8%97%e0%b8%b2%e0%b8%a7%e0%b8%99%e0%b9%8c-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Hes All That (2021):ภารกิจปั้นหนุ่มในฝัน (HD)",
+"image":"https://www.doofree88.com/storage/images/2021/8/Fxsy7f6NzpGgnSHF87v65FFP0U2G1nnUO4OlSMgq.jpg",
+"url": "https://www.doofree88.com/movie/hes-all-that-2021%e0%b8%a0%e0%b8%b2%e0%b8%a3%e0%b8%81%e0%b8%b4%e0%b8%88%e0%b8%9b%e0%b8%b1%e0%b9%89%e0%b8%99%e0%b8%ab%e0%b8%99%e0%b8%b8%e0%b9%88%e0%b8%a1%e0%b9%83%e0%b8%99%e0%b8%9d%e0%b8%b1%e0%b8%99",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Secret Diary of an Exchange Student (2021):ไดอารี่ลับนักเรียนแลกเปลี่ยน",
+"image":"https://www.doofree88.com/storage/images/2022/1/WnJOaOHxnUYG82REQjkvYY9GBbzBBULpymwKYBrQ.jpg",
+"url": "https://www.doofree88.com/movie/the-secret-diary-of-an-exchange-student-2021%e0%b9%84%e0%b8%94%e0%b8%ad%e0%b8%b2%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%a5%e0%b8%b1%e0%b8%9a%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "CODA (2021)",
+"image":"https://www.doofree88.com/storage/images/2022/1/k2BVlgMJ4dflyhsnhNFnkMvAGdvLPgDck5a5bQGP.jpg",
+"url": "https://www.doofree88.com/movie/coda-2021",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Kissing Booth 3 (2021)",
+"image":"https://www.doofree88.com/storage/images/2022/1/IjH9pCpyHkP9zmgHrW0TRVhHGrBE2GUe2V6oBqaA.jpg",
+"url": "https://www.doofree88.com/movie/the-kissing-booth-3-2021",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Love You My Arrogance (2020):สปาร์คใจนายจอมหยิ่ง เดอะ มูฟวี่",
+"image":"https://www.doofree88.com/storage/images/2021/7/yXVGgOHSP39tmy4IOiNLRUl6G8iSjU7VwVJQF48q.jpg",
+"url": "https://www.doofree88.com/movie/love-you-my-arrogance-2020%e0%b8%aa%e0%b8%9b%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%84%e0%b9%83%e0%b8%88%e0%b8%99%e0%b8%b2%e0%b8%a2%e0%b8%88%e0%b8%ad%e0%b8%a1%e0%b8%ab%e0%b8%a2%e0%b8%b4%e0%b9%88%e0%b8%87",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Desierto:ฝ่าเส้นตายพรมแดนทมิฬ",
+"image":"https://www.doofree88.com/storage/images/2021/12/bUZDgoFjwToGsfAfXi8KQ7Lku3pq7tr1Aex1CMVz.jpg",
+"url": "https://www.doofree88.com/movie/desierto%e0%b8%9d%e0%b9%88%e0%b8%b2%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%95%e0%b8%b2%e0%b8%a2%e0%b8%9e%e0%b8%a3%e0%b8%a1%e0%b9%81%e0%b8%94%e0%b8%99%e0%b8%97%e0%b8%a1%e0%b8%b4%e0%b8%ac",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Infernal Affairs:สองคนสองคม",
+"image":"https://www.doofree88.com/storage/images/2019/5/v3agfAZB1ZYrBEvboAoKjV0k1ivC7e9O7beufPFD.jpg",
+"url": "https://www.doofree88.com/movie/infernal-affairs%e0%b8%aa%e0%b8%ad%e0%b8%87%e0%b8%84%e0%b8%99%e0%b8%aa%e0%b8%ad%e0%b8%87%e0%b8%84%e0%b8%a1",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Departed (2006):ภารกิจโหด แฝงตัวโค่นเจ้าพ่อ (HD)",
+"image":"https://www.doofree88.com/storage/images/2021/9/2UQyBWAFjXOnfYIC0qNMBHKgLQIfcD138Vn97Z6Z.jpg",
+"url": "https://www.doofree88.com/movie/the-departed-2006%e0%b8%a0%e0%b8%b2%e0%b8%a3%e0%b8%81%e0%b8%b4%e0%b8%88%e0%b9%82%e0%b8%ab%e0%b8%94-%e0%b9%81%e0%b8%9d%e0%b8%87%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b9%82%e0%b8%84%e0%b9%88%e0%b8%99-phoOgvDVJE",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Act of Valor:หน่วยพิฆาต ระห่ำกู้โลก (HD)",
+"image":"https://www.doofree88.com/storage/images/2019/6/bI6FABjpPQ8VZSlkFIJfWl7Z825N76z0U6MzlUka.jpg",
+"url": "https://www.doofree88.com/movie/act-of-valor%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%a7%e0%b8%a2%e0%b8%9e%e0%b8%b4%e0%b8%86%e0%b8%b2%e0%b8%95-%e0%b8%a3%e0%b8%b0%e0%b8%ab%e0%b9%88%e0%b8%b3%e0%b8%81%e0%b8%b9%e0%b9%89%e0%b9%82%e0%b8%a5-Dr8kn5HwPv",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Guardian ตุ๊กตาอารักษ์ (VN)",
+"image":"https://moviehdd2021.com/wp-content/uploads/2021/12/THE-GUARDIAN-2021-%E0%B8%95%E0%B8%B8%E0%B9%8A%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C.jpg",
+"url": "https://we-play.live/watching/movie/the-guardian-2021",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "อีหล่าเอ๋ย",
+"image":"https://www.doofree88.com/storage/images/2021/12/Rd6vnDffm6H5MtkbNsEZs3D2C0wKyxGJBDsJgS3f.jpg",
+"url": "https://www.doofree88.com/movie/%e0%b8%ad%e0%b8%b5%e0%b8%ab%e0%b8%a5%e0%b9%88%e0%b8%b2%e0%b9%80%e0%b8%ad%e0%b9%8b%e0%b8%a2",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Skylines สกายไลน์ 3 สงครามถล่มจักรวาล",
+"image":"https://www.i-moviehd.com/wp-content/uploads/2021/03/Skylines-3-2020-%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-3-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5.png",
+"url": "https://www.doofree88.com/movie/skylines%e0%b8%aa%e0%b8%81%e0%b8%b2%e0%b8%a2%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c-3-%e0%b8%aa%e0%b8%87%e0%b8%84%e0%b8%a3%e0%b8%b2%e0%b8%a1%e0%b8%96%e0%b8%a5%e0%b9%88%e0%b8%a1%e0%b8%88%e0%b8%b1",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Playing with Fire ดับเพลิงอลเวง",
+"image":"https://www.bendigotheatrecompany.org/wp-content/uploads/2021/07/Playing-With-Fire1.jpg",
+"url": "https://we-play.live/watching/movie/playing-with-fire-2019#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Sleepover The Sleepover",
+"image":"https://www.i-moviehd.com/wp-content/uploads/2020/08/The-Sleepover-2020-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%AA%E0%B8%A5%E0%B8%B5%E0%B8%9B%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C.png",
+"url": "https://we-play.live/watching/movie/the-sleepover-2020#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Go Karts กล้าฝันพลังโกคาร์ท",
+"image":"https://www.037hdmovie.com/wp-content/uploads/2020/03/Go-Karts-2020-%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%81%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%97.png",
+"url": "https://we-play.live/watching/movie/go-karts-2020#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Yes Day เยสเดย์ วันนี้ห้ามเซย์โน",
+"image":"https://www.037hdmovie.com/wp-content/uploads/2021/03/YES-DAY-2021.jpg",
+"url": "https://we-play.live/watching/movie/yes-day-2021#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Witches แม่มด ของ โรอัลด์ ดาห์ล",
+"image":"https://gamelikethesea.com/wp-content/uploads/2020/11/The-Witches-2020-poster.jpg",
+"url": "https://we-play.live/watching/movie/the-witches-2020#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Grumpy Christmas สุขสันต์วันคริสต์มาสป่วน",
+"image":"https://br.web.img3.acsta.net/pictures/21/11/18/19/32/0378817.jpg",
+"url": "https://we-play.live/watching/movie/grumpy-christmas-2021",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Water Man เดอะ วอเตอร์ แมน",
+"image":"https://www.037hdmovie.com/wp-content/uploads/2021/07/The-Water-Man-2021.jpeg",
+"url": "https://we-play.live/watching/movie/the-water-man-2021#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Tom & Jerry ทอม แอนด์ เจอร์รี่",
+"image":"https://cdn.majorcineplex.com/uploads/movie/3094/thumb_3094.jpg",
+"url": "https://we-play.live/watching/movie/tom-jerry-2021#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Single All the Way ซิงเกิ้ล ออล เดอะ เวย์",
+"image":"https://moviehdd2021.com/wp-content/uploads/2021/12/Single-All-The-Way.jpg",
+"url": "https://we-play.live/watching/movie/single-all-the-way-2021#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Last Christmas (2019)",
+"image":"https://www.doofree88.com/storage/images/2020/10/AyHhswUBqWL76leL2qlE9UyPTH9eiABf8a2aniX4.jpg",
+"url": "https://www.doofree88.com/movie/last-christmas-2019%e0%b8%a5%e0%b8%b2%e0%b8%aa%e0%b8%95%e0%b9%8c%e0%b8%84%e0%b8%a3%e0%b8%b4%e0%b8%aa%e0%b8%95%e0%b9%8c%e0%b8%a1%e0%b8%b2%e0%b8%aa-hd",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Jingle Jangle A Christmas Journey (2020)",
+"image":"https://www.doofree88.com/storage/images/2021/10/f8mm8uBrB0J5s7wGozhDGwC7bQ18XIe0cGz3b8WU.jpg",
+"url": "https://www.doofree88.com/movie/jingle-jangle-a-christmas-journey-2020%e0%b8%88%e0%b8%b4%e0%b8%87%e0%b9%80%e0%b8%81%e0%b8%b4%e0%b9%89%e0%b8%a5-%e0%b9%81%e0%b8%88%e0%b8%87%e0%b9%80%e0%b8%81%e0%b8%b4%e0%b9%89%e0%b8%a5-%e0%b8%84",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "8-BIT CHRISTMAS (2021)",
+"image":"https://m.media-amazon.com/images/M/MV5BNDFkMDMxN2MtOThlZi00OWExLWFlMGMtYzI3NjhhNzFlODkzXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+"url": "https://www639.ff-02.com/token=zbfbCabYF1aom972Anobew/1638276947/2001:44c8::/118/2/37/abeab0cb2a78389860c36c91d4e87372-1080p.mp4",
+"referer": "https://kingofmovie.com/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "A Boy Called Christmas เด็กชายที่ชื่อคริสต์มาส",
+"image":"https://naabmovie.ir/wp-content/uploads/2021/10/A-Boy-Called-Christmas.jpg",
+"url": "https://we-play.live/watching/movie/a-boy-called-christmas-2021#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Christmas Chronicles ผจญภัยพิทักษ์คริสต์มาส ",
+"image":"https://moviehdfree.net/wp-content/uploads/2021/07/The-Christmas-Chronicles-2018.jpg",
+"url": "https://www.doofree88.com/movie/the-christmas-chronicles-2018%e0%b8%9c%e0%b8%88%e0%b8%8d%e0%b8%a0%e0%b8%b1%e0%b8%a2%e0%b8%9e%e0%b8%b4%e0%b8%97%e0%b8%b1%e0%b8%81%e0%b8%a9%e0%b9%8c%e0%b8%84%e0%b8%a3%e0%b8%b4%e0%b8%aa%e0%b8%95-uehLf4TjWI",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Christmas Chronicles 2 ผจญภัยพิทักษ์คริสต์มาส ภาค 2",
+"image":"https://moviehdfree.net/wp-content/uploads/2021/07/The-Christmas-Chronicles-2-2020-2.jpg",
+"url": "https://we-play.live/watching/movie/the-christmas-chronicles-2-2020#",
+"referer": "https://we-play.live/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Knight Before Christmas (2019)",
+"image":"https://www.doofree88.com/storage/images/2021/1/C2Jm39uZg6nKI3uZ81FqgtZEf2xqiu1f50jkSpt4.jpg",
+"url": "https://www.doofree88.com/movie/the-knight-before-christmas-2019%e0%b8%ad%e0%b8%b1%e0%b8%a8%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%84%e0%b8%a3%e0%b8%b4%e0%b8%aa%e0%b8%95",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Office Christmas Party:ออฟฟิศ คริสต์มาส ปาร์ตี้",
+"image":"https://www.doofree88.com/storage/images/2019/8/b6aarlrG0Ql4orulouXAgJGrF2Iq5zvzAOhtdYNg.jpg",
+"url": "https://www.doofree88.com/movie/office-christmas-party%e0%b8%ad%e0%b8%ad%e0%b8%9f%e0%b8%9f%e0%b8%b4%e0%b8%a8-%e0%b8%84%e0%b8%a3%e0%b8%b4%e0%b8%aa%e0%b8%95%e0%b9%8c%e0%b8%a1%e0%b8%b2%e0%b8%aa-%e0%b8%9b%e0%b8%b2%e0%b8%a3%e0%b9%8c",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Journey To The Christmas Star:ศึกพิภพแม่มดมหัศจรรย์",
+"image":"https://www.doofree88.com/storage/images/2019/9/1zOgPDrvTOqvZsekHoL4xdXcXEpOELLYraVrZ4xD.jpg",
+"url": "https://www.doofree88.com/movie/journey-to-the-christmas-star%e0%b8%a8%e0%b8%b6%e0%b8%81%e0%b8%9e%e0%b8%b4%e0%b8%a0%e0%b8%9e%e0%b9%81%e0%b8%a1%e0%b9%88%e0%b8%a1%e0%b8%94%e0%b8%a1%e0%b8%ab%e0%b8%b1%e0%b8%a8%e0%b8%88%e0%b8%a3",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "How the Grinch Stole Christmas:เดอะ กริ๊นช์ ตัวเขียวป่วนเมือง",
+"image":"https://www.doofree88.com/storage/images/2019/5/WXxCjTcimMgnXAp8QGbcFybVjiHVjg597b4SNSwl.jpg",
+"url": "https://www.doofree88.com/movie/how-the-grinch-stole-christmas%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%b0-%e0%b8%81%e0%b8%a3%e0%b8%b4%e0%b9%8a%e0%b8%99%e0%b8%8a%e0%b9%8c-%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "A Christmas Carol:อาถรรพ์วันคริสต์มาส",
+"image":"https://www.doofree88.com/storage/images/2019/6/EjmDS6hyP7nuOKP2lrpd8OByjRD0fFjZbAxtbBMU.jpg",
+"url": "https://www.doofree88.com/movie/a-christmas-carol%e0%b8%ad%e0%b8%b2%e0%b8%96%e0%b8%a3%e0%b8%a3%e0%b8%9e%e0%b9%8c%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%84%e0%b8%a3%e0%b8%b4%e0%b8%aa%e0%b8%95%e0%b9%8c%e0%b8%a1%e0%b8%b2%e0%b8%aa-hd-NiRV8uPjmR",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Alone For Christmas:แก๊งน้องหมาโดดเดี่ยวผู้น่ารัก",
+"image":"https://www.doofree88.com/storage/images/2019/5/jqf2hP0WzuEPN185fIpyajhEEkpytnv9wva04v7C.jpg",
+"url": "https://www.doofree88.com/movie/alone-for-christmas%e0%b9%81%e0%b8%81%e0%b9%8a%e0%b8%87%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%ab%e0%b8%a1%e0%b8%b2%e0%b9%82%e0%b8%94%e0%b8%94%e0%b9%80%e0%b8%94%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a7",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bartkowiak (2021):แค้นนักสู้ (HD)",
+"image":"https://www.doofree88.com/storage/images/2021/10/23kmFltu69NC9qnwnIbukYV9PJssEDC4xgbGkwJz.jpg",
+"url": "https://www.doofree88.com/movie/bartkowiak-2021%e0%b9%81%e0%b8%84%e0%b9%89%e0%b8%99%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%aa%e0%b8%b9%e0%b9%89-hd",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sweet Girl (2021):สวีทเกิร์ล (HD)",
+"image":"https://www.doofree88.com/storage/images/2021/8/yQzEV9RO5zBQ0p6OenzbWRPF5sEY21wIE3WmOFdW.jpg",
+"url": "https://www.doofree88.com/movie/sweet-girl-2021%e0%b8%aa%e0%b8%a7%e0%b8%b5%e0%b8%97%e0%b9%80%e0%b8%81%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%a5-hd",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Logan Lucky (2017):แผนปล้นลัคกี้ โชคดีนะโลแกน (HD)",
+"image":"https://www.doofree88.com/storage/images/2021/8/JUf6YIQXeaage0pcCllB6zCWz46t7g4Lk2VunpQX.jpg",
+"url": "https://www.doofree88.com/movie/logan-lucky-2017%e0%b9%81%e0%b8%9c%e0%b8%99%e0%b8%9b%e0%b8%a5%e0%b9%89%e0%b8%99%e0%b8%a5%e0%b8%b1%e0%b8%84%e0%b8%81%e0%b8%b5%e0%b9%89-%e0%b9%82%e0%b8%8a%e0%b8%84%e0%b8%94%e0%b8%b5%e0%b8%99%e0%b8%b0",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Inception (2010):จิตพิฆาตโลก (HD)",
+"image":"https://www.doofree88.com/storage/images/2021/9/0nvoE1ix6iGEt673199WUn31ove8yZ5iYVJveJ7b.jpg",
+"url": "https://www.doofree88.com/movie/inception-2010%e0%b8%88%e0%b8%b4%e0%b8%95%e0%b8%9e%e0%b8%b4%e0%b8%86%e0%b8%b2%e0%b8%95%e0%b9%82%e0%b8%a5%e0%b8%81-hd-VPio7Olppd",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Horizon Line (2020) นรก..เหินเวหา",
+"image":"https://369movies.com/wp-content/uploads/2021/12/Horizon-Line-2020.jpg",
+"url": "https://369movies.com/horizon-line-2020-%e0%b8%99%e0%b8%a3%e0%b8%81-%e0%b9%80%e0%b8%ab%e0%b8%b4%e0%b8%99%e0%b9%80%e0%b8%a7%e0%b8%ab%e0%b8%b2-2/",
+"referer": "https://369movies.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "One Shot (2021)",
+"image":"https://369movies.com/wp-content/uploads/2021/12/One-Shot-2021.jpg",
+"url": "https://369movies.com/one-shot-2021/",
+"referer": "https://369movies.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "30 jours max (2020) 30 วันสุดท้ายพี่ขอห่ามให้สุด",
+"image":"https://369movies.com/wp-content/uploads/2021/11/30-jours-max-2020-1.jpg",
+"url": "https://369movies.com/30-jours-max-2020-30-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%AB%E0%B9%88%E0%B8%B2%E0%B8%A1/",
+"referer": "https://369movies.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Witches (2020):แม่มดของโรอัลด์ดาห์ล",
+"image":"https://www.doofree88.com/storage/images/2021/3/lIOQO1SBXRCsUn5fpDv1HEty0DzK7Ur3FQg6bAvc.jpg",
+"url": "https://www.doofree88.com/movie/the-witches-2020%e0%b9%81%e0%b8%a1%e0%b9%88%e0%b8%a1%e0%b8%94%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%a3%e0%b8%ad%e0%b8%b1%e0%b8%a5%e0%b8%94%e0%b9%8c%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%a5-XH9bB5CLld",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Escape Room: Tournament of Champions กักห้อง เกมโหด 2 กลับสู่เกมสยอง",
+"image":"https://movieeiei.com/wp-content/uploads/2021/09/78W7CqNBbZRTkWcU-scaled.jpg",
+"url": "https://www.doofree88.com/movie/escape-roomtournament-of-champions-2021-CndYWEo1zh",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Jagame Thandhiram โลกนี้สีขาวดำ",
+"image":"https://dofreemovie-hd.com/wp-content/webp-express/webp-images/uploads/2021/06/nsSTgxrD6keU6kpM.jpg.webp",
+"url": "https://we-play.live/watching/movie/jagame-thandhiram-2021#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Tom Clancy's Without Remorse (2021)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1619754141_1.jpg",
+"url": "https://www.we-play.live/watching/movie/tom-clancys-without-remorse-2021",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "1917",
+"image":"https://cdn.majorcineplex.com/uploads/movie/2839/thumb_2839.jpg",
+"url": "https://we-play.live/watching/movie/1917-2019#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Jarhead: Law of Return จาร์เฮด: พลระห่ำสงครามนรก 4",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqs_puLGOYTU-wn3Gp_pkOaiDymKWc1tdexMlllY02kwucT_mdZXoN3soQMRE6quKDdqk&usqp=CAU",
+"url": "https://we-play.live/watching/movie/jarhead-law-of-return-2019#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "13 Hours: The Secret Soldiers of Benghazi 13 ชั่วโมง: ทหารลับแห่งเบนกาซี",
+"image":"https://www.037hdmovie.com/wp-content/uploads/2020/12/13-Hours.jpg",
+"url": "https://we-play.live/watching/movie/13-hours-the-secret-soldiers-of-benghazi-2016#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Lone Survivor ปฏิบัติการพิฆาตสมรภูมิเดือด",
+"image":"https://www.i-moviehd.com/wp-content/uploads/2019/08/Lone-Survivor-2013-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94.png",
+"url": "https://we-play.live/watching/movie/lone-survivor-2013#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Crack: Cocaine, Corruption & Conspiracy ยุคแห่งแคร็กโคเคน",
+"image":"https://www.thaiuhd.com/wp-content/uploads/2021/01/Crack-Cocaine-Corruption-Conspiracy-2021-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%84%E0%B8%A3%E0%B9%87%E0%B8%81%E0%B9%82%E0%B8%84%E0%B9%80%E0%B8%84%E0%B8%99-400x561-1.jpg",
+"url": "https://we-play.live/watching/movie/crack-cocaine-corruption-conspiracy-2021",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Midway อเมริกาถล่มญี่ปุ่น",
+"image":"https://cdn.majorcineplex.com/uploads/movie/2719/thumb_2719.jpg",
+"url": "https://we-play.live/watching/movie/midway-2019#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Da 5 Bloods 5 เลือดอหังการ",
+"image":"https://www.wohproject.org/wp-content/uploads/2020/10/S__25321477-691x1024.jpg",
+"url": "https://we-play.live/watching/movie/da-5-bloods-2020",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Greyhound เกรย์ฮาวด์",
+"image":"https://upload.wikimedia.org/wikipedia/en/f/f3/Greyhound_poster.jpeg",
+"url": "https://we-play.live/watching/movie/greyhound-2020",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "12 Strong 12 ตายไม่เป็น",
+"image":"https://www.037hdmovie.com/wp-content/uploads/2018/07/12-Strong-2018.jpg",
+"url": "https://we-play.live/watching/movie/12-strong-2018#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Outpost ฝ่ายุทธภูมิล้อมตาย",
+"image":"https://lh3.googleusercontent.com/KlEZiCotWptBieH-wFnaa8FiPcLAQL4iQelgkDJ4Tfx8aX61nGQ3aNvBUtmDUIlBzAywrm7fKidT9mx66LrJzw=s0",
+"url": "https://we-play.live/watching/movie/the-outpost-2019#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "David and the Elves เดวิดกับเอลฟ์",
+"image":"https://eefjye5ybio.exactdn.com/wp-content/uploads/bGAkhpLoDsNddSRybFsrNM6kfAF.jpg",
+"url": "https://we-play.live/watching/movie/david-and-the-elves-2021",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Wrath of Man คนคลั่งแค้น ปล้นผ่านรก",
+"image":"https://www.i-moviehd.com/wp-content/uploads/2021/05/Wrath-Of-Man-2021-%E0%B8%84%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99-%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81.jpg",
+"url": "https://we-play.live/watching/movie/wrath-of-man-2021#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Unforgivable ตราบาป",
+"image":"https://talktrendy.net/wp-content/uploads/2021/10/UNFORGIVABLE-TH.jpg",
+"url": "https://we-play.live/watching/movie/the-unforgivable-2021#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Candyman แคนดี้แมน",
+"image":"https://ดูหนังใหม่.video/wp-content/uploads/2021/09/Candyman-%E0%B9%81%E0%B8%84%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B9%89%E0%B9%81%E0%B8%A1%E0%B8%99.jpg",
+"url": "https://we-play.live/watching/movie/candyman-2021#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Die in a Gunfight (2021):เพื่อรักนี้ พี่สู้ตาย",
+"image":"https://www.doofree88.com/storage/images/2021/12/WzADwcCz2PXmHefmH06oSkpVGnPF0wOk5LvPT64X.jpg",
+"url": "https://www.doofree88.com/movie/die-in-a-gunfight-2021%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%99%e0%b8%b5%e0%b9%89-%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b9%e0%b9%89%e0%b8%95%e0%b8%b2",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Rogue One : A Star Wars Story โร้ค วัน ตำนานสตาร์วอร์ส (2016)",
+"image":"https://nungnaja.com/assets/cover/Agqm_RogueOneAStarWarsStory.jpg",
+"url": "https://www.doofree88.com/movie/rogue-one-2016%e0%b9%82%e0%b8%a3%e0%b9%89%e0%b8%84-%e0%b8%a7%e0%b8%b1%e0%b8%99-%e0%b8%95%e0%b8%b3%e0%b8%99%e0%b8%b2%e0%b8%99%e0%b8%aa%e0%b8%95%e0%b8%b2%e0%b8%a3%e0%b9%8c-%e0%b8%a7%e0%b8%ad-QwBLvdX5Wf",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Lion King เดอะ ไลอ้อน คิง",
+"image":"https://img1.hotstarext.com/image/upload/f_auto,t_vl/sources/r1/cms/prod/2265/942265-v",
+"url": "https://we-play.live/watching/movie/the-lion-king-2019#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Resident Evil: The Final Chapter ผีชีวะ 6 อวสานผีชีวะ",
+"image":"https://i0.wp.com/yummovie.com/wp-content/uploads/2020/08/gytKL6fimeiTIjd9kl5bfjY2k4C.jpg?fit=500%2C750&ssl=1",
+"url": "https://we-play.live/watching/movie/resident-evil-the-final-chapter-2016#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Night House เดอะ ไนท์ เฮาส์",
+"image":"https://ดูหนังใหม่.video/wp-content/uploads/2021/10/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%99%E0%B8%B1%E0%B8%87-The-Night-House-2021-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%84%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%80%E0%B8%AE%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B9%8C.jpg",
+"url": "https://we-play.live/watching/movie/the-night-house-2021#",
+"referer": "https://moviehdfree.net/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Dune (2021) ดูน",
+"image":"https://moviehdfree.net/wp-content/uploads/2021/10/Dune-2021.jpg",
+"url": "https://we-play.live/watching/movie/dune-2021#",
+"referer": "https://moviehdfree.net/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Venom: Let There Be Carnage (2021):เวน่อม 2",
+"image":"https://www.doofree88.com/storage/images/2021/11/ZE6xxf913fXL3cnNqGFsTfqFgOq2gqaUQBjatuAT.jpg",
+"url": "https://we-play.live/watching/movie/venom-let-there-be-carnage-2021#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Dragonheart: Vengeance ดราก้อนฮาร์ท ศึกล้างแค้น" ,
+"image":"https://dramabkk.com/wp-content/uploads/2021/06/Dragonheart%20Vengeance%20(2020)%20:%20%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%AE%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%97%20%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99.jpg",
+"url": "https://we-play.live/watching/movie/dragonheart-vengeance-2020#",
+"referer": "https://we-play.live/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Whole Truth ปริศนารูหลอน",
+"image":"https://s359.kapook.com/pagebuilder/00e6dc72-1ca5-4485-ada6-bfdbe56b83d2.jpg",
+"url": "https://we-play.live/watching/movie/the-whole-truth-2021",
+"referer": "https://we-play.live/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": " Ocean's 8 (2018)",
+"image":"https://www.037hdmovie.com/wp-content/uploads/2018/06/Ocean-s-8-2018.jpg",
+"url": "https://moviefree4k.com/Ocean%27s-8-%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%99-8",
+"referer": "https://www.movie2fin.com/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Free Guy ขอสักทีพี่จะเป็นฮีโร่ (2021)",
+"image":"https://cdn.majorcineplex.com/uploads/movie/2886/thumb_2886.jpg",
+"url": "https://we-play.live/watching/movie/free-guy-2021#",
+"referer": "https://we-play.live/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Power of the Dog The Power of the Dog",
+"image":"https://m.media-amazon.com/images/M/MV5BZGRhYjE2NWUtN2FkNy00NGI3LTkxYWMtMDk4Yjg5ZjI3MWI2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",
+"url": "https://we-play.live/watching/movie/the-power-of-the-dog-2021#",
+"referer": "https://we-play.live/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Birds of Prey (2020)",
+"image":"https://www.doofree88.com/storage/images/2020/4/RDiicukuqo5BwQz0LrXK0bHgNyD5KtQhEWpUNIjt.jpg",
+"url": "https://we-play.live/watching/movie/birds-of-prey-and-the-fantabulous-emancipation-of-one-harley-quinn-2020#",
+"referer": "https://we-play.live/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Joker (2019)",
+"image":"https://www.doofree88.com/storage/images/2019/12/nueq2bkYh4ec1SBKJg9TO1hoXXVCAwGbFQgnudYM.jpg",
+"url": "https://www.doofree88.com/movie/joker-2019%e0%b9%82%e0%b8%88%e0%b9%8a%e0%b8%81%e0%b9%80%e0%b8%81%e0%b8%ad%e0%b8%a3%e0%b9%8c-hd",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "14 Peaks: Nothing Is Impossible พิชิต 14 ยอดเขา: ไม่มีฝันใดไกลเกินเอื้อม",
+"image":"https://movie2uhd.com/wp-content/uploads/2021/11/14-Peaks-Nothing-Is-Impossible-187x234.jpeg",
+"url": "https://we-play.live/watching/movie/14-peaks-nothing-is-impossible-2021#",
+"referer": "https://we-play.live/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Recalled ระลึกหลอน",
+"image":"https://cdni-hw.bugaboo.tv/dm/sz-md/i/images/2021/11/19/t1_recalled_poster_thai_1637306772_6512.jpg",
+"url": "https://we-play.live/watching/movie/recalled-2021",
+"referer": "https://we-play.live/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Attraction 2 Invasion",
+"image":"https://www.doofree88.com/storage/images/2021/11/C8PoMlsHLn7jFB3YmVJCJeKRoFD4PXeSPC6uCy7e.jpg",
+"url": "https://www.doofree88.com/movie/attraction-2-invasion",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Free Guy ขอสักทีพี่จะเป็นฮีโร่ (2021)",
+"image":"https://หนังออนไลน์.com/wp-content/uploads/2021/10/Free-Guy-%E0%B8%82%E0%B8%AD%E0%B8%AA%E0%B8%B1%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%88%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88-2021-189x280.jpg",
+"url": "https://de88.me/free-guy-2021-thai/",
+"referer": "https://4u2movie.com/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Gangster, the Cop, the Devil (2019) | แก๊งค์ตำรวจปีศาจ",
+"image":"https://www.img06.xyz/assets/movie_poster/7/73a92d553bfe3af406fc7beeb9a26301.jpg",
+"url": "https://moviehdfree.net/the-gangster-the-cop-the-devil-2019-%e0%b8%8b%e0%b8%b1%e0%b8%9a%e0%b9%84%e0%b8%97%e0%b8%a2/",
+"referer": "https://moviehdfree.net/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Hell Hath No Fury (2021)",
+"image":"https://www.doofree88.com/storage/images/2021/11/bUzDPyeXkDE2zMMCBR6hQ8aKVdibQiAppie7vuS6.jpg",
+"url": "https://www.doofree88.com/movie/hell-hath-no-fury-2021",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Prisoners Of The Ghostland (2021)",
+"image":"https://www.doofree88.com/storage/images/2021/9/Kcew1hacnd9QwWnyujHOVh0mkHpGCnnFZTgkkzpl.jpg",
+"url": "https://www.doofree88.com/movie/prisoners-of-the-ghostland-2021-h6SXyeOnTU",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Haunted Tales (2021):เรื่อง ผี เล่า",
+"image":"https://www.doofree88.com/storage/images/2021/10/jVDgCbDNE169RUu5SMVPVeNfopw5knxQZMM8dF6g.jpg",
+"url": "https://www.doofree88.com/movie/haunted-tales-2021%e0%b9%80%e0%b8%a3%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%87-%e0%b8%9c%e0%b8%b5-%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%b2",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Suicide Squad (2021)",  
+"image": "https://image.tmdb.org/t/p/w185/iCi4c4FvVdbaU1t8poH1gvzT6xM.jpg",  
+"url": "https://we-play.live/watching/movie/the-suicide-squad-2021#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "4King (ตัวอย่าง)",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0XZ6-HhzBei_ynJ-jOWQHQClWIPWReeyrg&usqp=CAU" ,
+"url": "https://www.youtube.com/watch?v=BYaZA3-GRrk",
+"referer": "https://www1796.ff-04.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Game Changer (2021):โกงพลิกเกม",
+"image":"https://www.doofree88.com/storage/images/2021/11/jGrfLg7ATnuOdKev0Sv8kUDIMcoit5FzLNh5YZ8Z.jpg",
+"url": "https://we-play.live/watching/movie/game-changer-2021",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Home Sweet Home Alone (2021)",
+"image":"https://moviehdfree.net/wp-content/uploads/2021/11/Home-Sweet-Home-Alone-2021.jpg",
+"url": "https://moviehdfree.net/home-sweet-home-alone-2021/",
+"referer": "https://moviehdfree.net/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Clifford the Big Red Dog (2021)",
+"image":"https://moviehdfree.net/wp-content/uploads/2021/11/Clifford-the-Big-Red-Dog-2021.jpg",
+"url": "https://moviehdfree.net/clifford-the-big-red-dog-2021/",
+"referer": "https://moviehdfree.net/",
+"playInNatPlayer": "true"
+},
+{
+"name": "As the Light Goes Out ทีมดับเพลิงมหากาฬ",
+"image":"https://samuigreenstation.net/wp-content/uploads/2021/06/as-the-light-goes-out-%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC_optimized.jpg",
+"url": "https://we-play.live/watching/movie/as-the-light-goes-out-2014#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Detective Dee and The Red Eye ตี๋เหรินเจี๋ย นักสืบจอมเจ้าเล่ห์",
+"image":"https://movie2021.com/wp-content/uploads/2021/11/Detective-Dee-The-Sly-Red-eye-e1637030146156.jpg",
+"url": "https://moviehdfree.net/detective-dee-and-the-red-eye-2021-%e0%b8%95%e0%b8%b5%e0%b9%8b%e0%b9%80%e0%b8%ab%e0%b8%a3%e0%b8%b4%e0%b8%99%e0%b9%80%e0%b8%88%e0%b8%b5%e0%b9%8b%e0%b8%a2-%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%aa%e0%b8%b7/",
+"referer": "https://moviehdfree.net/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Jungle Cruise ผจญภัยล่องป่ามหัศจรรย์",
+"image":"https://www.fast24movie.com/wp-content/uploads/2021/11/Jungle-Cruise-2021_8669829_7021685_4309571_8835587_5203588_3175779_1437796_1252650.jpg",
+"url": "https://we-play.live/watching/movie/jungle-cruise-2021",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Red Notice Red Notice",
+"image":"https://movie2ufree.com/wp-content/uploads/2021/11/Red-Notice.jpeg",
+"url": "https://we-play.live/watching/movie/red-notice-2021",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Shang-Chi and the Legend of the Ten Rings ชาง-ชี กับตำนานลับเท็นริงส์",
+"image":"https://19-movie.com/wp-content/uploads/2021/09/Shang-chi-%E0%B8%8A%E0%B8%B2%E0%B8%87-%E0%B8%8A%E0%B8%B5-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%97%E0%B9%87%E0%B8%99%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C-2021.jpg",
+"url": "https://we-play.live/watching/movie/shangchi-and-the-legend-of-the-ten-rings-2021",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Shadow in the Cloud ประจัญบาน อสูรเวหา",
+"image":"https://www.i-moviehd.com/wp-content/uploads/2021/03/Shadow-in-the-Cloud-2020-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B1%E0%B8%8D%E0%B8%9A%E0%B8%B2%E0%B8%99-%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B9%80%E0%B8%A7%E0%B8%AB%E0%B8%B2.png",
+"url": "https://we-play.live/watching/movie/shadow-in-the-cloud-2021#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Reminiscence ล้วงอดีตรำลึกเวลา",
+"image":"https://movie007hd.com/wp-content/uploads/Reminiscence-%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B8%95%E0%B8%A3%E0%B8%B3%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-2021.webp",
+"url": "https://we-play.live/watching/movie/reminiscence-2021",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Finch ฟินช์",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2021/11/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg",
+"url": "https://we-play.live/watching/movie/finch-2021",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Come Away ปีเตอร์แพน กับ อลิซ ตะลุยแดนมหัศจรรย์",
+"image":"https://cdn.majorcineplex.com/uploads/movie/3119/thumb_3119.jpg",
+"url": "https://we-play.live/watching/movie/come-away-2020",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Blood Diamond เทพบุตร เพชรสีเลือด",
+"image":"https://movie007hd.com/wp-content/uploads/Blood-Diamond-%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%AA%E0%B8%B5%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94-2006.jpg",
+"url": "https://we-play.live/watching/movie/blood-diamond-2006",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Army of Thieves แผนปล้นยุโรปเดือด",
+"image":"https://movie8m.co/wp-content/uploads/iPTZGFmPs7HsXHYxiuxGolihjOH.jpg",
+"url": "https://we-play.live/watching/movie/army-of-thieves-2021##",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Don't Breathe 2 ลมหายใจสั่งตาย 2",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2021/09/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg",
+"url": "https://we-play.live/watching/movie/dont-breathe-2-2021#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Songbird โควิด 23 ไวรัสล้างโลก",
+"image":"https://cdn.majorcineplex.com/uploads/movie/3143/thumb_3143.jpg",
+"url": "https://we-play.live/watching/movie/songbird-2020",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Boss Level บอสมหากาฬ ฝ่าด่านนรก",
+"image":"https://cdni-cf.bugaboo.tv/dm/sz-md/i/images/2021/02/11/poster_bosslevel_th_1613019419_3476.jpg",
+"url": "https://we-play.live/watching/movie/boss-level-2021",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "My Boss is a Serial Killer บอสฉันขยันเชือด",
+"image":"https://cdni-cf.bugaboo.tv/dm/sz-md/i/images/2021/03/05/thumb_3004_1614931984_5966.jpg",
+"url": "https://we-play.live/watching/movie/my-boss-is-a-serial-killer-2021",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Forever Purge คืนอำมหิต: อำมหิตไม่หยุดฆ่า",
+"image":"https://movie007hd.com/wp-content/uploads/The-Forever-Purge-%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%AD%E0%B8%B3%E0%B8%A1%E0%B8%AB%E0%B8%B4%E0%B8%95-%E0%B8%AD%E0%B8%B3%E0%B8%A1%E0%B8%AB%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%86%E0%B9%88%E0%B8%B2-2021.webp",
+"url": "https://we-play.live/watching/movie/the-forever-purge-2021",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Forgotten Battle สงครามที่ถูกลืม (2021)",  
+"image": "https://govmovie.org/uploads/images/r0ovux2um9cow0w4oo.jpg",  
+"url": "https://govmovie.org/%e0%b8%94%e0%b8%b9%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b8%9f%e0%b8%a3%e0%b8%b5-%e0%b8%aa%e0%b8%87%e0%b8%84%e0%b8%a3%e0%b8%b2%e0%b8%a1%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%96%e0%b8%b9%e0%b8%81%e0%b8%a5%e0%b8%b7%e0%b8%a1-the-forgotten-battle-%e0%b8%8a%e0%b8%b1%e0%b8%94hd/info/19848",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Those Who Wish Me Dead ใครสั่งเก็บตาย (2021)",  
+"image": "https://govmovie.org/uploads/images/dw5tz76wd9cg0c4sgc.jpg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%9A%E0%B8%95%E0%B8%B2%E0%B8%A2-those-who-wish-me-dead-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2/info/19753",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Space Jam: A New Legacy สเปซแจม ทะลุมิติมหัศจรรย์ (2021)",  
+"image": "https://govmovie.org/uploads/images/twvayy1mnr4484owso.jpg",  
+"url": "https://govmovie.org/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c-%e0%b8%aa%e0%b9%80%e0%b8%9b%e0%b8%8b%e0%b9%81%e0%b8%88%e0%b8%a1-%e0%b8%97%e0%b8%b0%e0%b8%a5%e0%b8%b8%e0%b8%a1%e0%b8%b4%e0%b8%95%e0%b8%b4%e0%b8%a1%e0%b8%ab%e0%b8%b1%e0%b8%a8%e0%b8%88%e0%b8%a3%e0%b8%a3%e0%b8%a2%e0%b9%8c-space-jam-a-new-legacy-%e0%b9%80%e0%b8%95%e0%b9%87%e0%b8%a1%e0%b9%80%e0%b8%a3%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%87/info/19758",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "He's All That ภารกิจปั้นหนุ่มในฝัน (2021)",  
+"image": "https://govmovie.org/uploads/images/p7ivrhr16qs4cogcgw.jpg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%9B%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B9%83%E0%B8%99%E0%B8%9D%E0%B8%B1%E0%B8%99-he-s-all-that-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2/info/19528",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "F9 เร็ว..แรงทะลุนรก 9",
+"image":"https://dooseries2u.com/wp-content/uploads/2021/06/Fast-Furious-.jpg",
+"url": "https://we-play.live/watching/movie/f9-2021",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Black Widow แบล็ค วิโดว์",
+"image":"https://movie007hd.com/wp-content/uploads/Black-Widow-%E0%B9%81%E0%B8%9A%E0%B8%A5%E0%B9%87%E0%B8%84-%E0%B8%A7%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B8%A7%E0%B9%8C-2021.webp",
+"url": "https://we-play.live/watching/movie/black-widow-2021",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Jungle Run (2021)",  
+"image": "https://image.tmdb.org/t/p/w500/uewtSeOq3yseE5A3PoMPbhTyMuK.jpg",  
+"url": "https://trailers.to/en/movie/4654426/jungle-run-2021",
+"referer": "https://trailers.to/",
+"subtitle":"https://drive.google.com/uc?export=download&id=1_pEMTORYuSTIiqIOAxjKWMlXmFQBKtcJ",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+{
+"name": "Aftermath (2021)",  
+"image": "https://govmovie.org/uploads/images/28qjetg1yjy8sk8w44.jpg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-aftermath-aftermath-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2/info/19354",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Boy Behind the Door (2021)",  
+"image": "https://govmovie.org/uploads/images/mvzgzn8zesggoo444s.jpg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-the-boy-behind-the-door-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%9E-the-boy-behind-the-door-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%9E-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2/info/19316",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name":"The Last Mercenary (2021)",
+"image":"https://govmovie.org/uploads/images/7pbpwjqmi2sksgs0o4.jpg",
+"url":"https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B8%97%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2-the-last-mercenary-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/19309",
+"playInNatPlayer":"true"
+},
+{
+"name": "Resort to Love (2021)",  
+"image": "https://govmovie.org/uploads/images/2g2cz31r3fpcc4s84c.jpg",  
+"url": "https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-resort-to-love-%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%A3%E0%B8%B1%E0%B8%81-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-resort-to-love-%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%A3%E0%B8%B1%E0%B8%81-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87/info/19303",
+"playInNatPlayer": "true"
+},
+{
+"name": "Blood Red Sky (2021):ฟ้าสีเลือด (HD)",  
+"image": "https://www.doofree88.com/storage/images/2021/7/S2CJxikfgdepf9TWNjtlRcw2SAySkG52SAMUm4tG.jpg",  
+"url": "https://www.doofree88.com/movie/blood-red-sky-2021%e0%b8%9f%e0%b9%89%e0%b8%b2%e0%b8%aa%e0%b8%b5%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%94-hd",
+"referer": "https://www.doofree88.com",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Last Letter From Your Lover (2021)",  
+"image": "https://govmovie.org/uploads/images/5n9vaewr7qo8cs84gw.jpg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-%E0%B8%88%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B8%95-the-last-letter-from-your-lover-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/19268",
+"playInNatPlayer": "true"
+},
+{
+"name": "Midnight In The Switchgrass (2021)",  
+"image": "https://govmovie.org/uploads/images/1qwnjyqz55dwc0ks4k.jpg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-midnight-in-the-switchgrass-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%A5-midnight-in-the-switchgrass-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%A5-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/19267",
+"playInNatPlayer": "true"
+},
+{
+"name": "Kingdom Ashin of the North (2021)",  
+"image": "https://www.playinone.com/wp-content/uploads/2021/07/Kingdom-Ashin-of-the-North-4-691x1024.jpeg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B8%9C%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%9A%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87-%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94-%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD-kingdom-ashin-of-the-north-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87/info/19264",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Hitman's Wife's Bodyguard (2021)",  
+"image": "https://m.media-amazon.com/images/M/MV5BNGQ2MGQ1ZGQtOTY4MS00ZDA5LWE5YmUtMGE0YTE2YTZiODZkXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UX182_CR0,0,182,268_AL_.jpg",  
+"url": "https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%9A-%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%9A%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B9%89%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94-2-the-hitmans-wifes-bodyguard-2-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87/info/19269",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Forever Purge (2021)",  
+"image": "https://govmovie.org/uploads/images/58l91qjugd0c0ksg4.jpg",  
+"url": "https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%AD%E0%B8%B3%E0%B8%A1%E0%B8%AB%E0%B8%B4%E0%B8%95-%E0%B8%AD%E0%B8%B3%E0%B8%A1%E0%B8%AB%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%86%E0%B9%88%E0%B8%B2-the-forever-purge-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/19224",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ascendant (2021)",  
+"image": "https://cdn.cinematerial.com/p/297x/lwjhndfw/ascendant-australian-movie-poster-md.jpg",  
+"url": "https://trailers.to/en/movie/4227812/ascendant-2021",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
+"name": "Pig (2021)",  
+"image": "https://govmovie.org/uploads/images/sdifwp9h95c8gss4g0.jpg",  
+"url": "https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-pig-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-pig-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2/info/19219",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "A Classic Horror Story (2021)",  
+"image": "https://i0.wp.com/ssdmovie.com/wp-content/uploads/2021/07/A-Classic-Horror-Story-2021-e1626352978562.jpg",  
+"url": "https://ssdmovie.com/a-classic-horror-story-2021/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fear Street: Part Three: 1666 (2021)",  
+"image": "https://govmovie.org/uploads/images/oymqi4condw4o08gw.jpg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C-%E0%B8%A0%E0%B8%B2%E0%B8%84-3-1666-fear-street-part-3-1666-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/19218",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fear Street Part Two: 1978 (2021)",  
+"image": "https://upload.wikimedia.org/wikipedia/en/d/dc/Fear_Street%2C_Part_Two_-_1978_teaser_poster.png",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C-%E0%B8%A0%E0%B8%B2%E0%B8%84-2-fear-street-part-two-1978-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/19177",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fear Street Part One: 1994 (2021)",  
+"image": "https://news.in-24.com/lifestyle/content/uploads/2021/07/05/d93c0fcfe0.jpg",  
+"url": "https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-1994-%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C-%E0%B8%A0%E0%B8%B2%E0%B8%84-1-1994-fear-street-part-1-1994-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87/info/19089",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Black Widow (2021)",  
+"image": "https://images-na.ssl-images-amazon.com/images/I/51Qma1Xm19L._SX358_BO1,204,203,200_.jpg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B9%81%E0%B8%9A%E0%B8%A5%E0%B9%87%E0%B8%84-%E0%B8%A7%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B8%A7%E0%B9%8C-black-widow-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/19147",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Till death (2021)",  
+"image": "https://upload.wikimedia.org/wikipedia/en/2/25/Till_Death_2021_Horror_Film_poster.png",  
+"url": "https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-till-death-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-till-death-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/19084",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "No Sudden Move (2021)",  
+"image": "https://thmoviehdd.com/wp-content/uploads/2021/07/No-Sudden-Move.jpg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-no-sudden-move-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-no-sudden-move-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2/info/19091",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Werewolves Within (2021)",  
+"image": "https://m.media-amazon.com/images/M/MV5BZDlkZmY3ZGUtMjY3ZS00MGE4LWFjMjYtZjNmYTE0YWYxOTJmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX182_CR0,0,182,268_AL_.jpg",  
+"url": "https://trailers.to/en/movie/4294311/werewolves-within-2021",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
+"name": "A Classic Horror Story (2021)",  
+"image": "https://govmovie.org/uploads/images/19z2vjyi39b4ko840k.jpg",  
+"url": "https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2-a-classic-horror-story-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87/info/19185",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Guide to the Perfect Family (2021)",  
+"image": "https://govmovie.org/uploads/images/uwj69g69r28w84wksw.jpg",  
+"url": "https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%82-the-guide-to-the-perfect-family-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2/info/19186",
+"playInNatPlayer": "true"
+},
+{
+"name": "Out of Death (2021)",  
+"image": "https://govmovie.org/uploads/images/elvap26nihc8gkw84.jpg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-out-of-death-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%A5-out-of-death-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%A5-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87/info/19196",
+"playInNatPlayer": "true"
+},
+{
+"name": "Major Grom: Plague Doctor (2021)",  
+"image": "https://govmovie.org/uploads/images/3h20iuie0wsg04g8wc.jpg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%A7%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2-major-grom-plague-docto-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87/info/19126",
+"playInNatPlayer": "true"
+},
+{
+"name": "This Little Love of Mine (2021)",  
+"image": "https://govmovie.org/uploads/images/1e89nydpyt1c88kk4s.jpg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B8%94%E0%B8%B4%E0%B8%AA-%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B9%89%E0%B8%A5-%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%9F-%E0%B8%AD%E0%B8%AD%E0%B8%9F-%E0%B9%84%E0%B8%A1%E0%B8%99%E0%B9%8C-this-little-love-of-mine-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%A5/info/19125",
+"playInNatPlayer": "true"
+},
+{
+"name": "The God Committee (2021)",  
+"image": "https://govmovie.org/uploads/images/c9723wuympcssokg0k.jpg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-the-god-committee-the-god-committee-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%A5/info/19124",
+"playInNatPlayer": "true"
+},
+{
+"name": "Gaia (2021)",  
+"image": "https://govmovie.org/uploads/images/255m3o2s4y00gg0cso.jpg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-gaia-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%A5-gaia-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%A5-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/19117",
+"playInNatPlayer": "true"
+},
+{
+"name": "Lansky (2021)",  
+"image": "https://govmovie.org/uploads/images/msz6kd062s080k8ssg.jpg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-lansky-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%A5-lansky-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%A5-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/19108",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Colony (2021)",  
+"image": "https://www.123-hd.com/wp-content/uploads/2021/07/The-Colony-2021-300x450.png",  
+"url": "https://xxx.77player.xyz/hls/87c680ac2e9a9703de7ca7bb4c9b488b/87c680ac2e9a9703de7ca7bb4c9b488b.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "How I Became a Superhero (2021)",  
+"image": "https://resizing.flixster.com/TwT70VX3I3tKhZUR2LoqsfrxNY4=/206x305/v2/https://flxt.tmsimg.com/assets/p18106590_p_v8_aa.jpg",  
+"url": "https://www.we-play.live/watching/movie/how-i-became-a-superhero-2021",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Chernobyl: Abyss (2021)",  
+"image": "https://m.media-amazon.com/images/M/MV5BZmVmNjZjODktNTMxMC00ZjA4LThlZmItN2Q5MjQzMGM1OTI4XkEyXkFqcGdeQXVyMjUwNjY5MzA@._V1_.jpg",  
+"url": "https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%8A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%99%E0%B8%9A%E0%B8%B4%E0%B8%A5-1986-shernobyl-1986-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2/info/19251",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Tomorrow War (2021)",  
+"image": "https://m.media-amazon.com/images/I/917xQC2EosS._AC_UY218_.jpg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A8-the-tomorrow-war-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2/info/19088",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Ice Road (2021)",  
+"image": "https://m.media-amazon.com/images/M/MV5BZDFiZTE4NWEtMGNkNC00YjhlLTk0YjMtNDA3NWRhMjc3MTM2XkEyXkFqcGdeQXVyOTA5NzQ0MDQ@._V1_UX182_CR0,0,182,268_AL_.jpg",  
+"url": "https://zeanmoviehd.com/the-ice-road-2021/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "A Quiet Place Part II(2021)",
+"image": "https://m.media-amazon.com/images/M/MV5BMTE2ODU4NDEtNmRjNS00OTk1LTg4NmMtNTAzYzVlNzJmYjgzXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+"url": "https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87-2-a-quiet-place-part-ii-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2/info/19182",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
+"name": "The Water Man (2021)",  
+"image": "https://govmovie.org/uploads/images/10jqu37tcun4g044gc.jpg",  
+"url": "https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-the-water-man-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A7%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87/info/19150",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Infinite (2021)",  
+"image": "https://m.media-amazon.com/images/M/MV5BMTNjZjgxZGItMzg5NS00MzcyLWJhNjMtNzEwMjZhYjFmMDY3XkEyXkFqcGdeQXVyMTA1OTAyOTI@._V1_UX182_CR0,0,182,268_AL_.jpg",  
+"url": "https://zeanmoviehd.com/infinite/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cruella (2021)",
+"image": "https://m.media-amazon.com/images/M/MV5BOWI5YTUxOWEtZmRiZS00ZmQxLWE2NzctYTRiODA2NzE1ZjczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+"url": "https://we-play.live/watching/movie/cruella-2021#",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Conjuring: The Devil Made Me Do It (2021)",  
+"image": "https://m.media-amazon.com/images/M/MV5BYzQxMjVkZjEtMDQxYy00MGIwLWE1NjYtYzZkZmU1NTFlZGFlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_UY268_CR16,0,182,268_AL_.jpg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%87-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%9C%E0%B8%B5-3-%E0%B8%A1%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%9A%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3-the-conjuring-the-devil-made-me-do-it-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87/info/18903",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Wrath of Man (2021)",
+"image": "https://m.media-amazon.com/images/M/MV5BNGVkOTlhOTktNjZiNS00NDg3LWIxMDAtZTY5Y2E0YjllN2IxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+"url": "https://we-play.live/watching/movie/wrath-of-man-2021#",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Army of the Dead (2021)",
+"image": "https://m.media-amazon.com/images/M/MV5BNGY0NzgzYzctYWQwMC00MzM2LThjNGMtZjFjMWUyNzg0ZmM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+"url": "https://037moviefree.com/ARMY-OF-THE-DEAD-2021-%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Those Who Wish Me Dead (2021)",
+"image": "https://m.media-amazon.com/images/M/MV5BYTEyNDEzNjAtNjIyNy00ZGYxLWJjNDYtNTJhM2JhYjIxYTBmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg",
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%9A%E0%B8%95%E0%B8%B2%E0%B8%A2-those-who-wish-me-dead-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/19323",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Spiral (2021)",
+"image": "https://m.media-amazon.com/images/M/MV5BZjI4ZWQwYzctMGJlMi00OTE1LWFkNjMtY2VlOGQxZmVhNDYyXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UX182_CR0,0,182,268_AL_.jpg",
+"url": "https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%AD%E0%B8%81%E0%B8%AD%E0%B8%B3%E0%B8%A1%E0%B8%AB%E0%B8%B4%E0%B8%95-spiral-from-the-book-of-saw-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%A5/info/18885",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Unholy (2021)",
+"image": "https://m.media-amazon.com/images/M/MV5BYzljZGEyNjYtM2Q0NC00NWFlLWE3NDktYmZjNjg0NDFlNDc4XkEyXkFqcGdeQXVyNDU5MTU4ODU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+"url": "https://037moviefree.com/The-Unholy-2021--%E0%B9%80%E0%B8%97%E0%B8%A7%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%93%E0%B9%8C",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Voyagers (2021)",
+"image": "https://m.media-amazon.com/images/M/MV5BZDIzODQyODQtYzIyYy00MDE5LWJmZjMtMDRmYTRkNzAyZjAzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg",
+"url": "https://www.all-movie.tv/Voyagers%20%282021%29",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Stowaway (2021)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1619770180_cover1.jpg",
+"url": "https://www.all-movie.tv/Stowaway%20%282021%29",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Mortal Kombat (2021)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1618285207_1.jpg",
+"url": "https://www.we-play.live/watching/movie/mortal-kombat-2021",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nobody (2021)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1618559439_1.jpg",
+"url": "https://www.we-play.live/watching/movie/nobody-2021",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Marksman (2021)",
+"image": "https://doonungonline.com/wp-content/uploads/2021/07/the-marksman-2021_optimized.jpg",
+"url": "https://we-play.live/watching/movie/the-marksman-2021#",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Chaos Walking (2021)",
+"image": "https://m.media-amazon.com/images/M/MV5BYTcxYTk3MWQtZThlMS00ZjQ0LTg0NjktNGVkNWM2MTAyYWJmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX178_AL_.jpg",
+"url": "https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%82%E0%B8%A5%E0%B8%81-chaos-walking-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87/info/18368",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Seventh Day (2021)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1620534352_1.jpg",
+"url": "https://www.all-movie.tv/The%20Seventh%20Day%20%282021%29",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "In the Earth (2021)",
+"image": "https://m.media-amazon.com/images/M/MV5BMWU0NjMxZGMtMjg5OC00Y2RiLThiMmEtYzYzMmFiNTgyMjM5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+"url": "https://zeanmoviehd.com/in-the-earth/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Trigger Point (2021)",
+"image": "https://m.media-amazon.com/images/M/MV5BY2NhMjMxNzMtMDIwMC00NzQwLWI4N2ItMTVkNzNhOGIxMDJmXkEyXkFqcGdeQXVyMTMwMjY1MTY2._V1_UX182_CR0,0,182,268_AL_.jpg",
+"url": "https://trailers.to/en/movie/4372647/trigger-point-2021",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
+"name": "The Vault (2021)",
+"image": "https://m.media-amazon.com/images/M/MV5BZTliM2M5MjktZmY2NC00NjdlLWE5YzUtNDU2NzA0MzkyMDNlXkEyXkFqcGdeQXVyMTE1Nzg4NjY0._V1_UX182_CR0,0,182,268_AL_.jpg",
+"url": "https://nungdeedee.com/movie/info/18367/the-vault-way-down-2021-บรรยายไทย/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Godzilla VS Kong (2021)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1617070026_1.jpg",
+"url": "https://we-play.live/watching/movie/godzilla-vs-kong-2021#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Monster Hunter (2021)",  
+"image": "https://m.media-amazon.com/images/M/MV5BOGU3NTFmNjYtODc3Ny00MWEzLWI3M2ItZjE3NDgwMTI0MzkzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg",  
+"url":"https://we-play.live/watching/movie/monster-hunter-2020",
+"playInNatPlayer": "true"
+},
+{
+"name": "Monster Hunter (2021)",  
+"image": "https://m.media-amazon.com/images/M/MV5BOGU3NTFmNjYtODc3Ny00MWEzLWI3M2ItZjE3NDgwMTI0MzkzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg",  
+"url":"https://trailers.to/en/movie/3284895/monster-hunter-2020",
+"subtitle":"https://pastebin.com/raw/ZY8m47Wy",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
+"name": "Good on Paper (2021)",  
+"image": "https://www.inwiptv.com/postor/20210624083357AAAABb5p3OFKQbWOrqE6cDoLujAJO3u0_aFHGBbYVYe-Z-Mkt6Nn7rtQZqT0Jo0XorG3iY9U9BcEepbsXo46XKNE-_IgZMWtnGogW5jPhKTIuA5y7Z3oL0nR0R5cJisj2A.jpg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%9E%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9F%E0%B8%84-good-on-paper-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2/info/19032",
+"playInNatPlayer": "true"
+},
+{
+"name": "Awake (2021)",  
+"image": "https://m.media-amazon.com/images/M/MV5BNzZlYTI0NDYtODg4YS00YjUxLTgwZjItY2NhMDE0MjQ2ZTA5XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX182_CR0,0,182,268_AL_.jpg",  
+"url": "https://037moviefree.com/Awake-2021-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fatherhood (2021)",  
+"image": "https://www.inwiptv.com/postor/20210619091709MV5BMzU5YWYzZGMtNTE2My00NDE0LTgxNWYtZDYzYjI2YzM3OWJlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",  
+"url": "https://037moviefree.com/Fatherhood-2021-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7",
+"playInNatPlayer": "true"
+},
+{
+"name": "Security (2021)",  
+"image": "https://m.media-amazon.com/images/M/MV5BNzRiNWRmNGUtOTYzMy00OWRlLWJiOWMtNWY5NzBlOTczOGIyXkEyXkFqcGdeQXVyMTA2MDAyNzQ5._V1_UY268_CR10,0,182,268_AL_.jpg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-security-%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-security-%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2/info/18976",
+"playInNatPlayer": "true"
+},
+{
+"name": "Skater Girl (2021)",  
+"image": "https://m.media-amazon.com/images/M/MV5BODQ4Mjg2N2QtNTYwMS00ZDJiLTgzZjAtNjA3YmZlMzVmNjQ4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-%E0%B8%AA%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-skater-girl-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2/info/18946",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nail Bomber Manhunt (2021)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1622172441_cover3.jpg",
+"url": "https://www.all-movie.tv/Nail%20Bomber%20Manhunt%20%282021%29",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Blue Miracle (2021)",
+"image": "https://m.media-amazon.com/images/M/MV5BMGRkNzNhZjktYzYwOS00YmEwLTg4OWMtNGI2MmFlOGMwOTIyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UY268_CR4,0,182,268_AL_.jpg",
+"url": "https://www.we-play.live/watching/movie/blue-miracle-2021",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ferry (2021)",  
+"image": "https://m.media-amazon.com/images/M/MV5BZThhNWM2Y2ItMDRkOC00MWEyLTg5YmItMThkMzRjYjA3Mzk4XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UY268_CR4,0,182,268_AL_.jpg",  
+"url": "https://www.we-play.live/watching/movie/ferry-2021",
+"playInNatPlayer": "true"
+},
+{
+"name": "I Am All Girls (2021)",  
+"image": "https://m.media-amazon.com/images/M/MV5BZjY5YTI1OTYtNjMyOC00Y2VjLWJhZDEtZjgzZjgxMWIzMTFiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UY268_CR43,0,182,268_AL_.jpg",  
+"url": "https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%97%E0%B8%99%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87-i-am-all-girls-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%A5/info/18787",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Woman in the Window (2021)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1620983444_cover1.png",
+"url": "https://we-play.live/watching/movie/the-woman-in-the-window-2021",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "OXYGEN (2021)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1620812684_cover2.png",
+"url": "https://we-play.live/watching/movie/oxygen-2021",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Disciple (2021)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1619964183_1.jpg",
+"url": "https://www.all-movie.tv/%E0%B8%A8%E0%B8%B4%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B9%80%E0%B8%AD%E0%B8%81",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Yes Day (2021)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1615615094_cover1.jpg",
+"url": "https://nungdeedee.com/movie/info/17922/yes-day-%E0%B9%80%E0%B8%A2%E0%B8%AA%E0%B9%80%E0%B8%94%E0%B8%A2%E0%B9%8C-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B9%8C%E0%B9%82%E0%B8%99-2021-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Two Distant Strangers (2021)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1618222007_cover3.jpg",
+"url": "https://nungdeedee.com/movie/info/18334/two-distant-strangers-%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2-2020-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Irul (2021)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1617439588_1.jpg",
+"url": "https://nungdeedee.com/movie/info/18236/irul-%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Madame Claude (2021)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1617441759_1.jpg",
+"url": "https://nungdeedee.com/movie/info/18238/madame-claude-%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%94-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Things Heard and Seen (2021)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1619698293_cover1.jpg",
+"url": "https://www.all-movie.tv/Things%20Heard%20and%20Seen%20%282021%29",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Thunder Force (2021)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1617954707_cover3.jpg",
+"url": "https://037moviefree.com/Thunder-Force-2021-%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%8B-%E0%B8%82%E0%B8%9A%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%9F%E0%B8%B2%E0%B8%94%E0%B8%9F%E0%B9%89%E0%B8%B2-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Red Dot(2021)",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1613113380_cover2.jpg",  
+"url": "https://nungdeedee.com/movie/info/17540/red-dot-%E0%B9%80%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%95%E0%B8%B2%E0%B8%A2-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Have You Ever Seen Fireflies (2021)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1617967152_cover1.jpg",
+"url": "https://037moviefree.com/Have-You-Ever-Seen-Fireflies-2021-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%A2-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87HD-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Double Dad(2021)",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1610702980_cover5.jpg",  
+"url": "https://nungdeedee.com/movie/info/17119/double-dad-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B9%81%E0%B8%94%E0%B9%89%E0%B8%94-%E0%B8%AB%E0%B8%B2%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%9D%E0%B8%B1%E0%B8%99-2021-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Outside the wire(2021)",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1610702642_cover3.jpg",  
+"url": "https://nungdeedee.com/movie/info/17092/outside-the-wire-%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%AD%E0%B8%81%E0%B8%A5%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%A1-2021-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Below Zero(2021)",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1611998367_1.jpg",  
+"url": "https://nungdeedee.com/movie/info/17334/below-zero-bajocero-%E0%B8%88%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%A2%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Paper Lives (2021)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1615633921_1.jpg",
+"url": "https://nungdeedee.com/movie/info/17924/paper-lives-%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "To All The Boys:Always and Forever(2021)",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1613130808_cover2.jpg",  
+"url": "https://nungdeedee.com/movie/info/17582/to-all-the-boys-always-and-forever-%E0%B9%81%E0%B8%94%E0%B9%88%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%84%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%84%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%B4%E0%B8%88%E0%B8%99%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%A3%E0%B9%8C-2021-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+"playInNatPlayer": "true"
+},
+{
+"name": "All My Friends  Are Dead(2021)",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1612427602_cover1.jpg",  
+"url": "https://nungdeedee.com/movie/info/17407/all-my-friends-are-dead-%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B5%E0%B9%89%E0%B8%AA%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99-2020-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Last Paradiso(2021)",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1612753408_cover1.jpg",  
+"url": "https://nungdeedee.com/movie/info/17464/the-last-paradiso-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B9%8C-%E0%B8%9E%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%94%E0%B8%B4%E0%B8%AA%E0%B9%82%E0%B8%8B-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Finding Ohana(2021)",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1611922339_cover1.jpg",  
+"url": "https://nungdeedee.com/movie/info/17335/finding-ohana-%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B9%83%E0%B8%88%E0%B8%AD%E0%B8%B0%E0%B9%82%E0%B8%A5%E0%B8%AE%E0%B8%B2-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Asphalt Burning(2021)",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1609669812_1.jpg",  
+"url": "https://nungdeedee.com/movie/info/16938/asphalt-burning-b-rning-3-%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%96%E0%B8%99%E0%B8%99-3-2020-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Pieces of a woman(2021)",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1610075096_cover1.jpg",  
+"url": "https://nungdeedee.com/movie/info/16989/pieces-of-a-woman-%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A7%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87-2020-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Colors of Love (2021)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1619850344_1.jpg",
+"url": "https://www.all-movie.tv/Colors%20of%20Love%20%282021%29",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Echo Boomers (2021)",  
+"image": "https://nungdeedee.com/uploads/images/2i8hqgpwa3wgw8cw00.jpg",  
+"url": "https://nungdeedee.com/movie/info/18339/echo-boomers-2020-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Boss Level (2021)",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1615351373_1.jpg",  
+"url": "https://nungdeedee.com/movie/info/17937/boss-level-%E0%B8%9A%E0%B8%AD%E0%B8%AA%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%94%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%81-2020-hd-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87",
+"playInNatPlayer": "true"
+},
+{
+"name": "Zack Snyder's Justice League(2021)",
+"image": "https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg",
+"url": "https://we-play.live/watching/movie/zack-snyders-justice-league-2021",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Roya And The Last Dragon (2021)",
+"image": "https://m.media-amazon.com/images/M/MV5BZWNiOTc4NGItNGY4YS00ZGNkLThkOWEtMDE2ODcxODEwNjkwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY264_CR0,0,178,264_AL_.jpg",
+"url": "https://zeanmoviehd.com/raya-and-the-last-dragon/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cosmic Sin (2021)[TH]",
+"image": "https://m.media-amazon.com/images/M/MV5BMjI3YjY0YmItYWI5OS00MTgwLWI4NjYtM2M3N2RhNTljMGVkXkEyXkFqcGdeQXVyODEwNTMxOTA@._V1_UX182_CR0,0,182,268_AL_.jpg",
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-%E0%B8%84%E0%B8%99%E0%B8%AD%E0%B8%B6%E0%B8%94%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99-2021-cosmic-sin-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87/info/19116",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Flora & Ulysses (2021)[en]",
+"image": "https://i1.wp.com/vsmoviepodcast.com/wp-content/uploads/2021/02/Flora-and-Ulysses-poster-Courtesy-of-Disney.jpg",
+"url": "https://zeanmoviehd.com/flora-ulysses/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Willy's Wonderland (2021)",  
+"image": "https://m.media-amazon.com/images/M/MV5BOTc3ZjVkYTYtMDZiMC00OTliLWE3OTEtYjY5NTBmNGJjYTBmXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY264_CR0,0,178,264_AL_.jpg",  
+"url": "https://nungdeedee.com/movie/info/17935/willy-s-wonderland-%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%81-vs-%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87-2021-hd-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87",
+"referer":"exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Wrong Turn (2021)",  
+"image": "https://m.media-amazon.com/images/M/MV5BM2Y5ZWE2MTMtODE3ZC00NWQ4LWJkNzctNGY4Njg5NDY5MzNlXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_SY264_CR0,0,178,264_AL_.jpg",  
+"url": "https://nungdeedee.com/movie/info/17628/wrong-turn-2021-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cherry (2021)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1615545512_1.jpg",
+"url": "https://037moviefree.com/Cherry-2021-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87HD",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Coming 2 America (2021)[en]",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1615018217_1.jpg",
+"url": "https://trailers.to/en/movie/3504774/coming-2-america-2021",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+]
+}
