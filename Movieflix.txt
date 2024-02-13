@@ -14,7 +14,7 @@
 {
 "name": "Movie",
 "image": "https://dota2.ru/img/news/t1653908813.jpg",
-"url": "https://drive.google.com/uc?export=download&id=19PQGP0Yf2JnPef0GfKgi4hhPnWzgmJTY",
+"url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/Movie.txt",
 "import": false
 },
 {
