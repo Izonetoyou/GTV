@@ -11,7 +11,7 @@
 {
 "name": "MOVIE FLIX",
 "image": "https://newssow.com/wp-content/uploads/2021/07/moviesflix.png",
-"url": "https://drive.google.com/uc?export=download&id=12nzTMCkdbNRwin7breDX-j_kMhAGZKT1",
+"url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix.txt",
 "import": false
 },
 {
