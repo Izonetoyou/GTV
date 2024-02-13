@@ -8,7 +8,7 @@
 {
 "name": "New Movie",
 "image": "https://img.freepik.com/free-vector/colorful-movie-logo_18099-26.jpg",
-"url": "https://drive.google.com/uc?export=download&id=1pSb2xbyJqo93Tn-76xOtz8ty3mNY82RO",
+"url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/New%20Movie.txt",
 "import": false
 },
 {
