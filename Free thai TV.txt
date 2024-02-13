@@ -1,0 +1,113 @@
+{
+"name": "Thai TV",
+"author": "Godzilla TV",
+"image": "https://image.winudf.com/v2/image/Y29tLnN1d2F0c2oudGhhaXR2cHJvMjU2MV9zY3JlZW5fMF8xNTMwNzg0ODExXzA5Mw/screen-0.jpg?fakeurl=1&type=.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1yThA1r-MEe9Cd5S2xgZoVlDN8o_1p0S9",
+"info": "ช่องและรายการทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
+
+
+
+"stations": [
+
+
+{
+"name": "3 HD",  
+"image": "https://cms.dmpcdn.com/livetv/2020/06/23/c93cf2c0-b54f-11ea-8fac-236a281cd6c5_320.png",  
+"url": "https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8",
+"info": "Godzilla TV"
+},
+{
+"name": "7 HD",  
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2F1b6b5ad2-a97c-4935-886a-bc6c60073f67.png&w=320&h=240",  
+"url": "https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8",
+"info": "Godzilla TV"
+},
+{
+"name": "MCOT HD",  
+"image": "https://yt3.ggpht.com/ytc/AKedOLS6_YIrrfW7O0TUvKTieodsA2TH5dNCfbduoknbpA=s900-c-k-c0x00ffffff-no-rj",  
+"url": "https://tc-live1.sanook.com/live/22302_ch9.m3u8",
+"info": "Godzilla TV"
+},
+{
+"name": "PPTV HD",  
+"image": "https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png",  
+"url": "https://pptv36-1tsjfj.cdn.byteark.com/live/pl_1080p/index.m3u8",
+"info": "Godzilla TV"
+},
+{
+"name": "ONE HD",  
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F16%2F396384be-35dc-4d11-bf04-06c9546ec7bc.png&w=320&h=240",  
+"url": "http://freelive2.inwstream.com:1935/freelive-edge/onehd/chunks.m3u8",
+"info": "Godzilla TV"
+},
+{
+"name": "Amarin TV",  
+"image": "https://pbs.twimg.com/profile_images/592626244987932672/eXp0ILWw_400x400.jpg",  
+"url": "http://freelive2.inwstream.com:1935/freelive-edge/amarinhd/playlist.m3u8",
+"info": "Godzilla TV"
+},
+{
+"name": "CH5 HD",  
+"image": "https://cms.dmpcdn.com/livetv/2019/05/14/4c865391-192b-46a0-a31a-4f4d500b4e07_320.png",  
+"url": "http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8",
+"info": "Godzilla TV"
+},
+{
+"name": "GMM25",  
+"image": "https://www.gmm25.com/asset/img/gmm25-logo.png",  
+"url": "http://freelive2.inwstream.com:1935/freelive-edge/gmmchannel/playlist.m3u8",
+"info": "Godzilla TV"
+},
+{
+"name": "MONO29",  
+"image": "https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",  
+"url": "http://freelive2.inwstream.com:1935/freelive-edge/mono29/playlist.m3u8",
+"info": "Godzilla TV"
+},
+{
+"name": "ไทยรัฐ",  
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F8761bb82-f902-4372-8b9f-34b019d36fb7.png&w=320&h=240",  
+"url": "https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8",
+"info": "Godzilla TV"
+},
+{
+"name": "true4U",  
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240",  
+"url": "https://embed.dooball66.com/player.php?channel=sd-24u&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"info": "Godzilla TV",
+"desktop": "true"
+},
+{
+"name": "Workpoint",  
+"image": "http://www.myband.co.th/uploads/20181012/ca61e306ebcd1fa2c4160350d9642e17.jpeg",  
+"url": "http://freelive2.inwstream.com:1935/freelive-edge/workpointtv/playlist.m3u8",
+"info": "Godzilla TV"
+},
+{
+"name": "CH8",  
+"image": "https://cms.dmpcdn.com/livetv/2019/02/26/ebe998c5-7d25-402b-ab70-46f1ad6dcc4e.png",  
+"url": "http://freelive2.inwstream.com:1935/freelive-edge/ch8/playlist.m3u8",
+"info": "Godzilla TV"
+},
+{
+name:"THAI PBS",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREDzWryv2QBICz2vVD28GJFZaKi3e_AgEKEA&usqp=CAU",
+url:"https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8"
+},
+{
+name:"TNN16",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPVBdzAbUGNkiGTUIFL5JIsUYx1c9lVTsubA&usqp=CAU",
+url:"http://freelive2.inwstream.com:1935/freelive-edge/tnn24/playlist.m3u8"
+},
+{
+name:"JKN 18",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJqrpA6zC5z7hXDbacb0i8ZyMvhrSLwuuizg&usqp=CAU",
+url:"https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/chunklist_w1477849682.m3u8"
+},
+
+
+
+]
+}

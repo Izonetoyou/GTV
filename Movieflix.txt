@@ -1,0 +1,41 @@
+{
+"name": "MOVIE FLIX",
+"author": "Godzilla TV",
+"image": "https://newssow.com/wp-content/uploads/2021/07/moviesflix.png",
+"url": "",
+"info": "",
+"groups": [
+{
+"name": "New Movie",
+"image": "https://img.freepik.com/free-vector/colorful-movie-logo_18099-26.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1pSb2xbyJqo93Tn-76xOtz8ty3mNY82RO",
+"import": false
+},
+{
+"name": "Movie",
+"image": "https://dota2.ru/img/news/t1653908813.jpg",
+"url": "https://drive.google.com/uc?export=download&id=19PQGP0Yf2JnPef0GfKgi4hhPnWzgmJTY",
+"import": false
+},
+{
+"name": "หนังภาคต่อ",
+"image": "https://thumbs.dreamstime.com/b/movie-time-logo-white-background-movie-time-logo-white-background-135314604.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1zwvnesHWVm4hhoENdnPRFaxq4ZKbZId_",
+"import": false
+},
+{
+"name": "Series",
+"image": "https://logos.flamingtext.com/Word-Logos/series-design-sketch-name.png",
+"url": "https://drive.google.com/uc?export=download&id=1Eh7lqE5IoMdSbXPKR3BPtNYGmpsbx1OZ",
+"import": false
+},
+{
+"name": "Cartoon Animation",
+"image": "https://play-lh.googleusercontent.com/n8YO5pES-6Rc586zMw4v4AdPG0Xin7od7kQ0k6Vuvfv6TVYgPMZ5UnGtLUzB3IB2fQ=w512",
+"url": "https://drive.google.com/uc?export=download&id=1DMIHOQtCuvj-lDRj-8GATweTts9BKhLk",
+"import": false
+},
+
+	
+]
+}
