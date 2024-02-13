@@ -14,23 +14,6 @@
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix.txt",
 "import": false
 },
-{
-"name": "Thai TV",
-"image": "https://image.winudf.com/v2/image/Y29tLnN1d2F0c2oudGhhaXR2cHJvMjU2MV9zY3JlZW5fMF8xNTMwNzg0ODExXzA5Mw/screen-0.jpg?fakeurl=1&type=.jpg",
-"url": "https://drive.google.com/uc?export=download&id=130rGzztFGKnW5wQk2BbKIfXZUVWmKJvG",
-"import": false
-},
-{
-"name": "Sports TV",
-"image": "https://cdn.digitbin.com/wp-content/uploads/Live-TV-Sports-for-Android.png",
-"url": "https://drive.google.com/uc?export=download&id=12eczQhrr1w02TpjK01v_n72FhvcVrAHr",
-"import": false
-},
-{
-"name": "Discovery TV",
-"image": "https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_320.png",
-"url": "https://drive.google.com/uc?export=download&id=1tlifpzL5RmAi4_w-1MQ5zWhXHXk2f-Dp",
-"import": false
-},
+
 ]
 }
