@@ -1,0 +1,39 @@
+{
+"name": "Hellboy",
+"author": "Godzilla TV",
+"image": "https://f.ptcdn.info/431/063/000/pptu1o3q4ff5Iv7wQHY-o.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1XiorbbmVLY2ThhGcLqiA2nzjGFVWFKJY",
+
+
+"stations": [
+
+{
+"name": "Hellboy 1 (2004)",  
+"image": "https://imovie-hd.net/wp-content/uploads/2021/08/C2bFIqA0ABQfbYiD3j4RAafPepmGkV3hellboy_1-202x300.jpg",
+"url": "https://imovie-hd.net/movie/hellboy-1-2004-%e0%b9%80%e0%b8%ae%e0%b8%a5%e0%b8%a5%e0%b9%8c%e0%b8%9a%e0%b8%ad%e0%b8%a2/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Hellboy 2 The Golden Army (2008)",  
+"image": "https://imovie-hd.net/wp-content/uploads/2021/08/jTKbQBZ67L7DCebclNjLOOla8dOz5F4hellboy_2-202x300.jpg",
+"url": "https://imovie-hd.net/movie/hellboy-2-the-golden-army-2008-%e0%b9%80%e0%b8%ae%e0%b8%a5%e0%b8%a5%e0%b9%8c%e0%b8%9a%e0%b8%ad%e0%b8%a2-2/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Hellboy 2 The Golden Army (2008)",  
+"image": "https://imovie-hd.net/wp-content/uploads/2021/08/jTKbQBZ67L7DCebclNjLOOla8dOz5F4hellboy_2-202x300.jpg",
+"url": "https://imovie-hd.net/movie/hellboy-2-the-golden-army-2008-%e0%b9%80%e0%b8%ae%e0%b8%a5%e0%b8%a5%e0%b9%8c%e0%b8%9a%e0%b8%ad%e0%b8%a2-2/",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Hellboy 2019",  
+"image": "https://imovie-hd.net/wp-content/uploads/2021/08/rA2yilyBqrLDcRrPLZxio1cIE3kxerdMV5BODdkMDQzMzItZDc4YS00OGM4LTkxNTQtNjUzNzU0ZmJkMWY2XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UX182_CR0,0,182,268_AL_-202x300.jpg",
+"url": "https://www.999flix.com/movie/view/hellboy?id=133",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+]
+}

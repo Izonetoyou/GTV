@@ -1,0 +1,48 @@
+{
+"name": "THE FIRST PURGE",
+"author": "Godzilla TV",
+"image": "https://m.media-amazon.com/images/I/91v4Tdzkc1L._AC_SL1500_.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1W9xg2XF75w_4SiRiXHMfAnagOrQoQ_ZV",
+
+
+"stations": [
+
+{
+"name": "THE FIRST PURGE (ปฐมบทคืนอำมหิต)",  
+"image": "https://www.i-moviehd.com/wp-content/uploads/2019/07/The-First-Purge-2018-%E0%B8%9B%E0%B8%90%E0%B8%A1%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%AD%E0%B8%B3%E0%B8%A1%E0%B8%AB%E0%B8%B4%E0%B8%95.png",  
+"url": "https://www.999flix.com/movie/view/the-first-purge?id=521",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "THE PURGE (คืนอำมหิต)",  
+"image": "https://cdn.majorcineplex.com/uploads/content/old/2013/07/PRG_Intl1Sheet_4M-_Art.jpg",  
+"url": "https://www.999flix.com/movie/view/the-purge?id=1835",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "THE PURGE: ANARCHY (คืนอำมหิต: คืนล่าฆ่าไม่ผิด)",  
+"image": "https://www.amornmovie.com/productimg.php?src=YTozOntzOjI6ImlkIjtzOjEwOiJBQUEwMDMzNDY4IjtzOjc6InNlY3Rpb24iO3M6NToiZnJvbnQiO3M6MzoiZGlyIjtzOjE6ImIiO30=",  
+"url": "https://www.999flix.com/movie/view/the-purge:-anarchy?id=1674",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "THE PURGE: ELECTION YEAR (คืนอำมหิต: ปีเลือกตั้งโหด)",  
+"image": "http://f.ptcdn.info/528/044/000/oam4lbv2iY7Sq2ew4JD-o.jpg",  
+"url": "https://www.999flix.com/movie/view/the-purge:-election-year?id=858",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "THE FOREVER PURGE",  
+"image": "https://m.media-amazon.com/images/M/MV5BMGE5NjJjNGMtZDkwMy00MGFlLWFkYTktYWFkNTY1NjcwOTY2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",  
+"url": "https://www.999flix.com/movie/view/the-forever-purge?id=4096",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+]
+}

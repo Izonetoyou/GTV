@@ -1,0 +1,93 @@
+{
+"name": "Spider man",
+"author": "Godzilla TV",
+"image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16463730/16463730-1630349005733-8e7729819180d.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1mruBuYJJkQczLFnyZ3P9ytFA4TyGr8yP",
+
+
+"stations": [
+
+{
+"name": "Spider-Man ไอ้แมงมุม",  
+"image": "https://upload.wikimedia.org/wikipedia/th/5/5f/Spiderman_movie.jpg",  
+"url": "https://www.123-hd.com/spider-man-%e0%b8%aa%e0%b9%84%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%81%e0%b8%a1%e0%b8%99",
+"referer": "https://we-play.live/",
+"info": "หนัง 2002",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Spider-Man 2 ไอ้แมงมุม 2",  
+"image": "https://www.siamzone.com/movie/pic/2004/spiderman2/poster1.jpg",  
+"url": "https://www.123-hd.com/spider-man-2-%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-2",
+"referer": "https://we-play.live/",
+"info": "หนัง 2004",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Spider-Man 3 ไอ้แมงมุม 3",  
+"image": "https://www.i-moviehd.com/wp-content/uploads/2019/05/Spider-Man-3-2007-%E0%B9%84%E0%B8%AD%E0%B9%89%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1-%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-3.png",  
+"url": "https://www.123-hd.com/spider-man-3-%e0%b8%aa%e0%b9%84%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%81%e0%b8%a1%e0%b8%99-3",
+"referer": "https://we-play.live/",
+"info": "หนัง 2007",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "The Amazing Spider-Man ดิ อะเมซิ่ง สไปเดอร์แมน 1",  
+"image": "https://www.i-moviehd.com/wp-content/uploads/2019/05/The-Amazing-Spider-Man-2012-%E0%B8%94%E0%B8%B4-%E0%B8%AD%E0%B8%B0%E0%B9%80%E0%B8%A1%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87-%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99.png",  
+"url": "https://www.123-hd.com/the-amazing-spider-man",
+"referer": "https://we-play.live/",
+"info": "หนัง 2012",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "The Amazing Spider-Man 2 ดิ อะเมซิ่ง สไปเดอร์แมน 2",  
+"image": "https://sunya.b-cdn.net/643810be-c778-4dd6-8543-e54f2c4134b1.jpg",  
+"url": "https://www.123-hd.com/the-amazing-spider-man-2",
+"referer": "https://we-play.live/",
+"info": "หนัง 2014",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Spider-Man: Homecoming สไปเดอร์-แมน: โฮมคัมมิ่ง",  
+"image": "https://www.img05.xyz/assets/movie_poster/8/805f6b7281ddd04405d10854e0d76c37.jpeg",  
+"url": "https://www.123-hd.com/spider-man-homecoming",
+"referer": "https://we-play.live/",
+"info": "หนัง 2017",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Spider-Man: Into the Spider-Verse สไปเดอร์-แมน: ผงาดสู่จักรวาล-แมงมุม",  
+"image": "https://www.037hdmovie.com/wp-content/uploads/2019/01/Spider-Man-Into-the-Spider-Verse-2019.jpg",  
+"url": "https://we-play.live/watching/movie/spiderman-into-the-spiderverse-2018#",
+"referer": "https://we-play.live/",
+"info": "หนัง 2018",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Spider-Man: Far from Home สไปเดอร์-แมน: ฟาร์ ฟอร์ม โฮม",  
+"image": "https://www.123-hd.com/wp-content/uploads/2019/11/Spider-Man-Far-From-Home-2019-%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B8%9F%E0%B8%B2%E0%B8%A3%E0%B9%8C-%E0%B8%9F%E0%B8%A3%E0%B8%AD%E0%B8%A1-%E0%B9%82%E0%B8%AE%E0%B8%A1.png",  
+"url": "https://www.123-hd.com/spider-man-far-from-home",
+"referer": "https://we-play.live/",
+"info": "หนัง 2019",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name": "Spider-Man:No Way Home(2021)(HD) ",
+"image":"https://www.doofree88.com/storage/images/2021/12/kJOOmiubIglleMAB6Jsc2zDKOgUgOEASqpKznFbM.jpg",
+"url": "https://we-play.live/watching/movie/spiderman-no-way-home-2021#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+
+
+]
+}

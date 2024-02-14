@@ -1,0 +1,42 @@
+{
+"name": "The Matrix 1-4",
+"author": "Godzilla TV",
+"image": "https://www.themoviedb.org/t/p/original/lh4aGpd3U9rm9B8Oqr6CUgQLtZL.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1acWp4WPLcWE99Lg7X4OrG09Rz5wCVmXO",
+
+
+"stations": [
+
+
+
+{
+"name": "The Matrix เดอะ เมทริกซ์: เพาะพันธุ์มนุษย์เหนือโลก 2199",  
+"image": "https://lh3.googleusercontent.com/_fj2q99FeL8_OCqeQIpkub4-veBvM3rJFZuwFHxXr8M5f3UluZcLrW9l6KjhR1bmO9RS9wBxprjHbl1HgZwN=s0",  
+"url": "https://we-play.live/watching/movie/the-matrix-1999#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Matrix Revolutions เดอะ เมทริกซ์ เรฟโวลูชั่นส์: ปฏิวัติมนุษย์เหนือโลก",  
+"image": "https://www.hdmovie2u.com/uploads/video_thumb/3810.jpg",  
+"url": "https://we-play.live/watching/movie/the-matrix-revolutions-2003#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Matrix Reloaded เดอะ เมทริกซ์ รีโหลด: สงครามมนุษย์เหนือโลก",  
+"image": "https://www.i-moviehd.com/wp-content/uploads/2019/10/The-Matrix-2-Reloaded-2003-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%80%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%8B%E0%B9%8C-2-%E0%B8%A3%E0%B8%B5%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%94-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B9%82%E0%B8%A5%E0%B8%81.png",  
+"url": "https://we-play.live/watching/movie/the-matrix-reloaded-2003#",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Matrix Resurrections (2021) เดอะ เมทริกซ์ เรเซอเร็คชั่นส์",
+"image":"https://www.doofree88.com/storage/images/2021/12/UnJRhMS2BwKM6wKCZrChORIblnZB6x1bioAH6nOo.jpg",
+"url": "https://we-play.live/watching/movie/the-matrix-resurrections-2021#",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+
+]
+}

@@ -1,0 +1,36 @@
+{
+"name": "Planet of the Apes",
+"author": "Godzilla TV",
+"image": "https://mono29.com/app/uploads/2019/06/The-Exchange2-1.jpg",
+"url": "https://drive.google.com/uc?export=download&id=15jsxU8BwMuaRov9ebq51f1BqKQABs-t8",
+
+
+"stations": [
+
+{
+"name": "Rise of the Planet of the Apes (2011) กำเนิดพิภพวานร",  
+"image": "https://www.037hdmovie.com/wp-content/uploads/2018/04/6pRGt6IbEP2Vq1rwJlA.jpg",  
+"url": "https://www.all-movie.tv/Rise%20of%20the%20Planet%20of%20the%20Apes%202011",
+"referer": "https://www1753.ff-04.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Dawn of the Planet of the Apes (2014) รุ่งอรุณแห่งพิภพวานร",  
+"image": "https://zeanmoviehd.com/wp-content/uploads/2020/06/dawn-of-the-planet-of-the-apes-2014.jpg",  
+"url": "https://govmovie.org/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-dawn-of-the-planet-of-the-apes-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%A0%E0%B8%9E%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%A3-2014-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/6674",
+"referer": "https://govmovie.org/",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name": "War for the Planet of the Apes (2017) มหาสงครามพิภพวานร",  
+"image": "https://zeanmoviehd.com/wp-content/uploads/2020/06/war-for-the-planet-of-the-apes-2017.jpg",  
+"url": "https://api.rottenpomodoro.com/videos/8e459862-580e-430e-a2f2-8c52318dd792/playlist.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+]
+}

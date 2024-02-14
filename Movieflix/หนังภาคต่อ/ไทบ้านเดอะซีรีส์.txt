@@ -1,0 +1,48 @@
+{
+"name": "ไทบ้านเดอะซีรีส์",
+"author": "Godzilla TV",
+"image": "https://cms.dmpcdn.com/movie/2018/11/19/69a9f4ae-fd2d-4d71-b2a4-c7205dd2dd67.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1aj_HugRQ743gGi1e-O6LFDdf_SwHqMbQ",
+
+
+"stations": [
+
+
+
+{
+"name": "ไทบ้านเดอะซีรีส์",  
+"image": "https://www.doofree88.com/storage/images/2019/5/yVWlXvktg0lDNrgnfNdtq7R1NudFG8W0KWiG7593.jpg",  
+"url": "https://www.doofree88.com/movie/%e0%b9%84%e0%b8%97%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%b0%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b8%aa%e0%b9%8c",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ไทบ้านเดอะซีรีส์ 2 part 1",  
+"image": "https://www.doofree88.com/storage/images/2019/5/hJf0UoaAp6kaLXJBeHwNlu9evEJV9i9x8gV1ZZ4h.jpg",  
+"url": "https://www.doofree88.com/movie/%e0%b9%84%e0%b8%97%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%b0%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b8%aa%e0%b9%8c-2-part-1",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ไทบ้านเดอะซีรีส์ 2.2",  
+"image": "https://www.doofree88.com/storage/images/2019/5/1UvnIYxRtqDBK2VRLRpdV8Jfct8IGbmOPhQE9qDX.jpg",  
+"url": "https://www.doofree88.com/movie/%e0%b9%84%e0%b8%97%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%b0%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b8%aa%e0%b9%8c-2-2",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ผู้บ่าวไทบ้าน 3 หมาน แอนด์เดอะ คำผาน",  
+"image": "https://www.doofree88.com/storage/images/2019/5/rszppz7RqOpkUXdAh6WZMFFhjhyFXnjBqyJCfgRS.jpg",  
+"url": "https://www.doofree88.com/movie/%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b8%9a%e0%b9%88%e0%b8%b2%e0%b8%a7%e0%b9%84%e0%b8%97%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99-3-%e0%b8%ab%e0%b8%a1%e0%b8%b2%e0%b8%99-%e0%b9%81%e0%b8%ad%e0%b8%99%e0%b8%94",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ไทบ้าน x BNK 48 จากใจผู้สาวคนนี้",  
+"image": "https://www.doofree88.com/storage/images/2020/4/lpOYSYxIqvBhiVWtsjgoLWn4h4YUlhBAL51uORaX.jpg",  
+"url": "https://we-play.live/watching/movie/thibaan-x-bnk48-jak-jai-pu-sao-nee-2020",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+]
+}
