@@ -37,7 +37,7 @@
 },
 {
 "name": "AutoGenerateMovie",
-"image": "https://cdn4.vectorstock.com/i/1000x1000/40/83/generate-ideas-business-wit-vector-18254083.jpg",
+"image": "https://som.edu.vn/wp-content/uploads/2022/11/tri-tue-nhan-tao-la-gi.jpg",
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/AutoGenerateMovie",
 "import": false
 },
