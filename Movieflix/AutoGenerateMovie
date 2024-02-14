@@ -1,9 +1,9 @@
 
 {
-  "name": "Movie",
+  "name": "AutoGenerateMovie",
   "author": "Godzilla TV",
   "image": "https://www.moviefreetv.com/wp-content/uploads/2020/12/MovieFreeTv_Logo.png",
-  "url": "https://drive.google.com/uc?export=download&id=18yvEr7vYYHKx1-lxvQqgTAZsYkGRDMOG",
+  "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/AutoGenerateMovie",
   "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่                           อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
   "stations": [
     {
