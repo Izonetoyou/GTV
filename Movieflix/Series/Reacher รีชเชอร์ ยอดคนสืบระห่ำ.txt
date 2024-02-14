@@ -1,0 +1,110 @@
+{
+"name": "Reacher รีชเชอร์ ยอดคนสืบระห่ำ",
+"author": "Godzilla TV",
+"image": "https://moviefree4k.com/images/movie/fXbvx0xGesABRO8grukVoMHjcuCXFoF.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1CJPdSG8q1iwU0WrAbGXxbUWxenGqxEJE",
+
+
+"stations": [
+
+{
+"name": "Ep 1",  
+"image": "https://moviefree4k.com/images/movie/fXbvx0xGesABRO8grukVoMHjcuCXFoF.jpg",  
+"url": "https://www.123-hd.com/reacher-season-1",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 1 th",  
+"image": "https://moviefree4k.com/images/movie/fXbvx0xGesABRO8grukVoMHjcuCXFoF.jpg",  
+"url": "https://hlsp2p.com/play/ae2fdbf4-aef4-5c89-a9a5-0f526afb0b16?poster=https://www.steamseries88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 2",  
+"image": "https://moviefree4k.com/images/movie/fXbvx0xGesABRO8grukVoMHjcuCXFoF.jpg",  
+"url": "https://www.123-hd.com/reacher-season-1-ep-2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 2 th",  
+"image": "https://moviefree4k.com/images/movie/fXbvx0xGesABRO8grukVoMHjcuCXFoF.jpg",  
+"url": "https://hlsp2p.com/play/73941bfb-0411-5ac7-9a3c-2decbab8c26b?poster=https://www.steamseries88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 3",  
+"image": "https://moviefree4k.com/images/movie/fXbvx0xGesABRO8grukVoMHjcuCXFoF.jpg",  
+"url": "https://www.123-hd.com/reacher-season-1-ep-3",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 3 th",  
+"image": "https://moviefree4k.com/images/movie/fXbvx0xGesABRO8grukVoMHjcuCXFoF.jpg",  
+"url": "https://hlsp2p.com/play/3c9d9089-e13e-5d96-9fad-8afb7c62130c?poster=https://www.steamseries88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 4",  
+"image": "https://moviefree4k.com/images/movie/fXbvx0xGesABRO8grukVoMHjcuCXFoF.jpg",  
+"url": "https://www.123-hd.com/reacher-season-1-ep-4",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 4 th",  
+"image": "https://moviefree4k.com/images/movie/fXbvx0xGesABRO8grukVoMHjcuCXFoF.jpg",  
+"url": "https://hlsp2p.com/play/9fb741de-0143-50aa-906c-81b16477c9bc?poster=https://www.steamseries88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 5",  
+"image": "https://moviefree4k.com/images/movie/fXbvx0xGesABRO8grukVoMHjcuCXFoF.jpg",  
+"url": "https://www.123-hd.com/reacher-season-1-ep-5",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 5 th",  
+"image": "https://moviefree4k.com/images/movie/fXbvx0xGesABRO8grukVoMHjcuCXFoF.jpg",  
+"url": "https://hlsp2p.com/play/800a1cdb-56a9-5246-a9f1-93b122f47d9e?poster=https://www.steamseries88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 6",  
+"image": "https://moviefree4k.com/images/movie/fXbvx0xGesABRO8grukVoMHjcuCXFoF.jpg",  
+"url": "https://www.123-hd.com/reacher-season-1-ep-6",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 6 th",  
+"image": "https://moviefree4k.com/images/movie/fXbvx0xGesABRO8grukVoMHjcuCXFoF.jpg",  
+"url": "https://hlsp2p.com/play/7e4384f9-57c8-52c9-8c38-527eaeceb328?poster=https://www.steamseries88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 7",  
+"image": "https://moviefree4k.com/images/movie/fXbvx0xGesABRO8grukVoMHjcuCXFoF.jpg",  
+"url": "https://www.123-hd.com/reacher-season-1-ep-7",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 7 th",  
+"image": "https://moviefree4k.com/images/movie/fXbvx0xGesABRO8grukVoMHjcuCXFoF.jpg",  
+"url": "https://hlsp2p.com/play/815f5828-910a-5a38-81a3-5bc4de0970c9?poster=https://www.steamseries88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 8",  
+"image": "https://moviefree4k.com/images/movie/fXbvx0xGesABRO8grukVoMHjcuCXFoF.jpg",  
+"url": "https://www.123-hd.com/reacher-season-1-ep-8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 8 th",  
+"image": "https://moviefree4k.com/images/movie/fXbvx0xGesABRO8grukVoMHjcuCXFoF.jpg",  
+"url": "https://hlsp2p.com/play/59bee000-44fd-50a4-85b8-154ad356022d?poster=https://www.steamseries88.com/",
+"playInNatPlayer": "true"
+},
+
+
+
+]
+}

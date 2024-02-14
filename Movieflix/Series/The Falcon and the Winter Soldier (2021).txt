@@ -1,0 +1,55 @@
+{
+"name": "The Falcon and the Winter Soldier (2021)",
+"author": "Godzilla TV",
+"image": "https://www.doofree88.com/storage/images/2021/7/HJwNRge7spkx8zJFpAgK0L13mPnkXBaPBDGUiYh6.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1vYYuLmpMCAPD8NE9WKbnq3dvebafs9s6",
+
+
+"stations": [
+
+{
+"name": "EP1",  
+"image": "https://www.doofree88.com/storage/images/2021/7/HJwNRge7spkx8zJFpAgK0L13mPnkXBaPBDGUiYh6.jpg",  
+"url": "https://www.123-hd.com/the-falcon-and-the-winter-soldier",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP2",  
+"image": "https://www.doofree88.com/storage/images/2021/7/HJwNRge7spkx8zJFpAgK0L13mPnkXBaPBDGUiYh6.jpg",  
+"url": "https://www.123-hd.com/the-falcon-and-the-winter-soldier-ep-2",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP3",   
+"image": "https://www.doofree88.com/storage/images/2021/7/HJwNRge7spkx8zJFpAgK0L13mPnkXBaPBDGUiYh6.jpg",  
+"url": "https://www.123-hd.com/the-falcon-and-the-winter-soldier-ep-3",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP4",   
+"image": "https://www.doofree88.com/storage/images/2021/7/HJwNRge7spkx8zJFpAgK0L13mPnkXBaPBDGUiYh6.jpg",  
+"url": "https://www.123-hd.com/the-falcon-and-the-winter-soldier-ep-4",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP5",   
+"image": "https://www.doofree88.com/storage/images/2021/7/HJwNRge7spkx8zJFpAgK0L13mPnkXBaPBDGUiYh6.jpg",  
+"url": "https://www.123-hd.com/the-falcon-and-the-winter-soldier-ep-5",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP6",   
+"image": "https://www.doofree88.com/storage/images/2021/7/HJwNRge7spkx8zJFpAgK0L13mPnkXBaPBDGUiYh6.jpg",  
+"url": "https://www.123-hd.com/the-falcon-and-the-winter-soldier-ep-6",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+
+]
+}

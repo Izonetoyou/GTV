@@ -1,0 +1,90 @@
+{
+"name": "Big Mouth (2022)",
+"author": "Godzilla TV",
+"image": "https://www.123-hd.com/wp-content/uploads/2022/07/Big-Mouth-2022-300x450.png",
+"url": "https://drive.google.com/uc?export=download&id=1ycBM6TsxpeWxRIykDrhrwvpVUQne_rzq",
+
+
+"stations": [
+
+{
+"name": "EP1",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/07/Big-Mouth-2022-300x450.png",  
+"url": "https://www.123-hd.com/big-mouth",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP2",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/07/Big-Mouth-2022-300x450.png",  
+"url": "https://www.123-hd.com/big-mouth-ep-2",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP3",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/07/Big-Mouth-2022-300x450.png",  
+"url": "https://www.123-hd.com/big-mouth-ep-3",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP4",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/07/Big-Mouth-2022-300x450.png",  
+"url": "https://www.123-hd.com/big-mouth-ep-4",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP5",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/07/Big-Mouth-2022-300x450.png",  
+"url": "https://www.123-hd.com/big-mouth-ep-5",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP6",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/07/Big-Mouth-2022-300x450.png",  
+"url": "https://www.123-hd.com/big-mouth-ep-6",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP7",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/07/Big-Mouth-2022-300x450.png",  
+"url": "https://www.123-hd.com/big-mouth-ep-7",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP8",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/07/Big-Mouth-2022-300x450.png",  
+"url": "https://www.123-hd.com/big-mouth-ep-8",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP9",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/07/Big-Mouth-2022-300x450.png",  
+"url": "https://www.123-hd.com/big-mouth-ep-9",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP10",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/07/Big-Mouth-2022-300x450.png",  
+"url": "https://www.123-hd.com/big-mouth-ep-10",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP11",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/07/Big-Mouth-2022-300x450.png",  
+"url": "https://www.123-hd.com/big-mouth-ep-11",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+]
+}

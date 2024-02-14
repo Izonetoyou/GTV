@@ -1,0 +1,407 @@
+{
+"name": "ลำนำรักเคียงบัลลังก์",
+"author": "Godzilla TV",
+"image": "https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1_YFu5ZOE-EOI9IbCm18hc3Hg1SawbWl6",
+
+
+"stations": [
+
+
+{
+"name": "Ep 1",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/x0040v84wi5-EP1-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 2",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/b00401cr28u-EP2-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 3",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/s0040k64r1h-EP3-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 4",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/i0040kispvm-EP4-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 5",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/i004058gdt0-EP5-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 6",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/e0040ab3qc1-EP6-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 7",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/p0040mv3sy1-EP7-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 8",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/v0040pqstcx-EP8-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 9",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/i00404jr3vx-EP9-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 10",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/f0040nnny2n-EP10-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 11",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/u0040b6oyhf-EP11-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 12",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/u0040w00r4j-EP12-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 13",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/o00404b283s-EP13-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 14",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/k0040h369lh-EP14-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 15",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/j0040va9h5o-EP15-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 16",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/q00409javoh-EP16-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 17",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/o0040tjfgco-EP17-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 18",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/f00402t7mkc-EP18-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Ep 19",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/g0040jiaos1-EP19-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 20",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/r0040seelle-EP20-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 21",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/o0040hugjsl-EP21-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 22",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/t00409c0s5y-EP22-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 23",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/u0040fomhv8-EP23-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 24",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/l0040pvcfnt-EP24-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 25",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/o0040q2eizb-EP25-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 26",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/q0040oe18md-EP26-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 27",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/u0040tcat9j-EP27-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 28",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/c0040wm7rgh-EP28-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 29",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/e0040318gci-EP29-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 30",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/h0040n71kby-EP30-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 31",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/r0040u6maga-EP31-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 32",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/l0040mjkxmv-EP32-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 33",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/z0040uyyyzu-EP33-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 34",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/u0040hgw89n-EP34-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 35",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/t0040w6b19w-EP35-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 36",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/w0040g3xme5-EP36-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 37",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/g00406h158t-EP37-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 38",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/k00408rj1l7-EP38-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 39",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/g0040upb2p0-EP39-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 40",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/m004027kmzu-EP40-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 41",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/v0040zep6zz-EP41-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 42",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/q0040ibgj6w-EP42-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 43",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/f0040yt88tt-EP43-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 44",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/g0040abskzg-EP44-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 45",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/q0040taj4n0-EP45-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 46",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/y0040xkxaft-EP46-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 47",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/d0040h9gnxb-EP47-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 48",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/k0040d78p1v-EP48-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 49",  
+"image":"https://9oog.com/wp-content/uploads/2021/08/Dream-of-Changan.jpg",
+"url": "https://wetv.vip/play/oufdok6d9e7sbll-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C/j0040czdm70-EP49-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C",
+"referer": "https://wetv.vip/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+
+
+]
+}

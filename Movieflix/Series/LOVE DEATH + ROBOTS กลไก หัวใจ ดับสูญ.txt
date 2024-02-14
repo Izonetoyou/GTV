@@ -1,0 +1,18 @@
+{
+"name": "Game of thrones",
+"author": "Godzilla TV",
+"image": "https://s.isanook.com/mv/0/ui/7/37084/game-of-thrones-poster_1393301981.jpg",
+"url": "",
+"info": "",
+"groups": [
+{
+"name": "LOVE DEATH + ROBOTS กลไก หัวใจ ดับสูญ ซีซั่น 3",
+"image": "https://t1.blockdit.com/photos/2022/05/62874b939342902f5a7935b6_800x0xcover_fue7agBQ.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1invCMd31dmeI78QrXWIKFOMYgf_ZDBi0",
+"import": false
+},
+
+]
+}
+
+

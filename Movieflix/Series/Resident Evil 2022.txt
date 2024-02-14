@@ -1,0 +1,69 @@
+{
+"name": "Resident Evil 2022 ",
+"author": "Godzilla TV",
+"image": "https://www.123-hd.com/wp-content/uploads/2022/07/Resident-Evil-2022-300x450.png",
+"url": "https://drive.google.com/uc?export=download&id=1Tex506m3ji9eQP3ffTk26PPWAXVe6a90",
+
+
+"stations": [
+
+{
+"name": "EP1",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/07/Resident-Evil-2022-300x450.png",  
+"url": "https://www.123-hd.com/resident-evil-2022",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP2",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/07/Resident-Evil-2022-300x450.png",  
+"url": "https://www.123-hd.com/resident-evil-2022-ep-2",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP3",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/07/Resident-Evil-2022-300x450.png",  
+"url": "https://www.123-hd.com/resident-evil-2022-ep-3",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP4",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/07/Resident-Evil-2022-300x450.png",  
+"url": "https://www.123-hd.com/resident-evil-2022-ep-4",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP5",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/07/Resident-Evil-2022-300x450.png",  
+"url": "https://www.123-hd.com/resident-evil-2022-ep-5",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP6",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/07/Resident-Evil-2022-300x450.png",  
+"url": "https://www.123-hd.com/resident-evil-2022-ep-6",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP7",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/07/Resident-Evil-2022-300x450.png",  
+"url": "https://www.123-hd.com/resident-evil-2022-ep-7",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP8",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/07/Resident-Evil-2022-300x450.png",  
+"url": "https://www.123-hd.com/resident-evil-2022-ep-8",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+]
+}

@@ -1,0 +1,49 @@
+{
+"name": "I Am Groot (2022)",
+"author": "Godzilla TV",
+"image": "https://www.123-hd.com/wp-content/uploads/2022/08/I-Am-Groot-300x450.png",
+"url": "https://drive.google.com/uc?export=download&id=1G78w8oArBPTYnT2ANMGbLIsc6mS5xVMc",
+
+
+"stations": [
+
+{
+"name": "EP1",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/08/I-Am-Groot-300x450.png",  
+"url": "https://www.123-hd.com/i-am-groot",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP2",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/08/I-Am-Groot-300x450.png",  
+"url": "https://www.123-hd.com/i-am-groot-ep-2",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP3",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/08/I-Am-Groot-300x450.png",  
+"url": "https://www.123-hd.com/i-am-groot-ep-3",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP4",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/08/I-Am-Groot-300x450.png",  
+"url": "https://www.123-hd.com/i-am-groot-ep-4",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP5",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/08/I-Am-Groot-300x450.png",  
+"url": "https://www.123-hd.com/i-am-groot-ep-5",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+]
+}

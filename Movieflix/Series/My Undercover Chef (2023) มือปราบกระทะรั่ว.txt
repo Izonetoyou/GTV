@@ -1,0 +1,28 @@
+{
+"name": "My Undercover Chef (2023) มือปราบกระทะรั่ว",
+"author": "Godzilla TV",
+"image": "https://www.123-hd.com/wp-content/uploads/2023/12/My-Undercover-Chef-2023-%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B0%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7-300x450.jpg",
+"url": "https://drive.google.com/uc?export=download&id=136_MaTXqULFlj5TK_isKaIL6h3gim6qp",
+
+
+"stations": [
+
+{
+"name": "Ep 1",  
+"image": "https://www.123-hd.com/wp-content/uploads/2023/12/My-Undercover-Chef-2023-%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B0%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7-300x450.jpg",  
+"url": "https://www.123-hd.com/my-undercover-chef",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 2",  
+"image": "https://www.123-hd.com/wp-content/uploads/2023/12/My-Undercover-Chef-2023-%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B0%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7-300x450.jpg",  
+"url": "https://www.123-hd.com/my-undercover-chef-ep-2",
+"playInNatPlayer": "true"
+},
+
+
+
+
+
+]
+}

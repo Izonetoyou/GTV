@@ -1,0 +1,78 @@
+{
+"name": "She Hulk",
+"author": "Godzilla TV",
+"image": "https://cms.dmpcdn.com/moviearticle/2022/05/19/ea0b61a0-d751-11ec-80d7-771ad9fb5872_webp_original.jpg",
+"url": "https://drive.google.com/uc?export=download&id=160JXE2bPHLHhqe5EjJ0QdQqARjziAvvK",
+
+
+"stations": [
+
+{
+"name": "EP1",  
+"image": "https://cms.dmpcdn.com/moviearticle/2022/05/19/ea0b61a0-d751-11ec-80d7-771ad9fb5872_webp_original.jpg",  
+"url": "https://www.123-hd.com/she-hulk-attorney-at-law",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP2",  
+"image": "https://cms.dmpcdn.com/moviearticle/2022/05/19/ea0b61a0-d751-11ec-80d7-771ad9fb5872_webp_original.jpg",  
+"url": "https://www.123-hd.com/she-hulk-attorney-at-law-ep-2",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP3",  
+"image": "https://cms.dmpcdn.com/moviearticle/2022/05/19/ea0b61a0-d751-11ec-80d7-771ad9fb5872_webp_original.jpg",  
+"url": "https://www.123-hd.com/she-hulk-attorney-at-law-ep-3",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP4",  
+"image": "https://cms.dmpcdn.com/moviearticle/2022/05/19/ea0b61a0-d751-11ec-80d7-771ad9fb5872_webp_original.jpg",  
+"url": "https://www.123-hd.com/she-hulk-attorney-at-law-ep-4",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP5",  
+"image": "https://cms.dmpcdn.com/moviearticle/2022/05/19/ea0b61a0-d751-11ec-80d7-771ad9fb5872_webp_original.jpg",  
+"url": "https://www.123-hd.com/she-hulk-attorney-at-law-ep-5",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP6",  
+"image": "https://cms.dmpcdn.com/moviearticle/2022/05/19/ea0b61a0-d751-11ec-80d7-771ad9fb5872_webp_original.jpg",  
+"url": "https://www.123-hd.com/she-hulk-attorney-at-law-ep-6",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP7",  
+"image": "https://cms.dmpcdn.com/moviearticle/2022/05/19/ea0b61a0-d751-11ec-80d7-771ad9fb5872_webp_original.jpg",  
+"url": "https://www.123-hd.com/she-hulk-attorney-at-law-ep-7",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP8",  
+"image": "https://cms.dmpcdn.com/moviearticle/2022/05/19/ea0b61a0-d751-11ec-80d7-771ad9fb5872_webp_original.jpg",  
+"url": "https://www.123-hd.com/she-hulk-attorney-at-law-ep-8",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP9",  
+"image": "https://cms.dmpcdn.com/moviearticle/2022/05/19/ea0b61a0-d751-11ec-80d7-771ad9fb5872_webp_original.jpg",  
+"url": "https://www.123-hd.com/she-hulk-attorney-at-law-ep-9",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+
+]
+}

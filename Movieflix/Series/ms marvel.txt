@@ -1,0 +1,55 @@
+{
+"name": "ms.marvel...soon",
+"author": "Godzilla TV",
+"image": "https://s359.kapook.com/pagebuilder/a9e898a3-1e14-4c2b-b0e2-dda227ace31c.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1D-pRfjl_cIzIkHQ_RohCeUjaKn4kub0W",
+
+
+"stations": [
+
+{
+"name": "EP1",  
+"image": "https://s359.kapook.com/pagebuilder/a9e898a3-1e14-4c2b-b0e2-dda227ace31c.jpg",  
+"url": "https://www.999flix.com/series/view/ms.-marvel/season-1/ep-1.0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP2",  
+"image": "https://s359.kapook.com/pagebuilder/a9e898a3-1e14-4c2b-b0e2-dda227ace31c.jpg",  
+"url": "https://www.999flix.com/series/view/ms.-marvel/season-1/ep-2.0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP3",  
+"image": "https://s359.kapook.com/pagebuilder/a9e898a3-1e14-4c2b-b0e2-dda227ace31c.jpg",  
+"url": "https://www.999flix.com/series/view/ms.-marvel/season-1/ep-3.0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP4",  
+"image": "https://s359.kapook.com/pagebuilder/a9e898a3-1e14-4c2b-b0e2-dda227ace31c.jpg",  
+"url": "https://www.999flix.com/series/view/ms.-marvel/season-1/ep-4.0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP5",  
+"image": "https://s359.kapook.com/pagebuilder/a9e898a3-1e14-4c2b-b0e2-dda227ace31c.jpg",  
+"url": "https://www.999flix.com/series/view/ms.-marvel/season-1/ep-5.0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP6",  
+"image": "https://s359.kapook.com/pagebuilder/a9e898a3-1e14-4c2b-b0e2-dda227ace31c.jpg",  
+"url": "https://www.999flix.com/series/view/ms.-marvel/season-1/ep-6.0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+]
+}

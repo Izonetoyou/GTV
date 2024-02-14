@@ -1,0 +1,54 @@
+{
+"name": "Obi-Wan Kenobi",
+"author": "Godzilla TV",
+"image": "https://www.123-hd.com/wp-content/uploads/2022/05/Obi-Wan-Kenobi-Season-1-2022-300x450.png",
+"url": "https://drive.google.com/uc?export=download&id=1ItRfEeXyJDi0oiADG5DLMojf0SgpTR6R",
+
+
+"stations": [
+
+{
+"name": "EP1",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/05/Obi-Wan-Kenobi-Season-1-2022-300x450.png",  
+"url": "https://www.999flix.com/series/view/obi-wan-kenobi/season-1/ep-1.0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP2",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/05/Obi-Wan-Kenobi-Season-1-2022-300x450.png",  
+"url": "https://www.999flix.com/series/view/obi-wan-kenobi/season-1/ep-2.0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP3",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/05/Obi-Wan-Kenobi-Season-1-2022-300x450.png",  
+"url": "https://www.999flix.com/series/view/obi-wan-kenobi/season-1/ep-3.0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP4",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/05/Obi-Wan-Kenobi-Season-1-2022-300x450.png",  
+"url": "https://www.999flix.com/series/view/obi-wan-kenobi/season-1/ep-4.0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP5",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/05/Obi-Wan-Kenobi-Season-1-2022-300x450.png",  
+"url": "https://www.999flix.com/series/view/obi-wan-kenobi/season-1/ep-5.0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP6",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/05/Obi-Wan-Kenobi-Season-1-2022-300x450.png",  
+"url": "https://www.999flix.com/series/view/obi-wan-kenobi/season-1/ep-6.0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+]
+}

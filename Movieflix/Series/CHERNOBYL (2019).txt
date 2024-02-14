@@ -1,0 +1,48 @@
+{
+"name": "CHERNOBYL (2019)",
+"author": "Godzilla TV",
+"image": "https://www.i-moviehd.com/wp-content/uploads/2019/07/Chernobyl-2019.png",
+"url": "https://drive.google.com/uc?export=download&id=11WxfKlpTXXGij17FwagjS9PSt06SVHYJ",
+
+
+"stations": [
+
+{
+"name": "EP1",  
+"image": "https://www.i-moviehd.com/wp-content/uploads/2019/07/Chernobyl-2019.png",  
+"url": "https://www.i-moviehd.com/chernobyl/",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP2",  
+"image": "https://www.i-moviehd.com/wp-content/uploads/2019/07/Chernobyl-2019.png",  
+"url": "https://www.i-moviehd.com/chernobyl-ep-2/",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP3",  
+"image": "https://www.i-moviehd.com/wp-content/uploads/2019/07/Chernobyl-2019.png",  
+"url": "https://www.i-moviehd.com/chernobyl-ep-3/",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP4",  
+"image": "https://www.i-moviehd.com/wp-content/uploads/2019/07/Chernobyl-2019.png",  
+"url": "https://www.i-moviehd.com/chernobyl-ep-4/",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP5",  
+"image": "https://www.i-moviehd.com/wp-content/uploads/2019/07/Chernobyl-2019.png",  
+"url": "https://www.i-moviehd.com/chernobyl-ep-5/",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+
+]
+}

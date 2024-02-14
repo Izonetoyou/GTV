@@ -1,0 +1,207 @@
+{
+"name": "My Queen ท่านหญิงอย่าน่ารักเกินไป - ซีซั่น 1 ",
+"author": "Godzilla TV",
+"image": "https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1dsMw8Py59lsWGV-DW7cfu4GuW9ueQ4OV",
+
+
+"stations": [
+
+
+{
+"name": "Ep 1",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 2",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-2",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 3",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-3",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 4",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-4",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 5",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-5",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 6",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-6",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 7",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-7",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 8",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-8",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 9",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-9",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 10",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-10",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 11",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-11",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 12",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-12",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 13",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-13",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 14",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-14",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 15",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-15",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 16",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-16",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 17",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-17",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 18",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-18",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 19",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-19",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 20",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-20",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 21",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-21",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 22",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-22",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 23",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-23",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 24",  
+"image":"https://myseries.co/images/movie/LpndhwK6mDBxzMNff5FLdp4v3CpAGssMy_Queen_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://www.123-hd.com/my-queen-ep-24",
+"referer": "https://we-play.live/",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+
+
+
+]
+}

@@ -1,0 +1,111 @@
+{
+"name": "설강화 Snowdrop",
+"author": "Godzilla TV",
+"image": "https://images.workpointnews.com/workpointnews/2021/12/22171536/1640168133_53938_snowdrop.jpeg",
+"url": "https://drive.google.com/uc?export=download&id=11ec7vm2oXZCjwVR-xTOO5tQ58SH4GS-K",
+
+
+"stations": [
+
+{
+"name": "Ep 1",  
+"image": "https://images.workpointnews.com/workpointnews/2021/12/22171536/1640168133_53938_snowdrop.jpeg",  
+"url": "https://www.doofree88.com/movie/snowdrop-2021",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 2",  
+"image": "https://images.workpointnews.com/workpointnews/2021/12/22171536/1640168133_53938_snowdrop.jpeg",  
+"url": "https://www.doofree88.com/movie/snowdrop-2021-b1kBtXU8Fv",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 3",  
+"image": "https://images.workpointnews.com/workpointnews/2021/12/22171536/1640168133_53938_snowdrop.jpeg",  
+"url": "https://www.doofree88.com/movie/snowdrop-2021-9Lt4gkevdB",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 4",  
+"image": "https://images.workpointnews.com/workpointnews/2021/12/22171536/1640168133_53938_snowdrop.jpeg",  
+"url": "https://www.doofree88.com/movie/snowdrop-2021-ldSQCHRZw2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 5",  
+"image": "https://images.workpointnews.com/workpointnews/2021/12/22171536/1640168133_53938_snowdrop.jpeg",  
+"url": "https://www.doofree88.com/movie/snowdrop-2021-rEZpdrB4m2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 6",  
+"image": "https://images.workpointnews.com/workpointnews/2021/12/22171536/1640168133_53938_snowdrop.jpeg",  
+"url": "https://www.doofree88.com/movie/snowdrop-2021-C7PMuAa5QR",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 7",  
+"image": "https://images.workpointnews.com/workpointnews/2021/12/22171536/1640168133_53938_snowdrop.jpeg",  
+"url": "https://www.doofree88.com/movie/snowdrop-2021-YvhsxTAwdz",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 8",  
+"image": "https://images.workpointnews.com/workpointnews/2021/12/22171536/1640168133_53938_snowdrop.jpeg",  
+"url": "https://www.doofree88.com/movie/snowdrop-2021-X2LUuqpH7N",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 9",  
+"image": "https://images.workpointnews.com/workpointnews/2021/12/22171536/1640168133_53938_snowdrop.jpeg",  
+"url": "https://www.doofree88.com/movie/snowdrop-2021-pERk3mQs8c",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 10",  
+"image": "https://images.workpointnews.com/workpointnews/2021/12/22171536/1640168133_53938_snowdrop.jpeg",  
+"url": "https://www.doofree88.com/movie/snowdrop-2021-a9O5JLCc04",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 11",  
+"image": "https://images.workpointnews.com/workpointnews/2021/12/22171536/1640168133_53938_snowdrop.jpeg",  
+"url": "https://www.doofree88.com/movie/snowdrop-2021-jpDfQKj1fA",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 12",  
+"image": "https://images.workpointnews.com/workpointnews/2021/12/22171536/1640168133_53938_snowdrop.jpeg",  
+"url": "https://www.doofree88.com/movie/snowdrop-2021-i8irpBBobf",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 13",  
+"image": "https://images.workpointnews.com/workpointnews/2021/12/22171536/1640168133_53938_snowdrop.jpeg",  
+"url": "https://www.doofree88.com/movie/snowdrop-2021-k5YzKu1snQ",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 14",  
+"image": "https://images.workpointnews.com/workpointnews/2021/12/22171536/1640168133_53938_snowdrop.jpeg",  
+"url": "https://www.doofree88.com/movie/snowdrop-2021-drau54ei6e",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Ep 15",  
+"image": "https://images.workpointnews.com/workpointnews/2021/12/22171536/1640168133_53938_snowdrop.jpeg",  
+"url": "https://www.doofree88.com/movie/snowdrop-2021-E291KAH88F",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Ep 16",  
+"image": "https://images.workpointnews.com/workpointnews/2021/12/22171536/1640168133_53938_snowdrop.jpeg",  
+"url": "https://www.doofree88.com/movie/snowdrop-2021-sLWmQFtCQO",
+"playInNatPlayer": "true"
+},
+
+
+]
+}

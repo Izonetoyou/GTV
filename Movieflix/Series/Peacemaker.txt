@@ -1,0 +1,22 @@
+{
+"name": "Peacemaker",
+"author": "Godzilla TV",
+"image": "https://www.netflix-thai.org/wp-content/uploads/2022/01/Peacemaker-Season-1-2022-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1rZ_CpLMyionhko9Y2vDGuFBQw6XEuPAv",
+"info": "",
+"groups": [
+{
+"name": "Peacemaker Sub- ซีซั่น 1",
+"image": "https://www.netflix-thai.org/wp-content/uploads/2022/01/Peacemaker-Season-1-2022-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1YqmomG0GJt8L1-h1FCE3IrY8NHFRl4WX",
+"import": false
+},
+
+{
+"name": "Peacemaker Sub- ซีซั่น 1 thai",
+"image": "https://www.netflix-thai.org/wp-content/uploads/2022/01/Peacemaker-Season-1-2022-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1YqmomG0GJt8L1-h1FCE3IrY8NHFRl4WX",
+"import": false
+},
+]
+}

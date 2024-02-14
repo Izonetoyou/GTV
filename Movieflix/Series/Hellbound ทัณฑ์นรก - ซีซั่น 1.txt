@@ -1,0 +1,50 @@
+{
+"name": "Hellbound ทัณฑ์นรก - ซีซั่น 1",
+"author": "Godzilla TV",
+"image": "https://s.isanook.com/mv/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL212LzAvdWQvMjMvMTE2NzE3L25ldGZsaXhoZWxsYm91bmQwMy5qcGc=.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1mrQMLiuI3bhYTfCK8nszyRqdEipntjSY",
+
+
+"stations": [
+
+{
+"name": "Ep 1",  
+"image": "https://s.isanook.com/mv/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL212LzAvdWQvMjMvMTE2NzE3L25ldGZsaXhoZWxsYm91bmQwMy5qcGc=.jpg",  
+"url": "https://we-play.live/watching/series/hellbound-2021/season1/ep1",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 2",  
+"image": "https://s.isanook.com/mv/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL212LzAvdWQvMjMvMTE2NzE3L25ldGZsaXhoZWxsYm91bmQwMy5qcGc=.jpg",  
+"url": "https://we-play.live/watching/series/hellbound-2021/season1/ep2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 3",  
+"image": "https://s.isanook.com/mv/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL212LzAvdWQvMjMvMTE2NzE3L25ldGZsaXhoZWxsYm91bmQwMy5qcGc=.jpg",  
+"url": "https://we-play.live/watching/series/hellbound-2021/season1/ep3",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 4",  
+"image": "https://s.isanook.com/mv/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL212LzAvdWQvMjMvMTE2NzE3L25ldGZsaXhoZWxsYm91bmQwMy5qcGc=.jpg",  
+"url": "https://we-play.live/watching/series/hellbound-2021/season1/ep4",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 5",  
+"image": "https://s.isanook.com/mv/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL212LzAvdWQvMjMvMTE2NzE3L25ldGZsaXhoZWxsYm91bmQwMy5qcGc=.jpg",  
+"url": "https://we-play.live/watching/series/hellbound-2021/season1/ep5",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ep 6",  
+"image": "https://s.isanook.com/mv/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL212LzAvdWQvMjMvMTE2NzE3L25ldGZsaXhoZWxsYm91bmQwMy5qcGc=.jpg",  
+"url": "https://we-play.live/watching/series/hellbound-2021/season1/ep6",
+"playInNatPlayer": "true"
+},
+
+
+
+]
+}

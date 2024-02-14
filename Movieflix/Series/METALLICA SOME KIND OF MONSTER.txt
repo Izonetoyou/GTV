@@ -1,0 +1,19 @@
+{
+"name": "METALLICA SOME KIND OF MONSTER ซับไทย",
+"author": "Godzilla TV",
+"image": "http://s3.amazonaws.com/img.iluria.com/product/1C46CA/42A76E/450xN.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1saC9ACXXhvOtLXnL_Hstzj3qvMRk-biu",
+
+
+"stations": [
+
+{
+"name": "EP1",  
+"image": "http://s3.amazonaws.com/img.iluria.com/product/1C46CA/42A76E/450xN.jpg",  
+"url": "https://www.999flix.com/series/view/metallica:-some-kind-of-monster/season-1/ep-1.0",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+]
+}

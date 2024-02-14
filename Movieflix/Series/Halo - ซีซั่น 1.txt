@@ -1,0 +1,80 @@
+{
+"name": "Halo",
+"author": "Godzilla TV",
+"image": "https://www.123-hd.com/wp-content/uploads/2022/04/Halo-2022-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",
+"url": "https://drive.google.com/uc?export=download&id=1042DZ84_58xRrgw_n3EKwys4v9bT8dKY",
+
+
+"stations": [
+
+{
+"name": "EP1",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/04/Halo-2022-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://www.123-hd.com/halo",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP2",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/04/Halo-2022-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://www.123-hd.com/halo-ep-2",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP3",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/04/Halo-2022-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://www.123-hd.com/halo-ep-3",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP4",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/04/Halo-2022-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://www.123-hd.com/halo-ep-4",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP5",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/04/Halo-2022-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://www.123-hd.com/halo-ep-5",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP6",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/04/Halo-2022-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://www.123-hd.com/halo-ep-6",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP7",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/04/Halo-2022-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://www.123-hd.com/halo-ep-7",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP8",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/04/Halo-2022-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://www.123-hd.com/halo-ep-8",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP9",  
+"image": "https://www.123-hd.com/wp-content/uploads/2022/04/Halo-2022-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-300x450.png",  
+"url": "https://www.123-hd.com/halo-ep-9",
+"referer": "https://we-play.live/",
+"playInNatPlayer": "true"
+},
+
+]
+}

@@ -1,0 +1,27 @@
+{
+"name": "The Witcher",
+"author": "Godzilla TV",
+"image": "https://www.doofree88.com/storage/images/2020/2/U3RC6tWA6B4a7omuElftfU4mhA4PSNAxLLTLK89s.jpg",
+"url": "",
+"info": "",
+"groups": [
+{
+"name": "The Witcher Season1",
+"image": "https://www.doofree88.com/storage/images/2020/2/U3RC6tWA6B4a7omuElftfU4mhA4PSNAxLLTLK89s.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1ACsM1n0K12NW6nXRD_wBawhtWsmqGH6r",
+"import": false
+},
+{
+"name": "The Witcher Season2",
+"image": "https://s.isanook.com/ga/0/ui/221/1108593/the_witcher_season2_netflix_trailer_2.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1bUfmU9Eiipj_DnxQP0_xvFrxYtJkg2q2",
+"import": false
+},
+{
+"name": "The Witcher Season3",
+"image": "https://www.123-hd.com/wp-content/uploads/2023/06/The-Witcher-Season-3-300x450.jpg",
+"url": "https://drive.google.com/uc?export=download&id=11stOKG1Eh4t-xMf2tJRW6O8AGReZQqYq",
+"import": false
+},
+]
+}

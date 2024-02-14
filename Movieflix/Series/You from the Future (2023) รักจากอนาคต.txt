@@ -1,0 +1,180 @@
+{
+"name": "You from the Future (2023) รักจากอนาคต",
+"author": "Godzilla TV",
+"image": "https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://drive.google.com/uc?export=download&id=11uJm0UU4cpzyj8za453mSF4vgZT949Dj",
+
+
+"stations": [
+
+{
+"name": "EP1",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP2",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-2",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP3",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-3",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP4",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-4",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP5",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-5",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP6",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-6",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP7",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-7",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP8",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP9",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-9",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP10",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-10",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP11",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-11",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP12",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-12",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP13",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-13",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP14",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-14",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP15",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-15",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP16",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-16",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP17",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-17",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP18",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-18",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP19",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-19",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP20",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-20",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP21",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-21",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP22",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-22",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP23",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-23",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP24",
+"image":"https://cms.dmpcdn.com/ugcarticle/2023/08/05/d7321840-33ac-11ee-9eb2-bbccea616fdd_webp_original.webp",
+"url": "https://www.123-hd.com/you-from-the-future-ep-24",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+]
+}
