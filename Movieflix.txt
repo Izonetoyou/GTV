@@ -20,19 +20,19 @@
 {
 "name": "หนังภาคต่อ",
 "image": "https://thumbs.dreamstime.com/b/movie-time-logo-white-background-movie-time-logo-white-background-135314604.jpg",
-"url": "https://drive.google.com/uc?export=download&id=1zwvnesHWVm4hhoENdnPRFaxq4ZKbZId_",
+"url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%95%E0%B9%88%E0%B8%AD.txt",
 "import": false
 },
 {
 "name": "Series",
 "image": "https://logos.flamingtext.com/Word-Logos/series-design-sketch-name.png",
-"url": "https://drive.google.com/uc?export=download&id=1Eh7lqE5IoMdSbXPKR3BPtNYGmpsbx1OZ",
+"url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/SeriesTV.txt",
 "import": false
 },
 {
 "name": "Cartoon Animation",
 "image": "https://play-lh.googleusercontent.com/n8YO5pES-6Rc586zMw4v4AdPG0Xin7od7kQ0k6Vuvfv6TVYgPMZ5UnGtLUzB3IB2fQ=w512",
-"url": "https://drive.google.com/uc?export=download&id=1DMIHOQtCuvj-lDRj-8GATweTts9BKhLk",
+"url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/Cartoon%20Animation.txt",
 "import": false
 },
 
