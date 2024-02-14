@@ -2,18 +2,18 @@
   "name": "AIGenerateMovie",
   "author": "Godzilla TV",
   "image": "https://som.edu.vn/wp-content/uploads/2022/11/tri-tue-nhan-tao-la-gi.jpg",
-  "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/AIGenerateMovie",
-  "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่                           อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
+  "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/AutoGenerateMovie",
+  "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่                           ่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
   "stations": [
     {
       "name": "The Thousand Faces of Dunshu 2 (2023) ผู้พิทักษ์หมัดเทวดา 2",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/02/The-Thousand-Faces-of-Dunshu-2-2023-ผู้ พิทักษ์หมัดเทวดา-2-300x450.png",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/02/The-Thousand-Faces-of-Dunshu-2-2023-ผู้ ้พิทักษ์หมัดเทวดา-2-300x450.png",
       "url": "https://www.123-hd.com/the-thousand-faces-of-dunshu-2",
       "import": false
     },
     {
       "name": "The Thousand Faces of Dunjia (2017) ผู้พิทักษ์หมัดเทวดา",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/01/The-Thousand-Faces-of-Dunjia-2017-ผู้พิ  ทักษ์หมัดเทวดา-300x450.png",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/01/The-Thousand-Faces-of-Dunjia-2017-ผู้พิ  ิทักษ์หมัดเทวดา-300x450.png",
       "url": "https://www.123-hd.com/the-thousand-faces-of-dunjia",
       "import": false
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "Don't Look at the Demon (2022) ฝรั่งเซ่นผี",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Dont-Look-at-the-Demon-2022-ฝรั่งเซ่นผี   -300x450.jpg",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Dont-Look-at-the-Demon-2022-ฝรั่งเซ่นผี   ี-300x450.jpg",
       "url": "https://www.123-hd.com/dont-look-at-the-demon",
       "import": false
     },
@@ -136,16 +136,14 @@
       "image": "https://www.123-hd.com/wp-content/uploads/2024/02/14-Again-I-Love-You-Two-Thousand-2023-14-อีกครั้ง-1-300x450.jpg",
       "url": "https://www.123-hd.com/14-again-i-love-you-two-thousand",
       "import": false
-    },
-    {
       "name": "Bad Social (2023) เกม / ล่า / ตาย",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Bad-Social-2023-เกม-ล่า-ตาย-1-300x450.jjpg",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Bad-Social-2023-เกม-ล่า-ตาย-1-300x450.jpg",
       "url": "https://www.123-hd.com/bad-social",
       "import": false
     },
     {
       "name": "The Roundup (2022) บู๊ระห่ำ ล่าล้างนรก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/08/The-Roundup-2022-บู๊ระห่ำ-ล่าล้างนรก-30    00x450.png",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/08/The-Roundup-2022-บู๊ระห่ำ-ล่าล้างนรก-300x450.png",
       "url": "https://www.123-hd.com/the-roundup",
       "import": false
     }
