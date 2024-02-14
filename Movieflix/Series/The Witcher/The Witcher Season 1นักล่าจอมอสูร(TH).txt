@@ -1,1 +1,73 @@
+{
+"name": "The Witcher Season 1:นักล่าจอมอสูร:(TH)",
+"author": "Godzilla TV",
+"image": "https://www.doofree88.com/storage/images/2020/2/U3RC6tWA6B4a7omuElftfU4mhA4PSNAxLLTLK89s.jpg",
+"url": "https://drive.google.com/uc?export=download&id=1ACsM1n0K12NW6nXRD_wBawhtWsmqGH6r",
 
+
+"stations": [
+
+{
+"name": "EP1",  
+"image": "https://www.doofree88.com/storage/images/2020/2/U3RC6tWA6B4a7omuElftfU4mhA4PSNAxLLTLK89s.jpg",  
+"url": "https://www.doofree88.com/movie/the-witcher-season-1%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%a5%e0%b9%88%e0%b8%b2%e0%b8%88%e0%b8%ad%e0%b8%a1%e0%b8%ad%e0%b8%aa%e0%b8%b9%e0%b8%a3-65xiADzsPj",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP2",  
+"image": "https://www.doofree88.com/storage/images/2020/2/U3RC6tWA6B4a7omuElftfU4mhA4PSNAxLLTLK89s.jpg",  
+"url": "https://www.doofree88.com/movie/the-witcher-season-1%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%a5%e0%b9%88%e0%b8%b2%e0%b8%88%e0%b8%ad%e0%b8%a1%e0%b8%ad%e0%b8%aa%e0%b8%b9%e0%b8%a3-0ArTKBYEnI",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP3",  
+"image": "https://www.doofree88.com/storage/images/2020/2/U3RC6tWA6B4a7omuElftfU4mhA4PSNAxLLTLK89s.jpg",  
+"url": "https://www.doofree88.com/movie/the-witcher-season-1%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%a5%e0%b9%88%e0%b8%b2%e0%b8%88%e0%b8%ad%e0%b8%a1%e0%b8%ad%e0%b8%aa%e0%b8%b9%e0%b8%a3-AL5YnPiQNm",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP4",  
+"image": "https://www.doofree88.com/storage/images/2020/2/U3RC6tWA6B4a7omuElftfU4mhA4PSNAxLLTLK89s.jpg",  
+"url": "https://www.doofree88.com/movie/the-witcher-season-1%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%a5%e0%b9%88%e0%b8%b2%e0%b8%88%e0%b8%ad%e0%b8%a1%e0%b8%ad%e0%b8%aa%e0%b8%b9%e0%b8%a3-D38Jgx5SVv",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP5",  
+"image": "https://www.doofree88.com/storage/images/2020/2/U3RC6tWA6B4a7omuElftfU4mhA4PSNAxLLTLK89s.jpg",  
+"url": "https://www.doofree88.com/movie/the-witcher-season-1%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%a5%e0%b9%88%e0%b8%b2%e0%b8%88%e0%b8%ad%e0%b8%a1%e0%b8%ad%e0%b8%aa%e0%b8%b9%e0%b8%a3-bMUbgNDfgQ",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP6",  
+"image": "https://www.doofree88.com/storage/images/2020/2/U3RC6tWA6B4a7omuElftfU4mhA4PSNAxLLTLK89s.jpg",  
+"url": "https://www.doofree88.com/movie/the-witcher-season-1%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%a5%e0%b9%88%e0%b8%b2%e0%b8%88%e0%b8%ad%e0%b8%a1%e0%b8%ad%e0%b8%aa%e0%b8%b9%e0%b8%a3-6cFGYCpotC",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EP7",  
+"image": "https://www.doofree88.com/storage/images/2020/2/U3RC6tWA6B4a7omuElftfU4mhA4PSNAxLLTLK89s.jpg",  
+"url": "https://www.doofree88.com/movie/the-witcher-season-1%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%a5%e0%b9%88%e0%b8%b2%e0%b8%88%e0%b8%ad%e0%b8%a1%e0%b8%ad%e0%b8%aa%e0%b8%b9%e0%b8%a3-RKYOwT5nIk",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EP8",  
+"image": "https://www.doofree88.com/storage/images/2020/2/U3RC6tWA6B4a7omuElftfU4mhA4PSNAxLLTLK89s.jpg",  
+"url": "https://www.doofree88.com/movie/the-witcher-season-1%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%a5%e0%b9%88%e0%b8%b2%e0%b8%88%e0%b8%ad%e0%b8%a1%e0%b8%ad%e0%b8%aa%e0%b8%b9%e0%b8%a3-gLpXdlIi1b",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+
+
+
+
+]
+}
