@@ -6,172 +6,164 @@
   "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้นเป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
   "stations": [
     {
-      "name": "The Thousand Faces of Dunshu 2 (2023) ผู้พิทักษ์หมัดเทวดา 2",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/02/The-Thousand-Faces-of-Dunshu-2-2023-ผู้พิทักษ์หมัดเทวดา-2-300x450.png",
-      "url": "https://www.123-hd.com/the-thousand-faces-of-dunshu-2",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "Star Abyss (2024) ห้วงเหวอวกาศ",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/star-abyss/"
     },
     {
-      "name": "The Thousand Faces of Dunjia (2017) ผู้พิทักษ์หมัดเทวดา",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/01/The-Thousand-Faces-of-Dunjia-2017-ผู้พิทักษ์หมัดเทวดา-300x450.png",
-      "url": "https://www.123-hd.com/the-thousand-faces-of-dunjia",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "ClearMind (2024)",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/clearmind/"
     },
     {
-      "name": "Bridge to Terabithia (2007) ทิราบีเตีย",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Bridge-to-Terabithia-2007-ทิราบีเตีย-สะพานมหัศจรรย์-300x450.jpg",
-      "url": "https://www.123-hd.com/bridge-to-terabithia",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "The Tiger’s Apprentice (2024)",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/the-tigers-apprentice/"
     },
     {
-      "name": "Sukdulan (2003)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Sukdulan-2003-300x450.jpg",
-      "url": "https://www.123-hd.com/sukdulan",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "Ashes (2024) เถ้าถ่าน",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/ashes/"
     },
     {
-      "name": "Eyes on Me (1999)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Eyes-on-Me-1999-300x450.jpg",
-      "url": "https://www.123-hd.com/eyes-on-me",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "Lover, Stalker, Killer (2024) คนรัก สตอล์กเกอร์ ฆาตกร",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/lover-stalker-killer/"
     },
     {
-      "name": "BHAKSHAK (2024) เปิดหน้ากากความจริง",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/BHAKSHAK-2024-เปิดหน้ากากความจริง-300x450.jpg",
-      "url": "https://www.123-hd.com/bhakshak",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "BHAKSHAK (2024) เปิดหน้ากากความจริง",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/bhakshak/"
     },
     {
-      "name": "Cult Killer (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Cult-Killer-2024-300x450.jpg",
-      "url": "https://www.123-hd.com/cult-killer",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "Takas (2024) ทากัส",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/takas/"
     },
     {
-      "name": "Birthright Outlaw (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Birthright-Outlaw-2023-300x450.jpg",
-      "url": "https://www.123-hd.com/birthright-outlaw",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "Mster Qianhe (2024) นักพรตเชียนเฮ่อ",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/mster-qianhe/"
     },
     {
-      "name": "Don't Look at the Demon (2022) ฝรั่งเซ่นผี",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Dont-Look-at-the-Demon-2022-ฝรั่งเซ่นผี-300x450.jpg",
-      "url": "https://www.123-hd.com/dont-look-at-the-demon",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "Mermaid (2024) ตำนานรักเงือกมนุษย์",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/mermaid/"
     },
     {
-      "name": "The Lesson (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Lesson-2023-300x450.jpg",
-      "url": "https://www.123-hd.com/the-lesson",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "SnowStorm (2024) วิกฤตพายุหิมะ",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/snowstorm/"
     },
     {
-      "name": "Suncoast (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Suncoast-2024-300x450.jpg",
-      "url": "https://www.123-hd.com/suncoast",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "Orion and the Dark (2024) โอไรออนท่องแดนมหัศจรรย์รัตติกาล",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/orion-and-the-dark/"
     },
     {
-      "name": "American Fiction (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/American-Fiction-2023-300x450.jpg",
-      "url": "https://www.123-hd.com/american-fiction",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "The Land of Women (2024) ในแดนราชินี",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/the-land-of-women/"
     },
     {
-      "name": "Nai Nai & Wai Po (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Nai-Nai-Wai-Po-2023-300x450.jpg",
-      "url": "https://www.123-hd.com/nai-nai-wai-po",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "WIL (2024) วิล",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/wil/"
     },
     {
-      "name": "Takas (2024) ทากัส",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Takas-2024-ทากัส-300x450.jpg",
-      "url": "https://www.123-hd.com/takas",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "E-Sarn Tootsie Part 2 (2024) อีสานตุ๊ดซี่ ภาค 2",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/e-sarn-tootsie-part-2/"
     },
     {
-      "name": "Creation of the Gods I Kingdom of Storms (2023) กําเนิดพระเจ้า อาณาจักรแห่งพายุ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Creation-of-the-Gods-I-Kingdom-of-Storms-2023-กําเนิดพระเจ้า-อาณาจักรแห่งพายุ-300x450.jpg",
-      "url": "https://www.123-hd.com/creation-of-the-gods-i-kingdom-of-storms",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "E-Sarn Tootsie Part 1 (2024) อีสานตุ๊ดซี่ ภาค 1",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/e-sarn-tootsie-part-1/"
     },
     {
-      "name": "I.S.S. (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/I-S-S-2023-300x450.jpg",
-      "url": "https://www.123-hd.com/i-s-s",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "The God Lei Zhenzi (2024) เทพเหลยเจิ้นจื่อ",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/the-god-lei-zhenzi/"
     },
     {
-      "name": "Upgraded (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Upgraded-2024-300x450.jpg",
-      "url": "https://www.123-hd.com/upgraded",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "The Story of Yuan Tiangang (2024) ยุทธจักรของคนเลว",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/the-story-of-yuan-tiangang/"
     },
     {
-      "name": "The Last Wife (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Last-Wife-2023-300x450.jpg",
-      "url": "https://www.123-hd.com/the-last-wife",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "The Legend of Bayi’s Grandpa (2024) เรื่องประหลาดฉางเล่อ",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/the-legend-of-bayis-grandpa/"
     },
     {
-      "name": "The Undertaker (2023) สัปเหร่อ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Undertaker-2023-สัปเหร่อ-1-300x450.jpg",
-      "url": "https://www.123-hd.com/the-undertaker",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "Pantasya ni Tami (2024) ปันตาสยา นิ ทามี",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/pantasya-ni-tami/"
     },
     {
-      "name": "Mster Qianhe (2024) นักพรตเชียนเฮ่อ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Mster-Qianhe-2024-นักพรตเชียนเฮ่อ-300x450.jpg",
-      "url": "https://www.123-hd.com/mster-qianhe",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "Sit Down with Stand Up Udom Taephanich (2024) ซิทดาวน์ วิท สแตนด์อัพ อุดม แต้พานิช",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/sit-down-with-stand-up-udom-taephanich/"
     },
     {
-      "name": "Dilig (2024) ดิลิก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Dilig-2024-ดิลิก-300x450.jpg",
-      "url": "https://www.123-hd.com/dilig",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "Trunk Locked In (2024) ขังตายท้ายรถ",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/trunk-locked-in/"
     },
     {
-      "name": "14 Again I Love You Two Thousand (2023) 14 อีกครั้ง",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/14-Again-I-Love-You-Two-Thousand-2023-14-อีกครั้ง-1-300x450.jpg",
-      "url": "https://www.123-hd.com/14-again-i-love-you-two-thousand",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "Badland Hunters (2024) นักล่ากลางนรก",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/badland-hunters/"
     },
     {
-      "name": "Bad Social (2023) เกม / ล่า / ตาย",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Bad-Social-2023-เกม-ล่า-ตาย-1-300x450.jpg",
-      "url": "https://www.123-hd.com/bad-social",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "Desperado (2024) อาชญากรระห่ำ",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/desperado/"
     },
     {
-      "name": "The Roundup (2022) บู๊ระห่ำ ล่าล้างนรก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/08/The-Roundup-2022-บู๊ระห่ำ-ล่าล้างนรก-300x450.png",
-      "url": "https://www.123-hd.com/the-roundup",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "title": "Palipat-lipat Papalit-palit (2024)",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/palipat-lipat-papalit-palit/"
+    },
+    {
+      "title": "60 Minuten (2024) 60 นาที",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/60-minuten/"
+    },
+    {
+      "title": "The Kitchen (2024) เดอะ คิทเช่น",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/the-kitchen/"
+    },
+    {
+      "title": "From the Ashes (2024) จากเถ้าถ่าน",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/from-the-ashes/"
+    },
+    {
+      "title": "Xio Hua Xie Qi An (2024) คดีประหลาดรองเท้าปัก",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/xio-hua-xie-qi-an/"
+    },
+    {
+      "title": "Room Service (2024) รูมเซอร์วิส",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/room-service/"
+    },
+    {
+      "title": "Maboroshi (2024) มาโบโรชิ",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/maboroshi/"
+    },
+    {
+      "title": "Karinyo Brutal (2024) คารินโย บรูทัล",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/karinyo-brutal/"
+    },
+    {
+      "title": "Lift (2024) ปล้นเหนือเมฆ",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20465'%3E%3C/svg%3E",
+      "movie_url": "https://www.24-hd.com/lift/"
     }
   ]
 }
