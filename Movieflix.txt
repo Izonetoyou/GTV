@@ -35,6 +35,12 @@
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/Cartoon%20Animation.txt",
 "import": false
 },
+{
+"name": "AutoGenerateMovie",
+"image": "https://cdn4.vectorstock.com/i/1000x1000/40/83/generate-ideas-business-wit-vector-18254083.jpg",
+"url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/AutoGenerateMovie",
+"import": false
+},
 
 	
 ]
