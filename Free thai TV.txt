@@ -13,19 +13,19 @@
 {
 "name": "3 HD",  
 "image": "https://cms.dmpcdn.com/livetv/2020/06/23/c93cf2c0-b54f-11ea-8fac-236a281cd6c5_320.png",  
-"url": "https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8",
+"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8",
 "info": "Godzilla TV"
 },
 {
 "name": "7 HD",  
 "image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2F1b6b5ad2-a97c-4935-886a-bc6c60073f67.png&w=320&h=240",  
-"url": "https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8",
+"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8",
 "info": "Godzilla TV"
 },
 {
 "name": "MCOT HD",  
 "image": "https://yt3.ggpht.com/ytc/AKedOLS6_YIrrfW7O0TUvKTieodsA2TH5dNCfbduoknbpA=s900-c-k-c0x00ffffff-no-rj",  
-"url": "https://tc-live1.sanook.com/live/22302_ch9.m3u8",
+"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8",
 "info": "Godzilla TV"
 },
 {
