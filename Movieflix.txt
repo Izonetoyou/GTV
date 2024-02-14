@@ -37,7 +37,7 @@
 },
 {
 "name": "AI Generate Movie",
-"image": "https://som.edu.vn/wp-content/uploads/2022/11/tri-tue-nhan-tao-la-gi.jpg",
+"image": "https://images.newscientist.com/wp-content/uploads/2023/03/21105741/SEI_1485349141.jpg?width=1200",
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/AIGenerateMovie",
 "import": false
 },
