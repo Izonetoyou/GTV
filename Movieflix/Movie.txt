@@ -32,7 +32,7 @@
 "name": "The Childe (2023) เทพบุตร ล่านรก",  
 "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Childe-2023-%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81-300x450.jpg",  
 "url": "https://www.123-hd.com/the-childe",
-"userAgent": "exoplayer_video",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
 "playInNatPlayer": "true"
 },
 {
