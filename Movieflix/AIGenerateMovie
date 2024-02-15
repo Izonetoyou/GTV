@@ -11,7 +11,7 @@
       "url": "https://www.24-hd.com/star-abyss/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "ClearMind (2024)",
@@ -19,7 +19,7 @@
       "url": "https://www.24-hd.com/clearmind/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "The Tiger’s Apprentice (2024)",
@@ -27,7 +27,7 @@
       "url": "https://www.24-hd.com/the-tigers-apprentice/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "Ashes (2024) เถ้าถ่าน",
@@ -35,7 +35,7 @@
       "url": "https://www.24-hd.com/ashes/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "Lover, Stalker, Killer (2024) คนรัก สตอล์กเกอร์ ฆาตกร",
@@ -43,7 +43,7 @@
       "url": "https://www.24-hd.com/lover-stalker-killer/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "BHAKSHAK (2024) เปิดหน้ากากความจริง",
@@ -51,7 +51,7 @@
       "url": "https://www.24-hd.com/bhakshak/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "Takas (2024) ทากัส",
@@ -59,7 +59,7 @@
       "url": "https://www.24-hd.com/takas/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "Mster Qianhe (2024) นักพรตเชียนเฮ่อ",
@@ -67,7 +67,7 @@
       "url": "https://www.24-hd.com/mster-qianhe/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "Mermaid (2024) ตำนานรักเงือกมนุษย์",
@@ -75,7 +75,7 @@
       "url": "https://www.24-hd.com/mermaid/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "SnowStorm (2024) วิกฤตพายุหิมะ",
@@ -83,7 +83,7 @@
       "url": "https://www.24-hd.com/snowstorm/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "Orion and the Dark (2024) โอไรออนท่องแดนมหัศจรรย์รัตติกาล",
@@ -91,7 +91,7 @@
       "url": "https://www.24-hd.com/orion-and-the-dark/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "The Land of Women (2024) ในแดนราชินี",
@@ -99,7 +99,7 @@
       "url": "https://www.24-hd.com/the-land-of-women/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "WIL (2024) วิล",
@@ -107,7 +107,7 @@
       "url": "https://www.24-hd.com/wil/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "E-Sarn Tootsie Part 2 (2024) อีสานตุ๊ดซี่ ภาค 2",
@@ -115,7 +115,7 @@
       "url": "https://www.24-hd.com/e-sarn-tootsie-part-2/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "E-Sarn Tootsie Part 1 (2024) อีสานตุ๊ดซี่ ภาค 1",
@@ -123,7 +123,7 @@
       "url": "https://www.24-hd.com/e-sarn-tootsie-part-1/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "The God Lei Zhenzi (2024) เทพเหลยเจิ้นจื่อ",
@@ -131,7 +131,7 @@
       "url": "https://www.24-hd.com/the-god-lei-zhenzi/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "The Story of Yuan Tiangang (2024) ยุทธจักรของคนเลว",
@@ -139,7 +139,7 @@
       "url": "https://www.24-hd.com/the-story-of-yuan-tiangang/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "The Legend of Bayi’s Grandpa (2024) เรื่องประหลาดฉางเล่อ",
@@ -147,7 +147,7 @@
       "url": "https://www.24-hd.com/the-legend-of-bayis-grandpa/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "Pantasya ni Tami (2024) ปันตาสยา นิ ทามี",
@@ -155,7 +155,7 @@
       "url": "https://www.24-hd.com/pantasya-ni-tami/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "Sit Down with Stand Up Udom Taephanich (2024) ซิทดาวน์ วิท สแตนด์อัพ อุดม แต้พานิช",
@@ -163,7 +163,7 @@
       "url": "https://www.24-hd.com/sit-down-with-stand-up-udom-taephanich/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "Trunk Locked In (2024) ขังตายท้ายรถ",
@@ -171,7 +171,7 @@
       "url": "https://www.24-hd.com/trunk-locked-in/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "Badland Hunters (2024) นักล่ากลางนรก",
@@ -179,7 +179,7 @@
       "url": "https://www.24-hd.com/badland-hunters/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "Desperado (2024) อาชญากรระห่ำ",
@@ -187,7 +187,7 @@
       "url": "https://www.24-hd.com/desperado/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "Palipat-lipat Papalit-palit (2024)",
@@ -195,7 +195,7 @@
       "url": "https://www.24-hd.com/palipat-lipat-papalit-palit/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "60 Minuten (2024) 60 นาที",
@@ -203,7 +203,7 @@
       "url": "https://www.24-hd.com/60-minuten/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "The Kitchen (2024) เดอะ คิทเช่น",
@@ -211,7 +211,7 @@
       "url": "https://www.24-hd.com/the-kitchen/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "From the Ashes (2024) จากเถ้าถ่าน",
@@ -219,7 +219,7 @@
       "url": "https://www.24-hd.com/from-the-ashes/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "Xio Hua Xie Qi An (2024) คดีประหลาดรองเท้าปัก",
@@ -227,7 +227,7 @@
       "url": "https://www.24-hd.com/xio-hua-xie-qi-an/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "Room Service (2024) รูมเซอร์วิส",
@@ -235,7 +235,7 @@
       "url": "https://www.24-hd.com/room-service/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "Maboroshi (2024) มาโบโรชิ",
@@ -243,7 +243,7 @@
       "url": "https://www.24-hd.com/maboroshi/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "Karinyo Brutal (2024) คารินโย บรูทัล",
@@ -251,7 +251,7 @@
       "url": "https://www.24-hd.com/karinyo-brutal/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     },
     {
       "name": "Lift (2024) ปล้นเหนือเมฆ",
@@ -259,7 +259,7 @@
       "url": "https://www.24-hd.com/lift/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "import": "True"
+      "playInNatPlayer": "True"
     }
   ]
 }
