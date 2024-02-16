@@ -10,7 +10,7 @@
 {
 "name": "STEVE JOBS (2015) สตีฟ จ็อบส์",
 "image": "https://www.i-moviehd.com/wp-content/uploads/2019/11/Steve-Jobs-2015-%E0%B8%AA%E0%B8%95%E0%B8%B5%E0%B8%9F-%E0%B8%88%E0%B9%87%E0%B8%AD%E0%B8%9A%E0%B8%AA%E0%B9%8C.png",
-"url": "https://www.bilibili.tv/th/video/2047522576",
+"url": "https://www.youtube.com/watch?v=rs0zHjBJyYc",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
 "playInNatPlayer": "true"
 },
