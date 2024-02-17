@@ -9,13 +9,13 @@
 "groups": [
 
 {
-"name": "MOVIE FLIX",
+"name": "MOVIE FLIX 🍿",
 "image": "https://newssow.com/wp-content/uploads/2021/07/moviesflix.png",
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix.txt",
 "import": false
 },
 {
-"name": "Thai TV",
+"name": "Thai TV 📺",
 "image": "https://image.winudf.com/v2/image/Y29tLnN1d2F0c2oudGhhaXR2cHJvMjU2MV9zY3JlZW5fMF8xNTMwNzg0ODExXzA5Mw/screen-0.jpg?fakeurl=1&type=.jpg",
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Free%20thai%20TV.txt",
 "import": false
@@ -27,19 +27,19 @@
 "import": false
 },
 {
-"name": "Sports TV",
+"name": "Sports TV 🏅",
 "image": "https://cdn.digitbin.com/wp-content/uploads/Live-TV-Sports-for-Android.png",
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/SportTV.txt",
 "import": false
 },
 {
-"name": "Discovery TV",
+"name": "Discovery TV 🌍",
 "image": "https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_320.png",
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/DiscoveryTV.txt",
 "import": false
 },
 {
-"name": "KIDS TV",
+"name": "KIDS TV 👦",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRijX04JzTg1tid1MV5KkEvldG7Wdj7Jox96Q&usqp=CAU",
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/KIDS.txt",
 "import": false
