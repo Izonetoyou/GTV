@@ -6,6 +6,13 @@
   "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้นเป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
   "stations": [
     {
+      "name": "Air Force One Down (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Air-Force-One-Down-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/air-force-one-down/",
+      "referer": "https://www.24-hd.com/",
+      "import": false
+    },
+    {
       "name": "The Longcheng Mystery Case (2024) ความลับเมืองหลงเฉิง",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/02/The-Longcheng-Mystery-Case-2024-ความลับเมืองหลงเฉิง-187x269.jpg",
       "url": "https://www.24-hd.com/the-longcheng-mystery-case/",
@@ -219,13 +226,6 @@
       "name": "Maboroshi (2024) มาโบโรชิ",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/01/Maboroshi-2024-มาโบโรชิ-187x269.jpg",
       "url": "https://www.24-hd.com/maboroshi/",
-      "referer": "https://www.24-hd.com/",
-      "import": false
-    },
-    {
-      "name": "Karinyo Brutal (2024) คารินโย บรูทัล",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/01/Karinyo-Brutal-2024-คารินโย-บรูทัล-187x269.jpg",
-      "url": "https://www.24-hd.com/karinyo-brutal/",
       "referer": "https://www.24-hd.com/",
       "import": false
     }
