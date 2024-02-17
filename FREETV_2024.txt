@@ -44,5 +44,11 @@
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/KIDS.txt",
 "import": false
 },
+{
+"name": "สนับสนุนค่ากาแฟติดต่อแอดมิน",
+"image": "",
+"url": "",
+"import": false
+},
 ]
 }
