@@ -1,6 +1,6 @@
 {
-"name": "🎞🎞 Happy new year 2024 🎞🎞 ",
-"author": "By Godzilla TV ",
+"name": "🤖 GTV 2024 🤖",
+"author": "By Godzilla TV",
 "image": "https://www.shutterstock.com/image-vector/happy-new-year-2024-number-260nw-2307835093.jpg",
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/FREETV_2024.txt",
 "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
