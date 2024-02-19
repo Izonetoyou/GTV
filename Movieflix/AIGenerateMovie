@@ -6,6 +6,14 @@
   "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้นเป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
   "stations": [
     {
+      "name": "Madame Web (2024) มาดามเว็บ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Madame-Web-2024-มาดามเว็บ-187x269.jpg",
+      "url": "https://www.24-hd.com/madame-web/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "The Undertaker (2023) สัปเหร่อ",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/02/The-Undertaker-2023-สัปเหร่อ-187x269.jpg",
       "url": "https://www.24-hd.com/the-undertaker/",
@@ -54,17 +62,73 @@
       "playInNatPlayer": "True"
     },
     {
-      "name": "Sit Down with Stand Up Udom Taephanich (2024) ซิทดาวน์ วิท สแตนด์อัพ อุดม แต้พานิช",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/01/Sit-Down-with-Stand-Up-Udom-Taephanich-2024-ซิทดาวน์-วิท-สแตนด์อัพ-อุดม-แต้พานิช-187x269.jpg",
-      "url": "https://www.24-hd.com/sit-down-with-stand-up-udom-taephanich/",
+      "name": "4 Kings 2 (2023)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/01/4-Kings-2-2023-187x269.jpg",
+      "url": "https://www.24-hd.com/4-kings-2/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "4 Kings 2 (2023)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/01/4-Kings-2-2023-187x269.jpg",
-      "url": "https://www.24-hd.com/4-kings-2/",
+      "name": "Madame Web (2024) มาดามเว็บ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Madame-Web-2024-มาดามเว็บ-187x269.jpg",
+      "url": "https://www.24-hd.com/madame-web/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Bridge Curse Ritual (2023) โรงเรียนผีเฮี้ยน",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/The-Bridge-Curse-Ritual-2023-โรงเรียนผีเฮี้ยน-187x269.jpg",
+      "url": "https://www.24-hd.com/the-bridge-curse-ritual/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Players (2024) เลิกเล่นมาเริ่มรัก",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Players-2024-เลิกเล่นมาเริ่มรัก-187x269.jpg",
+      "url": "https://www.24-hd.com/players-2024-%e0%b9%80%e0%b8%a5%e0%b8%b4%e0%b8%81%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%a3%e0%b8%b4%e0%b9%88%e0%b8%a1%e0%b8%a3%e0%b8%b1%e0%b8%81/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Heartbreak Agency (2024) คลินิกบำบัดไข้ใจ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/The-Heartbreak-Agency-2024-คลินิกบำบัดไข้ใจ-187x269.jpg",
+      "url": "https://www.24-hd.com/the-heartbreak-agency/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "As If It’s True (2023)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/As-If-Its-True-2023-187x269.jpg",
+      "url": "https://www.24-hd.com/as-if-its-true/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Lost in Perfection (2023)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Lost-in-Perfection-2023-187x269.jpg",
+      "url": "https://www.24-hd.com/lost-in-perfection/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Last Breath of Sam Yan (2023)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/The-Last-Breath-of-Sam-Yan-2023-187x269.jpg",
+      "url": "https://www.24-hd.com/the-last-breath-of-sam-yan/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "On Top (2023)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/On-Top-2023-187x269.jpg",
+      "url": "https://www.24-hd.com/on-top/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -89,6 +153,46 @@
       "name": "How To Have Sex (2023) ซิงนั้นสำคัญไฉน",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/02/How-To-Have-Sex-2023-ซิงนั้นสำคัญไฉน-187x269.jpg",
       "url": "https://www.24-hd.com/how-to-have-sex/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "War for the Planet of the Apes (2017) มหาสงครามพิภพวานร",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/11/War-for-the-Planet-of-the-Apes-2017-มหาสงครามพิภพวานร-187x269.jpg",
+      "url": "https://www.24-hd.com/war-for-the-planet-of-the-apes/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Dawn of the Planet of the Apes (2014) รุ่งอรุณแห่งพิภพวานร",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/11/Dawn-of-the-Planet-of-the-Apes-2014-รุ่งอรุณแห่งพิภพวานร-187x269.jpg",
+      "url": "https://www.24-hd.com/dawn-of-the-planet-of-the-apes/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Rise of the Planet of the Apes (2011) กำเนิดพิภพวานร",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/11/Rise-of-the-Planet-of-the-Apes-2011-กำเนิดพิภพวานร-187x269.png",
+      "url": "https://www.24-hd.com/rise-of-the-planet-of-the-apes/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Planet of the Apes (2001) พิภพวานร",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/11/Planet-of-the-Apes-2001-พิภพวานร-187x269.png",
+      "url": "https://www.24-hd.com/planet-of-the-apes-2001/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Planet of the Apes (1968) บุกพิภพมนุษย์วานร",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/11/Planet-of-the-Apes-1968-บุกพิภพมนุษย์วานร-187x269.png",
+      "url": "https://www.24-hd.com/planet-of-the-apes/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -185,110 +289,6 @@
       "name": "In the Land of Saints and Sinners (2023)",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/02/In-the-Land-of-Saints-and-Sinners-2023-187x269.jpg",
       "url": "https://www.24-hd.com/in-the-land-of-saints-and-sinners/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Meteor (2004) อุกกาบาต",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/The-Meteor-2004-อุกกาบาต-187x269.jpg",
-      "url": "https://www.24-hd.com/the-meteor/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Stars at Noon (2022)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Stars-at-Noon-2022-187x269.jpg",
-      "url": "https://www.24-hd.com/stars-at-noon/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Deadpool 2 (2018) เดดพูล 2",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Deadpool-2-2018-เดดพูล-2-187x269.jpg",
-      "url": "https://www.24-hd.com/deadpool-2/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Deadpool (2016) เดดพูล",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Deadpool-2016-เดดพูล-187x269.jpg",
-      "url": "https://www.24-hd.com/deadpool/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Mai Ga Mom (2011) ใหม่กะหม่ำ โดนกะโดน",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Mai-Ga-Mom-2011-ใหม่กะหม่ำ-โดนกะโดน-187x269.jpg",
-      "url": "https://www.24-hd.com/mai-ga-mom/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Life (2017) สายพันธุ์มฤตยู",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/04/Life-2017-สายพันธุ์มฤตยู-187x269.jpg",
-      "url": "https://www.24-hd.com/life/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Ride On (2023) ควบสู้ฟัด",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/06/Ride-On-2023-ควบสู้ฟัด-187x269.jpg",
-      "url": "https://www.24-hd.com/ride-on/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Speak No Evil (2022) พักร้อนซ่อนตาย",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/10/Speak-No-Evil-2022-พักร้อนซ่อนตาย-187x269.jpg",
-      "url": "https://www.24-hd.com/speak-no-evil/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Star Abyss (2024) ห้วงเหวอวกาศ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Star-Abyss-2024-ห้วงเหวอวกาศ-187x269.jpg",
-      "url": "https://www.24-hd.com/star-abyss/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "ClearMind (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/ClearMind-2024-187x269.jpg",
-      "url": "https://www.24-hd.com/clearmind/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Tiger’s Apprentice (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/The-Tigers-Apprentice-2024-1-187x269.jpg",
-      "url": "https://www.24-hd.com/the-tigers-apprentice/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Canterville Ghost (2023)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/The-Canterville-Ghost-2023-187x269.jpg",
-      "url": "https://www.24-hd.com/the-canterville-ghost/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Parasyte Part 2 (2015) ปรสิต 2",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Parasyte-Part-2-2015-ปรสิต-2-187x269.jpg",
-      "url": "https://www.24-hd.com/parasyte-part-2/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
