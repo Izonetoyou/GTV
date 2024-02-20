@@ -4,8 +4,6 @@
 "image": "https://img.freepik.com/free-vector/colorful-movie-logo_18099-26.jpg",
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/New%20Movie.txt",
 "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
-
-
 "stations":[
 {
 "name": "Argylle (2024) อาร์ไกล์ ยอดสายลับ",
@@ -27,7 +25,6 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
 "playInNatPlayer": "true"
 },
-
 {
 "name": "One More Shot (2024)",
 "image":"https://www.123-hd.com/wp-content/uploads/2024/01/One-More-Shot-2024-300x450.jpg",
@@ -723,6 +720,5 @@
 "referer": "https://www.24-hd.com/",
 "playInNatPlayer": "true"
 },
-
 ]
 }
