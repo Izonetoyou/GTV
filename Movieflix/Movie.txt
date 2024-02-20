@@ -7,13 +7,7 @@
 
 
 "stations":[
-{
-"name": "STEVE JOBS (2015) สตีฟ จ็อบส์",
-"image": "https://www.i-moviehd.com/wp-content/uploads/2019/11/Steve-Jobs-2015-%E0%B8%AA%E0%B8%95%E0%B8%B5%E0%B8%9F-%E0%B8%88%E0%B9%87%E0%B8%AD%E0%B8%9A%E0%B8%AA%E0%B9%8C.png",
-"url": "https://www.youtube.com/watch?v=rs0zHjBJyYc",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
-"playInNatPlayer": "true"
-},
+
 {
 "name": "A Quiet Place Part II(2021)",
 "image": "https://www.123-hd.com/wp-content/uploads/2023/01/A-Quiet-Place-Part-II-2021-%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87-2-300x450.png",
