@@ -2,7 +2,7 @@
 "name": "New Movie",
 "author": "Godzilla TV",
 "image": "https://img.freepik.com/free-vector/colorful-movie-logo_18099-26.jpg",
-"url": "https://drive.google.com/uc?export=download&id=1pSb2xbyJqo93Tn-76xOtz8ty3mNY82RO",
+"url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/New%20Movie.txt",
 "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
 
 
