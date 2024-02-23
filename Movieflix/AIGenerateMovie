@@ -6,6 +6,22 @@
   "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้นเป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
   "stations": [
     {
+      "name": "Avatar The Last Airbender (2024) เณรน้อยเจ้าอภินิหาร",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Avatar-The-Last-Airbender-2024-เณรน้อยเจ้าอภินิหาร-187x269.jpg",
+      "url": "https://www.24-hd.com/avatar-the-last-airbender/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Mantra Warrior The Legend of the Eight Moons (2024) นักรบมนตรา ตำนานแปดดวงจันทร์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Mantra-Warrior-The-Legend-of-the-Eight-Moons-2024-นักรบมนตรา-ตำนานแปดดวงจันทร์-187x269.jpg",
+      "url": "https://www.24-hd.com/mantra-warrior-the-legend-of-the-eight-moons/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Madame Web (2024) มาดามเว็บ",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Madame-Web-2024-มาดามเว็บ-187x269.jpg",
       "url": "https://www.24-hd.com/madame-web/",
@@ -38,14 +54,6 @@
       "playInNatPlayer": "True"
     },
     {
-      "name": "E-Sarn Tootsie Part 2 (2024) อีสานตุ๊ดซี่ ภาค 2",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/E-Sarn-Tootsie-Part-2-2024-อีสานตุ๊ดซี่-ภาค-2-187x269.jpg",
-      "url": "https://www.24-hd.com/e-sarn-tootsie-part-2/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
       "name": "E-Sarn Tootsie Part 1 (2024) อีสานตุ๊ดซี่ ภาค 1",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/01/E-Sarn-Tootsie-Part-1-2024-อีสานตุ๊ดซี่-ภาค-1-187x269.jpg",
       "url": "https://www.24-hd.com/e-sarn-tootsie-part-1/",
@@ -54,17 +62,81 @@
       "playInNatPlayer": "True"
     },
     {
-      "name": "The Beekeeper (2024) นรกเรียกพ่อ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/01/The-Beekeeper-2024-นรกเรียกพ่อ-187x269.jpg",
-      "url": "https://www.24-hd.com/the-beekeeper/",
+      "name": "4 Kings 2 (2023)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/01/4-Kings-2-2023-187x269.jpg",
+      "url": "https://www.24-hd.com/4-kings-2/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "4 Kings 2 (2023)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/01/4-Kings-2-2023-187x269.jpg",
-      "url": "https://www.24-hd.com/4-kings-2/",
+      "name": "Avatar The Last Airbender (2024) เณรน้อยเจ้าอภินิหาร",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Avatar-The-Last-Airbender-2024-เณรน้อยเจ้าอภินิหาร-187x269.jpg",
+      "url": "https://www.24-hd.com/avatar-the-last-airbender/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Kun In The Distant Ocean (2024) คุน สัตว์ประหลาดแห่งทะเลเหนือ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Kun-In-The-Distant-Ocean-2024-คุน-สัตว์ประหลาดแห่งทะเลเหนือ-187x269.jpg",
+      "url": "https://www.24-hd.com/kun-in-the-distant-ocean/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Midnight Movie (2024) หนังรอบดึก",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Midnight-Movie-2024-หนังรอบดึก-187x269.jpg",
+      "url": "https://www.24-hd.com/midnight-movie/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Mantra Warrior The Legend of the Eight Moons (2024) นักรบมนตรา ตำนานแปดดวงจันทร์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Mantra-Warrior-The-Legend-of-the-Eight-Moons-2024-นักรบมนตรา-ตำนานแปดดวงจันทร์-187x269.jpg",
+      "url": "https://www.24-hd.com/mantra-warrior-the-legend-of-the-eight-moons/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Magic Lotus Lantern (2021) ตำนานรักโคมสวรรค์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/The-Magic-Lotus-Lantern-2021-ตำนานรักโคมสวรรค์-187x269.jpg",
+      "url": "https://www.24-hd.com/the-magic-lotus-lantern/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Coffin Mountain Ancient Tomb (2022) ล่าขุมทรัพย์ สุสานโบราณ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Coffin-Mountain-Ancient-Tomb-2022-ล่าขุมทรัพย์-สุสานโบราณ-187x269.jpg",
+      "url": "https://www.24-hd.com/coffin-mountain-ancient-tomb/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Love in an Old Album (2023) ปราณี",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Love-in-an-Old-Album-2023-ปราณี-187x269.jpg",
+      "url": "https://www.24-hd.com/love-in-an-old-album/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Journey To Aunt’s House (2019) ห่อหมกฮวกไปฝากป้า",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Journey-To-Aunts-House-2019-ห่อหมกฮวกไปฝากป้า-187x269.jpg",
+      "url": "https://www.24-hd.com/journey-to-aunts-house/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Love for Life (2011)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Love-for-Life-2011-187x269.jpg",
+      "url": "https://www.24-hd.com/love-for-life/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -217,78 +289,6 @@
       "name": "Einstein and the Bomb (2024) ไอน์สไตน์และระเบิด",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Einstein-and-the-Bomb-2024-ไอน์สไตน์และระเบิด-187x269.jpg",
       "url": "https://www.24-hd.com/einstein-and-the-bomb/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Champions (2023)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Champions-2023-187x269.jpg",
-      "url": "https://www.24-hd.com/champions/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Whale (2022) เหงา เท่า วาฬ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/02/The-Whale-2022-เหงา-เท่า-วาฬ-187x269.jpg",
-      "url": "https://www.24-hd.com/the-whale/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Sucker Punch (2011) อีหนูดุทะลุโลก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/08/Sucker-Punch-2011-อีหนูดุทะลุโลก-187x269.jpg",
-      "url": "https://www.24-hd.com/sucker-punch/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "SuckSeed (2011) ห่วยขั้นเทพ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/SuckSeed-2011-ห่วยขั้นเทพ-187x269.jpg",
-      "url": "https://www.24-hd.com/suckseed/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Madame Web (2024) มาดามเว็บ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Madame-Web-2024-มาดามเว็บ-187x269.jpg",
-      "url": "https://www.24-hd.com/madame-web/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Bridge Curse Ritual (2023) โรงเรียนผีเฮี้ยน",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/The-Bridge-Curse-Ritual-2023-โรงเรียนผีเฮี้ยน-187x269.jpg",
-      "url": "https://www.24-hd.com/the-bridge-curse-ritual/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Players (2024) เลิกเล่นมาเริ่มรัก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Players-2024-เลิกเล่นมาเริ่มรัก-187x269.jpg",
-      "url": "https://www.24-hd.com/players/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Heartbreak Agency (2024) คลินิกบำบัดไข้ใจ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/The-Heartbreak-Agency-2024-คลินิกบำบัดไข้ใจ-187x269.jpg",
-      "url": "https://www.24-hd.com/the-heartbreak-agency/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "As If It’s True (2023)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/As-If-Its-True-2023-187x269.jpg",
-      "url": "https://www.24-hd.com/as-if-its-true/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
