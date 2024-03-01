@@ -70,6 +70,22 @@
       "playInNatPlayer": "True"
     },
     {
+      "name": "My Name Is Loh Kiwan (2024) ผมชื่อโรกีวาน",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/My-Name-Is-Loh-Kiwan-2024-ผมชื่อโรกีวาน-187x269.jpg",
+      "url": "https://www.24-hd.com/my-name-is-loh-kiwan/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Parades (2024) เดอะ พาเหรด",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Parades-2024-เดอะ-พาเหรด-187x269.jpg",
+      "url": "https://www.24-hd.com/the-parades/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "ManSuang (2023) แมนสรวง",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/ManSuang-2023-แมนสรวง-187x269.jpg",
       "url": "https://www.24-hd.com/mansuang/",
@@ -273,22 +289,6 @@
       "name": "We Best Love (2021)",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/02/We-Best-Love-2021-187x269.jpg",
       "url": "https://www.24-hd.com/we-best-love/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "LEGO Jurassic Park The Unofficial Retelling (2023)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/LEGO-Jurassic-Park-The-Unofficial-Retelling-2023-187x269.jpg",
-      "url": "https://www.24-hd.com/lego-jurassic-park-the-unofficial-retelling/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Mama’s Boy (2022)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Mamas-Boy-2022-187x269.jpg",
-      "url": "https://www.24-hd.com/mamas-boy/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
