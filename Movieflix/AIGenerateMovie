@@ -6,172 +6,292 @@
   "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้นเป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
   "stations": [
     {
+      "name": "Dune Part Two (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/dune-part-two/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "ManSuang (2023) แมนสรวง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/ManSuang-2023-แมนสรวง-187x269.jpg",
+      "url": "https://www.24-hd.com/mansuang/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Land of Bad (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Land-of-Bad-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/land-of-bad/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Moscow Mission (2023) ภารกิจท้านรก",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Moscow-Mission-2023-ภารกิจท้านรก-187x269.jpg",
+      "url": "https://www.24-hd.com/moscow-mission/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Avatar The Last Airbender (2024) เณรน้อยเจ้าอภินิหาร",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Avatar-The-Last-Airbender-2024-เณรน้อยเจ้าอภินิหาร-187x269.jpg",
+      "url": "https://www.24-hd.com/avatar-the-last-airbender/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Madame Web (2024) มาดามเว็บ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Madame-Web-2024-มาดามเว็บ-187x269.jpg",
+      "url": "https://www.24-hd.com/madame-web/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Undertaker (2023) สัปเหร่อ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/The-Undertaker-2023-สัปเหร่อ-187x269.jpg",
+      "url": "https://www.24-hd.com/the-undertaker/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "4 Kings 2 (2023)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/01/4-Kings-2-2023-187x269.jpg",
+      "url": "https://www.24-hd.com/4-kings-2/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Pig the Snake and the Pigeon (2023) ชั่ว เลว เหี้ยม",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Pig-the-Snake-and-the-Pigeon-2023-ชั่ว-เลว-เหี้ยม-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-pig-the-snake-and-the-pigeon/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Double Blind (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Double-Blind-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/double-blind/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Revenge Girl (2022) รีเว้ณจ์ เกิร์ล สวยมรณะ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Revenge-Girl-2022-สวยมรณะ-187x269.jpg",
+      "url": "https://www.24-hd.com/revenge-girl/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Migration (2023) ครอบครัวเป็ดผจญภัย",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/01/Migration-2023-ครอบครัวเป็ดผจญภัย-187x269.jpg",
+      "url": "https://www.24-hd.com/migration/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Dune Part Two (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/dune-part-two/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Dune (2021) ดูน",
+      "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Dune-2021-187x269.jpg",
+      "url": "https://www.24-hd.com/dune/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Spaceman (2024) สเปซแมน",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Spaceman-2024-สเปซแมน-187x269.jpg",
+      "url": "https://www.24-hd.com/spaceman/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "My Name Is Loh Kiwan (2024) ผมชื่อโรกีวาน",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/My-Name-Is-Loh-Kiwan-2024-ผมชื่อโรกีวาน-187x269.jpg",
+      "url": "https://www.24-hd.com/my-name-is-loh-kiwan/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Parades (2024) เดอะ พาเหรด",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Parades-2024-เดอะ-พาเหรด-187x269.jpg",
+      "url": "https://www.24-hd.com/the-parades/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "ManSuang (2023) แมนสรวง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/ManSuang-2023-แมนสรวง-187x269.jpg",
+      "url": "https://www.24-hd.com/mansuang/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Out of Darkness (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Out-of-Darkness-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/out-of-darkness/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Poor Things (2023) พัวร์ ธิงส์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Poor-Things-2023-พัวร์-ธิงส์-187x269.jpg",
+      "url": "https://www.24-hd.com/poor-things/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "A Dog’s Way Home (2019) เพื่อนรักผจญภัยสี่ร้อยไมล์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/A-Dogs-Way-Home-2019-เพื่อนรักผจญภัยสี่ร้อยไมล์-187x269.jpg",
+      "url": "https://www.24-hd.com/a-dogs-way-home/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Better Watch Out (2016) โดดเดี่ยว เดี๋ยวก็ตาย",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Better-Watch-Out-2016-โดดเดี่ยว-เดี๋ยวก็ตาย-187x269.jpg",
+      "url": "https://www.24-hd.com/better-watch-out/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Guardian (2006) วีรบุรุษพันธุ์อึด ฝ่าทะเลเดือด",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/05/The-Guardian-2006-วีรบุรุษพันธุ์อึด-ฝ่าทะเลเดือด-187x269.jpg",
+      "url": "https://www.24-hd.com/the-guardian/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Below (2002) ดิ่งลึกหลอนสยอง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/06/Below-2002-ดิ่งลึกหลอนสยอง-187x269.jpg",
+      "url": "https://www.24-hd.com/below/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Detective Dee And The Phantom Of Waning Moon (2024) ตี๋เหรินเจี๋ยปีศาจแห่งจันทร์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Detective-Dee-And-The-Phantom-Of-Waning-Moon-2024-ตี๋เหรินเจี๋ยปีศาจแห่งจันทร์-300x450.jpg",
-      "url": "https://www.123-hd.com/detective-dee-and-the-phantom-of-waning-moon",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Detective-Dee-And-The-Phantom-Of-Waning-Moon-2024-ตี๋เหรินเจี๋ยปีศาจแห่งจันทร์-187x269.jpg",
+      "url": "https://www.24-hd.com/detective-dee-and-the-phantom-of-waning-moon/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
     },
     {
       "name": "Single in Seoul (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Single-in-Seoul-2023-300x450.jpg",
-      "url": "https://www.123-hd.com/single-in-seoul",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Single-in-Seoul-2023-187x269.jpg",
+      "url": "https://www.24-hd.com/single-in-seoul/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
     },
     {
       "name": "Code 8 Part 2 (2024) ล่าคนโคตรพลัง ภาค 2",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Code-8-Part-2-2024-ล่าคนโคตรพลัง-ภาค-2-1-300x450.jpg",
-      "url": "https://www.123-hd.com/code-8-part-2",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Code-8-Part-2-2024-ล่าคนโคตรพลัง-ภาค-2-187x269.jpg",
+      "url": "https://www.24-hd.com/code-8-part-2/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Code 8 (2019) ล่าคนโคตรพลัง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Code-8-2019-187x269.jpg",
+      "url": "https://www.24-hd.com/code-8/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
     },
     {
       "name": "Snoopy Presents Welcome Home Franklin (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Snoopy-Presents-Welcome-Home-Franklin-2024-300x450.jpg",
-      "url": "https://www.123-hd.com/snoopy-presents-welcome-home-franklin",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Snoopy-Presents-Welcome-Home-Franklin-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/snoopy-presents-welcome-home-franklin/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
     },
     {
       "name": "Fear (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Fear-2023-300x450.jpg",
-      "url": "https://www.123-hd.com/fear",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Fear-2023-187x269.jpg",
+      "url": "https://www.24-hd.com/fear/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Shortcomings (2023) หัวใจชำรุดมนุษย์โรงหนัง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/10/Shortcomings-2023-หัวใจชำรุดมนุษย์โรงหนัง-187x269.jpg",
+      "url": "https://www.24-hd.com/shortcomings/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Bad Ass Maid (2023) 5 แม่บ้านถล่มมาเฟีย",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/04/Bad-Ass-Maid-2023-5-แม่บ้านถล่มมาเฟีย-187x269.jpg",
+      "url": "https://www.24-hd.com/bad-ass-maid/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
     },
     {
       "name": "Wolf Hiding (2024) แก๊งโฉด โคตรระห่ำ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Wolf-Hiding-2024-แก๊งโฉด-โคตรระห่ำ-300x450.jpg",
-      "url": "https://www.123-hd.com/wolf-hiding",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Wolf-Hiding-2024-แก๊งโฉด-โคตรระห่ำ-187x269.jpg",
+      "url": "https://www.24-hd.com/wolf-hiding/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
     },
     {
       "name": "Undefiled (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Undefiled-2024-300x450.jpg",
-      "url": "https://www.123-hd.com/undefiled",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Undefiled-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/undefiled/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
     },
     {
       "name": "Planetquake (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Planetquake-2024-300x450.jpg",
-      "url": "https://www.123-hd.com/planetquake",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Planetquake-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/planetquake/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
     },
     {
       "name": "Indigo (2023) เธอเห็นอะไร",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Indigo-2023-เธอเห็นอะไร-300x450.jpg",
-      "url": "https://www.123-hd.com/indigo",
-      "referer": "https://www.123-hd.com/",
-      "import": false
-    },
-    {
-      "name": "Head Shot (2011) ฝนตกขึ้นฟ้า",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Head-Shot-2011-ฝนตกขึ้นฟ้า-300x450.jpg",
-      "url": "https://www.123-hd.com/head-shot",
-      "referer": "https://www.123-hd.com/",
-      "import": false
-    },
-    {
-      "name": "Black Rose (2023) กุหลาบสีดำ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Black-Rose-2023-กุหลาบสีดำ-300x450.jpg",
-      "url": "https://www.123-hd.com/black-rose",
-      "referer": "https://www.123-hd.com/",
-      "import": false
-    },
-    {
-      "name": "Darkdog Lockdown (2023) คุณตูบสายดาร์ก ปิดเมืองกัด",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Darkdog-Lockdown-2023-คุณตูบสายดาร์ก-ปิดเมืองกัด-300x450.jpg",
-      "url": "https://www.123-hd.com/darkdog-lockdown",
-      "referer": "https://www.123-hd.com/",
-      "import": false
-    },
-    {
-      "name": "We Best Love (2021)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/We-Best-Love-2021-300x450.jpg",
-      "url": "https://www.123-hd.com/we-best-love",
-      "referer": "https://www.123-hd.com/",
-      "import": false
-    },
-    {
-      "name": "LEGO Jurassic Park The Unofficial Retelling (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/LEGO-Jurassic-Park-The-Unofficial-Retelling-2023-300x450.jpg",
-      "url": "https://www.123-hd.com/lego-jurassic-park-the-unofficial-retelling",
-      "referer": "https://www.123-hd.com/",
-      "import": false
-    },
-    {
-      "name": "Mama's Boy (2022)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Mamas-Boy-2022-300x450.jpg",
-      "url": "https://www.123-hd.com/mamas-boy",
-      "referer": "https://www.123-hd.com/",
-      "import": false
-    },
-    {
-      "name": "The Unfair (2015)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Unfair-2015-300x450.jpg",
-      "url": "https://www.123-hd.com/the-unfair",
-      "referer": "https://www.123-hd.com/",
-      "import": false
-    },
-    {
-      "name": "Canola (2016)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Canola-2016-300x450.jpg",
-      "url": "https://www.123-hd.com/canola",
-      "referer": "https://www.123-hd.com/",
-      "import": false
-    },
-    {
-      "name": "Double Life (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Double-Life-2023-300x450.jpg",
-      "url": "https://www.123-hd.com/double-life",
-      "referer": "https://www.123-hd.com/",
-      "import": false
-    },
-    {
-      "name": "Master of Light (2022)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Master-of-Light-2022-300x450.jpg",
-      "url": "https://www.123-hd.com/master-of-light",
-      "referer": "https://www.123-hd.com/",
-      "import": false
-    },
-    {
-      "name": "The Legend of Herring (2022) ตำนานปลาแฮร์ริ่ง",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/01/The-Legend-of-Herring-2022-ตำนานปลาแฮร์ริ่ง.jpg",
-      "url": "https://www.123-hd.com/the-legend-of-herring",
-      "referer": "https://www.123-hd.com/",
-      "import": false
-    },
-    {
-      "name": "Mea Culpa (2024) ทนายคดีฆ่า",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Mea-Culpa-2024-ทนายคดีฆ่า-300x450.jpg",
-      "url": "https://www.123-hd.com/mea-culpa-2024",
-      "referer": "https://www.123-hd.com/",
-      "import": false
-    },
-    {
-      "name": "Through My Window 3 Looking at You (2024) รักผ่านหน้าต่าง ดวงตาจ้องมองเธอ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Through-My-Window-3-Looking-at-You-2024-รักผ่านหน้าต่าง-ดวงตาจ้องมองเธอ-300x450.jpg",
-      "url": "https://www.123-hd.com/through-my-window-3-looking-at-you",
-      "referer": "https://www.123-hd.com/",
-      "import": false
-    },
-    {
-      "name": "Through My Window Across the Sea (2023) รักผ่านหน้าต่าง หัวใจข้ามทะเล",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Through-My-Window-Across-the-Sea-2023-300x450.jpg",
-      "url": "https://www.123-hd.com/through-my-window-across-the-sea",
-      "referer": "https://www.123-hd.com/",
-      "import": false
-    },
-    {
-      "name": "Through My Window (2022) รักผ่านหน้าต่าง",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Through-My-Window-2022-รักผ่านหน้าต่าง-300x450.png",
-      "url": "https://www.123-hd.com/through-my-window",
-      "referer": "https://www.123-hd.com/",
-      "import": false
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Indigo-2023-เธอเห็นอะไร-187x269.jpg",
+      "url": "https://www.24-hd.com/indigo/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
     }
   ]
 }
