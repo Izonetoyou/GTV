@@ -6,6 +6,14 @@
   "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้นเป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
   "stations": [
     {
+      "name": "Land of Bad (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Land-of-Bad-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/land-of-bad/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Dune Part Two (2024)",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-187x269.jpg",
       "url": "https://www.24-hd.com/dune-part-two/",
@@ -17,14 +25,6 @@
       "name": "ManSuang (2023) แมนสรวง",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/ManSuang-2023-แมนสรวง-187x269.jpg",
       "url": "https://www.24-hd.com/mansuang/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Land of Bad (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Land-of-Bad-2024-187x269.jpg",
-      "url": "https://www.24-hd.com/land-of-bad/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -65,6 +65,94 @@
       "name": "4 Kings 2 (2023)",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/01/4-Kings-2-2023-187x269.jpg",
       "url": "https://www.24-hd.com/4-kings-2/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Blocking The Horse (2024) ขวางม้าและคว้าดาบ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Blocking-The-Horse-2024-ขวางม้าและคว้าดาบ-187x269.jpg",
+      "url": "https://www.24-hd.com/blocking-the-horse/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Polis Evo 3 (2023) ตำรวจระห่ำ 3",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Polis-Evo-3-2023-ตำรวจระห่ำ-3-187x269.jpg",
+      "url": "https://www.24-hd.com/polis-evo-3/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Land of Bad (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Land-of-Bad-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/land-of-bad/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "12th Fail (2023) คนสอบตก",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/12th-Fail-2023-คนสอบตก-187x269.jpg",
+      "url": "https://www.24-hd.com/12th-fail/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Hero (2022) ฮีโร่ สู้กู้เอกราช",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Hero-2022-ฮีโร่-สู้กู้เอกราช-187x269.jpg",
+      "url": "https://www.24-hd.com/hero/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Advocate A Missing Body (2015) คดีศพไร้ร่าง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Advocate-A-Missing-Body-2015-คดีศพไร้ร่าง-187x269.jpg",
+      "url": "https://www.24-hd.com/the-advocate-a-missing-body/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Soil Without Land (2019) ดินไร้แดน",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Soil-Without-Land-2019-ดินไร้แดน-187x269.jpg",
+      "url": "https://www.24-hd.com/soil-without-land/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Armageddon (1998) อาร์มาเกดดอน วันโลกาวินาศ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/04/Armageddon-1998-อาร์มาเกดดอน-วันโลกาวินาศ-187x269.jpg",
+      "url": "https://www.24-hd.com/armageddon/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Ancient Building Town Mausoleum Palace (2024) สุสานเมืองกู่โหลว",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Ancient-Building-Town-Mausoleum-Palace-2024-สุสานเมืองกู่โหลว-187x269.jpg",
+      "url": "https://www.24-hd.com/ancient-building-town-mausoleum-palace/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Shake Rattle & Roll Extreme (2023) เขย่าขวัญ ปั่นประสาท",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Shake-Rattle-Roll-Extreme-2023-เขย่าขวัญ-ปั่นประสาท-187x269.jpg",
+      "url": "https://www.24-hd.com/shake-rattle-roll-extreme/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Eye for an Eye 2 (2024) ยอดกระบี่ไร้เทียมทาน 2",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Eye-for-an-Eye-2-2024-ยอดกระบี่ไร้เทียมทาน-2-187x269.jpg",
+      "url": "https://www.24-hd.com/eye-for-an-eye-2/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -201,94 +289,6 @@
       "name": "Poor Things (2023) พัวร์ ธิงส์",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Poor-Things-2023-พัวร์-ธิงส์-187x269.jpg",
       "url": "https://www.24-hd.com/poor-things/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "A Dog’s Way Home (2019) เพื่อนรักผจญภัยสี่ร้อยไมล์",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/A-Dogs-Way-Home-2019-เพื่อนรักผจญภัยสี่ร้อยไมล์-187x269.jpg",
-      "url": "https://www.24-hd.com/a-dogs-way-home/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Better Watch Out (2016) โดดเดี่ยว เดี๋ยวก็ตาย",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Better-Watch-Out-2016-โดดเดี่ยว-เดี๋ยวก็ตาย-187x269.jpg",
-      "url": "https://www.24-hd.com/better-watch-out/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Guardian (2006) วีรบุรุษพันธุ์อึด ฝ่าทะเลเดือด",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/05/The-Guardian-2006-วีรบุรุษพันธุ์อึด-ฝ่าทะเลเดือด-187x269.jpg",
-      "url": "https://www.24-hd.com/the-guardian/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Below (2002) ดิ่งลึกหลอนสยอง",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/06/Below-2002-ดิ่งลึกหลอนสยอง-187x269.jpg",
-      "url": "https://www.24-hd.com/below/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Detective Dee And The Phantom Of Waning Moon (2024) ตี๋เหรินเจี๋ยปีศาจแห่งจันทร์",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Detective-Dee-And-The-Phantom-Of-Waning-Moon-2024-ตี๋เหรินเจี๋ยปีศาจแห่งจันทร์-187x269.jpg",
-      "url": "https://www.24-hd.com/detective-dee-and-the-phantom-of-waning-moon/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Single in Seoul (2023)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Single-in-Seoul-2023-187x269.jpg",
-      "url": "https://www.24-hd.com/single-in-seoul/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Code 8 Part 2 (2024) ล่าคนโคตรพลัง ภาค 2",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Code-8-Part-2-2024-ล่าคนโคตรพลัง-ภาค-2-187x269.jpg",
-      "url": "https://www.24-hd.com/code-8-part-2/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Code 8 (2019) ล่าคนโคตรพลัง",
-      "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Code-8-2019-187x269.jpg",
-      "url": "https://www.24-hd.com/code-8/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Snoopy Presents Welcome Home Franklin (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Snoopy-Presents-Welcome-Home-Franklin-2024-187x269.jpg",
-      "url": "https://www.24-hd.com/snoopy-presents-welcome-home-franklin/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Fear (2023)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Fear-2023-187x269.jpg",
-      "url": "https://www.24-hd.com/fear/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Shortcomings (2023) หัวใจชำรุดมนุษย์โรงหนัง",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/10/Shortcomings-2023-หัวใจชำรุดมนุษย์โรงหนัง-187x269.jpg",
-      "url": "https://www.24-hd.com/shortcomings/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
