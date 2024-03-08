@@ -6,6 +6,14 @@
   "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้นเป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
   "stations": [
     {
+      "name": "The Undertaker (2023) สัปเหร่อ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/The-Undertaker-2023-สัปเหร่อ-187x269.jpg",
+      "url": "https://www.24-hd.com/the-undertaker/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Dune Part Two (2024)",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-187x269.jpg",
       "url": "https://www.24-hd.com/dune-part-two/",
@@ -54,6 +62,38 @@
       "playInNatPlayer": "True"
     },
     {
+      "name": "Damsel (2024) ดรุณีผู้พิชิต",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Damsel-2024-ดรุณีผู้พิชิต-2-187x269.jpg",
+      "url": "https://www.24-hd.com/damsel/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Ricky Stanicky (2024) ริคกี้ สแตนนิคกี้ เพื่อนซี้กำมะลอ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Ricky-Stanicky-2024-ริคกี้-สแตนนิคกี้-เพื่อนซี้กำมะลอ-1-187x269.jpg",
+      "url": "https://www.24-hd.com/ricky-stanicky-2/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Under the Boardwalk (2023)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Under-the-Boardwalk-2023-1-187x269.jpg",
+      "url": "https://www.24-hd.com/under-the-boardwalk-2/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Mafia Mamma (2023)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/12/Mafia-Mamma-2023-187x269.jpg",
+      "url": "https://www.24-hd.com/mafia-mamma/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "The Undertaker (2023) สัปเหร่อ",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/02/The-Undertaker-2023-สัปเหร่อ-187x269.jpg",
       "url": "https://www.24-hd.com/the-undertaker/",
@@ -62,9 +102,33 @@
       "playInNatPlayer": "True"
     },
     {
-      "name": "4 Kings 2 (2023)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/01/4-Kings-2-2023-187x269.jpg",
-      "url": "https://www.24-hd.com/4-kings-2/",
+      "name": "Moh Pla Wan (2022) ไทบ้านเดอะซีรีส์ หมอปลาวาฬ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Moh-Pla-Wan-2022-ไทบ้านเดอะซีรีส์-หมอปลาวาฬ-187x269.jpg",
+      "url": "https://www.24-hd.com/moh-pla-wan-2/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Thi-Baan The Series 2.2 (2018)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Thi-Baan-The-Series-2.2-2018-187x269.jpg",
+      "url": "https://www.24-hd.com/thi-baan-the-series-2-2/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "ThaiBan The Series 2.1 (2018)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/ThaiBan-The-Series-2.1-2018-187x269.jpg",
+      "url": "https://www.24-hd.com/thaiban-the-series-2-1/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "ThaiBan The Series (2017) ไทบ้านเดอะซีรีส์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/ThaiBan-The-Series-2017-ไทบ้านเดอะซีรีส์-187x269.jpg",
+      "url": "https://www.24-hd.com/thaiban-the-series/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -217,78 +281,6 @@
       "name": "Fool’s Gold (2008) ฟูลส์ โกลด์ ตามล่าตามรัก ขุมทรัพย์มหาภัย",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Fools-Gold-2008-ฟูลส์-โกลด์-ตามล่าตามรัก-ขุมทรัพย์มหาภัย-187x269.jpg",
       "url": "https://www.24-hd.com/fools-gold/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Stealth (2005) สเตลท์ ฝูงบินมหากาฬถล่มโลก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/08/Stealth-2005-สเตลท์-ฝูงบินมหากาฬถล่มโลก-187x269.jpg",
-      "url": "https://www.24-hd.com/stealth/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "High Tension (2003) สับ สับ สับ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/High-Tension-2003-สับ-สับ-สับ-187x269.jpg",
-      "url": "https://www.24-hd.com/high-tension/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Silence of the Lambs (1991) อำมหิตไม่เงียบ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Silence-of-the-Lambs-1991-อำมหิตไม่เงียบ-187x269.jpg",
-      "url": "https://www.24-hd.com/the-silence-of-the-lambs/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Blocking The Horse (2024) ขวางม้าและคว้าดาบ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Blocking-The-Horse-2024-ขวางม้าและคว้าดาบ-187x269.jpg",
-      "url": "https://www.24-hd.com/blocking-the-horse/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Polis Evo 3 (2023) ตำรวจระห่ำ 3",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Polis-Evo-3-2023-ตำรวจระห่ำ-3-187x269.jpg",
-      "url": "https://www.24-hd.com/polis-evo-3/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Land of Bad (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Land-of-Bad-2024-187x269.jpg",
-      "url": "https://www.24-hd.com/land-of-bad/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "12th Fail (2023) คนสอบตก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/12th-Fail-2023-คนสอบตก-187x269.jpg",
-      "url": "https://www.24-hd.com/12th-fail/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Hero (2022) ฮีโร่ สู้กู้เอกราช",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Hero-2022-ฮีโร่-สู้กู้เอกราช-187x269.jpg",
-      "url": "https://www.24-hd.com/hero/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Advocate A Missing Body (2015) คดีศพไร้ร่าง",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Advocate-A-Missing-Body-2015-คดีศพไร้ร่าง-187x269.jpg",
-      "url": "https://www.24-hd.com/the-advocate-a-missing-body/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
