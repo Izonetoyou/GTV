@@ -6,6 +6,14 @@
   "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้นเป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
   "stations": [
     {
+      "name": "Damsel (2024) ดรุณีผู้พิชิต",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Damsel-2024-ดรุณีผู้พิชิต-2-187x269.jpg",
+      "url": "https://www.24-hd.com/damsel/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "The Undertaker (2023) สัปเหร่อ",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/02/The-Undertaker-2023-สัปเหร่อ-187x269.jpg",
       "url": "https://www.24-hd.com/the-undertaker/",
@@ -57,6 +65,38 @@
       "name": "Madame Web (2024) มาดามเว็บ",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Madame-Web-2024-มาดามเว็บ-187x269.jpg",
       "url": "https://www.24-hd.com/madame-web/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Red Right Hand (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Red-Right-Hand-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/red-right-hand/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Wild Blade of Strangers (2024) นักดาบคนแปลกหน้า",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Wild-Blade-of-Strangers-2024-นักดาบคนแปลกหน้า-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-wild-blade-of-strangers/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Xianxi Guishi (2024) เรื่องแปลกเซียงซี",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Xianxi-Guishi-2024-เรื่องแปลกเซียงซี-187x269.jpg",
+      "url": "https://www.24-hd.com/xianxi-guishi/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Call of Heroes (2016) มังกรหนุ่มผยองเดช",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Call-of-Heroes-2016-มังกรหนุ่มผยองเดช-1-187x269.jpg",
+      "url": "https://www.24-hd.com/call-of-heroes/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -249,38 +289,6 @@
       "name": "Dune Part Two (2024)",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-187x269.jpg",
       "url": "https://www.24-hd.com/dune-part-two/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Before I Fall (2017) ตื่นมา ทุกวัน ฉันตาย",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Before-I-Fall-2017-ตื่นมา-ทุกวัน-ฉันตาย-187x269.jpg",
-      "url": "https://www.24-hd.com/before-i-fall/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Hush (2016) ฮัช ฆ่าให้เงียบ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/08/Hush-2016-ฮัช-ฆ่าให้เงียบ-187x269.jpg",
-      "url": "https://www.24-hd.com/hush/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Happy Death Day 2U (2019) สุขสันต์วันตาย",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Happy-Death-Day-2U-2019-สุขสันต์วันตาย-187x269.jpg",
-      "url": "https://www.24-hd.com/happy-death-day-2u/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Fool’s Gold (2008) ฟูลส์ โกลด์ ตามล่าตามรัก ขุมทรัพย์มหาภัย",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Fools-Gold-2008-ฟูลส์-โกลด์-ตามล่าตามรัก-ขุมทรัพย์มหาภัย-187x269.jpg",
-      "url": "https://www.24-hd.com/fools-gold/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
