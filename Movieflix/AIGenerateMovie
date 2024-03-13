@@ -6,6 +6,14 @@
   "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้นเป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
   "stations": [
     {
+      "name": "Dune Part Two (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/dune-part-two/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Damsel (2024) ดรุณีผู้พิชิต",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Damsel-2024-ดรุณีผู้พิชิต-2-187x269.jpg",
       "url": "https://www.24-hd.com/damsel/",
@@ -17,14 +25,6 @@
       "name": "The Undertaker (2023) สัปเหร่อ",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/02/The-Undertaker-2023-สัปเหร่อ-187x269.jpg",
       "url": "https://www.24-hd.com/the-undertaker/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Dune Part Two (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-187x269.jpg",
-      "url": "https://www.24-hd.com/dune-part-two/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -70,9 +70,57 @@
       "playInNatPlayer": "True"
     },
     {
+      "name": "Dune Part Two (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/dune-part-two/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Kung Fu Panda 4 (2024) กังฟูแพนด้า 4",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Kung-Fu-Panda-4-2024-กังฟูแพนด้า-4-1-187x269.jpg",
       "url": "https://www.24-hd.com/kung-fu-panda-4/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Kung Fu Panda 3 (2016) กังฟูแพนด้า 3",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Kung-Fu-Panda-3-2016-กังฟูแพนด้า-3-1-187x269.jpg",
+      "url": "https://www.24-hd.com/kung-fu-panda-3/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Kung Fu Panda 2 (2011) กังฟูแพนด้า จอมยุทธ์พลิกล็อค ช็อคยุทธภพ 2",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Kung-Fu-Panda-2-2011-กังฟูแพนด้า-จอมยุทธ์พลิกล็อค-ช็อคยุทธภพ-2-1-187x269.jpg",
+      "url": "https://www.24-hd.com/kung-fu-panda-2/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Kung Fu Panda (2008) กังฟูแพนด้า จอมยุทธ์พลิกล็อค ช็อคยุทธภพ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Kung-Fu-Panda-2008-กังฟูแพนด้า-จอมยุทธ์พลิกล็อค-ช็อคยุทธภพ-1-187x269.jpg",
+      "url": "https://www.24-hd.com/kung-fu-panda/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Gods of Egypt (2016) สงครามเทวดา",
+      "image": "https://www.24-hd.com/wp-content/uploads/2022/11/Gods-of-Egypt-2016-สงครามเทวดา-187x269.jpg",
+      "url": "https://www.24-hd.com/gods-of-egypt/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Your Lucky Day (2023) วันดี วันร้าย วันรวย และวันซวย",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/11/Your-Lucky-Day-2023-วันดี-วันร้าย-วันรวย-และวันซวย-187x269.jpg",
+      "url": "https://www.24-hd.com/your-lucky-day/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -241,54 +289,6 @@
       "name": "The Hobbit 1 An Unexpected Journey (2012) เดอะ ฮอบบิท การผจญภัยสุดคาดคิด",
       "image": "https://www.24-hd.com/wp-content/uploads/2022/09/The-Hobbit-1-An-Unexpected-Journey-2012-187x269.png",
       "url": "https://www.24-hd.com/the-hobbit-1/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Lord Of The Rings 3 The Return Of The King (2003) มหาสงครามชิงพิภพ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2022/09/The-Lord-Of-The-Rings-3-The-Return-Of-The-King-2003-มหาสงครามชิงพิภพ-187x269.jpg",
-      "url": "https://www.24-hd.com/the-lord-of-the-rings-3/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Lord Of The Rings 2 The Two Towers (2002) ศึกหอคอยคู่กู้พิภพ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2022/09/The-Lord-Of-The-Rings-2-The-Two-Towers-2002-ศึกหอคอยคู่กู้พิภพ-187x269.jpg",
-      "url": "https://www.24-hd.com/the-lord-of-the-rings-2/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Lord Of The Rings 1 The Fellowship Of The Ring (2001) อภินิหารแหวนครองพิภพ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2022/09/The-Lord-Of-The-Rings-1-The-Fellowship-Of-The-Ring-2001-อภินิหารแหวนครองพิภพ-187x269.jpg",
-      "url": "https://www.24-hd.com/the-lord-of-the-rings-1/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Wild Blade of Strangers (2024) นักดาบคนแปลกหน้า",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Wild-Blade-of-Strangers-2024-นักดาบคนแปลกหน้า-1-187x269.jpg",
-      "url": "https://www.24-hd.com/the-wild-blade-of-strangers/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Xianxi Guishi (2024) เรื่องแปลกเซียงซี",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Xianxi-Guishi-2024-เรื่องแปลกเซียงซี-187x269.jpg",
-      "url": "https://www.24-hd.com/xianxi-guishi/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Call of Heroes (2016) มังกรหนุ่มผยองเดช",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Call-of-Heroes-2016-มังกรหนุ่มผยองเดช-1-187x269.jpg",
-      "url": "https://www.24-hd.com/call-of-heroes/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
