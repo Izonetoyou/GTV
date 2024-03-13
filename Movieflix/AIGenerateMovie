@@ -70,6 +70,14 @@
       "playInNatPlayer": "True"
     },
     {
+      "name": "Kung Fu Panda 4 (2024) กังฟูแพนด้า 4",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Kung-Fu-Panda-4-2024-กังฟูแพนด้า-4-1-187x269.jpg",
+      "url": "https://www.24-hd.com/kung-fu-panda-4/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Cruel War (2024) สงครามมหาโหด",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Cruel-War-2024-สงครามมหาโหด-187x269.jpg",
       "url": "https://www.24-hd.com/cruel-war/",
@@ -281,14 +289,6 @@
       "name": "Call of Heroes (2016) มังกรหนุ่มผยองเดช",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Call-of-Heroes-2016-มังกรหนุ่มผยองเดช-1-187x269.jpg",
       "url": "https://www.24-hd.com/call-of-heroes/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Damsel (2024) ดรุณีผู้พิชิต",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Damsel-2024-ดรุณีผู้พิชิต-2-187x269.jpg",
-      "url": "https://www.24-hd.com/damsel/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
