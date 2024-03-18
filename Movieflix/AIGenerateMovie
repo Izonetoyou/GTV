@@ -70,6 +70,118 @@
       "playInNatPlayer": "True"
     },
     {
+      "name": "The Lost Man (2024) ศึกท้าดวลเดือด",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Lost-Man-2024-ศึกท้าดวลเดือด-187x269.jpg",
+      "url": "https://www.24-hd.com/the-lost-man/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Extreme Job (2019) ภารกิจทอดไก่ ซุ่มจับเจ้าพ่อ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Extreme-Job-2019-ภารกิจทอดไก่-ซุ่มจับเจ้าพ่อ-187x269.jpg",
+      "url": "https://www.24-hd.com/extreme-job/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Barbie and Stacie to the Rescue (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Barbie-and-Stacie-to-the-Rescue-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/barbie-and-stacie-to-the-rescue/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Snail and the Whale (2019) หอยทากกับวาฬ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Snail-and-the-Whale-2019-หอยทากกับวาฬ-187x269.jpg",
+      "url": "https://www.24-hd.com/the-snail-and-the-whale/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Master (2016) ล่าโกง อย่ายิงมันแค่โป้งเดียว",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Master-2016-ล่าโกง-อย่ายิงมันแค่โป้งเดียว-187x269.jpg",
+      "url": "https://www.24-hd.com/master/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Hansan Rising Dragon (2022)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Hansan-Rising-Dragon-2022-187x269.jpg",
+      "url": "https://www.24-hd.com/hansan-rising-dragon/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Hostage (2005) ฝ่านรก ชิงตัวประกัน",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Hostage-2005-ฝ่านรก-ชิงตัวประกัน-187x269.jpg",
+      "url": "https://www.24-hd.com/hostage/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Armageddon (1998) อาร์มาเกดดอน วันโลกาวินาศ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/04/Armageddon-1998-อาร์มาเกดดอน-วันโลกาวินาศ-187x269.jpg",
+      "url": "https://www.24-hd.com/armageddon/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Taylor Swift The Eras Tour (2023)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Taylor-Swift-The-Eras-Tour-2023-187x269.jpg",
+      "url": "https://www.24-hd.com/taylor-swift-the-eras-tour/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Royal Hotel (2023)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Royal-Hotel-2023-187x269.jpg",
+      "url": "https://www.24-hd.com/the-royal-hotel/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "She Came to Me (2023)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/She-Came-to-Me-2023-187x269.jpg",
+      "url": "https://www.24-hd.com/she-came-to-me/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Darkest Hour (2011) มหันตภัยมืดถล่มโลก",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Darkest-Hour-2011-มหันตภัยมืดถล่มโลก-187x269.jpg",
+      "url": "https://www.24-hd.com/the-darkest-hour/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Thing (2011) แหวกมฤตยู อสูรใต้โลก",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Thing-2011-แหวกมฤตยู-อสูรใต้โลก-187x269.jpg",
+      "url": "https://www.24-hd.com/the-thing-2011/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Thing (1982) ไอ้ตัวเขมือบโลก",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Thing-1982-ไอ้ตัวเขมือบโลก-187x269.jpg",
+      "url": "https://www.24-hd.com/the-thing/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Madame Web (2024) มาดามเว็บ",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Madame-Web-2024-มาดามเว็บ-187x269.jpg",
       "url": "https://www.24-hd.com/madame-web/",
@@ -177,118 +289,6 @@
       "name": "A Werewolf Boy (2012) วูฟบอย",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/A-Werewolf-Boy-2012-วูฟบอย-1-187x269.jpg",
       "url": "https://www.24-hd.com/a-werewolf-boy/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Front Line (2011) มหาสงครามเฉียดเส้นตาย",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Front-Line-2011-มหาสงครามเฉียดเส้นตาย-187x269.jpg",
-      "url": "https://www.24-hd.com/the-front-line/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Black House (1999)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Black-House-1999-187x269.jpg",
-      "url": "https://www.24-hd.com/the-black-house/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Cannibal Holocaust (1980) เปรตเดินดินกินเนื้อคน",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Cannibal-Holocaust-1980-เปรตเดินดินกินเนื้อคน-187x269.jpg",
-      "url": "https://www.24-hd.com/cannibal-holocaust/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Dune Part Two (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-187x269.jpg",
-      "url": "https://www.24-hd.com/dune-part-two/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Kung Fu Panda 4 (2024) กังฟูแพนด้า 4",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Kung-Fu-Panda-4-2024-กังฟูแพนด้า-4-1-187x269.jpg",
-      "url": "https://www.24-hd.com/kung-fu-panda-4/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Kung Fu Panda 3 (2016) กังฟูแพนด้า 3",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Kung-Fu-Panda-3-2016-กังฟูแพนด้า-3-1-187x269.jpg",
-      "url": "https://www.24-hd.com/kung-fu-panda-3/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Kung Fu Panda 2 (2011) กังฟูแพนด้า จอมยุทธ์พลิกล็อค ช็อคยุทธภพ 2",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Kung-Fu-Panda-2-2011-กังฟูแพนด้า-จอมยุทธ์พลิกล็อค-ช็อคยุทธภพ-2-1-187x269.jpg",
-      "url": "https://www.24-hd.com/kung-fu-panda-2/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Kung Fu Panda (2008) กังฟูแพนด้า จอมยุทธ์พลิกล็อค ช็อคยุทธภพ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Kung-Fu-Panda-2008-กังฟูแพนด้า-จอมยุทธ์พลิกล็อค-ช็อคยุทธภพ-1-187x269.jpg",
-      "url": "https://www.24-hd.com/kung-fu-panda/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Gods of Egypt (2016) สงครามเทวดา",
-      "image": "https://www.24-hd.com/wp-content/uploads/2022/11/Gods-of-Egypt-2016-สงครามเทวดา-187x269.jpg",
-      "url": "https://www.24-hd.com/gods-of-egypt/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Your Lucky Day (2023) วันดี วันร้าย วันรวย และวันซวย",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/11/Your-Lucky-Day-2023-วันดี-วันร้าย-วันรวย-และวันซวย-187x269.jpg",
-      "url": "https://www.24-hd.com/your-lucky-day/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Cruel War (2024) สงครามมหาโหด",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Cruel-War-2024-สงครามมหาโหด-187x269.jpg",
-      "url": "https://www.24-hd.com/cruel-war/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Anime Supremacy (2022) วัยชน คนเมะ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/04/Anime-Supremacy-2022-วัยชน-คนเมะ-187x269.jpg",
-      "url": "https://www.24-hd.com/anime-supremacy/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Taylor Swift The Eras Tour (2023)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Taylor-Swift-The-Eras-Tour-2023-187x269.jpg",
-      "url": "https://www.24-hd.com/taylor-swift-the-eras-tour/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Crayon Shin-chan Movie 30 Mononoke Ninja Chinpuuden (2023) ตอน นินจาคาถาวายุอลเวง",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/09/Crayon-Shin-chan-Movie-30-Mononoke-Ninja-Chinpuuden-2023-ตอน-นินจาคาถาวายุอลเวง-187x269.jpg",
-      "url": "https://www.24-hd.com/crayon-shin-chan-movie-30-mononoke-ninja-chinpuuden/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
