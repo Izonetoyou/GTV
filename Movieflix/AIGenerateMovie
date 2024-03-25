@@ -70,6 +70,62 @@
       "playInNatPlayer": "True"
     },
     {
+      "name": "Crime List (2024) บันทึกอาชญากรรม",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Crime-List-2024-บันทึกอาชญากรรม-187x269.jpg",
+      "url": "https://www.24-hd.com/crime-list/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Teri Baaton Mein Aisa Uljha Jiya (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Teri-Baaton-Mein-Aisa-Uljha-Jiya-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/teri-baaton-mein-aisa-uljha-jiya/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Flamin’ Hot (2023)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/06/Flamin-Hot-2023-187x269.jpg",
+      "url": "https://www.24-hd.com/flamin-hot/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Nothing Serious (2021) รักนี้ไม่มีผูกมัด",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Nothing-Serious-2021-รักนี้ไม่มีผูกมัด-187x269.jpg",
+      "url": "https://www.24-hd.com/nothing-serious/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Don’t listen (2020) เสียงสั่งหลอน",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Dont-listen-2020-เสียงสั่งหลอน-187x269.jpg",
+      "url": "https://www.24-hd.com/dont-listen/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Now You See Me 2 (2016) อาชญากลปล้นโลก 2",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Now-You-See-Me-2-2016-อาชญากลปล้นโลก-2-187x269.jpg",
+      "url": "https://www.24-hd.com/now-you-see-me-2/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Now You See Me (2013) อาชญากลปล้นโลก",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Now-You-See-Me-2013-อาชญากลปล้นโลก-187x269.jpg",
+      "url": "https://www.24-hd.com/now-you-see-me/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Love Lies Bleeding (2024) รัก ร้าย ร้าย",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Love-Lies-Bleeding-2024-รัก-ร้าย-ร้าย-187x269.jpg",
       "url": "https://www.24-hd.com/love-lies-bleeding/",
@@ -233,62 +289,6 @@
       "name": "Snowpiercer (2013) ยึดด่วน วันสิ้นโลก",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Snowpiercer-2013-ยึดด่วน-วันสิ้นโลก-187x269.jpg",
       "url": "https://www.24-hd.com/snowpiercer/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Vampire Academy (2014) แวมไพร์ อะคาเดมี่ มัธยม มหาเวทย์",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Vampire-Academy-2014-แวมไพร์-อะคาเดมี่-มัธยม-มหาเวทย์-187x269.jpg",
-      "url": "https://www.24-hd.com/vampire-academy/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "90 Shock (1997) ไนน์ตี้ช๊อค เตลิดเปิดโลง",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/90-Shock-1997-ไนน์ตี้ช๊อค-เตลิดเปิดโลง-187x269.jpg",
-      "url": "https://www.24-hd.com/90-shock/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Punish Evil (2024) บทลงโทษความชั่วร้าย",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Punish-Evil-2024-บทลงโทษความชั่วร้าย-187x269.jpg",
-      "url": "https://www.24-hd.com/punish-evil/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Which Brings Me to You (2023) สิ่งที่พาฉันมาพบคุณ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Which-Brings-Me-to-You-2023-สิ่งที่พาฉันมาพบคุณ-187x269.jpg",
-      "url": "https://www.24-hd.com/which-brings-me-to-you/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "DOG (2022) เพื่อนกันพันธ์ห้าว",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/DOG-2022-เพื่อนกันพันธ์ห้าว-187x269.jpg",
-      "url": "https://www.24-hd.com/dog/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Salyut-7 (2017) ปฎิบัติการกู้ซัลยุต-7",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Salyut-7-2017-ปฎิบัติการกู้ซัลยุต-7-187x269.jpg",
-      "url": "https://www.24-hd.com/salyut-7/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "A Perfect Getaway (2009) เกาะสวรรค์ขวัญผวา",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/A-Perfect-Getaway-2009-เกาะสวรรค์ขวัญผวา-187x269.jpg",
-      "url": "https://www.24-hd.com/a-perfect-getaway/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
