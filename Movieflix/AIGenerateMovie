@@ -70,6 +70,70 @@
       "playInNatPlayer": "True"
     },
     {
+      "name": "Land of Bad (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Land-of-Bad-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/land-of-bad/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Lord Musang King (2023)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Lord-Musang-King-2023-187x269.jpg",
+      "url": "https://www.24-hd.com/the-lord-musang-king/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Andragogy (2023)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Andragogy-2023-187x269.jpg",
+      "url": "https://www.24-hd.com/andragogy/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Monkey King (2022) ตำนานศึกราชาวานร",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/12/The-Monkey-King-2022-ตำนานศึกราชาวานร-187x269.jpg",
+      "url": "https://www.24-hd.com/the-monkey-king-2022/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Miraculous Ladybug & Cat Noir The Movie (2023) ฮีโร่มหัศจรรย์ เลดี้บัก และ แคทนัวร์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/01/Miraculous-Ladybug-Cat-Noir-The-Movie-2023-ฮีโร่มหัศจรรย์-เลดี้บัก-และ-แคทนัวร์-187x269.jpg",
+      "url": "https://www.24-hd.com/miraculous-ladybug-cat-noir-the-movie/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Mauritanian (2021) มอริทาเนียน พลิกคดี จองจำอำมหิต",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Mauritanian-2021-มอริทาเนียน-พลิกคดี-จองจำอำมหิต-187x269.jpg",
+      "url": "https://www.24-hd.com/the-mauritanian/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Thirteen Days (2000) 13 วัน ปฏิบัติการหายนะโลก",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/08/Thirteen-Days-2000-13-วัน-ปฏิบัติการหายนะโลก-187x269.jpg",
+      "url": "https://www.24-hd.com/thirteen-days/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Superhero Movie (2008) ไอ้แมงปอแมน ฮีโร่ซุปเปอร์รั่ว",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Superhero-Movie-2008-ไอ้แมงปอแมน-ฮีโร่ซุปเปอร์รั่ว-187x269.jpg",
+      "url": "https://www.24-hd.com/superhero-movie/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Crime List (2024) บันทึกอาชญากรรม",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Crime-List-2024-บันทึกอาชญากรรม-187x269.jpg",
       "url": "https://www.24-hd.com/crime-list/",
@@ -225,70 +289,6 @@
       "name": "Scary Movie 2 (2001) หวีด(อีกสักที) จะดีไหมหว่า",
       "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Scary-Movie-2-2001-187x269.jpg",
       "url": "https://www.24-hd.com/scary-movie-2/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Scary Movie (2000) ยำหนังจี้ หวีดดีไหมหว่า",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Scary-Movie-2000-187x269.jpg",
-      "url": "https://www.24-hd.com/scary-movie/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Fighter (2024) นักสู้ปีกเหล็ก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Fighter-2024-นักสู้ปีกเหล็ก-187x269.jpg",
-      "url": "https://www.24-hd.com/fighter/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Casagrandes Movie (2024) เดอะ คาซากรานเดส์ มูฟวี่",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Casagrandes-Movie-2024-เดอะ-คาซากรานเดส์-มูฟวี่-187x269.jpg",
-      "url": "https://www.24-hd.com/the-casagrandes-movie/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Shirley (2024) เชอร์ลีย์ หญิงแกร่งสภาเหล็ก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Shirley-2024-เชอร์ลีย์-หญิงแกร่งสภาเหล็ก-187x269.jpg",
-      "url": "https://www.24-hd.com/shirley/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Road House (2024) คนเดือดบวกเมืองเถื่อน",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Road-House-2024-คนเดือดบวกเมืองเถื่อน-187x269.jpg",
-      "url": "https://www.24-hd.com/road-house/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "2475 Dawn of Revolution (2024) 2475 รุ่งอรุณแห่งการปฏิวัติ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/2475-Dawn-of-Revolution-2024-2475-รุ่งอรุณแห่งการปฏิวัติ-187x269.jpg",
-      "url": "https://www.24-hd.com/2475-dawn-of-revolution/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Back on the Strip (2023) แก๊งหนุ่มสุดฮา สะบัดผ้าคว้าฝัน",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Back-on-the-Strip-2023-แก๊งหนุ่มสุดฮา-สะบัดผ้าคว้าฝัน-187x269.jpg",
-      "url": "https://www.24-hd.com/back-on-the-strip-2/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Snowpiercer (2013) ยึดด่วน วันสิ้นโลก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Snowpiercer-2013-ยึดด่วน-วันสิ้นโลก-187x269.jpg",
-      "url": "https://www.24-hd.com/snowpiercer/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
