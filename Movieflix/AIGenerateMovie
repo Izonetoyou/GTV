@@ -6,17 +6,17 @@
   "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้นเป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
   "stations": [
     {
-      "name": "Dune Part Two (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-187x269.jpg",
-      "url": "https://www.24-hd.com/dune-part-two/",
+      "name": "Madame Web (2024) มาดามเว็บ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Madame-Web-2024-มาดามเว็บ-187x269.jpg",
+      "url": "https://www.24-hd.com/madame-web/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "Madame Web (2024) มาดามเว็บ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Madame-Web-2024-มาดามเว็บ-187x269.jpg",
-      "url": "https://www.24-hd.com/madame-web/",
+      "name": "Dune Part Two (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/dune-part-two/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -65,6 +65,78 @@
       "name": "Avatar The Last Airbender (2024) เณรน้อยเจ้าอภินิหาร",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Avatar-The-Last-Airbender-2024-เณรน้อยเจ้าอภินิหาร-187x269.jpg",
       "url": "https://www.24-hd.com/avatar-the-last-airbender/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Believers (2024) สาธุ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Believers-2024-สาธุ-187x269.jpg",
+      "url": "https://www.24-hd.com/the-believers/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Rest In Peace (2024) สู่สุคติ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Rest-In-Peace-2024-สู่สุคติ-187x269.jpg",
+      "url": "https://www.24-hd.com/rest-in-peace/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "No Pressure (2024) รักไม่กดดัน",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/No-Pressure-2024-รักไม่กดดัน-187x269.jpg",
+      "url": "https://www.24-hd.com/no-pressure/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Madame Web (2024) มาดามเว็บ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Madame-Web-2024-มาดามเว็บ-187x269.jpg",
+      "url": "https://www.24-hd.com/madame-web/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Killing Sarai (2019)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Killing-Sarai-2019-187x269.jpg",
+      "url": "https://www.24-hd.com/killing-sarai/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Fantastic Beasts 3 The Secrets of Dumbledore (2022) สัตว์มหัศจรรย์ ความลับของดัมเบิลดอร์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2022/08/Fantastic-Beasts-3-The-Secrets-of-Dumbledore-2022-187x269.jpg",
+      "url": "https://www.24-hd.com/fantastic-beasts-3/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Fantastic Beasts 2 The Crimes of Grindelwald (2018) สัตว์มหัศจรรย์ อาชญากรรมของกรินเดลวัลด์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2022/08/Fantastic-Beasts-2-The-Crimes-of-Grindelwald-2018-สัตว์มหัศจรรย์-อาชญากรรมของกรินเดลวัลด์-187x269.jpg",
+      "url": "https://www.24-hd.com/fantastic-beasts-2/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Fantastic Beasts 1 and Where to Find Them (2016) สัตว์มหัศจรรย์และถิ่นที่อยู่",
+      "image": "https://www.24-hd.com/wp-content/uploads/2022/08/Fantastic-Beasts-and-Where-to-Find-Them-2016-187x269.jpg",
+      "url": "https://www.24-hd.com/fantastic-beasts-1/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "In the Line of Fire (1993) แผนสังหารนรกทีละขั้น",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/In-the-Line-of-Fire-1993-แผนสังหารนรกทีละขั้น-187x269.jpg",
+      "url": "https://www.24-hd.com/in-the-line-of-fire/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -217,78 +289,6 @@
       "name": "PreCure All Stars F (2023) มหัศจรรย์สาวน้อย พริตตี้เคียว ออลสตาร์ เอฟ",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/PreCure-All-Stars-F-2023-มหัศจรรย์สาวน้อย-พริตตี้เคียว-ออลสตาร์-เอฟ-187x269.jpg",
       "url": "https://www.24-hd.com/precure-all-stars-f/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Marmalade (2024) แผนปล้นยัยส้มซ่า",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Marmalade-2024-แผนปล้นยัยส้มซ่า-187x269.jpg",
-      "url": "https://www.24-hd.com/marmalade/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Liaozhai Painting Wall (2023) กำแพงภาพปีศาจ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Liaozhai-Painting-Wall-2023-กำแพงภาพปีศาจ-187x269.jpg",
-      "url": "https://www.24-hd.com/liaozhai-painting-wall/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Ghost Stories (2020) เรื่องผี เรื่องวิญญาณ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Ghost-Stories-2020-เรื่องผี-เรื่องวิญญาณ-187x269.jpg",
-      "url": "https://www.24-hd.com/ghost-stories-2020/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Loser Lover (2023) บังเอิญรัก ข่อยฮักเจ้า",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Loser-Lover-2023-บังเอิญรัก-ข่อยฮักเจ้า-187x269.jpg",
-      "url": "https://www.24-hd.com/loser-lover/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "American Dreamer (2022)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/American-Dreamer-2022-187x269.jpg",
-      "url": "https://www.24-hd.com/american-dreamer/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Scary Movie 5 (2013) ยำหนังจี้ เรียลลิตี้หลุดโลก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Scary-Movie-5-2013-187x269.jpg",
-      "url": "https://www.24-hd.com/scary-movie-5/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Scary Movie 4 (2006) ยำหนังจี้ หวีดล้างโลก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Scary-Movie-4-2006-187x269.jpg",
-      "url": "https://www.24-hd.com/scary-movie-4/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Scary Movie 3 (2003) สยองหวีดจี้ ดีจังหว่า",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Scary-Movie-3-2003-187x269.jpg",
-      "url": "https://www.24-hd.com/scary-movie-3/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Scary Movie 2 (2001) หวีด(อีกสักที) จะดีไหมหว่า",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Scary-Movie-2-2001-187x269.jpg",
-      "url": "https://www.24-hd.com/scary-movie-2/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
