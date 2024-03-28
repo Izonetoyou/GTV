@@ -70,6 +70,70 @@
       "playInNatPlayer": "True"
     },
     {
+      "name": "Sianviathan (2024) สัตว์ร้ายมหึมา",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Sianviathan-2024-สัตว์ร้ายมหึมา-187x269.jpg",
+      "url": "https://www.24-hd.com/sianviathan/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Strange Tales of a Lonely Studio (2024) เรื่องเล่าลึกลับเหลียวไจ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Strange-Tales-of-a-Lonely-Studio-2024-เรื่องเล่าลึกลับเหลียวไจ-187x269.jpg",
+      "url": "https://www.24-hd.com/strange-tales-of-a-lonely-studio/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Rohan at the Louvre (2023) โรฮังกับความลับพิพิธภัณฑ์ลูฟร์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Rohan-at-the-Louvre-2023-โรฮังกับความลับพิพิธภัณฑ์ลูฟร์-187x269.jpg",
+      "url": "https://www.24-hd.com/rohan-at-the-louvre/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Our Son (2023)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Our-Son-2023-187x269.jpg",
+      "url": "https://www.24-hd.com/our-son/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Expend4bles (2023) โคตรคนทีมมหากาฬ 4",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/09/Expend4bles-2023-โคตรคนทีมมหากาฬ-4-187x269.jpg",
+      "url": "https://www.24-hd.com/expend4bles/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Expendables 3 (2014) โคตรคนมหากาฬ ทีมเอ็กซ์เพนเดเบิ้ล",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/07/The-Expendables-3-2014-โคตรคนมหากาฬ-ทีมเอ็กซ์เพนเดเบิ้ล-187x269.jpg",
+      "url": "https://www.24-hd.com/the-expendables-3/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Expendables 2 (2012) โคตรคน ทีมเอ็กซ์เพนเดเบิ้ล",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/07/The-Expendables-2-2012-โคตรคน-ทีมเอ็กซ์เพนเดเบิ้ล-187x269.jpg",
+      "url": "https://www.24-hd.com/the-expendables-2/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Expendables (2010) โครตคนทีมมหากาฬ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/07/The-Expendables-2010-โครตคนทีมมหากาฬ-187x269.jpg",
+      "url": "https://www.24-hd.com/the-expendables/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "The Believers (2024) สาธุ",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Believers-2024-สาธุ-187x269.jpg",
       "url": "https://www.24-hd.com/the-believers/",
@@ -225,70 +289,6 @@
       "name": "Flamin’ Hot (2023)",
       "image": "https://www.24-hd.com/wp-content/uploads/2023/06/Flamin-Hot-2023-187x269.jpg",
       "url": "https://www.24-hd.com/flamin-hot/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Nothing Serious (2021) รักนี้ไม่มีผูกมัด",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Nothing-Serious-2021-รักนี้ไม่มีผูกมัด-187x269.jpg",
-      "url": "https://www.24-hd.com/nothing-serious/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Don’t listen (2020) เสียงสั่งหลอน",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Dont-listen-2020-เสียงสั่งหลอน-187x269.jpg",
-      "url": "https://www.24-hd.com/dont-listen/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Now You See Me 2 (2016) อาชญากลปล้นโลก 2",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Now-You-See-Me-2-2016-อาชญากลปล้นโลก-2-187x269.jpg",
-      "url": "https://www.24-hd.com/now-you-see-me-2/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Now You See Me (2013) อาชญากลปล้นโลก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Now-You-See-Me-2013-อาชญากลปล้นโลก-187x269.jpg",
-      "url": "https://www.24-hd.com/now-you-see-me/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Love Lies Bleeding (2024) รัก ร้าย ร้าย",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Love-Lies-Bleeding-2024-รัก-ร้าย-ร้าย-187x269.jpg",
-      "url": "https://www.24-hd.com/love-lies-bleeding/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Rob N Roll (2024) มหากาพย์ปล้นจารชน",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Rob-N-Roll-2024-มหากาพย์ปล้นจารชน-187x269.jpg",
-      "url": "https://www.24-hd.com/rob-n-roll/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Demon Slayer Kimetsu no Yaiba To the Hashira Training (2024) ปาฏิหาริย์แห่งสายสัมพันธ์ สู่การสั่งสอนของเสาหลัก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training-2024-ปาฏิหาริย์แห่งสายสัมพันธ์-สู่การสั่งสอนของเสาหลัก-187x269.jpg",
-      "url": "https://www.24-hd.com/demon-slayer-kimetsu-no-yaiba-to-the-hashira-training/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "PreCure All Stars F (2023) มหัศจรรย์สาวน้อย พริตตี้เคียว ออลสตาร์ เอฟ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/PreCure-All-Stars-F-2023-มหัศจรรย์สาวน้อย-พริตตี้เคียว-ออลสตาร์-เอฟ-187x269.jpg",
-      "url": "https://www.24-hd.com/precure-all-stars-f/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
