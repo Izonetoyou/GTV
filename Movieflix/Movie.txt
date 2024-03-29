@@ -2584,8 +2584,8 @@
 
 {
 "name": "Godzilla VS Kong (2021)",
-"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1617070026_1.jpg",
-"url": "https://we-play.live/watching/movie/godzilla-vs-kong-2021#",
+"image": "https://www.123-hd.com/wp-content/uploads/2021/03/Godzilla-vs-Kong-2021-%E0%B8%81%E0%B9%87%E0%B8%AD%E0%B8%94%E0%B8%8B%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B9%88%E0%B8%B2-%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B0-%E0%B8%84%E0%B8%AD%E0%B8%87-300x450.jpg",
+"url": "https://www.123-hd.com/godzilla-vs-kong",
 "referer": "https://we-play.live/",
 "playInNatPlayer": "true"
 },
