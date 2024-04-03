@@ -70,6 +70,70 @@
       "playInNatPlayer": "True"
     },
     {
+      "name": "Prey (2022)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Prey-2022-187x269.jpg",
+      "url": "https://www.24-hd.com/prey-2022/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Predator (2018) เดอะ เพรดเดเทอร์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Predator-2018-เดอะ-เพรดเดเทอร์-4-187x269.jpg",
+      "url": "https://www.24-hd.com/the-predator/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Predators (2010) มหากาฬพรีเดเตอร์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Predators-2010-มหากาฬพรีเดเตอร์-3-187x269.jpg",
+      "url": "https://www.24-hd.com/predators/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Predator 2 (1990) คนไม่ใช่คน 2 บดเมืองมนุษย์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Predator-2-1990-คนไม่ใช่คน-2-บดเมืองมนุษย์-2-187x269.jpg",
+      "url": "https://www.24-hd.com/predator-2/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Predator (1987) คนไม่ใช่คน",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Predator-1987-คนไม่ใช่คน-1-187x269.jpg",
+      "url": "https://www.24-hd.com/predator/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Hunter X Hunter Phantom Rouge (2013) ฮันเตอร์ x ฮันเตอร์ เนตรสีเพลิงกับกองโจรเงามายา",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Hunter-X-Hunter-Phantom-Rouge-2013-ฮันเตอร์-x-ฮันเตอร์-เนตรสีเพลิงกับกองโจรเงามายา-187x269.jpg",
+      "url": "https://www.24-hd.com/hunter-x-hunter-phantom-rouge/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Arnold Is A Model Student (2022) อานนเป็นนักเรียนตัวอย่าง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Arnold-Is-A-Model-Student-2022-อานนเป็นนักเรียนตัวอย่าง-187x269.jpg",
+      "url": "https://www.24-hd.com/arnold-is-a-model-student/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "In The Room (2015) ส่องห้องรัก",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/In-The-Room-2015-ส่องห้องรัก-187x269.png",
+      "url": "https://www.24-hd.com/in-the-room/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "The Third Suspect (2024) ผู้ต้องสงสัยคนที่สาม",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Third-Suspect-2024-ผู้ต้องสงสัยคนที่สาม-1-187x269.jpg",
       "url": "https://www.24-hd.com/the-third-suspect/",
@@ -225,70 +289,6 @@
       "name": "Digimon Adventure 02 The Beginning (2023)",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Digimon-Adventure-02-The-Beginning-2023-187x269.jpg",
       "url": "https://www.24-hd.com/digimon-adventure-02-the-beginning/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Digimon Adventure Last Evolution Kizuna (2020) ดิจิมอน แอดเวนเจอร์ ลาสต์ อีโวลูชั่น คิซึนะ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/01/Digimon-Adventure-Last-Evolution-Kizuna-2020-ดิจิมอน-แอดเวนเจอร์-ลาสต์-อีโวลูชั่น-คิซึนะ-187x269.jpg",
-      "url": "https://www.24-hd.com/digimon-adventure-last-evolution-kizuna/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Florida Project (2017) แดน(ไม่)เนรมิต",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Florida-Project-2017-แดนไม่เนรมิต-187x269.jpg",
-      "url": "https://www.24-hd.com/the-florida-project/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Birth Rebirth (2023)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Birth-Rebirth-2023-187x269.jpg",
-      "url": "https://www.24-hd.com/birth-rebirth/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Wages of Fear (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Wages-of-Fear-2024-187x269.jpg",
-      "url": "https://www.24-hd.com/the-wages-of-fear/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Beautiful Game (2024) เดอะบิ้วตี้ฟูล เกม",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Beautiful-Game-2024-เดอะบิ้วตี้ฟูล-เกม-187x269.jpg",
-      "url": "https://www.24-hd.com/the-beautiful-game/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Heart of the Hunter (2024) หัวใจนักล่า",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Heart-of-the-Hunter-2024-หัวใจนักล่า-187x269.jpg",
-      "url": "https://www.24-hd.com/heart-of-the-hunter/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Concrete Utopia (2023) คอนกรีตยูโทเปีย วิมานกลางนรก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/10/Concrete-Utopia-2023-คอนกรีตยูโทเปีย-วิมานกลางนรก-187x269.jpg",
-      "url": "https://www.24-hd.com/concrete-utopia/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Adam Project (2022) ย้อนเวลาหาอดัม",
-      "image": "https://www.24-hd.com/wp-content/uploads/2022/09/The-Adam-Project-2022-187x269.jpg",
-      "url": "https://www.24-hd.com/the-adam-project/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
