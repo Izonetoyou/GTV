@@ -70,6 +70,14 @@
       "playInNatPlayer": "True"
     },
     {
+      "name": "The Tearsmith (2024) เจ้าแห่งน้ำตา",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Tearsmith-2024-เจ้าแห่งน้ำตา-187x269.jpg",
+      "url": "https://www.24-hd.com/the-tearsmith/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Godzilla x Kong The New Empire (2024) ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Godzilla-x-Kong-The-New-Empire-2024-ก็อดซิลล่า-ปะทะ-คอง-2-อาณาจักรใหม่-187x269.jpg",
       "url": "https://www.24-hd.com/godzilla-x-kong-the-new-empire/",
@@ -281,14 +289,6 @@
       "name": "Renfield (2023) เรนฟิลด์",
       "image": "https://www.24-hd.com/wp-content/uploads/2023/04/Renfield-2023-187x269.jpg",
       "url": "https://www.24-hd.com/renfield/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Almost Human (2020)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Almost-Human-2020-187x269.jpg",
-      "url": "https://www.24-hd.com/almost-human/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
