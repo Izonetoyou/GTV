@@ -70,6 +70,30 @@
       "playInNatPlayer": "True"
     },
     {
+      "name": "Parasyte The Grey (2024) ปรสิต เดอะ เกรย์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Parasyte-The-Grey-2024-ปรสิต-เดอะ-เกรย์-187x269.jpg",
+      "url": "https://www.24-hd.com/parasyte-the-grey/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Scoop (2024) สกู๊ปสะเทือนโลก",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Scoop-2024-สกู๊ปสะเทือนโลก-187x269.jpg",
+      "url": "https://www.24-hd.com/scoop/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Antisocial Network (2024) มีมปั่นความวุ่นวาย",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Antisocial-Network-2024-มีมปั่นความวุ่นวาย-187x269.jpg",
+      "url": "https://www.24-hd.com/the-antisocial-network/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "The Tearsmith (2024) เจ้าแห่งน้ำตา",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Tearsmith-2024-เจ้าแห่งน้ำตา-187x269.jpg",
       "url": "https://www.24-hd.com/the-tearsmith/",
@@ -265,30 +289,6 @@
       "name": "The Third Suspect (2024) ผู้ต้องสงสัยคนที่สาม",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Third-Suspect-2024-ผู้ต้องสงสัยคนที่สาม-1-187x269.jpg",
       "url": "https://www.24-hd.com/the-third-suspect/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Guntur Kaaram (2024) เจ้าพ่อกุนตูร์",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Saaho-2019-เกมปล้นนรก-1-187x269.jpg",
-      "url": "https://www.24-hd.com/guntur-kaaram/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "To Kill a Tiger (2024) เมื่อต้องฆ่าเสือ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/To-Kill-a-Tiger-2024-เมื่อต้องฆ่าเสือ-187x269.jpg",
-      "url": "https://www.24-hd.com/to-kill-a-tiger/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Renfield (2023) เรนฟิลด์",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/04/Renfield-2023-187x269.jpg",
-      "url": "https://www.24-hd.com/renfield/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
