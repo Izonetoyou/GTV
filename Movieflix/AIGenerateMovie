@@ -70,6 +70,62 @@
       "playInNatPlayer": "True"
     },
     {
+      "name": "Musica (2024) ดนตรีดลใจ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Musica-2024-ดนตรีดลใจ-187x269.jpg",
+      "url": "https://www.24-hd.com/musica/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Wild (2023)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Wild-2023-187x269.jpg",
+      "url": "https://www.24-hd.com/the-wild/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Mira (2022)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Mira-2022-187x269.jpg",
+      "url": "https://www.24-hd.com/mira/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Dual (2022)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Dual-2022-187x269.jpg",
+      "url": "https://www.24-hd.com/dual/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Strawberry Shortcake’s Spring Spectacular (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/strawberry-shortcakes-spring-spectacular/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Strawberry Shortcake’s Perfect Holiday (2023)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Perfect-Holiday-2023-187x269.jpg",
+      "url": "https://www.24-hd.com/strawberry-shortcakes-perfect-holiday/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Strawberry Shortcake and the Beast of Berry Bog (2023)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/10/Strawberry-Shortcake-and-the-Beast-of-Berry-Bog-2023-187x269.jpg",
+      "url": "https://www.24-hd.com/strawberry-shortcake-and-the-beast-of-berry-bog/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Parasyte The Grey (2024) ปรสิต เดอะ เกรย์",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Parasyte-The-Grey-2024-ปรสิต-เดอะ-เกรย์-187x269.jpg",
       "url": "https://www.24-hd.com/parasyte-the-grey/",
@@ -233,62 +289,6 @@
       "name": "The Predator (2018) เดอะ เพรดเดเทอร์",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Predator-2018-เดอะ-เพรดเดเทอร์-4-187x269.jpg",
       "url": "https://www.24-hd.com/the-predator/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Predators (2010) มหากาฬพรีเดเตอร์",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Predators-2010-มหากาฬพรีเดเตอร์-3-187x269.jpg",
-      "url": "https://www.24-hd.com/predators/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Predator 2 (1990) คนไม่ใช่คน 2 บดเมืองมนุษย์",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Predator-2-1990-คนไม่ใช่คน-2-บดเมืองมนุษย์-2-187x269.jpg",
-      "url": "https://www.24-hd.com/predator-2/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Predator (1987) คนไม่ใช่คน",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Predator-1987-คนไม่ใช่คน-1-187x269.jpg",
-      "url": "https://www.24-hd.com/predator/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Hunter X Hunter Phantom Rouge (2013) ฮันเตอร์ x ฮันเตอร์ เนตรสีเพลิงกับกองโจรเงามายา",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Hunter-X-Hunter-Phantom-Rouge-2013-ฮันเตอร์-x-ฮันเตอร์-เนตรสีเพลิงกับกองโจรเงามายา-187x269.jpg",
-      "url": "https://www.24-hd.com/hunter-x-hunter-phantom-rouge/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Arnold Is A Model Student (2022) อานนเป็นนักเรียนตัวอย่าง",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Arnold-Is-A-Model-Student-2022-อานนเป็นนักเรียนตัวอย่าง-187x269.jpg",
-      "url": "https://www.24-hd.com/arnold-is-a-model-student/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "In The Room (2015) ส่องห้องรัก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/In-The-Room-2015-ส่องห้องรัก-187x269.png",
-      "url": "https://www.24-hd.com/in-the-room/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Third Suspect (2024) ผู้ต้องสงสัยคนที่สาม",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Third-Suspect-2024-ผู้ต้องสงสัยคนที่สาม-1-187x269.jpg",
-      "url": "https://www.24-hd.com/the-third-suspect/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
