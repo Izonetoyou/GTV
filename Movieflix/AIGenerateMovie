@@ -6,6 +6,14 @@
   "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้นเป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
   "stations": [
     {
+      "name": "Dune Part Two (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/dune-part-two/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Godzilla x Kong The New Empire (2024) ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Godzilla-x-Kong-The-New-Empire-2024-ก็อดซิลล่า-ปะทะ-คอง-2-อาณาจักรใหม่-187x269.jpg",
       "url": "https://www.24-hd.com/godzilla-x-kong-the-new-empire/",
@@ -17,14 +25,6 @@
       "name": "Madame Web (2024) มาดามเว็บ",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Madame-Web-2024-มาดามเว็บ-187x269.jpg",
       "url": "https://www.24-hd.com/madame-web/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Dune Part Two (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-187x269.jpg",
-      "url": "https://www.24-hd.com/dune-part-two/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -65,6 +65,62 @@
       "name": "Moscow Mission (2023) ภารกิจท้านรก",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Moscow-Mission-2023-ภารกิจท้านรก-187x269.jpg",
       "url": "https://www.24-hd.com/moscow-mission/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Dune Part Two (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/dune-part-two/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Teri Baaton Mein Aisa Uljha Jiya (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Teri-Baaton-Mein-Aisa-Uljha-Jiya-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/teri-baaton-mein-aisa-uljha-jiya/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The First Omen (2024) กำเนิดอาถรรพ์หมายเลข 6",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-First-Omen-2024-กำเนิดอาถรรพ์หมายเลข-6-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-first-omen/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Omen (2006) อาถรรพณ์กำเนิดซาตานล้างโลก",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Omen-2006-อาถรรพณ์กำเนิดซาตานล้างโลก-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-omen-2006/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Final Conflict (1981) อาถรรพ์หมายเลข 6 ภาค 3",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Final-Conflict-1981-อาถรรพ์หมายเลข-6-ภาค-3-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-final-conflict/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Damien Omen 2 (1978) อาถรรพ์หมายเลข 6 ภาค 2",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Damien-Omen-2-1978-อาถรรพ์หมายเลข-6-ภาค-2-187x269.jpg",
+      "url": "https://www.24-hd.com/damien-omen-2/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Omen (1976) อาถรรพ์หมายเลข 6",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Omen-1976-อาถรรพ์หมายเลข-6-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-omen/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -233,62 +289,6 @@
       "name": "Swiss Army Man (2016)",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Swiss-Army-Man-2016-1-187x269.jpg",
       "url": "https://www.24-hd.com/swiss-army-man/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "777 Charlie (2022) ชาร์ลี มะหมาท้าโลกให้รัก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2022/12/777-Charlie-2022-ชาร์ลี-มะหมาท้าโลกให้รัก-187x269.jpg",
-      "url": "https://www.24-hd.com/777-charlie/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Captain Phillips (2013) ฝ่านาทีพิฆาต โจรสลัดระทึกโลก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/12/Captain-Phillips-2013-ฝ่านาทีพิฆาต-โจรสลัดระทึกโลก-187x269.jpg",
-      "url": "https://www.24-hd.com/captain-phillips/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Hunter x Hunter The Last Mission (2013) ฮันเตอร์ x ฮันเตอร์ ภารกิจสุดท้าย",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Hunter-x-Hunter-The-Last-Mission-2013-ฮันเตอร์-x-ฮันเตอร์-ภารกิจสุดท้าย-187x269.jpg",
-      "url": "https://www.24-hd.com/hunter-x-hunter-the-last-mission/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Limitless (2011) ชี้ชะตา ยาเปลี่ยนสมองคน",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Limitless-2011-ชี้ชะตา-ยาเปลี่ยนสมองคน-187x269.jpg",
-      "url": "https://www.24-hd.com/limitless/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Black Hawk Down (2001) ยุทธการฝ่ารหัสทมิฬ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/07/Black-Hawk-Down-2001-ยุทธการฝ่ารหัสทมิฬ-187x269.jpg",
-      "url": "https://www.24-hd.com/black-hawk-down/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Prey (2022)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Prey-2022-187x269.jpg",
-      "url": "https://www.24-hd.com/prey-2022/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Predator (2018) เดอะ เพรดเดเทอร์",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Predator-2018-เดอะ-เพรดเดเทอร์-4-187x269.jpg",
-      "url": "https://www.24-hd.com/the-predator/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
