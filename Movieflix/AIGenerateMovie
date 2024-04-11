@@ -70,6 +70,14 @@
       "playInNatPlayer": "True"
     },
     {
+      "name": "Death Whisperer (2023) ธี่หยด",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Death-Whisperer-2023-ธี่หยด-1-187x269.jpg",
+      "url": "https://www.24-hd.com/death-whisperer/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Kung Fu Panda 4 (2024) กังฟูแพนด้า 4",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Kung-Fu-Panda-4-2024-กังฟูแพนด้า-4-1-187x269.jpg",
       "url": "https://www.24-hd.com/kung-fu-panda-4/",
@@ -121,14 +129,6 @@
       "name": "Detective Chinatown (2016) แก็งค์ม่วนป่วนเยาวราช",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Detective-Chinatown-2016-แก็งค์ม่วนป่วนเยาวราช-187x269.jpg",
       "url": "https://www.24-hd.com/detective-chinatown/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Death Whisperer (2023) ธี่หยด",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Death-Whisperer-2023-ธี่หยด-1-187x269.jpg",
-      "url": "https://www.24-hd.com/death-whisperer/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
