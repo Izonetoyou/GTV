@@ -6,6 +6,22 @@
   "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้นเป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
   "stations": [
     {
+      "name": "Ghostbusters 5 Frozen Empire (2024) โกสต์บัสเตอร์ส มหันตภัยเมืองเยือกแข็ง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Ghostbusters-5-Frozen-Empire-2024-โกสต์บัสเตอร์ส-มหันตภัยเมืองเยือกแข็ง-187x269.jpg",
+      "url": "https://www.24-hd.com/ghostbusters-5-frozen-empire/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Civil War (2024) วิบัติสมรภูมิเมืองเดือด",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Civil-War-2024-วิบัติสมรภูมิเมืองเดือด-187x269.jpg",
+      "url": "https://www.24-hd.com/civil-war/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Death Whisperer (2023) ธี่หยด",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Death-Whisperer-2023-ธี่หยด-1-187x269.jpg",
       "url": "https://www.24-hd.com/death-whisperer/",
@@ -54,241 +70,225 @@
       "playInNatPlayer": "True"
     },
     {
-      "name": "The Undertaker (2023) สัปเหร่อ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/The-Undertaker-2023-สัปเหร่อ-187x269.jpg",
-      "url": "https://www.24-hd.com/the-undertaker/",
+      "name": "Ghostbusters 5 Frozen Empire (2024) โกสต์บัสเตอร์ส มหันตภัยเมืองเยือกแข็ง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Ghostbusters-5-Frozen-Empire-2024-โกสต์บัสเตอร์ส-มหันตภัยเมืองเยือกแข็ง-187x269.jpg",
+      "url": "https://www.24-hd.com/ghostbusters-5-frozen-empire/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "ManSuang (2023) แมนสรวง",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/ManSuang-2023-แมนสรวง-187x269.jpg",
-      "url": "https://www.24-hd.com/mansuang/",
+      "name": "Civil War (2024) วิบัติสมรภูมิเมืองเดือด",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Civil-War-2024-วิบัติสมรภูมิเมืองเดือด-187x269.jpg",
+      "url": "https://www.24-hd.com/civil-war/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "Death Whisperer (2023) ธี่หยด",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Death-Whisperer-2023-ธี่หยด-1-187x269.jpg",
-      "url": "https://www.24-hd.com/death-whisperer/",
+      "name": "Wrong Turn (2021)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Wrong-Turn-2021-187x269.jpg",
+      "url": "https://www.24-hd.com/wrong-turn-2021/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "Kung Fu Panda 4 (2024) กังฟูแพนด้า 4",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Kung-Fu-Panda-4-2024-กังฟูแพนด้า-4-1-187x269.jpg",
-      "url": "https://www.24-hd.com/kung-fu-panda-4/",
+      "name": "Wrong Turn 6 Last Resort (2014) หวีดเขมือบคน 6 รีสอร์ทอำมหิต",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Wrong-Turn-6-Last-Resort-2014-หวีดเขมือบคน-6-รีสอร์ทอำมหิต-187x269.jpg",
+      "url": "https://www.24-hd.com/wrong-turn-6-last-resort/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "Supposed (2023) สมมติ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Supposed-2023-สมมติ-187x269.jpg",
-      "url": "https://www.24-hd.com/supposed/",
+      "name": "Wrong Turn 5 Bloodlines (2012) หวีดเขมือบคน 5 ปาร์ตี้สยอง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Wrong-Turn-5-Bloodlines-2012-หวีดเขมือบคน-5-ปาร์ตี้สยอง-187x269.jpg",
+      "url": "https://www.24-hd.com/wrong-turn-5-bloodlines/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "Doraemon Nobita’s Sky Utopia (2023) ฟากฟ้าแห่งยูโทเปียของโนบิตะ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/10/Doraemon-Nobitas-Sky-Utopia-2023-ฟากฟ้าแห่งยูโทเปียของโนบิตะ-187x269.jpg",
-      "url": "https://www.24-hd.com/doraemon-nobitas-sky-utopia/",
+      "name": "Wrong Turn 4 Bloody Beginnings (2011) หวีดเขมือบคน 4 ปลุกโหดโรงเชือดสยอง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Wrong-Turn-4-Bloody-Beginnings-2011-หวีดเขมือบคน-4-ปลุกโหดโรงเชือดสยอง-187x269.jpg",
+      "url": "https://www.24-hd.com/wrong-turn-4-bloody-beginnings/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "Charm City Kings (2020)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Charm-City-Kings-2020-187x269.jpg",
-      "url": "https://www.24-hd.com/charm-city-kings/",
+      "name": "Wrong Turn 3 Left for Dead (2009) หวีดเขมือบคน 3",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Wrong-Turn-3-Left-for-Dead-2009-หวีดเขมือบคน-3-187x269.jpg",
+      "url": "https://www.24-hd.com/wrong-turn-3-left-for-dead/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "Detective Chinatown 3 (2021) แก๊งม่วนป่วนโตเกียว 3",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Detective-Chinatown-3-2021-แก๊งม่วนป่วนโตเกียว-3-187x269.jpg",
-      "url": "https://www.24-hd.com/detective-chinatown-3/",
+      "name": "Wrong Turn 2 Dead End (2007) หวีดเขมือบคน 2",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Wrong-Turn-2-Dead-End-2007-หวีดเขมือบคน-2-187x269.jpg",
+      "url": "https://www.24-hd.com/wrong-turn-2-dead-end/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "Detective Chinatown 2 (2018) แก๊งม่วนป่วนนิวยอร์ก 2",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Detective-Chinatown-2-2018-แก๊งม่วนป่วนนิวยอร์ก-2-187x269.jpg",
-      "url": "https://www.24-hd.com/detective-chinatown-2/",
+      "name": "Wrong Turn (2003) หวีดเขมือบคน",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Wrong-Turn-2003-หวีดเขมือบคน-187x269.jpg",
+      "url": "https://www.24-hd.com/wrong-turn/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "Detective Chinatown (2016) แก็งค์ม่วนป่วนเยาวราช",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Detective-Chinatown-2016-แก็งค์ม่วนป่วนเยาวราช-187x269.jpg",
-      "url": "https://www.24-hd.com/detective-chinatown/",
+      "name": "The Greatest Hits (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Greatest-Hits-2024-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-greatest-hits/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "Suspect (2024) ซูเปอร์นักสืบ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Suspect-2024-ซูเปอร์นักสืบ-187x269.jpg",
-      "url": "https://www.24-hd.com/suspect-2024/",
+      "name": "Honey Sweet (2023) รักโคตรจี๊ดของนายโคตรจืด",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Honey-Sweet-2023-รักโคตรจี๊ดของนายโคตรจืด-187x269.jpg",
+      "url": "https://www.24-hd.com/honey-sweet/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "Swords Drawn (2024) ตำนานสู่ซาน ยอดกระบี่หวนคืน",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Swords-Drawn-2024-ตำนานสู่ซาน-ยอดกระบี่หวนคืน-187x269.jpg",
-      "url": "https://www.24-hd.com/swords-drawn/",
+      "name": "Ma, I Love You (2023) รักแม่นะ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Ma-I-Love-You-2023-รักแม่นะ-1-187x269.jpg",
+      "url": "https://www.24-hd.com/ma-i-love-you/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Bob-Marley-One-Love-2024-บ็อบ-มาร์เลย์-วัน-เลิฟ-187x269.jpg",
-      "url": "https://www.24-hd.com/bob-marley-one-love/",
+      "name": "The Secret Kingdom (2023) ผจญภัยอาณาจักรมังกร",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Secret-Kingdom-2023-ผจญภัยอาณาจักรมังกร-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-secret-kingdom/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "Huesera The Bone Woman (2022) สิงร่างหักกระดูก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Huesera-The-Bone-Woman-2022-สิงร่างหักกระดูก-1-187x269.jpg",
-      "url": "https://www.24-hd.com/huesera-the-bone-woman/",
+      "name": "Rescue on One’s Own (2024) เดือดลุยเดี่ยว",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Rescue-on-Ones-Own-2024-เดือดลุยเดี่ยว-187x269.jpg",
+      "url": "https://www.24-hd.com/rescue-on-ones-own/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "Rahsia (2023) ลับ หลอน ซ่อน ตาย",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Rahsia-2023-ลับ-หลอน-ซ่อน-ตาย-187x269.jpg",
-      "url": "https://www.24-hd.com/rahsia/",
+      "name": "Love Death and Cat (2024) เรื่องเล่าขานตำนานปีศาจแมว",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Love-Death-and-Cat-2024-เรื่องเล่าขานตำนานปีศาจแมว-187x269.jpg",
+      "url": "https://www.24-hd.com/love-death-and-cat/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "Ghost Book Obake Zukan (2022) อัศจรรย์หนังสือดูดวิญญาณ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Ghost-Book-Obake-Zukan-2022-อัศจรรย์หนังสือดูดวิญญาณ-1-187x269.jpg",
-      "url": "https://www.24-hd.com/ghost-book-obake-zukan/",
+      "name": "The Mystery of Jade (2024) เปาบุ้นจิ้น คดีประหลาดดาวปลาคู่",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Mystery-of-Jade-2024-เปาบุ้นจิ้น-คดีประหลาดดาวปลาคู่-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-mystery-of-jade/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "R.I.P.D. 2 Rise of the Damned (2022) อาร์.ไอ.พี.ดี. 2 ความรุ่งโรจน์ของผู้ถูกสาป",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/R.I.P.D.-2-Rise-of-the-Damned-2022-อาร์.ไอ.พี.ดี.-2-ความรุ่งโรจน์ของผู้ถูกสาป-187x269.jpg",
-      "url": "https://www.24-hd.com/r-i-p-d-2-rise-of-the-damned-2/",
+      "name": "A Journey (2024) เดินทางไกล เท่าใจฝัน",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/A-Journey-2024-เดินทางไกล-เท่าใจฝัน-187x269.jpg",
+      "url": "https://www.24-hd.com/a-journey/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "R.I.P.D. (2013) หน่วยพิฆาตสยบวิญญาณ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/R.I.P.D.-2013-หน่วยพิฆาตสยบวิญญาณ-187x269.jpg",
-      "url": "https://www.24-hd.com/r-i-p-d/",
+      "name": "The Devil’s Deception (2022)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Devils-Deception-2022-187x269.jpg",
+      "url": "https://www.24-hd.com/the-devils-deception/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "Dune Part Two (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-187x269.jpg",
-      "url": "https://www.24-hd.com/dune-part-two/",
+      "name": "Takumi kun The Dawn of the Long Tales (2023) ใกล้กว่านี้ จะรักแล้วนะ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Takumi-kun-The-Dawn-of-the-Long-Tales-2023-ใกล้กว่านี้-จะรักแล้วนะ-187x269.jpg",
+      "url": "https://www.24-hd.com/takumi-kun-the-dawn-of-the-long-tales/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "Teri Baaton Mein Aisa Uljha Jiya (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Teri-Baaton-Mein-Aisa-Uljha-Jiya-2024-187x269.jpg",
-      "url": "https://www.24-hd.com/teri-baaton-mein-aisa-uljha-jiya/",
+      "name": "Becky and Badette (2023)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Becky-and-Badette-2023-187x269.jpg",
+      "url": "https://www.24-hd.com/becky-and-badette/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "The First Omen (2024) กำเนิดอาถรรพ์หมายเลข 6",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-First-Omen-2024-กำเนิดอาถรรพ์หมายเลข-6-1-187x269.jpg",
-      "url": "https://www.24-hd.com/the-first-omen/",
+      "name": "Gully Boy (2019) กัลลีบอย",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Gully-Boy-2019-กัลลีบอย-187x269.jpg",
+      "url": "https://www.24-hd.com/gully-boy/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "The Omen (2006) อาถรรพณ์กำเนิดซาตานล้างโลก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Omen-2006-อาถรรพณ์กำเนิดซาตานล้างโลก-1-187x269.jpg",
-      "url": "https://www.24-hd.com/the-omen-2006/",
+      "name": "Stolen (2024) พราก",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Stolen-2024-พราก-187x269.jpg",
+      "url": "https://www.24-hd.com/stolen-2024/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "The Final Conflict (1981) อาถรรพ์หมายเลข 6 ภาค 3",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Final-Conflict-1981-อาถรรพ์หมายเลข-6-ภาค-3-1-187x269.jpg",
-      "url": "https://www.24-hd.com/the-final-conflict/",
+      "name": "Love Divided (2024) ผนังบางๆกั้นสองใจ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Love-Divided-2024-ผนังบางๆกั้นสองใจ-187x269.jpg",
+      "url": "https://www.24-hd.com/love-divided/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "Damien Omen 2 (1978) อาถรรพ์หมายเลข 6 ภาค 2",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Damien-Omen-2-1978-อาถรรพ์หมายเลข-6-ภาค-2-187x269.jpg",
-      "url": "https://www.24-hd.com/damien-omen-2/",
+      "name": "Woody Woodpecker Goes to Camp (2023) วู้ดดี้ เจ้านกหัวขวาน ไปค่าย",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Woody-Woodpecker-Goes-to-Camp-2023-วู้ดดี้-เจ้านกหัวขวาน-ไปค่าย-187x269.jpg",
+      "url": "https://www.24-hd.com/woody-woodpecker-goes-to-camp/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "The Omen (1976) อาถรรพ์หมายเลข 6",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Omen-1976-อาถรรพ์หมายเลข-6-1-187x269.jpg",
-      "url": "https://www.24-hd.com/the-omen/",
+      "name": "Amar Singh Chamkila (2024) ตำนานเพลง แห่งปัญจาม",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Amar-Singh-Chamkila-2024-ตำนานเพลง-แห่งปัญจาม-187x269.jpg",
+      "url": "https://www.24-hd.com/amar-singh-chamkila/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "Musica (2024) ดนตรีดลใจ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Musica-2024-ดนตรีดลใจ-187x269.jpg",
-      "url": "https://www.24-hd.com/musica/",
+      "name": "GomBurZa (2023) ศรัทธาผู้กล้าแกร่ง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/GomBurZa-2023-ศรัทธาผู้กล้าแกร่ง-187x269.jpg",
+      "url": "https://www.24-hd.com/gomburza/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "The Wild (2023)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Wild-2023-187x269.jpg",
-      "url": "https://www.24-hd.com/the-wild/",
+      "name": "Girls State (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Girls-State-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/girls-state/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "Mira (2022)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Mira-2022-187x269.jpg",
-      "url": "https://www.24-hd.com/mira/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Dual (2022)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Dual-2022-187x269.jpg",
-      "url": "https://www.24-hd.com/dual/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Strawberry Shortcake’s Spring Spectacular (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024-187x269.jpg",
-      "url": "https://www.24-hd.com/strawberry-shortcakes-spring-spectacular/",
+      "name": "What Jennifer Did (2024) บาปของเจนนิเฟอร์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/What-Jennifer-Did-2024-บาปของเจนนิเฟอร์-187x269.jpg",
+      "url": "https://www.24-hd.com/what-jennifer-did/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
