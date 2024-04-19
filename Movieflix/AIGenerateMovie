@@ -6,6 +6,14 @@
   "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้นเป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
   "stations": [
     {
+      "name": "Ghostbusters 5 Frozen Empire (2024) โกสต์บัสเตอร์ส มหันตภัยเมืองเยือกแข็ง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Ghostbusters-5-Frozen-Empire-2024-โกสต์บัสเตอร์ส-มหันตภัยเมืองเยือกแข็ง-187x269.jpg",
+      "url": "https://www.24-hd.com/ghostbusters-5-frozen-empire/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "The Djinn’s Curse (2023) ของแขก",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Djinns-Curse-2023-ของแขก-1-187x269.jpg",
       "url": "https://www.24-hd.com/the-djinns-curse/",
@@ -17,14 +25,6 @@
       "name": "Dune Part Two (2024)",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-187x269.jpg",
       "url": "https://www.24-hd.com/dune-part-two/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Ghostbusters 5 Frozen Empire (2024) โกสต์บัสเตอร์ส มหันตภัยเมืองเยือกแข็ง",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Ghostbusters-5-Frozen-Empire-2024-โกสต์บัสเตอร์ส-มหันตภัยเมืองเยือกแข็ง-187x269.jpg",
-      "url": "https://www.24-hd.com/ghostbusters-5-frozen-empire/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -65,6 +65,70 @@
       "name": "Not Friends (2023) เพื่อน(ไม่)สนิท",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Not-Friends-2023-เพื่อนไม่สนิท-187x269.jpg",
       "url": "https://www.24-hd.com/not-friends/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Rebel Moon Part Two The Scargiver (2024) นักรบผู้ตีตรา ภาค 2",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Rebel-Moon-Part-Two-The-Scargiver-2024-นักรบผู้ตีตรา-ภาค-2-187x269.jpg",
+      "url": "https://www.24-hd.com/rebel-moon-part-two-the-scargiver/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Three Musketeers Milady (2023) สามทหารเสือ มิลาดี้ สตรีสีเลือด",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Three-Musketeers-Milady-2023-สามทหารเสือ-มิลาดี้-สตรีสีเลือด-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-three-musketeers-milady/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Imaginary (2024) ตุ๊กตาซาตาน",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Imaginary-2024-ตุ๊กตาซาตาน-187x269.jpg",
+      "url": "https://www.24-hd.com/imaginary/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Rebel Moon Part One A Child of Fire (2023) บุตรแห่งเปลวไฟ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/12/Rebel-Moon-Part-One-A-Child-of-Fire-2023-บุตรแห่งเปลวไฟ-187x269.jpg",
+      "url": "https://www.24-hd.com/rebel-moon-part-one-a-child-of-fire/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Ghostbusters 5 Frozen Empire (2024) โกสต์บัสเตอร์ส มหันตภัยเมืองเยือกแข็ง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Ghostbusters-5-Frozen-Empire-2024-โกสต์บัสเตอร์ส-มหันตภัยเมืองเยือกแข็ง-187x269.jpg",
+      "url": "https://www.24-hd.com/ghostbusters-5-frozen-empire/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Lady Chatterley’s Lover (2022) ชู้รักเลดี้แชตเตอร์เลย์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2022/12/Lady-Chatterleys-Lover-2022-ชู้รักเลดี้แชตเตอร์เลย์-187x269.jpg",
+      "url": "https://www.24-hd.com/lady-chatterleys-lover/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Lady Chatterley’s Lover (2015)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/12/Lady-Chatterleys-Lover-2015-187x269.jpg",
+      "url": "https://www.24-hd.com/lady-chatterleys-lover-2015/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Edge of Tomorrow (2014) ซูเปอร์นักรบดับทัพอสูร",
+      "image": "https://www.24-hd.com/wp-content/uploads/2022/11/Edge-of-Tomorrow-2014-ซูเปอร์นักรบดับทัพอสูร-187x269.jpg",
+      "url": "https://www.24-hd.com/edge-of-tomorrow/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -174,14 +238,6 @@
       "playInNatPlayer": "True"
     },
     {
-      "name": "Ghostbusters 5 Frozen Empire (2024) โกสต์บัสเตอร์ส มหันตภัยเมืองเยือกแข็ง",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Ghostbusters-5-Frozen-Empire-2024-โกสต์บัสเตอร์ส-มหันตภัยเมืองเยือกแข็ง-187x269.jpg",
-      "url": "https://www.24-hd.com/ghostbusters-5-frozen-empire/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
       "name": "Civil War (2024) วิบัติสมรภูมิเมืองเดือด",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Civil-War-2024-วิบัติสมรภูมิเมืองเดือด-187x269.jpg",
       "url": "https://www.24-hd.com/civil-war/",
@@ -233,62 +289,6 @@
       "name": "Wrong Turn 2 Dead End (2007) หวีดเขมือบคน 2",
       "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Wrong-Turn-2-Dead-End-2007-หวีดเขมือบคน-2-187x269.jpg",
       "url": "https://www.24-hd.com/wrong-turn-2-dead-end/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Wrong Turn (2003) หวีดเขมือบคน",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Wrong-Turn-2003-หวีดเขมือบคน-187x269.jpg",
-      "url": "https://www.24-hd.com/wrong-turn/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Greatest Hits (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Greatest-Hits-2024-1-187x269.jpg",
-      "url": "https://www.24-hd.com/the-greatest-hits/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Honey Sweet (2023) รักโคตรจี๊ดของนายโคตรจืด",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Honey-Sweet-2023-รักโคตรจี๊ดของนายโคตรจืด-187x269.jpg",
-      "url": "https://www.24-hd.com/honey-sweet/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Ma, I Love You (2023) รักแม่นะ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Ma-I-Love-You-2023-รักแม่นะ-1-187x269.jpg",
-      "url": "https://www.24-hd.com/ma-i-love-you/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Secret Kingdom (2023) ผจญภัยอาณาจักรมังกร",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Secret-Kingdom-2023-ผจญภัยอาณาจักรมังกร-1-187x269.jpg",
-      "url": "https://www.24-hd.com/the-secret-kingdom/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Rescue on One’s Own (2024) เดือดลุยเดี่ยว",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Rescue-on-Ones-Own-2024-เดือดลุยเดี่ยว-187x269.jpg",
-      "url": "https://www.24-hd.com/rescue-on-ones-own/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Love Death and Cat (2024) เรื่องเล่าขานตำนานปีศาจแมว",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Love-Death-and-Cat-2024-เรื่องเล่าขานตำนานปีศาจแมว-187x269.jpg",
-      "url": "https://www.24-hd.com/love-death-and-cat/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
