@@ -6,6 +6,22 @@
   "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้นเป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
   "stations": [
     {
+      "name": "Deaw Special Super Soft Power (2024) เดี่ยวสเปเชียล ซูเปอร์ ซอฟต์ พาวเวอร์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Deaw-Special-Super-Soft-Power-2024-เดี่ยวสเปเชียล-ซูเปอร์-ซอฟต์-พาวเวอร์-1-187x269.jpg",
+      "url": "https://www.24-hd.com/deaw-special-super-soft-power/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Fall Guy (2024) สตันท์แมนคนจริง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/The-Fall-Guy-2024-สตันท์แมนคนจริง-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-fall-guy/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Civil War (2024) วิบัติสมรภูมิเมืองเดือด",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Civil-War-2024-วิบัติสมรภูมิเมืองเดือด-187x269.jpg",
       "url": "https://www.24-hd.com/civil-war/",
@@ -38,14 +54,6 @@
       "playInNatPlayer": "True"
     },
     {
-      "name": "Dune Part Two (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-187x269.jpg",
-      "url": "https://www.24-hd.com/dune-part-two/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
       "name": "Death Whisperer (2023) ธี่หยด",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Death-Whisperer-2023-ธี่หยด-1-187x269.jpg",
       "url": "https://www.24-hd.com/death-whisperer/",
@@ -62,9 +70,49 @@
       "playInNatPlayer": "True"
     },
     {
-      "name": "Not Friends (2023) เพื่อน(ไม่)สนิท",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Not-Friends-2023-เพื่อนไม่สนิท-187x269.jpg",
-      "url": "https://www.24-hd.com/not-friends/",
+      "name": "Beautiful Rebel (2024) สาวร็อคหัวขบถ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Beautiful-Rebel-2024-สาวร็อคหัวขบถ-187x269.jpg",
+      "url": "https://www.24-hd.com/beautiful-rebel/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Secrets of the Neanderthals (2024) ความลับของนีแอนเดอร์ทาล",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Secrets-of-the-Neanderthals-2024-ความลับของนีแอนเดอร์ทาล-187x269.jpg",
+      "url": "https://www.24-hd.com/secrets-of-the-neanderthals/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Deaw Special Super Soft Power (2024) เดี่ยวสเปเชียล ซูเปอร์ ซอฟต์ พาวเวอร์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Deaw-Special-Super-Soft-Power-2024-เดี่ยวสเปเชียล-ซูเปอร์-ซอฟต์-พาวเวอร์-1-187x269.jpg",
+      "url": "https://www.24-hd.com/deaw-special-super-soft-power/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Fall Guy (2024) สตันท์แมนคนจริง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/The-Fall-Guy-2024-สตันท์แมนคนจริง-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-fall-guy/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Miss You (2024) จากวันนั้น ถึงวันนี้",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Miss-You-2024-จากวันนั้น-ถึงวันนี้-ยังคิดถึงเธอ-1-187x269.jpg",
+      "url": "https://www.24-hd.com/miss-you/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Ghost’s News (2023) ผีฮา คนเฮ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Ghosts-News-2023-ผีฮา-คนเฮ-187x269.jpg",
+      "url": "https://www.24-hd.com/ghosts-news/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -241,54 +289,6 @@
       "name": "Alienoid 2 The Return to the Future (2024)",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Alienoid-2-The-Return-to-the-Future-2024-1-187x269.jpg",
       "url": "https://www.24-hd.com/alienoid-2-the-return-to-the-future/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Alienoid (2022)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Alienoid-2022-187x269.jpg",
-      "url": "https://www.24-hd.com/alienoid/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Cash Out (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Cash-Out-2024-187x269.jpg",
-      "url": "https://www.24-hd.com/cash-out/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Sayen La cazadora (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Sayen-La-cazadora-2024-187x269.jpg",
-      "url": "https://www.24-hd.com/sayen-la-cazadora/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "OverHaul (2023) ซิ่งแรงแซงตาย",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/09/OverHaul-2023-ซิ่งแรงแซงตาย-187x269.jpg",
-      "url": "https://www.24-hd.com/overhaul/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Love Lies Bleeding (2024) รัก ร้าย ร้าย",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Love-Lies-Bleeding-2024-รัก-ร้าย-ร้าย-187x269.jpg",
-      "url": "https://www.24-hd.com/love-lies-bleeding/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Backdraft 2 (2019) เปลวไฟกับวีรบุรุษ 2",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/10/Backdraft-2-2019-เปลวไฟกับวีรบุรุษ-2-187x269.jpg",
-      "url": "https://www.24-hd.com/backdraft-2/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
