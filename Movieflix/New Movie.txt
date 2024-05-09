@@ -6,6 +6,27 @@
 "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
 "stations":[
 {
+"name": "The Thundermans Return (2024)",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/05/The-Thundermans-Return-2024-300x450.jpg",
+"url": "https://www.123-hd.com/the-thundermans-return",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
+"name": "Godzilla Minus One (2023)",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/05/Godzilla-Minus-One-2023-1-300x450.jpg",
+"url": "https://www.123-hd.com/godzilla-minus-one",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
+"name": "Kung Fu Panda 4 (2024) กังฟูแพนด้า 4",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/04/Kung-Fu-Panda-4-2024-%E0%B8%81%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%B9%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2-4-300x450.jpg",
+"url": "https://www.123-hd.com/kung-fu-panda-4",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
 "name": "4 Kings 2 (2023)",
 "image":"https://www.123-hd.com/wp-content/uploads/2024/01/4-Kings-2-2023-1-300x450.jpg",
 "url": "https://www.123-hd.com/4-kings-2",
