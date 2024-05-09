@@ -14,6 +14,14 @@
       "playInNatPlayer": "True"
     },
     {
+      "name": "Godzilla Minus One (2023)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Godzilla-Minus-One-2023-1-187x269.jpg",
+      "url": "https://www.24-hd.com/godzilla-minus-one/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Deaw Special Super Soft Power (2024) เดี่ยวสเปเชียล ซูเปอร์ ซอฟต์ พาวเวอร์",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Deaw-Special-Super-Soft-Power-2024-เดี่ยวสเปเชียล-ซูเปอร์-ซอฟต์-พาวเวอร์-1-187x269.jpg",
       "url": "https://www.24-hd.com/deaw-special-super-soft-power/",
@@ -38,14 +46,6 @@
       "playInNatPlayer": "True"
     },
     {
-      "name": "Ghostbusters 5 Frozen Empire (2024) โกสต์บัสเตอร์ส มหันตภัยเมืองเยือกแข็ง",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Ghostbusters-5-Frozen-Empire-2024-โกสต์บัสเตอร์ส-มหันตภัยเมืองเยือกแข็ง-187x269.jpg",
-      "url": "https://www.24-hd.com/ghostbusters-5-frozen-empire/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
       "name": "The Djinn’s Curse (2023) ของแขก",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Djinns-Curse-2023-ของแขก-1-187x269.jpg",
       "url": "https://www.24-hd.com/the-djinns-curse/",
@@ -65,6 +65,70 @@
       "name": "Godzilla x Kong The New Empire (2024) ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Godzilla-x-Kong-The-New-Empire-2024-ก็อดซิลล่า-ปะทะ-คอง-2-อาณาจักรใหม่-187x269.jpg",
       "url": "https://www.24-hd.com/godzilla-x-kong-the-new-empire/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Ghostbusters 5 Frozen Empire (2024) โกสต์บัสเตอร์ส มหันตภัยเมืองเยือกแข็ง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Ghostbusters-5-Frozen-Empire-2024-โกสต์บัสเตอร์ส-มหันตภัยเมืองเยือกแข็ง-187x269.jpg",
+      "url": "https://www.24-hd.com/ghostbusters-5-frozen-empire/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Decibel (2022) ลั่นระเบิดเมือง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/01/Decibel-2022-ลั่นระเบิดเมือง-187x269.jpg",
+      "url": "https://www.24-hd.com/decibel/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Forgotten (2017) ความทรงจำพิศวง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/06/Forgotten-2017-ความทรงจำพิศวง-187x269.jpg",
+      "url": "https://www.24-hd.com/forgotten/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Always (2011) กอดคือสัญญา หัวใจฝากมาชั่วนิรันดร์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Always-2011-กอดคือสัญญา-หัวใจฝากมาชั่วนิรันดร์-187x269.jpg",
+      "url": "https://www.24-hd.com/always/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Bridge of Spies (2015) จารชนเจรจาทมิฬ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Bridge-of-Spies-2015-จารชนเจรจาทมิฬ-187x269.jpg",
+      "url": "https://www.24-hd.com/bridge-of-spies/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "War of the Arrows (2011) สงครามธนูพิฆาต",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/04/War-of-the-Arrows-2011-สงครามธนูพิฆาต-187x269.jpg",
+      "url": "https://www.24-hd.com/war-of-the-arrows/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Obsessed (2014) แรงรักมรณะ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Obsessed-2014-แรงรักมรณะ-187x269.jpg",
+      "url": "https://www.24-hd.com/obsessed/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Obsessed (2009) แรงรักมรณะ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Obsessed-2009-แรงรักมรณะ-187x269.jpg",
+      "url": "https://www.24-hd.com/obsessed-2009/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -225,70 +289,6 @@
       "name": "Unfrosted (2024) ศึกป๊อปทาร์ต",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Unfrosted-2024-ศึกป๊อปทาร์ต-187x269.jpg",
       "url": "https://www.24-hd.com/unfrosted/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Chief of Station (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Chief-of-Station-2024-1-187x269.jpg",
-      "url": "https://www.24-hd.com/chief-of-station/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Prom Dates (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Prom-Dates-2024-1-187x269.jpg",
-      "url": "https://www.24-hd.com/prom-dates/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "iQue viva Mé xico (2023) เม็กซิโกจงเจริญ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/iQue-viva-Me-xico-2023-เม็กซิโกจงเจริญ-187x269.jpg",
-      "url": "https://www.24-hd.com/ique-viva-me-xico/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Figth Break Sphere 2 (2023) สัประยุทธ์ทะลุฟ้า 2",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/12/Figth-Break-Sphere-2-2023-สัประยุทธ์ทะลุฟ้า-2-187x269.jpg",
-      "url": "https://www.24-hd.com/figth-break-sphere-2/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Figth Break Sphere (2023) สัประยุทธ์ทะลุฟ้า",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/12/Figth-Break-Sphere-2023-สัประยุทธ์ทะลุฟ้า-187x269.jpg",
-      "url": "https://www.24-hd.com/figth-break-sphere/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Chhorii (2021)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Chhorii-2021-1-187x269.jpg",
-      "url": "https://www.24-hd.com/chhorii/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Ministry of Ungentlemanly Warfare (2024) แสบจารชนคนพลิกโลก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/The-Ministry-of-Ungentlemanly-Warfare-2024-แสบจารชนคนพลิกโลก-187x269.jpg",
-      "url": "https://www.24-hd.com/the-ministry-of-ungentlemanly-warfare/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Arcadian (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Arcadian-2024-187x269.jpg",
-      "url": "https://www.24-hd.com/arcadian/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
