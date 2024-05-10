@@ -6,6 +6,12 @@
 "info": "",
 "groups": [
 {
+"name": "Planet of the Apes",
+"image": "https://mono29.com/app/uploads/2019/06/The-Exchange2-1.jpg",
+"url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%95%E0%B9%88%E0%B8%AD/Planet%20of%20the%20Apes.txt",
+"import": false
+},
+{
 "name": "The Witch",
 "image": "https://www.123-hd.com/wp-content/uploads/2022/02/The-Witch-Part-1-The-Subversion-2018-300x450.png",
 "url": "https://drive.google.com/uc?export=download&id=11jBLaDX2G2QrMeIk7omlzNRiS8l2V1Ku",
@@ -93,12 +99,6 @@
 "name": "Terminator 1-5",
 "image": "http://flowthefilm.com/wp-content/uploads/2019/10/534b8f0adfb1136cf5f7b40fa181e2bd.jpg",
 "url": "https://drive.google.com/uc?export=download&id=1Qz56yie9qlITlo7_UazwBP4u0OpIjxvu",
-"import": false
-},
-{
-"name": "Planet of the Apes",
-"image": "https://mono29.com/app/uploads/2019/06/The-Exchange2-1.jpg",
-"url": "https://drive.google.com/uc?export=download&id=15jsxU8BwMuaRov9ebq51f1BqKQABs-t8",
 "import": false
 },
 {
