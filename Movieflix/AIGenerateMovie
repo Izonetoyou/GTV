@@ -70,6 +70,54 @@
       "playInNatPlayer": "True"
     },
     {
+      "name": "The Fall Guy (2024) สตันท์แมนคนจริง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/The-Fall-Guy-2024-สตันท์แมนคนจริง-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-fall-guy/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Kung Fu Panda 4 (2024) กังฟูแพนด้า 4",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Kung-Fu-Panda-4-2024-กังฟูแพนด้า-4-1-187x269.jpg",
+      "url": "https://www.24-hd.com/kung-fu-panda-4/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Abigail (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Abigail-2024-1-187x269.jpg",
+      "url": "https://www.24-hd.com/abigail/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Final Attack on Wembley (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/The-Final-Attack-on-Wembley-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/the-final-attack-on-wembley/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Slyth The Hunt Saga (2023) สลิธ โปรเจกต์ล่า",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Slyth-The-Hunt-Saga-2023-สลิธ-โปรเจกต์ล่า-1-187x269.jpg",
+      "url": "https://www.24-hd.com/slyth-the-hunt-saga/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "All Lives (2024) เส้นทางชีวิต",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/All-Lives-2024-เส้นทางชีวิต-187x269.jpg",
+      "url": "https://www.24-hd.com/all-lives/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Ghostbusters 5 Frozen Empire (2024) โกสต์บัสเตอร์ส มหันตภัยเมืองเยือกแข็ง",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Ghostbusters-5-Frozen-Empire-2024-โกสต์บัสเตอร์ส-มหันตภัยเมืองเยือกแข็ง-187x269.jpg",
       "url": "https://www.24-hd.com/ghostbusters-5-frozen-empire/",
@@ -129,14 +177,6 @@
       "name": "Obsessed (2009) แรงรักมรณะ",
       "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Obsessed-2009-แรงรักมรณะ-187x269.jpg",
       "url": "https://www.24-hd.com/obsessed-2009/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Fall Guy (2024) สตันท์แมนคนจริง",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/The-Fall-Guy-2024-สตันท์แมนคนจริง-1-187x269.jpg",
-      "url": "https://www.24-hd.com/the-fall-guy/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -249,46 +289,6 @@
       "name": "Maebia (2015) แม่เบี้ย",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/01/Maebia-2015-แม่เบี้ย-187x269.jpg",
       "url": "https://www.24-hd.com/maebia/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Mae Bia Snake Lady (2001) แม่เบี้ย",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/01/Mae-Bia-Snake-Lady-2001-แม่เบี้ย-187x269.jpg",
-      "url": "https://www.24-hd.com/mae-bia-snake-lady/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Haunted Universities 2nd Semester (2022) เทอมสอง สยองขวัญ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2022/10/Haunted-Universities-2nd-Semester-2022-เทอมสอง-สยองขวัญ-187x269.jpg",
-      "url": "https://www.24-hd.com/haunted-universities-2nd-semester/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Haunted Universities (2009) มหาลัยสยองขวัญ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/08/Haunted-Universities-2009-มหาลัยสยองขวัญ-187x269.jpg",
-      "url": "https://www.24-hd.com/haunted-universities/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Shaitaan (2024) ซาตาน",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Shaitaan-2024-ซาตาน-187x269.jpg",
-      "url": "https://www.24-hd.com/shaitaan/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Unfrosted (2024) ศึกป๊อปทาร์ต",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Unfrosted-2024-ศึกป๊อปทาร์ต-187x269.jpg",
-      "url": "https://www.24-hd.com/unfrosted/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
