@@ -70,6 +70,38 @@
       "playInNatPlayer": "True"
     },
     {
+      "name": "Sting (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Sting-2024-1-187x269.jpg",
+      "url": "https://www.24-hd.com/sting/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Blind (2023) เส้นทางรัก ฝ่าอุปสรรคชีวิต",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/The-Blind-2023-เส้นทางรัก-ฝ่าอุปสรรคชีวิต-187x269.jpg",
+      "url": "https://www.24-hd.com/the-blind/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Single Moms Club (2014) ชมรมคุณแม่เลี้ยงเดี่ยว",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/The-Single-Moms-Club-2014-ชมรมคุณแม่เลี้ยงเดี่ยว-187x269.jpg",
+      "url": "https://www.24-hd.com/the-single-moms-club/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "No Doubt (2010)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/No-Doubt-2010-187x269.jpg",
+      "url": "https://www.24-hd.com/no-doubt/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Dog Days Are Over (2024) สู่อนาคตที่ใหม่ที่ใหญ่ยิ่ง",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Dog-Days-Are-Over-2024-สู่อนาคตที่ใหม่ที่ใหญ่ยิ่ง-1-187x269.jpg",
       "url": "https://www.24-hd.com/dog-days-are-over/",
@@ -257,38 +289,6 @@
       "name": "They Shot the Piano Player (2023)",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/05/They-Shot-the-Piano-Player-2023-187x269.jpg",
       "url": "https://www.24-hd.com/they-shot-the-piano-player/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Blue Skies at Your Feet (2022) แอบรักเติมฝันในวันฟ้าใส",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/The-Blue-Skies-at-Your-Feet-2022-แอบรักเติมฝันในวันฟ้าใส-187x269.jpg",
-      "url": "https://www.24-hd.com/the-blue-skies-at-your-feet/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Kandahar (2023)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/06/Kandahar-2023-187x269.jpg",
-      "url": "https://www.24-hd.com/kandahar/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Firewire Sniper (2024) ภารกิจกล้า ฝ่ากระสุน",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Firewire-Sniper-2024-ภารกิจกล้า-ฝ่ากระสุน-187x269.jpg",
-      "url": "https://www.24-hd.com/firewire-sniper/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Love Without Permission (2024) โปเยโปโลเย รักสูญสลาย",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Love-Without-Permission-2024-โปเยโปโลเย-รักสูญสลาย-187x269.jpg",
-      "url": "https://www.24-hd.com/love-without-permission/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
