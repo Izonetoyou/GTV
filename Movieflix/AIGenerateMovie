@@ -70,6 +70,30 @@
       "playInNatPlayer": "True"
     },
     {
+      "name": "Challengers (2024) ชาเลนเจอร์ส",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Challengers-2024-ชาเลนเจอร์ส-187x269.jpg",
+      "url": "https://www.24-hd.com/challengers/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "May the Devil Take You (2018) บ้านเฮี้ยน วิญญาณโหด",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/May-the-Devil-Take-You-2018-บ้านเฮี้ยน-วิญญาณโหด-187x269.jpg",
+      "url": "https://www.24-hd.com/may-the-devil-take-you/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Cyber Heist (2023) ล่าอาชญากรไซเบอร์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Cyber-Heist-2023-ล่าอาชญากรไซเบอร์-1-187x269.jpg",
+      "url": "https://www.24-hd.com/cyber-heist/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Sting (2024)",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Sting-2024-1-187x269.jpg",
       "url": "https://www.24-hd.com/sting/",
@@ -265,30 +289,6 @@
       "name": "Darkdog Lockdown (2023) คุณตูบสายดาร์ก ปิดเมืองกัด",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Darkdog-Lockdown-2023-คุณตูบสายดาร์ก-ปิดเมืองกัด-187x269.jpg",
       "url": "https://www.24-hd.com/darkdog-lockdown/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Love in an Old Album (2023) ปราณี",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Love-in-an-Old-Album-2023-ปราณี-187x269.jpg",
-      "url": "https://www.24-hd.com/love-in-an-old-album/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Last Rifleman (2023)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/The-Last-Rifleman-2023-1-187x269.jpg",
-      "url": "https://www.24-hd.com/the-last-rifleman/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "They Shot the Piano Player (2023)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/They-Shot-the-Piano-Player-2023-187x269.jpg",
-      "url": "https://www.24-hd.com/they-shot-the-piano-player/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
