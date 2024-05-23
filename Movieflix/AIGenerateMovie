@@ -6,17 +6,17 @@
   "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้นเป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
   "stations": [
     {
-      "name": "Godzilla x Kong The New Empire (2024) ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Godzilla-x-Kong-The-New-Empire-2024-ก็อดซิลล่า-ปะทะ-คอง-2-อาณาจักรใหม่-187x269.jpg",
-      "url": "https://www.24-hd.com/godzilla-x-kong-the-new-empire/",
+      "name": "The Fall Guy (2024) สตันท์แมนคนจริง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/The-Fall-Guy-2024-สตันท์แมนคนจริง-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-fall-guy/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
     },
     {
-      "name": "The Fall Guy (2024) สตันท์แมนคนจริง",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/The-Fall-Guy-2024-สตันท์แมนคนจริง-1-187x269.jpg",
-      "url": "https://www.24-hd.com/the-fall-guy/",
+      "name": "Godzilla x Kong The New Empire (2024) ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Godzilla-x-Kong-The-New-Empire-2024-ก็อดซิลล่า-ปะทะ-คอง-2-อาณาจักรใหม่-187x269.jpg",
+      "url": "https://www.24-hd.com/godzilla-x-kong-the-new-empire/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -65,6 +65,22 @@
       "name": "Death Whisperer (2023) ธี่หยด",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Death-Whisperer-2023-ธี่หยด-1-187x269.jpg",
       "url": "https://www.24-hd.com/death-whisperer/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Fall Guy (2024) สตันท์แมนคนจริง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/The-Fall-Guy-2024-สตันท์แมนคนจริง-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-fall-guy/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Ministry of Ungentlemanly Warfare (2024) แสบจารชนคนพลิกโลก",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/The-Ministry-of-Ungentlemanly-Warfare-2024-แสบจารชนคนพลิกโลก-187x269.jpg",
+      "url": "https://www.24-hd.com/the-ministry-of-ungentlemanly-warfare/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -273,22 +289,6 @@
       "name": "Shark The Beginning (2021)",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Shark-The-Beginning-2021-187x269.jpg",
       "url": "https://www.24-hd.com/shark-the-beginning/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Alienoid 2 The Return to the Future (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Alienoid-2-The-Return-to-the-Future-2024-1-187x269.jpg",
-      "url": "https://www.24-hd.com/alienoid-2-the-return-to-the-future/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Sanctuary (2023)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2023/11/Sanctuary-2023-187x269.jpg",
-      "url": "https://www.24-hd.com/sanctuary/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
