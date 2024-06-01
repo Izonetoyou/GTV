@@ -6,6 +6,13 @@
 "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
 "stations":[
 {
+"name": "Godzilla Minus One (2023)",
+"image":"https://www.9nunghd.com/wp-content/uploads/2024/05/hkxxMIGaiCTmrEArK7J56JTKUlB-230x315-c-default.webp",
+"url": "https://streamhls.com/view/f759f531-d5e9-5eea-9253-945b28ecb572.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
 "name": "Civil War (2024) วิบัติสมรภูมิเมืองเดือด",
 "image":"https://www.123-hd.com/wp-content/uploads/2024/04/Civil-War-2024-%E0%B8%A7%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94-300x450.jpg",
 "url": "https://www.123-hd.com/civil-war",
