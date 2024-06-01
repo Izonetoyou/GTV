@@ -43,7 +43,7 @@
 },
 {
 "name": "เว็ปดูหนังออนไลน์",
-"image": "https://img.freepik.com/free-vector/movie-time-neon-sign-sign_24908-55555.jpg",
+"image": "https://media3.giphy.com/media/3o7rc0qU6m5hneMsuc/giphy.gif?cid=ecf05e47c1b9xrf4rqbz8p476xiuy8h21yf2lrsx2jrtk0r9&ep=v1_gifs_search&rid=giphy.gif&ct=g",
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/web",
 "import": false
 },
