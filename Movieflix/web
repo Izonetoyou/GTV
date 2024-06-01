@@ -1,0 +1,47 @@
+{
+
+"name": "Wed movie online",
+"author": "ใช้ชมเพื่อความบันเทิงภายในครอบครัว นี้เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่มีแล้วในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี ",
+"image": "https://img.freepik.com/free-vector/movie-time-neon-sign-sign_24908-55555.jpg",
+"url": "",
+"info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี สถานีความบันเทิงส่วนตัว",
+
+
+"stations": [
+
+{
+"name": "123-hd",
+"image": "https://123-hd.com/wp-content/uploads/2019/10/5.ico",
+"url": "https://www.123-hd.com/",
+"referer": "https://sites.google.com",
+"embed": "true"
+},
+
+
+
+{
+"name": "9nunghd",
+"image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+"url": "https://www.9nunghd.com/",
+"referer": "https://sites.google.com",
+"embed": "true"
+},
+
+{
+"name": "i-moviehd",
+"image": "https://www.i-moviehd.com/favicon.ico",
+"url": "https://www.i-moviehd.com/",
+"referer": "https://sites.google.com",
+"embed": "true"
+},
+
+{
+"name": "ซี่รี่ย์",
+"image": "https://site-images.similarcdn.com/image?url=nung2hdd.com&t=1&s=1&h=bf2dd2615ba6c68091915bff912271fe86e8c07a69ea183ec478cee63e5b9ced",
+"url": "https://www.nung2hdd.com/",
+"referer": "https://sites.google.com",
+"embed": "true"
+},
+
+]
+}
