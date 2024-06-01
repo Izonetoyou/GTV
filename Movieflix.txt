@@ -41,6 +41,12 @@
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/AIGenerateMovie",
 "import": false
 },
+{
+"name": "เว็ปดูหนังออนไลน์",
+"image": "https://img.freepik.com/free-vector/movie-time-neon-sign-sign_24908-55555.jpg",
+"url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/web",
+"import": false
+},
 
 	
 ]
