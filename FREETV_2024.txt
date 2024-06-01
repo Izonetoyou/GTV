@@ -45,16 +45,11 @@
 "import": false
 },
 {
-"name": "Form Member",
+"name": "จากพันธมิตร",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrd8cebKWFMd8qlDu2Ddzvz7iIMdkSEwgqgmHIFca9HA&s",
-"url": "https://pastebin.com/raw/GayZ1vde",
+"url": "https://raw.githubusercontent.com/SUN1996GTR/SUN1996GTR/main/SPORTSv6",
 "import": false
 },
-{
-"name": "สนับสนุนค่ากาแฟ LINE add",
-"image": "https://github.com/Izonetoyou/GTV/blob/main/image/lineadd.jpg?raw=true",
-"url": "",
-"import": false
-},
+
 ]
 }
