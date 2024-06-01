@@ -316,6 +316,1261 @@
 "info": "Godzilla TV",
 "playInNatPlayer": "true"
 },
+{
+"name": "Ratatouille (2007) พ่อครัวตัวจี๊ด หัวใจคับโลก",
+"image": "https://www.doomovie-free.com/wp-content/uploads/2019/11/ratatouille.10390.jpg",
+"url": "https://streamhls.com/play/227f905f-72d9-5da2-91eb-ae42153c740b",
+"referer": "https://doomovie.online/ronal-barbaren-ronal-the-barbarian-%e0%b8%85%e0%b8%99%e0%b9%80%e0%b8%96%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%81%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b8%82/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+
+{
+"name": "Ronal Barbaren (Ronal The Barbarian) ฅนเถื่อนเกรียนสุดขอบโลก (2011)",
+"image": "https://doomovie.online/wp-content/uploads/2019/04/6.jpg",
+"url": "https://ezycdn.com/play.php?v=cggcr6ra",
+"referer": "https://doomovie.online/ronal-barbaren-ronal-the-barbarian-%e0%b8%85%e0%b8%99%e0%b9%80%e0%b8%96%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%81%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b8%82/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "The Super Mario Bros. Movie (2023) เดอะ ซูเปอร์ มาริโอ้ บราเธอร์ส มูฟวี่",
+"image": "https://www.9nunghd.com/wp-content/uploads/2023/04/The-Super-Mario-Bros-Movie-2023-Poster-230x315-c-default.webp",
+"url": "https://streamhls.com/play/3e72ae91-7749-5635-8521-786e4209d320",
+"referer": "https://www.nung2hdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "The Super Mario Bros. Movie (2023) เดอะ ซูเปอร์ มาริโอ้ บราเธอร์ส มูฟวี่",
+"image": "https://www.9nunghd.com/wp-content/uploads/2023/04/The-Super-Mario-Bros-Movie-2023-Poster-230x315-c-default.webp",
+"url": "https://streamhls.com/play/5f18ed6f-7b63-5e65-9dc4-11621bfc6296",
+"referer": "https://www.nung2hdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"SUB"
+},
+{
+"name": "LEGO DC COMICS SUPER HEROES JUSTICE LEAGUE VS. BIZARRO LEAGUE (2015) เลโก้ แบทแมน จัสติซ ลีก ปะทะ บิซาโร่ ลีก",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/eyaGDrV1ScVGiXrBifb8AuoQ3ko.jpg",
+"url": "https://streamhls.com/play/c0ec608e-0e37-57a0-b2a1-17047909470c",
+"referer": "https://www.nung2hdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "AURA KOGA MARYUIN’S LAST WAR (2013) ศึกสุดท้ายของจอมเวทอสูรมังกรเขี้ยวแสง",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/uow0noo7oGgjOEKYXeT1OBPnWJd.jpg",
+"url": "https://streamhls.com/play/ed66ad1c-d4f4-5ae7-b4f6-f0660d30e1e4",
+"referer": "https://www.nung2hdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "INAZUMA VS DANBALL THE MOVIE (2010) อินาซึมะ ปะทะ ดันบอลเซนกิ เดอะมูฟวี่",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/vaSdtvIsOfHWuHU75sNuUwd18ln.jpg",
+"url": "https://streamhls.com/play/642a3e1b-ac82-5e21-8d2a-df968efaec79",
+"referer": "https://www.nung2hdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "THE BOOK OF LIFE (2014) เดอะ บุ๊ค ออฟ ไลฟ์ มหัศจรรย์พิสูจน์รักถึงยมโลก",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/b1.jpg",
+"url": "https://streamhls.com/play/a78c5a2c-b579-5cc7-951f-5a83a6104dbf",
+"referer": "https://www.nung2hdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "THE BOOK OF LIFE (2014) เดอะ บุ๊ค ออฟ ไลฟ์ มหัศจรรย์พิสูจน์รักถึงยมโลก",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/b1.jpg",
+"url": "https://streamhls.com/play/7b9eb401-059c-5e46-b1d8-b627e31f6b41",
+"referer": "https://www.nung2hdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"SUB"
+},
+
+
+{
+"name": "EVANGELION 1.0 YOU ARE (NOT) ALONE (2007) อีวานเกเลียน: 1.0 กำเนิดใหม่วันพิพากษา",
+"image": "https://www.animehdmx.com/wp-content/uploads/2019/11/Evangelion-1.11-You-Are-Not-Alone.jpg",
+"url": "https://hlsp2p.com/play/1c52231e-0f52-51f8-b65b-20f3c6cf9f1d",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "DINOSAUR (2000) ไดโนเสาร์",
+"image": "https://material.asset.catchplay.com/DIS-TW-001-A0129/artworks/posters/DIS-TW-001-A0129-P704.jpg?hash=1656503996",
+"url": "https://hlsp2p.com/play/8686e06c-6a20-5191-9504-0bf661d09e15",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "DETECTIVE CONAN: PRIVATE EYE IN THE DISTANT SEA 17 (2013) ฝ่าวิกฤติเรือรบมรณะ",
+"image": "https://pic-bstarstatic.akamaized.net/ugc/5aa991b9ab7d8fba27eb1c4bedc3aaf1b6457a90.jpg",
+"url": "https://hlsp2p.com/play/e84801bd-23ac-5909-b68c-aae81139ad6a",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "CORALINE (2009) โครอลไลน์กับโลกมิติพิศวง",
+"image": "https://nakamuraza.com/wp-content/uploads/2020/01/Coraline-2009-nakamuraza-%E0%B8%AA%E0%B8%9B%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-spoil-alert-%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87.jpg",
+"url": "https://hlsp2p.com/play/d71dccf5-fe0b-53eb-9959-606fce8f59e6",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "CHICKEN LITTLE (2005) กุ๊กไก่หัวใจพิทักษ์โลก",
+"image": "https://media.wdwnt.com/2021/01/deep_ChickenLittle_Thumb-5197877.jpg",
+"url": "https://hlsp2p.com/play/b594b961-4f44-5c64-b5fb-8f16fa839de3",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "CHASSEURS DE DRAGONS (2008) 4 ผู้กล้านักรบมังกร",
+"image": "https://www.artofthetitle.com/assets/sm/upload/tx/jr/th/v6/chasseurs_de_dragons_t.jpg?k=9b53a355d2",
+"url": "https://hlsp2p.com/play/868c2cf0-e1b5-57ca-88bb-d85890b37a8c",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "BROTHER BEAR (2003) มหัศจรรย์หมีผู้ยิ่งใหญ่",
+"image": "https://m.media-amazon.com/images/S/pv-target-images/0f9c5bd04289cdf879fdb94e041735ab5f3b2e60e66ec303cab0120ca409c120.jpg",
+"url": "https://hlsp2p.com/play/c37b25c5-9e13-5edb-8c77-9573c4a9e393",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "BROTHER BEAR 2 (2006) มหัศจรรย์หมีผู้ยิ่งใหญ่ 2",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyjsroqBFGtj5PU1RchfhCtC-IakMCH2CG3w&usqp=CAU",
+"url": "https://hlsp2p.com/play/3af1e21b-e1d6-509d-b6f1-b510a2b795aa",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "BEE MOVIE (2007) ผึ้งน้อยหัวใจบิ๊ก",
+"image": "https://occ.a.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABfbRStlltffVpgk7FgtntrFTa4YBnfPuDJUkkuIR4KR0YPhJzW0YmHPGWLURCJRN38389uryFJRFqw8X1FhaoGiT9kRQBKu5v8Bs.jpg?r=3f6",
+"url": "https://hlsp2p.com/play/81af82d5-6c34-5a6f-b57f-05ec5b3fea89",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "BARBIE: THE PEARL PRINCESS (2014) บาร์บี้ เจ้าหญิงเงือกน้อยกับไข่มุกวิเศษ",
+"image": "https://i.ytimg.com/vi/jv8FtZLDKuY/maxresdefault.jpg",
+"url": "https://hlsp2p.com/play/3f49189d-fc36-5ce6-a854-a73a8b2cd6e7",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "BAMBI II (2006) กวางน้อย…แบมบี้ 2",
+"image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/18E4AE34439EE5B9935FA2815246476FAF3AC6957055C46D7F5C7DE07AA30435/scale?width=1200&aspectRatio=1.78&format=jpeg",
+"url": "https://hlsp2p.com/play/7e04fffc-a40f-5268-aaed-cbffc9b8771d",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "AVENGERS CONFIDENTIAL: BLACK WIDOW & PUNISHER (2014) ขบวนการ อเวนเจอร์ส : แบล็ควิโดว์ กับ พันนิชเชอร์",
+"image": "https://i.ytimg.com/vi/hHG6JNWmlek/hqdefault.jpg",
+"url": "https://hlsp2p.com/play/fbc7592c-86ab-5d2c-a805-c2169d3d02ce",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "A SCANNER DARKLY (2006) สแกนเนอร์ ดาร์คลี่",
+"image": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/4fdc382f6d99b96747f88b9caa953452ef36d730830f345dc35d57f2f40d3964._UY500_UX667_RI_V_TTW_.jpg",
+"url": "https://hlsp2p.com/play/c9163304-d76b-54bd-98cd-3d84d0e2038f",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "DESPICABLE ME (2010) มิสเตอร์แสบ ร้ายเกินพิกัด",
+"image": "https://pic-bstarstatic.akamaized.net/ugc/397154f3860ad8bb3a994b7800bb7dfc9e4800fa.png",
+"url": "https://hlsp2p.com/play/e47f218e-79ab-5af2-818c-0c3112d8ae0c",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "BOLT (2008) โบลท์ ซูเปอร์โฮ่ง ฮีโร่หัวใจเต็มร้อย",
+"image": "https://whatsondisneyplus.com/wp-content/uploads/2021/01/Bolt-1024x538.jpg",
+"url": "https://hlsp2p.com/play/b7d6a473-c092-5949-8ad7-3d857a959ba2",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "ANIMALS UNITED (2010) แก๊งสัตว์ป่า ซ่าส์ป่วนคน",
+"image": "https://www.impulsegamer.com/articles/wp-content/uploads/2014/06/animals.united_71441358147195-Custom.jpg",
+"url": "https://hlsp2p.com/play/668c2551-9e34-5718-b669-35ba2b7a7f3e",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "ALPHA AND OMEGA (2010) สองเผ่าซ่าส์ ป่าเขย่า",
+"image": "https://occ.a.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXQexnHCa5DR9C8NAkdqtLKmTPfImjJNMjqUrLPlCXBT2fW0rWdboTbLen6-mqvMPXc-xVcNjsh7cf6oHw_1Lz30XtO7KBCixCGK.jpg?r=ec1",
+"url": "https://hlsp2p.com/play/4b681a49-41fc-55ba-9fb1-5ba7f0b98929",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "A CHRISTMAS CAROL (2009) อาถรรพ์วันคริสต์มาส",
+"image": "https://www.sobrosnetwork.com/wp-content/uploads/2019/12/screen-shot-2019-12-06-at-4.52.50-pm.png",
+"url": "https://hlsp2p.com/play/dbb82905-eff1-5259-9ebe-238ae511e2a1",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "A BUG’S LIFE (1998) ตัวบั๊กส์ หัวใจไม่บั๊กส์",
+"image": "https://scdn.nflximg.net/images/8323/1888323.jpg",
+"url": "https://hlsp2p.com/play/2c366e5e-1026-56c2-9a6a-f3bb0b32f1d8",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "101 DALMATIANS (1996) ทรามวัยกับไอ้ด่าง",
+"image": "https://m.media-amazon.com/images/S/pv-target-images/913994408d49a8e5cc50398a3d5454e7cf8e33a126a8d9a520f749b47d399ab7.jpg",
+"url": "https://hlsp2p.com/play/4609d5f2-ea7e-564d-9c53-c4331cb3631b",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "THE SPONGEBOB MOVIE: SPONGE OUT OF WATER (2015) สพันจ์บ็อบ ฮีโร่จากใต้สมุทร",
+"image": "http://f.ptcdn.info/361/030/000/1429076928-maxresdefa-o.jpg",
+"url": "https://hlsp2p.com/play/db2d4a30-d95a-5f77-83c0-c29ee1c44470",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "IRON MAN AND CAPTAIN AMERICA: HEROES UNITED (2014) ไอรอน แมน และ กัปตันอเมริกา ตอน รวมใจฮีโร่",
+"image": "https://flixable.b-cdn.net/disney-plus/large/us/marvels-iron-man-captain-america-heroes-united.png",
+"url": "https://hlsp2p.com/play/f818b195-20fd-54af-8111-3d108ff03831",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "MONSTER HIGH: HAUNTED (2015) มอนสเตอร์ ไฮ : หลอน",
+"image": "https://i.ytimg.com/vi/UMBrUMG9iwQ/hqdefault.jpg",
+"url": "https://hlsp2p.com/play/caf11f06-e10e-57bd-8bc8-d0ca0c1527dc",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "SNOW QUEEN (2012) ราชินีหิมะ ภาค 1",
+"image": "https://occ-0-32-768.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVn57oOwr2d0drQCl8TDCvTNQ-LGht_pE7Zl15G1i32RlA7SrQR-yxNN1QxZXXzMIlUByRJvnNQ3xxIX9tXNKIUKl9aWYw0X39-C.jpg?r=24c",
+"url": "https://hlsp2p.com/play/af25a7b7-12ab-5a42-a6b4-c4d9571e46d4",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "THE SNOW QUEEN 2 THE SNOW KING (2014) สงครามราชินีหิมะ ภาค 2",
+"image": "https://m.media-amazon.com/images/M/MV5BM2I1NTkxMjEtNThmYS00MDNjLTliMTItYTY3NGQzMWUwMWVjXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_.jpg",
+"url": "https://hlsp2p.com/play/5f1a40f7-c866-5a2c-9fe2-e5dc3782e79d",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "THE BOOK OF LIFE (2014) เดอะ บุ๊ค ออฟ ไลฟ์ มหัศจรรย์พิสูจน์รักถึงยมโลก",
+"image": "https://dryastoast.com/wp-content/uploads/2021/11/the-book-of-life.jpg",
+"url": "https://hlsp2p.com/play/c6633ad5-62db-570f-8bc1-15d297da61b5",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "LEGO DC SUPER HEROES JUSTICE LEAGUE ATTACK OF THE LEGION OF DOOM! (2015) จัสติซ ลีก ถล่มกองทัพลีเจียน ออฟ ดูม",
+"image": "https://10000tip.files.wordpress.com/2020/09/untitled06027.jpg",
+"url": "https://hlsp2p.com/play/50dd8e90-a75e-5246-9062-cafa4e52e0fb",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "PENGUINS OF MADAGASCAR (2014) เพนกวินจอมป่วน ก๊วนมาดากัสการ์",
+"image": "https://occ.a.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdJ3jFHdLYrl7Xe-50Afa4UKVxkDuLF_LTGXbNx-wKytL4Qz2yI0fsRf8d9kwMx4XZ8ePFjL6rhBmhN8DMeagoIlHg4ElTmnohcW.jpg?r=9d3",
+"url": "https://hlsp2p.com/play/9c2ef790-8a57-5b48-94df-c058cc80ed1e",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "KOTO NO HA NO NIWA (2013) ยามสายฝนโปรยปราย",
+"image": "https://i.ytimg.com/vi/xxXHI8BI6AY/maxresdefault.jpg",
+"url": "https://hlsp2p.com/play/3a8b27c1-658d-53e4-b931-76b70e79ae7f",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "JUSTICE LEAGUE WAR (2014) สงครามกำเนิดจัสติซ ลีก",
+"image": "https://monstar.typepad.com/.a/6a00d83451887569e2019b04f3d463970d-550wi",
+"url": "https://hlsp2p.com/play/9de82f5b-ddfc-5ee9-bb96-9ca9a589e2b3",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "JUSTICE LEAGUE GODS AND MONSTERS (2015) จัสติซ ลีก ศึกเทพเจ้ากับอสูร",
+"image": "https://www.dc.com/sites/default/files/GalleryMovies_1920x1080_JLGodsMonsters_55bbc0eeb6c496.78808645.jpg",
+"url": "https://hlsp2p.com/play/e4e0b23f-d5db-5abc-bf63-6fc93d43b985",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "JUSTICE LEAGUE THE FLASHPOINT PARADOX (2013) จัสติซ ลีก จุดชนวนสงครามยอดมนุษย์",
+"image": "https://simkl.net/fanart/11/110231820ed2a46740_0.jpg",
+"url": "https://hlsp2p.com/play/0928d8ad-2094-5d51-9f9f-a504ca224916",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "JUSTICE LEAGUE THRONE OF ATLANTIS (2015) จัสติซ ลีก ศึกชิงบัลลังก์เจ้าสมุทร",
+"image": "https://www.baiscopelk.com/wp-content/uploads/2015/01/Justice-league-throne-of-atlantis.jpg",
+"url": "https://hlsp2p.com/play/18dd3d99-e857-5648-a8dc-c8da2d17ece7",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "YELLOWBIRD (2014) นกซ่าส์บินข้ามโลก",
+"image": "https://s2.dmcdn.net/v/8Mwj11KV7giAYkowP/x720",
+"url": "https://hlsp2p.com/play/1d2a3713-df7c-5b28-a37b-3bf6486c7af2",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "EPIC (2013) เอปิค",
+"image": "https://retro-movie.com/wp-content/uploads/2021/06/%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-Blue-Sky-Epic-2013-%E0%B8%9A%E0%B8%B8%E0%B8%81%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%84%E0%B8%99%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B9%89.jpg",
+"url": "https://hlsp2p.com/play/6ba96ef0-508d-5ff5-899f-ba9b51ec51b2",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "STARSHIP TROOPERS INVASION (2012) สงครามหมื่นขาล่าล้างจักรวาล",
+"image": "https://m.media-amazon.com/images/S/pv-target-images/ba7a073ab104f81748e1bf9781af000114a56e39da61593de65501b17a77bbde.jpg",
+"url": "https://hlsp2p.com/play/dfd6a6b4-c3e0-528a-b5c5-13c89f863198",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "THE PRINCESS AND THE FROG (2009) มหัศจรรย์มนต์รักเจ้าชายกบ",
+"image": "https://i.ytimg.com/vi/em3aUlxvGpE/maxresdefault.jpg",
+"url": "https://hlsp2p.com/play/1b0788c2-63a2-5989-aff8-00e713d3a29f",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "BATMAN UNLIMITED: MONSTER MAYHEM (2015) แบทแมน ถล่มจอมวายร้ายป่วนเมือง",
+"image": "https://i.ytimg.com/vi/eJSZBHFBW7k/maxresdefault.jpg",
+"url": "https://hlsp2p.com/play/5db8f23a-ef58-567e-b2f7-c10254d1b4f6",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "THE BOXTROLLS (2014) นี่แหละ..มอนสเตอร์",
+"image": "https://pic-bstarstatic.akamaized.net/ugc/016e65a50e3a59ee09bdb0c8fce3210cc82b7a2a.png",
+"url": "https://hlsp2p.com/play/87a9185c-a336-5e72-b605-17c7b62785cc",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "JACK AND THE CUCKOO-CLOCK HEART (2014) แจ็ค หนุ่มน้อยหัวใจติ๊กต็อก",
+"image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7A892E970AB4CA88CF68CE119EAB03B947D49334194B58A2C03354959F364CB3/scale?width=1200&aspectRatio=1.78&format=jpeg",
+"url": "https://hlsp2p.com/play/6a4bd516-5c6f-5fff-b723-cd706e1fc365",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "SAVING SANTA (2013) ขบวนการภูติจิ๋ว พิทักษ์ซานตาครอส",
+"image": "https://images.immediate.co.uk/remote/m.media-amazon.com/images/S/pv-target-images/3e063b8f350005cfc8dbae7d80eeb58e21a7cb838fde20ef9f40bb2bbf11c51c.jpg?quality=90&resize=556,313",
+"url": "https://hlsp2p.com/play/ac4d532a-7e15-5b7b-a6c2-20a18d7571d6",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "KIKAIDER: THE ULTIMATE HUMAN ROBOT (2014) คิไคเดอร์ ยอดมนุษย์คอมพิวเตอร์",
+"image": "https://i.ytimg.com/vi/wjHnaahVo8I/maxresdefault.jpg",
+"url": "https://hlsp2p.com/play/775911dd-8037-57bb-85b3-0c9cfa3fd1e0",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "SCOOBY-DOO! CURSE OF THE LAKE MONSTER (2010) สกูบี้-ดู ตอนคำสาปอสูรทะเลสาบ",
+"image": "http://dvdmoviemenus.com/dimg/3/p/0037491.jpg",
+"url": "https://hlsp2p.com/play/2718d17f-d086-50e3-9d0f-120f7bb2771a",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "PLANES (2013) แพลนส์",
+"image": "https://areyouscreening.com/wp-content/uploads/2013/09/planes-movie.jpg",
+"url": "https://hlsp2p.com/play/85a853c1-e715-5061-be3a-ec2fc5debd87",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "PLANES: FIRE & RESCUE (2014) เพลนส์ ผจญเพลิงเหินเวหา",
+"image": "https://miro.medium.com/max/700/0*z0qSZn3yPITV1XaY.jpg",
+"url": "https://hlsp2p.com/play/40bc43c2-9ef4-58b1-9aa6-43ff98b2aeea",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "TREASURE PLANET (2002) เทรเชอร์ แพลเน็ต ผจญภัยล่าขุมทรัพย์ดาวมฤตยู",
+"image": "https://mikesmovies548662785.files.wordpress.com/2020/09/ae9362eb-8916-478e-99c0-a115ca196f58-8141-00000586710d9498_file.jpg",
+"url": "https://hlsp2p.com/play/b6961ecb-4957-53d5-856d-5e215a3079bf",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "ONE PIECE THE MOVIE 10 (STRONG WORLD) ผจญภัยเหนือหล้าท้าโลก",
+"image": "http://anime-subth.net/wp-content/uploads/2019/04/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9E%E0%B8%B5%E0%B8%8A-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88-10.jpg",
+"url": "https://hlsp2p.com/play/028e2e32-d134-5eb1-af76-030b7febd654",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "MINUSCULE: VALLEY OF THE LOST ANTS (2013) หุบเขาจิ๋วของเจ้ามด",
+"image": "https://www.baiscopelk.com/wp-content/uploads/2014/06/Minuscule-Valley-of-the-Lost-Ants-2013.jpg",
+"url": "https://hlsp2p.com/play/c8ac2c61-a722-5c52-b08d-6ac6f442b261",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "QUEST FOR ZHU (2011) ซู เจ้าหนูแฮมสเตอร์ พิชิตแดนมหัศจรรย์",
+"image": "https://media-cache.cinematerial.com/p/500x/l8uxcway/quest-for-zhu-movie-poster.jpg?v=1456687768",
+"url": "https://hlsp2p.com/play/e8ab9d64-7333-59e4-82d1-0e4c7fb4ace9",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "A TURTLE’S TALE 2: SAMMY’S ESCAPE FROM PARADISE (2012) แซมมี่ ต.เต่า ซ่าส์ไม่มีเบรก 2",
+"image": "https://image.tmdb.org/t/p/original/fqTJ5rdmq2Akv5d07OsSabkQgHC.jpg",
+"url": "https://hlsp2p.com/play/2e485dcd-18f8-52ff-a0d0-24922bbf6116",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "SAMMY’S AVONTUREN: DE GEHEIME DOORGANG (2010) แซมมี ต.เต่าซ่าส์ไม่มีเบรค",
+"image": "https://pics.filmaffinity.com/Sammy_s_Adventures_The_Secret_Passage-827397666-large.jpg",
+"url": "https://hlsp2p.com/play/06a84fb2-8361-51c9-b63e-403ccb3fea40",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "DINO KING (2012) ฝูงไดโนเสาร์จ้าวพิภพ",
+"image": "https://content.api.news/v3/images/bin/1bff5a3ff7d24fe500970156bac6ba06",
+"url": "https://hlsp2p.com/play/2c8608d9-14cb-5597-872e-0763881a1ce7",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "LEGENDS OF OZ: DOROTHY’S RETURN (2013) ตำนานแดนมหัศจรรย์ พ่อมดอ๊อซ",
+"image": "https://pic-bstarstatic.akamaized.net/ugc/089cb35a39f6378fafc9c1dc85ab181f43145421.png",
+"url": "https://hlsp2p.com/play/34221aee-0eee-5a3e-a6a9-455b6ba8dbeb",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "WICKED FLYING MONKEYS (2015) วีรบุรุษแห่งอ๊อซ ฮีโร่จ๋อติดปีก",
+"image": "https://www.justwatch.com/images/backdrop/678809/s640/wicked-flying-monkeys",
+"url": "https://hlsp2p.com/play/74d05629-211d-59be-a503-66f62c079a34",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "MIRRORMASK (2005) อภินิหารหน้ากากมหัศจรรย์",
+"image": "https://www.pophorror.com/wp-content/uploads/2018/03/mirror-mask-1200-1200-675-675-crop-000000-660x330.jpg",
+"url": "https://hlsp2p.com/play/5bac9519-8949-57fe-9e26-7df6a3eba1c0",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "RONAL BARBAREN (2011) คนเถื่อนเกรียนสุดขอบโลก",
+"image": "https://picfiles.alphacoders.com/120/120810.jpg",
+"url": "https://hlsp2p.com/play/92ca987b-3d76-52b6-b33b-4883d04a7969",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "SPIRIT: STALLION OF THE CIMARRON (2002) สปิริต ม้าแสนรู้มหัศจรรย์ผจญภัย",
+"image": "https://occ.a.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQrtolO5Ej95Gt8lBbQVnR4AH80aMhYEiZF2r_e6Bc2tOR95uXxamUiY6S7U5af2JkCZPQbyreST70wYZSC-GjWEZbubA5Z9fk3J.jpg?r=b6c",
+"url": "https://hlsp2p.com/play/4d61d648-bf4c-5cdc-a69d-ef82929ddbc8",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "SCOOBY-DOO! FRANKENCREEPY (2014) สคูบี้ดู กับอสุรกายพันธุ์ผสม",
+"image": "https://pic-bstarstatic.akamaized.net/ugc/0df90c1251155279bd63799b78723dd0.jpg",
+"url": "https://hlsp2p.com/play/70f726e1-fea9-5398-b3fa-bca67c037d07",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "TMNT (2007) นินจาเต่า 4 กระดองรวมพลังประจัญบาน",
+"image": "https://filmciti.com/wp-content/uploads/2019/08/Teenage-Mutant-Ninja-Turtles.jpg",
+"url": "https://hlsp2p.com/play/17bc135c-cfc9-5d41-b274-4d74a8124a95",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "OTTO THE RHINO (2013) อ็อตโต้ แรดเหลืองมหัศจรรย์",
+"image": "https://metadata-static.plex.tv/8/gracenote/860967ffb73304f03ffb3f5ce7fc7260.jpg",
+"url": "https://hlsp2p.com/play/683814e3-3467-50e9-892d-b49bb95d73ed",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "THE LEGEND OF SARILA (2013) ตามล่าตำนานแดนสวรรค์",
+"image": "https://flixable.b-cdn.net/amazon-prime-video/large/us/the-legend-of-sarila.png",
+"url": "https://hlsp2p.com/play/25987e3b-c6df-5373-a17d-8505bc4c072d",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "PUSS IN BOOTS (2011) พุซ อิน บู๊ทส์",
+"image": "https://material.asset.catchplay.com/NBC-IN-001-A1175/artworks/posters/NBC-IN-001-A1175-P704.jpg?hash=1656562685",
+"url": "https://hlsp2p.com/play/23f79ca3-7be6-50a7-b51c-0f0551fe8a8d",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "TEAM AMERICA: WORLD POLICE (2004) หน่วยพิทักษ์ กู้ภัยโลก",
+"image": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f19da44151a53cb1cdcdec67eab15c576c12d017fcf932bce58984922bca388f._UY500_UX667_RI_V_TTW_.jpg",
+"url": "https://hlsp2p.com/play/7a3f6072-595d-5a0e-a39f-10c9d65a8650",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "THE NUT JOB (2014) เดอะ นัต จ็อบ ภารกิจหม่ำถั่วป่วนเมือง",
+"image": "https://pic-bstarstatic.akamaized.net/ugc/75c19a799c5935f84a15f9d85f14360ec0fdd447.png",
+"url": "https://hlsp2p.com/play/fa5cbdda-3670-5066-9e3d-ff14417c5a4f",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "KUNG FU PANDA (2008) กังฟูแพนด้า 1 จอมยุทธ์พลิกล็อค ช็อคยุทธภพ",
+"image": "https://static.wixstatic.com/media/e06366_1b695963bac34ea3a1688fc87a4dd4de~mv2.jpg/v1/fit/w_1000%2Ch_562%2Cal_c%2Cq_80/file.jpg",
+"url": "https://hlsp2p.com/play/b0e12632-1652-53ba-b555-e23ef5b29ce1",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "MARY AND MAX (2009) เด็กหญิงแมรี่ กับ เพื่อนซี้ ช้อคโก้แม็กซ์",
+"image": "https://www.cineplexdb.com/img/view/movies/xl/2020/12/4/5fd1be77-4bc8-433b-a1b3-133a6e042fd4-mary-and-max-2009-h.jpg",
+"url": "https://hlsp2p.com/play/99fee83f-7bb4-5e58-887b-c25743abb08c",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "HORTON HEARS A WHO! (2008) ฮอร์ตัน กับ โลกจิ๋วสุดมหัศจรรย์",
+"image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/22DE853298F241660AA272F157F77670EE49E2C8864346567CB51DB25AC77FAE/scale?width=1200&aspectRatio=1.78&format=jpeg",
+"url": "https://hlsp2p.com/play/e2bf54bd-b844-5a52-9a09-d754acaed8e7",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "PLANET 51 (2009) บุกโลกคนตัวเขียว",
+"image": "https://www.onlinetvcast.com/upload/movies/movie_119_thumbForVideoPanel.jpg",
+"url": "https://hlsp2p.com/play/14c18897-237f-5bf7-ad27-6081bf289bae",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "OVER THE HEDGE (2006) แก๊งค์สี่ขา ข้ามป่ามาป่วนเมือง",
+"image": "https://occ-0-3629-300.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABROj01YAMWTd9EkJKFaui7ncFC8QILZtBL7b9KPtr5dETBlNxscWCfydX9qE3apzeWcpLYl0ABbTjz7vdxUBgJlIkJKnsdgk65DM.jpg?r=539",
+"url": "https://hlsp2p.com/play/d857cb72-937f-5f5c-9a26-3c5ce5678ea3",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "KUNG FU PANDA 2 (2011) กังฟูแพนด้า 2",
+"image": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/2ecf13e4ef406bfdd73384de808693f62243e75fab23014399adb70f1480b08b._UY500_UX667_RI_V_TTW_.jpg",
+"url": "https://hlsp2p.com/play/cc70748f-75c4-5b74-9030-a4802606090e",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "BRIDGE TO TERABITHIA (2007) สะพานมหัศจรรย์",
+"image": "https://pbs.twimg.com/media/DdiBiRbV0AEaKLs.jpg",
+"url": "https://hlsp2p.com/play/743dbbb4-e7f0-5799-b287-0e61673dd7da",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "RESIDENT EVIL: DEGENERATION (2008) ผีชีวะ สงครามปลุกพันธุ์ไวรัสมฤตยู",
+"image": "http://sciencefiction.com/wp-content/uploads/2019/01/Resident-Evil-Degeneration.jpg",
+"url": "https://hlsp2p.com/play/23435ab0-85ec-5698-8840-6e497e8e044e",
+"referer": "https://www.hooq-movie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "เจ้าสาวศพสวย",
+"image": "https://pbs.twimg.com/media/Ejp08xYXsAEtwGG.jpg:large",
+"url": "https://doomovie.oneplayer.online/embed/KUCFKUY/",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Chicken Little (2005) กุ๊กไก่หัวใจพิทักษ์โลก",
+"image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9118/1019118-h-fe336f06b238",
+"url": "https://doomovie.oneplayer.online/embed/PYEmfPI/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Gisaku (2005) กิซากุ พลพรรคพิทักษ์โลก",
+"image": "https://images.mubicdn.net/images/film/145017/cache-169176-1472770981/image-w1280.jpg",
+"url": "https://doomovie.oneplayer.online/embed/kG3MvPD/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "วอลเลซ กรอมมิท กู้วิกฤตป่วน สวนผักชุลมุน (2005)",
+"image": "https://img-ha.mthcdn.com/hnqI8QUDvk5F_vWeVj8UEz9zAsU=/340x210/smart/mono29.com/app/wp-post-thumbnail/lXtxUD.jpg",
+"url": "https://doomovie.oneplayer.online/embed/gx0jSQw/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Dragons Fire & Ice (2004) ศึกพิชิตมังกร",
+"image": "https://images.mubicdn.net/images/film/57772/cache-189803-1484056277/image-w1280.jpg",
+"url": "https://doomovie.oneplayer.online/embed/kYtQzP2/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "The Lion King 3 (2004)",
+"image": "https://i.ytimg.com/vi/-8v3AMSGHD8/hqdefault.jpg",
+"url": "https://doomovie.oneplayer.online/embed/pWCDNul/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 10 (2006) บทเพลงมรณะแด่เหล่านักสืบ",
+"image": "https://c.tenor.com/cJ3q4osVwEgAAAAC/detective-detective-conan.gif",
+"url": "https://doomovie.oneplayer.online/embed/CPX9UdK/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "The Animatrix (2003)",
+"image": "https://www.cinefessions.com/wp-content/uploads/2018/03/The-Animatrix-Shot.jpg",
+"url": "https://doomovie.oneplayer.online/embed/lhZkcXt/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"SUB"
+},
+{
+"name": "Atlantis Milo's Return (2003) แอตแลนติส 2 ผจญภัยแดนอาถรรพ์",
+"image": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/3882/1013882-h-dd179cf82aa2",
+"url": "https://doomovie.oneplayer.online/embed/UZl2jlj/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Benhur (2003) เบนเฮอร์",
+"image": "https://i.mycdn.me/image?id=928572877492&t=50&plc=WEB&tkn=*WDLvky5rpP6mnZOCowyp9uNac8c&fn=external_8",
+"url": "https://doomovie.oneplayer.online/embed/CDjj1PW/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Brother Bear (2003) มหัศจรรย์หมีผู้ยิ่งใหญ่",
+"image": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/9107/1019107-h-6913abeb8cb8",
+"url": "https://doomovie.oneplayer.online/embed/xArLqox/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "ไอซ์ เอจ เจาะยุคน้ำแข็งมหัศจรรย์",
+"image": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7668/1017668-h-93848dedaa57",
+"url": "https://doomovie.oneplayer.online/embed/PFf6jZc/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "ทาร์ซาน",
+"image": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/4/1020004-h-784828ad088b",
+"url": "https://doomovie.oneplayer.online/embed/81dY5cS/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Cinderella II Dreams Come True (2002) ซินเดอร์เรลล่า 2 สร้างรัก ดั่งใจฝัน",
+"image": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/9123/1019123-h-1c9f420c2104",
+"url": "https://doomovie.oneplayer.online/embed/YDDZwz7/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Cowboy Bebop (2001) The Movie",
+"image": "https://images.squarespace-cdn.com/content/v1/6156e6e6316d2d5f9582818d/a02e42c5-aafe-4eba-aaa5-8eb2956d07c1/cowboy+bebop+the+movie+poster.jpg",
+"url": "https://doomovie.oneplayer.online/embed/G3W9MM6/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"SUB"
+},
+{
+"name": "Atlantis The Lost Empire (2001) แอตแลนติส ผจญภัยอารยนครสุดขอบโลก",
+"image": "https://mickeyblog.com/wp-content/uploads/2020/04/Atlantis.jpg",
+"url": "https://doomovie.oneplayer.online/embed/EqSeSCq/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Final Fantasy The Spirits Within (2001) ปฐมบทแห่งสงครามล้างเผ่าพันธุ์",
+"image": "https://hbomax-images.warnermediacdn.com/images/GYF5OdgPcPITCwgEAAAWF/tileburnedin?size=1280x720&partner=hbomaxcom&v=a7c024ff9d42a646aec899aade2a6685&host=art-gallery.api.hbo.com&language=en-us&w=1280",
+"url": "https://doomovie.oneplayer.online/embed/OBuwRqd/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "ด็อก แมคสตัฟฟินส์ ตอน อ้อมกอดของแลมบี",
+"image": "https://cdni-cf.ch7.com/dm/sz-md/i/mg/a/7/5/a75a9d883f459d44684ba0a65b51d88d_32doc3.jpg",
+"url": "https://doomovie.oneplayer.online/embed/HICIdZ5/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Chicken Run (2000) ชิคเก้น รัน วิ่ง สู้ กระต๊ากสนั่นโลก",
+"image": "https://pic-bstarstatic.akamaized.net/ugc/ae6932c42943cd137fb6aa4472b2d37700dcbc49.png",
+"url": "https://doomovie.oneplayer.online/embed/ygZOOas/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "An Extremely Goofy Movie (2000)",
+"image": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7569/1017569-h-256e0b4a34fb",
+"url": "https://doomovie.oneplayer.online/embed/q7CSEQA/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "พระพุทธเจ้า (2007)",
+"image": "http://2.bp.blogspot.com/-upH_lOpL0Gk/UYP3ykX7p9I/AAAAAAAAAKQ/Idp0pxk7mVU/s1600/thebuddha1080p04.jpg",
+"url": "https://doomovie.oneplayer.online/embed/mtEWQun/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "ชินจัง เดอะมูฟวี่ ตอน บุกแดนคาวบอย",
+"image": "https://popsimg.akamaized.net/api/v2/containers/file2/cms_thumbnails/crayon_shin_chan__2004____the_storm_called_the_kasukabe_boys_of_the_evening_sun-11380354a276-1606802157536-yvEkRwM7.jpg?v=0&maxW=400&format=jpg",
+"url": "https://doomovie.oneplayer.online/embed/iQfLtqn/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Titan A.E. (2000) ไทตั้น เอ.อี. ศึกกู้จักรวาล",
+"image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9EF4511495E55BC4FB6467A74B7A3D7D81E5B8453400A9725A740B85E05B813C/scale?width=1200&aspectRatio=1.78&format=jpeg",
+"url": "https://doomovie.oneplayer.online/embed/EvjgIVM/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"SUB"
+},
+{
+"name": "The Little Mermaid Ariel's Beginning (2008) กำเนิดแอเรียลกับอาณาจักรอันเงียบงัน",
+"image": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7777/1017777-h-7d9f6a3f9132",
+"url": "https://doomovie.oneplayer.online/embed/t4hzuYS/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "The Little Mermaid 2 Return to the Sea (2000) เงือกน้อยผจญภัย",
+"image": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7773/1017773-h-191e64682251",
+"url": "https://doomovie.oneplayer.online/embed/t4hzuYS/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Dinosaur (2000) ไดโนเสาร์",
+"image": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/3893/1013893-h-f5424c659e1a",
+"url": "https://cdn-link.com/embed/RCyi9NX/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "The Iron Giant (1999) ไออ้อน ไจแอนท์ หุ่นเหล็กเพื่อนยักษ์ต่างโลก",
+"image": "https://i0.wp.com/jumpcutonline.co.uk/wp-content/uploads/2016/03/3840x2160-2021-02-17T141632.281-scaled.jpg?fit=2560%2C1440&ssl=1",
+"url": "https://doomovie.oneplayer.online/embed/LCBJIR8/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Antz เปิดโลกใบใหญ่ของนายมด (1998)",
+"image": "https://stringfixer.com/files/145685819.jpg",
+"url": "https://doomovie.oneplayer.online/embed/SwUniKZ/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "ตัวบั๊กส์ หัวใจไม่บั๊กส์",
+"image": "https://www.tkpark.or.th/stocks/extra/00231d.jpg",
+"url": "https://doomovie.oneplayer.online/embed/J5UFYaI/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "The Lion King 2 (1998) ซิมบ้าเจ้าป่าทรนง",
+"image": "http://i.imgur.com/K8IesSp.jpg",
+"url": "https://doomovie.oneplayer.online/embed/v11VB2y/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Anastasia (1997) อนาสตาเชีย",
+"image": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/9023/1019023-h-54df876827a6",
+"url": "https://doomovie.oneplayer.online/embed/sc4ccem/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "โฉมงามกับเจ้าชายอสูร ตอน มหัศจรรย์วันอลเวง (1997)",
+"image": "https://image.tmdb.org/t/p/w780/xE2MS39x6qHaTUvyS73JGo8FXYL.jpg",
+"url": "https://doomovie.oneplayer.online/embed/2kpZ0QJ/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Aladdin and the King of Thieves อะลาดินและราชันย์แห่งโจร (1996)",
+"image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_0_5x/sources/r1/cms/prod/8989/1018989-h-85dac96ff5d0",
+"url": "https://cdn-link.com/embed/Uf8ETvh/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 02 (1998) คดีฆาตกรรมไพ่ปริศนา",
+"image": "https://animestation.id/wp-content/uploads/2021/05/Detective-Conan-Movie-02-The-Fourteenth-Target-Subtitle-Indonesia.jpg",
+"url": "https://doomovie.oneplayer.online/embed/D0HDtLR/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "A Goofy Movie (1995)",
+"image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_0_5x/sources/r1/cms/prod/7620/1017620-h-f45be3f069de",
+"url": "https://doomovie.oneplayer.online/embed/wmBKE8p/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Aladdin and the Return of Jafar อะลาดิน ตอนจาร์ฟาร์ล้างแค้น (1994)",
+"image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/5285/705285-h",
+"url": "https://doomovie.oneplayer.online/embed/dz2mGjV/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 01 (1997) คดีปริศนาระเบิดระฟ้า",
+"image": "https://4.bp.blogspot.com/-z6WQn6x_rBc/VpBnl04QRgI/AAAAAAAAInQ/U4hrvyTUtx0/s1600/1.jpg",
+"url": "https://doomovie.oneplayer.online/embed/As9TNbl/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "The Swan Princess (1994) เจ้าหญิงหงส์ขาว",
+"image": "https://occ-0-56-784.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVvGfzy2poxYCaZrBiDA7PyPxqd3imv1SUz0Bxj6ZJXE-ZCatPr1TeSCG80NZGDWTA-fqtsWyVQRl3JXM6YSuUtyf3DCOcbsgXRy.jpg?r=0cc",
+"url": "https://doomovie.oneplayer.online/embed/VMfJwsA/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"SUB"
+},
+{
+"name": "A Flintstones Christmas Carol (1994)",
+"image": "https://images.immediate.co.uk/remote/m.media-amazon.com/images/S/pv-target-images/f6130c02a287398d6f9de36d646507b52e36ca1eb3c9176271dd533944fa87f1.jpg",
+"url": "https://doomovie.oneplayer.online/embed/MrEhc4m/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"SUB"
+},
+{
+"name": "The Lion King (1994) เดอะ ไลอ้อน คิง",
+"image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_0_5x/sources/r1/cms/prod/8694/1088694-h-3295168e275e",
+"url": "https://doomovie.oneplayer.online/embed/gcKntT5/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Bebe's Kids (1992)",
+"image": "https://www.sho.com/site/image-bin/images/0_0_3504629/0_0_3504629_00h_1280x640.jpg",
+"url": "https://doomovie.oneplayer.online/embed/V24IAEM/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"SUB"
+},
+{
+"name": "Aladdin (1992) อะลาดินกับตะเกียงวิเศษ",
+"image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4FB61E0B4536A6B1B20CEA2773DA91AC80F0F5DC16E9E934086B078C67200956/scale?width=1200&aspectRatio=1.78&format=jpeg",
+"url": "https://doomovie.oneplayer.online/embed/3qckYND/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "It Christmastime Again Charlie Brown (1992)",
+"image": "https://m.media-amazon.com/images/S/pv-target-images/159badaa35679b43c55812982c3e1b8239ee4f26db8f6d8c2551b2a6e2199d29._UR1920,1080_.jpg",
+"url": "https://doomovie.oneplayer.online/embed/387yewS/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"SUB"
+},
+{
+"name": "Only Yesterday (2021) ในความทรงจำที่ไม่มีวันจาง",
+"image": "https://i.ytimg.com/vi/7mcObVVGVi4/maxresdefault.jpg",
+"url": "https://doomovie.oneplayer.online/embed/by3kIR8/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Beauty and the Beast (1991) โฉมงามกับเจ้าชายอสูร",
+"image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/019EC02E4C8D942936CE66F7BB08FB786D4CB3F30E6CF62886373EF2938DCC0B/scale?width=1200&aspectRatio=1.78&format=jpeg",
+"url": "https://doomovie.oneplayer.online/embed/AWgAEuB/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Paprika (2006) ลบแผนจารกรรมคนล่าฝัน",
+"image": "http://exaqtapp.com/wp-content/uploads/2022/04/Paprika-2006-Google-Drive-Download.jpg",
+"url": "https://doomovie.oneplayer.online/embed/WXeBxo7/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "แม่มดน้อยกิกิ ",
+"image": "https://sls-prod.api-onscene.com/partner_files/trueidintrend/86424/%E0%B9%82%E0%B8%97%E0%B9%82%E0%B8%97%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%20(1).png",
+"url": "https://doomovie.oneplayer.online/embed/KWCnaOW/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "The Little Mermaid (1989) เงือกน้อยผจญภัย",
+"image": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/5555/675555-h",
+"url": "https://doomovie.oneplayer.online/embed/ewWQG35/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Akira (1988) อากิระ คนไม่ใช่คน",
+"image": "https://www.bloggang.com/data/c/chekie007/picture/1615250447.jpg",
+"url": "https://doomovie.oneplayer.online/embed/oNtsBpZ/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Grave of the Fireflies (1988)",
+"image": "https://www.silverpetticoatreview.com/wp-content/uploads/2017/08/grave-of-the-fireflies-feature-1.jpg",
+"url": "https://doomovie.oneplayer.online/embed/W5qqlDj/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"JP"
+},
+{
+"name": "นางฟ้าบาร์บี้กับเวทมนตร์แห่งสายรุ้ง (2007) ภาค 10",
+"image": "https://deadtoons.b-cdn.net/wp-content/uploads/2022/01/x1080.jpg",
+"url": "https://doomovie.oneplayer.online/embed/xkug3jn/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Nausicaä of the Valley of the Wind (1984) มหาสงครามหุบเขาแห่งสายลม",
+"image": "https://popcultureocd.files.wordpress.com/2020/08/nausicaa-banner.png?w=1024",
+"url": "https://doomovie.oneplayer.online/embed/mtzQoQJ/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Barbie Mariposa & the Fairy Princess (2013) บาร์บี้ แมรีโพซ่า กับเจ้าหญิงเทพธิดา
+",
+"image": "https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*604*8992_8_muochl_mvg%5Bzig%5B01233%5Bz9319vwvww8774v05x1882w8v396z4x0w0601233.jpg",
+"url": "https://doomovie.oneplayer.online/embed/VXZhkE3/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Be My Valentine, Charlie Brown (1975)",
+"image": "http://animatedviews.com/wp-content/uploads/2008/02/bemymen.jpg",
+"url": "https://doomovie.oneplayer.online/embed/qySt6Wp/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"SUB"
+},
+{
+"name": "A Charlie Brown Christmas (1965)",
+"image": "https://www.filepicker.io/api/file/eCkhP6Q1QYSR1SEarP22/convert?cache=true&crop=0%2C0%2C1499%2C749&crop_first=true&quality=90&w=1920",
+"url": "https://doomovie.oneplayer.online/embed/s7nfJau/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"SUB"
+},
+{
+"name": "Cinderella (1950) ซินเดอเรลล่า",
+"image": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/4589/1084589-h-bb975ab6dd30",
+"url": "https://doomovie.oneplayer.online/embed/Gw4Slh8/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Dumbo (1941) ดัมโบ้",
+"image": "https://www.flixwatch.co/wp-content/uploads/60010304.jpg.webp",
+"url": "https://doomovie.oneplayer.online/embed/ckZMAWx/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
+{
+"name": "Bambi (1942) กวางน้อย แบมบี้",
+"image": "https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*7817*7835_8_muochl_mvg%5Bzig%5Bw1v06%5B8v7147z6u17w3673vx6w98yy340zw5zu977w1v06.jpg",
+"url": "https://doomovie.oneplayer.online/embed/x66Lzke/?s",
+"referer": "https://www.doomovie-hd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info":"TH"
+},
 
 
 
