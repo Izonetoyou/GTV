@@ -214,7 +214,7 @@
 "name": "Spot TV2(สำรอง2)",
 "image":"https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",
 "url": "https://edge-s3x.onlineprostream.com:9091/v5/eCLdFOdygMzECqvY7semcg/1717329459/d435853b3e06b71d8448bc43ad25d6f4/GcKsw_nCUxuL9-7AmMZo3A/1717340139/live/lx-origin/dooball66-spotv2_720/chunks.m3u8",
-"referer": "https://www.dooballfree24hr.com/",
+"referer": "https://dooball66s.com/",
 "info": "Godzilla TV",
 "playInNatPlayer": "true"
 },
