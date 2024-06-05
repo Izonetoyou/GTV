@@ -6,6 +6,14 @@
   "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้นเป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
   "stations": [
     {
+      "name": "Furiosa A Mad Max Saga (2024) ฟูริโอซ่า มหากาพย์ แมด แม็กซ์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Furiosa-A-Mad-Max-Saga-2024-ฟูริโอซ่า-มหากาพย์-แมด-แม็กซ์-1-187x269.jpg",
+      "url": "https://www.24-hd.com/furiosa-a-mad-max-saga/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Godzilla Minus One (2023)",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Godzilla-Minus-One-2023-1-187x269.jpg",
       "url": "https://www.24-hd.com/godzilla-minus-one/",
@@ -17,14 +25,6 @@
       "name": "Civil War (2024) วิบัติสมรภูมิเมืองเดือด",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Civil-War-2024-วิบัติสมรภูมิเมืองเดือด-187x269.jpg",
       "url": "https://www.24-hd.com/civil-war/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Furiosa A Mad Max Saga (2024) ฟูริโอซ่า มหากาพย์ แมด แม็กซ์",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Furiosa-A-Mad-Max-Saga-2024-ฟูริโอซ่า-มหากาพย์-แมด-แม็กซ์-1-187x269.jpg",
-      "url": "https://www.24-hd.com/furiosa-a-mad-max-saga/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -65,6 +65,78 @@
       "name": "Death Whisperer (2023) ธี่หยด",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Death-Whisperer-2023-ธี่หยด-1-187x269.jpg",
       "url": "https://www.24-hd.com/death-whisperer/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Under Paris (2024) มฤตยู ใต้ปารีส",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Under-Paris-2024-มฤตยู-ใต้ปารีส-187x269.jpg",
+      "url": "https://www.24-hd.com/under-paris/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "How to Rob a Bank (2024) คู่มือปล้นแบงก์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/How-to-Rob-a-Bank-2024-คู่มือปล้นแบงก์-187x269.jpg",
+      "url": "https://www.24-hd.com/how-to-rob-a-bank/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Furiosa A Mad Max Saga (2024) ฟูริโอซ่า มหากาพย์ แมด แม็กซ์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Furiosa-A-Mad-Max-Saga-2024-ฟูริโอซ่า-มหากาพย์-แมด-แม็กซ์-1-187x269.jpg",
+      "url": "https://www.24-hd.com/furiosa-a-mad-max-saga/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Mutant (2024) มนุษย์กลายพันธุ์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Mutant-2024-มนุษย์กลายพันธุ์-1-187x269.jpg",
+      "url": "https://www.24-hd.com/mutant/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Detective Dee The Skeleton General (2022) ตี๋เหรินเจี๋ย ปริศนาโครงกระดูก",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Detective-Dee-The-Skeleton-General-2022-ตี๋เหรินเจี๋ย-ปริศนาโครงกระดูก-187x269.jpg",
+      "url": "https://www.24-hd.com/detective-dee-the-skeleton-general/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Little Forest (2018) อาบเหงื่อต่างฤดู",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/04/Little-Forest-2018-อาบเหงื่อต่างฤดู-187x269.jpg",
+      "url": "https://www.24-hd.com/little-forest/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Fall (2022) ฟอล",
+      "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Fall-2022-ฟอล-187x269.jpg",
+      "url": "https://www.24-hd.com/fall/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "West of Memphis (2012)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/West-of-Memphis-2012-187x269.jpg",
+      "url": "https://www.24-hd.com/west-of-memphis/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Imp (1996) นรกรอรัก",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/The-Imp-1996-นรกรอรัก-187x269.jpg",
+      "url": "https://www.24-hd.com/the-imp/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -217,78 +289,6 @@
       "name": "Mama (2013) ผีหวงลูก",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Mama-2013-ผีหวงลูก-187x269.jpg",
       "url": "https://www.24-hd.com/mama/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Too Old for Fairy Tales 2 (2024) เทพนิยายไม่ใช่ของเด็กโต 2",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Too-Old-for-Fairy-Tales-2-2024-เทพนิยายไม่ใช่ของเด็กโต-2-1-187x269.jpg",
-      "url": "https://www.24-hd.com/too-old-for-fairy-tales-2/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Too Old for Fairy Tales (2022) เทพนิยายไม่ใช่ของเด็กโต",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Too-Old-for-Fairy-Tales-2022-เทพนิยายไม่ใช่ของเด็กโต-187x269.jpg",
-      "url": "https://www.24-hd.com/too-old-for-fairy-tales/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "A Part of You (2024) ส่วนหนึ่งของเธอ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/A-Part-of-You-2024-ส่วนหนึ่งของเธอ-187x269.jpg",
-      "url": "https://www.24-hd.com/a-part-of-you/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Godzilla Minus One (2023)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Godzilla-Minus-One-2023-1-187x269.jpg",
-      "url": "https://www.24-hd.com/godzilla-minus-one/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Roundup Punishment (2024) บู๊ระห่ำล่าล้างนรก นรกลงทัณฑ์",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/The-Roundup-Punishment-2024-บู๊ระห่ำล่าล้างนรก-นรกลงทัณฑ์-1-187x269.jpg",
-      "url": "https://www.24-hd.com/the-roundup-punishment/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Boy Kills World (2024) แค้นนี้ที่รอคิวล์",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Boy-Kills-World-2024-แค้นนี้ที่รอคิวล์-1-187x269.jpg",
-      "url": "https://www.24-hd.com/boy-kills-world/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The First Omen (2024) กำเนิดอาถรรพ์หมายเลข 6",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-First-Omen-2024-กำเนิดอาถรรพ์หมายเลข-6-1-187x269.jpg",
-      "url": "https://www.24-hd.com/the-first-omen/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Agak Laen (2024) บ้านสยองแสนสนุก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Agak-Laen-2024-บ้านสยองแสนสนุก-187x269.jpg",
-      "url": "https://www.24-hd.com/agak-laen/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Die Hart 2 Die Harter (2024) ฮาร์ต อึดเต็มคาราเบล",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Die-Hart-2-Die-Harter-2024-ฮาร์ต-อึดเต็มคาราเบล-187x269.jpg",
-      "url": "https://www.24-hd.com/die-hart-2-die-harter/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
