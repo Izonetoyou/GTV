@@ -42,7 +42,7 @@
 "import": false
 },
 {
-"name": "4K Movie",
+"name": "4K Movies",
 "image": "https://t4.ftcdn.net/jpg/05/33/02/23/360_F_533022360_pQ3WjgQvkL4n4oAYVHCgsJgjvJmFV9Pv.jpg",
 "url": "https://pastebin.ai/raw/dmlru356ta",
 "import": false
