@@ -42,6 +42,12 @@
 "import": false
 },
 {
+"name": "4K Movie",
+"image": "https://t4.ftcdn.net/jpg/05/33/02/23/360_F_533022360_pQ3WjgQvkL4n4oAYVHCgsJgjvJmFV9Pv.jpg",
+"url": "https://pastebin.ai/raw/dmlru356ta",
+"import": false
+},
+{
 "name": "เว็ปดูหนังออนไลน์เปิดได้เฉพาะมือถือ",
 "image": "https://media3.giphy.com/media/3o7rc0qU6m5hneMsuc/giphy.gif?cid=ecf05e47c1b9xrf4rqbz8p476xiuy8h21yf2lrsx2jrtk0r9&ep=v1_gifs_search&rid=giphy.gif&ct=g",
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/web",
