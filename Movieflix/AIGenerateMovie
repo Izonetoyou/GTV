@@ -70,6 +70,30 @@
       "playInNatPlayer": "True"
     },
     {
+      "name": "Lost But Win (2024) ศึกยอดนักแข่ง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Lost-But-Win-2024-ศึกยอดนักแข่ง-187x269.jpg",
+      "url": "https://www.24-hd.com/lost-but-win/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Escape And Track (2024) ร่องรอยหลบหนี",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Escape-And-Track-2024-ร่องรอยหลบหนี-1-187x269.jpg",
+      "url": "https://www.24-hd.com/escape-and-track/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Hovering Blade (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Hovering-Blade-2024-187x269.jpg",
+      "url": "https://www.24-hd.com/hovering-blade/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Detective Conan vs Kid the Phantom Thief (2024) ยอดนักสืบจิ๋วโคนัน vs จอมโจรคิด",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Detective-Conan-vs-Kid-the-Phantom-Thief-2024-ยอดนักสืบจิ๋วโคนัน-vs-จอมโจรคิด-187x269.jpg",
       "url": "https://www.24-hd.com/detective-conan-vs-kid-the-phantom-thief/",
@@ -265,30 +289,6 @@
       "name": "Club Zero (2023) ชมรมหมายเลข..สูญ",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Club-Zero-2023-ชมรมหมายเลข.สูญ-187x269.jpg",
       "url": "https://www.24-hd.com/club-zero/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Unhuman (2022) เผชิญหน้าท้าอมนุษย์",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Unhuman-2022-เผชิญหน้าท้าอมนุษย์-187x269.jpg",
-      "url": "https://www.24-hd.com/unhuman/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Revolutionize The World (2024) พลิกโลกกลับสวรรค์",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Revolutionize-The-World-2024-พลิกโลกกลับสวรรค์-1-187x269.jpg",
-      "url": "https://www.24-hd.com/revolutionize-the-world/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Bade Miyan Chote Miyan (2024) สองกล้าบ้าระห่ำ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Bade-Miyan-Chote-Miyan-2024-สองกล้าบ้าระห่ำ-187x269.jpg",
-      "url": "https://www.24-hd.com/bade-miyan-chote-miyan/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
