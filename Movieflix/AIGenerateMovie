@@ -6,6 +6,22 @@
   "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้นเป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
   "stations": [
     {
+      "name": "Late Night with the Devil (2023) คืนนี้ผีมาคุย",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Late-Night-with-the-Devil-2023-คืนนี้ผีมาคุย-187x269.jpg",
+      "url": "https://www.24-hd.com/late-night-with-the-devil/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Bad Boys Ride or Die (2024) คู่หูขวางนรก ลุยต่อให้โลกจำ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Bad-Boys-Ride-or-Die-2024-คู่หูขวางนรก-ลุยต่อให้โลกจำ-1-187x269.jpg",
+      "url": "https://www.24-hd.com/bad-boys-ride-or-die/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "The Fall Guy (2024) สตันท์แมนคนจริง",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/05/The-Fall-Guy-2024-สตันท์แมนคนจริง-1-187x269.jpg",
       "url": "https://www.24-hd.com/the-fall-guy/",
@@ -46,25 +62,81 @@
       "playInNatPlayer": "True"
     },
     {
-      "name": "Deaw Special Super Soft Power (2024) เดี่ยวสเปเชียล ซูเปอร์ ซอฟต์ พาวเวอร์",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Deaw-Special-Super-Soft-Power-2024-เดี่ยวสเปเชียล-ซูเปอร์-ซอฟต์-พาวเวอร์-1-187x269.jpg",
-      "url": "https://www.24-hd.com/deaw-special-super-soft-power/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Djinn’s Curse (2023) ของแขก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/04/The-Djinns-Curse-2023-ของแขก-1-187x269.jpg",
-      "url": "https://www.24-hd.com/the-djinns-curse/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
       "name": "Death Whisperer (2023) ธี่หยด",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Death-Whisperer-2023-ธี่หยด-1-187x269.jpg",
       "url": "https://www.24-hd.com/death-whisperer/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Late Night with the Devil (2023) คืนนี้ผีมาคุย",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Late-Night-with-the-Devil-2023-คืนนี้ผีมาคุย-187x269.jpg",
+      "url": "https://www.24-hd.com/late-night-with-the-devil/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Bad Boys Ride or Die (2024) คู่หูขวางนรก ลุยต่อให้โลกจำ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Bad-Boys-Ride-or-Die-2024-คู่หูขวางนรก-ลุยต่อให้โลกจำ-1-187x269.jpg",
+      "url": "https://www.24-hd.com/bad-boys-ride-or-die/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "How To Have Sex (2023) ซิงนั้นสำคัญไฉน",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/02/How-To-Have-Sex-2023-ซิงนั้นสำคัญไฉน-187x269.jpg",
+      "url": "https://www.24-hd.com/how-to-have-sex/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Underworld 5 Blood Wars (2016) มหาสงครามล้างพันธุ์อสูร",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Underworld-5-Blood-Wars-2016-มหาสงครามล้างพันธุ์อสูร-187x269.jpg",
+      "url": "https://www.24-hd.com/underworld-5-blood-wars/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Underworld 4 Awakening (2012) สงครามโค่นพันธุ์อสูร 4 กำเนิดใหม่ราชินีแวมไพร์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Underworld-4-Awakening-2012-สงครามโค่นพันธุ์อสูร-4-กำเนิดใหม่ราชินีแวมไพร์-187x269.jpg",
+      "url": "https://www.24-hd.com/underworld-4-awakening/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Underworld 3 Rise of the Lycans (2009) สงครามโค่นพันธุ์อสูร 3 ปลดแอกจอมทัพอสูร",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Underworld-3-Rise-of-the-Lycans-2009-สงครามโค่นพันธุ์อสูร-3-ปลดแอกจอมทัพอสูร-1-187x269.jpg",
+      "url": "https://www.24-hd.com/underworld-3-rise-of-the-lycans/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Underworld 2 Evolution (2006) สงครามโค่นพันธุ์อสูร 2 อีโวลูชั่น",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Underworld-2-Evolution-2006-สงครามโค่นพันธุ์อสูร-2-อีโวลูชั่น-1-187x269.jpg",
+      "url": "https://www.24-hd.com/underworld-2-evolution/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Underworld (2003) สงครามโค่นพันธุ์อสูร",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Underworld-2003-สงครามโค่นพันธุ์อสูร-1-187x269.jpg",
+      "url": "https://www.24-hd.com/underworld/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Ultraman Rising (2024) อุลตร้าแมน ผงาด",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Ultraman-Rising-2024-อุลตร้าแมน-ผงาด-1-187x269.jpg",
+      "url": "https://www.24-hd.com/ultraman-rising/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -198,14 +270,6 @@
       "playInNatPlayer": "True"
     },
     {
-      "name": "Bad Boys Ride or Die (2024) คู่หูขวางนรก ลุยต่อให้โลกจำ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Bad-Boys-Ride-or-Die-2024-คู่หูขวางนรก-ลุยต่อให้โลกจำ-1-187x269.jpg",
-      "url": "https://www.24-hd.com/bad-boys-ride-or-die/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
       "name": "Bad Boys For Life (2020) คู่หูขวางนรก ตลอดกาล",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Bad-Boys-For-Life-2020-คู่หูขวางนรก-ตลอดกาล-187x269.jpg",
       "url": "https://www.24-hd.com/bad-boys-for-life/",
@@ -225,70 +289,6 @@
       "name": "Bad Boys (1995) แบดบอยส์ คู่หูขวางนรก",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Bad-Boys-1995-แบดบอยส์-คู่หูขวางนรก-187x269.jpg",
       "url": "https://www.24-hd.com/bad-boys/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Fall Guy (2024) สตันท์แมนคนจริง",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/The-Fall-Guy-2024-สตันท์แมนคนจริง-1-187x269.jpg",
-      "url": "https://www.24-hd.com/the-fall-guy/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Jurassic World Camp Cretaceous Hidden Adventure (2022) จูราสสิค เวิลด์ ค่ายครีเทเชียส การผจญภัยซ่อนเร้น",
-      "image": "https://www.24-hd.com/wp-content/uploads/2022/11/Jurassic-World-Camp-Cretaceous-Hidden-Adventure-2022-187x269.jpg",
-      "url": "https://www.24-hd.com/jurassic-world-camp-cretaceous-hidden-adventure/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Jurassic World 3 Dominion (2022) จูราสสิค เวิลด์ ทวงคืนอาณาจักร",
-      "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Jurassic-World-3-Dominion-2022-จูราสสิค-เวิลด์-ทวงคืนอาณาจักร-187x269.jpg",
-      "url": "https://www.24-hd.com/jurassic-world-3/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Jurassic World 2 (2018) จูราสสิค เวิลด์ อาณาจักรล่มสลาย",
-      "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Jurassic-World-2-2018-จูราสสิค-เวิลด์-2-อาณาจักรล่มสลาย-187x269.jpg",
-      "url": "https://www.24-hd.com/jurassic-world-2/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Jurassic World 1 (2015) จูราสสิค เวิลด์ อาณาจักรไดโนเสาร์",
-      "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Jurassic-World-1-2015-อาณาจักรไดโนเสาร์-187x269.jpg",
-      "url": "https://www.24-hd.com/jurassic-world-1/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Jurassic Park 3 (2001) ไดโนเสาร์พันธุ์ดุ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Jurassic-Park-3-2001-ไดโนเสาร์พันธุ์ดุ-187x269.jpg",
-      "url": "https://www.24-hd.com/jurassic-park-3/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Jurassic Park 2 The Lost World (1997) ใครว่ามันสูญพันธุ์",
-      "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Jurassic-Park-2-The-Lost-World-1997-ใครว่ามันสูญพันธุ์-187x269.jpg",
-      "url": "https://www.24-hd.com/jurassic-park-2/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Jurassic Park 1 (1993) กำเนิดใหม่ไดโนเสาร์",
-      "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Jurassic-Park-1-1993-กำเนิดใหม่ไดโนเสาร์-187x269.jpg",
-      "url": "https://www.24-hd.com/jurassic-park-1/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
