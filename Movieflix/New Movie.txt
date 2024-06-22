@@ -6,6 +6,27 @@
 "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
 "stations":[
 {
+"name": "Formed Police Unit FPU (2024) หน่วยพยัคฆ์พิทักษ์ข้ามโลก",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/06/Formed-Police-Unit-FPU-2024-%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81-300x450.jpg",
+"url": "https://www.123-hd.com/formed-police-unit-fpu",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
+"name": "Kleks Academy (2024) โรงเรียนมายา คุณเคล็กซ์",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/06/Kleks-Academy-2024-%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%B2-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C-300x450.jpg",
+"url": "https://www.123-hd.com/kleks-academy",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
+"name": "Chinatown Chacha (2024) ไชน่าทาวน์ ชะช่า",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/06/Chinatown-Chacha-2024-%E0%B9%84%E0%B8%8A%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%B0%E0%B8%8A%E0%B9%88%E0%B8%B2-300x450.jpg",
+"url": "https://www.123-hd.com/chinatown-chacha",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
 "name": "Godzilla Minus One (2023)",
 "image":"https://www.9nunghd.com/wp-content/uploads/2024/05/hkxxMIGaiCTmrEArK7J56JTKUlB-230x315-c-default.webp",
 "url": "https://streamhls.com/view/f759f531-d5e9-5eea-9253-945b28ecb572.m3u8",
