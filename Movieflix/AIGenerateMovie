@@ -70,6 +70,30 @@
       "playInNatPlayer": "True"
     },
     {
+      "name": "Abigail (2024)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Abigail-2024-1-187x269.jpg",
+      "url": "https://www.24-hd.com/abigail/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Direnjie (2024) ตี๋เหรินเจี๋ยนักมายากลผู้ยิ่งใหญ่",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Direnjie-2024-ตี๋เหรินเจี๋ยนักมายากลผู้ยิ่งใหญ่-187x269.jpg",
+      "url": "https://www.24-hd.com/direnjie/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Heart of War Moment (2024) สงครามวัดใจ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Heart-of-War-Moment-2024-สงครามวัดใจ-187x269.jpg",
+      "url": "https://www.24-hd.com/heart-of-war-moment/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "The Underdoggs (2024)",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/01/The-Underdoggs-2024-187x269.jpg",
       "url": "https://www.24-hd.com/the-underdoggs/",
@@ -265,30 +289,6 @@
       "name": "The Strange Snake Story in Shangtong Village (2024) เรื่องเล่าขานงูพิศดารหมู่บ้านซ่างถง",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/06/The-Strange-Snake-Story-in-Shangtong-Village-2024-เรื่องเล่าขานงูพิศดารหมู่บ้านซ่างถง-1-187x269.jpg",
       "url": "https://www.24-hd.com/the-strange-snake-story-in-shangtong-village/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Jim Henson Idea Man (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Jim-Henson-Idea-Man-2024-187x269.jpg",
-      "url": "https://www.24-hd.com/jim-henson-idea-man/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Call Me Country Beyoncé & Nashville’s Renaissance (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Call-Me-Country-Beyonce-Nashvilles-Renaissance-2024-187x269.jpg",
-      "url": "https://www.24-hd.com/call-me-country-beyonce-nashvilles-renaissance/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Invitation (2022) วิวาห์ผวา",
-      "image": "https://www.24-hd.com/wp-content/uploads/2022/09/The-Invitation-2022-วิวาห์ผวา-187x269.jpg",
-      "url": "https://www.24-hd.com/the-invitation/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
