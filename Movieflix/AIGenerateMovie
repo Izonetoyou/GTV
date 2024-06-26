@@ -70,6 +70,70 @@
       "playInNatPlayer": "True"
     },
     {
+      "name": "Jason Bourne (2016) เจสัน บอร์น ยอดจารชนคนอันตราย",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Jason-Bourne-2016-เจสัน-บอร์น-ยอดจารชนคนอันตราย-1-187x269.jpg",
+      "url": "https://www.24-hd.com/jason-bourne/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Bourne Legacy (2012) พลิกแผนล่ายอดจารชน",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/The-Bourne-Legacy-2012-พลิกแผนล่ายอดจารชน-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-bourne-legacy/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Bourne Ultimatum (2007) ปิดเกมล่าจารชน คนอันตราย",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/The-Bourne-Ultimatum-2007-ปิดเกมล่าจารชน-คนอันตราย-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-bourne-ultimatum/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Bourne Supremacy (2004) สุดยอดเกมล่าจารชน",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/The-Bourne-Supremacy-2004-สุดยอดเกมล่าจารชน-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-bourne-supremacy/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Bourne Identity (2002) ล่าจารชน ยอดคนอันตราย",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/The-Bourne-Identity-2002-ล่าจารชน-ยอดคนอันตราย-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-bourne-identity/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Hannibal Rising (2007) ฮันนิบาล ตำนานอำมหิตไม่เงียบ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Hannibal-Rising-2007-ฮันนิบาล-ตำนานอำมหิตไม่เงียบ-187x269.jpg",
+      "url": "https://www.24-hd.com/hannibal-rising/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Hannibal (2001) ฮันนิบาล อำมหิตลั่นโลก",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Hannibal-2001-ฮันนิบาล-อำมหิตลั่นโลก-187x269.jpg",
+      "url": "https://www.24-hd.com/hannibal/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Silence of the Lambs (1991) อำมหิตไม่เงียบ",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/The-Silence-of-the-Lambs-1991-อำมหิตไม่เงียบ-187x269.jpg",
+      "url": "https://www.24-hd.com/the-silence-of-the-lambs/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "The Frist Slam Dunk (2022) เดอะ เฟิสต์ สแลมดังก์",
       "image": "https://www.24-hd.com/wp-content/uploads/2023/09/The-Frist-Slam-Dunk-2022-เดอะ-เฟิสต์-สแลมดังก์-187x269.jpg",
       "url": "https://www.24-hd.com/the-frist-slam-dunk/",
@@ -225,70 +289,6 @@
       "name": "National Treasure Book of Secrets (2007) ปฏิบัติการณ์เดือด ล่าบันทึกลับสุดขอบโลก",
       "image": "https://www.24-hd.com/wp-content/uploads/2022/12/National-Treasure-Book-of-Secrets-2007-187x269.jpg",
       "url": "https://www.24-hd.com/national-treasure-book-of-secrets/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "National Treasure (2004) ปฏิบัติการเดือด ล่าขุมทรัพย์สุดขอบโลก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2022/12/National-Treasure-2004-187x269.jpg",
-      "url": "https://www.24-hd.com/national-treasure/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Formed Police Unit FPU (2024) หน่วยพยัคฆ์พิทักษ์ข้ามโลก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Formed-Police-Unit-FPU-2024-หน่วยพยัคฆ์พิทักษ์ข้ามโลก-187x269.jpg",
-      "url": "https://www.24-hd.com/formed-police-unit-fpu/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Kleks Academy (2024) โรงเรียนมายา คุณเคล็กซ์",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Kleks-Academy-2024-โรงเรียนมายา-คุณเคล็กซ์-187x269.jpg",
-      "url": "https://www.24-hd.com/kleks-academy/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Chinatown Chacha (2024) ไชน่าทาวน์ ชะช่า",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Chinatown-Chacha-2024-ไชน่าทาวน์-ชะช่า-187x269.jpg",
-      "url": "https://www.24-hd.com/chinatown-chacha/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Inheritance (2024) มรดกอลเวง",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Inheritance-2024-มรดกอลเวง-187x269.jpg",
-      "url": "https://www.24-hd.com/inheritance/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Black Barbie (2024) แบล็ค บาร์บี้",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Black-Barbie-2024-แบล็ค-บาร์บี้-187x269.jpg",
-      "url": "https://www.24-hd.com/black-barbie/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Big City Greens the Movie Spacecation (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Big-City-Greens-the-Movie-Spacecation-2024-1-187x269.jpg",
-      "url": "https://www.24-hd.com/big-city-greens-the-movie-spacecation/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Shuigui Bride (2024) เจ้าสาวสุดหลอน",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Shuigui-Bride-2024-เจ้าสาวสุดหลอน-1-187x269.jpg",
-      "url": "https://www.24-hd.com/shuigui-bride/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
