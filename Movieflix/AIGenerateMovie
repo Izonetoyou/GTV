@@ -70,6 +70,14 @@
       "playInNatPlayer": "True"
     },
     {
+      "name": "A Family Affair (2024) เรื่อง (รัก) ในครอบครัว",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/A-Family-Affair-2024-เรื่อง-รัก-ในครอบครัว-187x269.jpg",
+      "url": "https://www.24-hd.com/a-family-affair/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Dark Forest (2024) ป่าอันมืดมิด",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Dark-Forest-2024-ป่าอันมืดมิด-1-187x269.jpg",
       "url": "https://www.24-hd.com/dark-forest/",
@@ -281,14 +289,6 @@
       "name": "Heart of War Moment (2024) สงครามวัดใจ",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Heart-of-War-Moment-2024-สงครามวัดใจ-187x269.jpg",
       "url": "https://www.24-hd.com/heart-of-war-moment/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Underdoggs (2024)",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/01/The-Underdoggs-2024-187x269.jpg",
-      "url": "https://www.24-hd.com/the-underdoggs/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
