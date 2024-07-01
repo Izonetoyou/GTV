@@ -14,6 +14,14 @@
       "playInNatPlayer": "True"
     },
     {
+      "name": "The Fall Guy (2024) สตันท์แมนคนจริง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/The-Fall-Guy-2024-สตันท์แมนคนจริง-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-fall-guy/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
       "name": "Late Night with the Devil (2023) คืนนี้ผีมาคุย",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Late-Night-with-the-Devil-2023-คืนนี้ผีมาคุย-187x269.jpg",
       "url": "https://www.24-hd.com/late-night-with-the-devil/",
@@ -25,14 +33,6 @@
       "name": "Bad Boys Ride or Die (2024) คู่หูขวางนรก ลุยต่อให้โลกจำ",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Bad-Boys-Ride-or-Die-2024-คู่หูขวางนรก-ลุยต่อให้โลกจำ-1-187x269.jpg",
       "url": "https://www.24-hd.com/bad-boys-ride-or-die/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Fall Guy (2024) สตันท์แมนคนจริง",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/The-Fall-Guy-2024-สตันท์แมนคนจริง-1-187x269.jpg",
-      "url": "https://www.24-hd.com/the-fall-guy/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -65,6 +65,70 @@
       "name": "Death Whisperer (2023) ธี่หยด",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Death-Whisperer-2023-ธี่หยด-1-187x269.jpg",
       "url": "https://www.24-hd.com/death-whisperer/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Demon Slayer Kimetsu no Yaiba To the Hashira Training (2024) ปาฏิหาริย์แห่งสายสัมพันธ์ สู่การสั่งสอนของเสาหลัก",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training-2024-ปาฏิหาริย์แห่งสายสัมพันธ์-สู่การสั่งสอนของเสาหลัก-187x269.jpg",
+      "url": "https://www.24-hd.com/demon-slayer-kimetsu-no-yaiba-to-the-hashira-training/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Comeback (2023) เดือดร้อนให้หาลุงหัว",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/07/The-Comeback-2023-เดือดร้อนให้หาลุงหัว-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-comeback/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Seeding (2023)",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/07/The-Seeding-2023-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-seeding/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Shazam! Fury of the Gods (2023) ชาแซม! จุดเดือดเทพเจ้า",
+      "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Shazam-Fury-of-the-Gods-2023-ชาแซม-จุดเดือดเทพเจ้า-187x269.jpg",
+      "url": "https://www.24-hd.com/shazam-fury-of-the-gods/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Shazam! (2019) ชาแซม!",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/07/Shazam-2019-ชาแซม-1-187x269.jpg",
+      "url": "https://www.24-hd.com/shazam/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Cook Up a Storm (2017) ศึกพ่อครัวดาวรุ่ง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/07/Cook-Up-a-Storm-2017-ศึกพ่อครัวดาวรุ่ง-187x269.jpg",
+      "url": "https://www.24-hd.com/cook-up-a-storm/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "Furiosa A Mad Max Saga (2024) ฟูริโอซ่า มหากาพย์ แมด แม็กซ์",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Furiosa-A-Mad-Max-Saga-2024-ฟูริโอซ่า-มหากาพย์-แมด-แม็กซ์-1-187x269.jpg",
+      "url": "https://www.24-hd.com/furiosa-a-mad-max-saga/",
+      "referer": "https://www.24-hd.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "playInNatPlayer": "True"
+    },
+    {
+      "name": "The Fall Guy (2024) สตันท์แมนคนจริง",
+      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/The-Fall-Guy-2024-สตันท์แมนคนจริง-1-187x269.jpg",
+      "url": "https://www.24-hd.com/the-fall-guy/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
@@ -225,70 +289,6 @@
       "name": "Baby Shark’s Big Movie (2024)",
       "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Baby-Sharks-Big-Movie-2024-187x269.jpg",
       "url": "https://www.24-hd.com/baby-sharks-big-movie/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Furiosa A Mad Max Saga (2024) ฟูริโอซ่า มหากาพย์ แมด แม็กซ์",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Furiosa-A-Mad-Max-Saga-2024-ฟูริโอซ่า-มหากาพย์-แมด-แม็กซ์-1-187x269.jpg",
-      "url": "https://www.24-hd.com/furiosa-a-mad-max-saga/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Jason Bourne (2016) เจสัน บอร์น ยอดจารชนคนอันตราย",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Jason-Bourne-2016-เจสัน-บอร์น-ยอดจารชนคนอันตราย-1-187x269.jpg",
-      "url": "https://www.24-hd.com/jason-bourne/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Bourne Legacy (2012) พลิกแผนล่ายอดจารชน",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/The-Bourne-Legacy-2012-พลิกแผนล่ายอดจารชน-1-187x269.jpg",
-      "url": "https://www.24-hd.com/the-bourne-legacy/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Bourne Ultimatum (2007) ปิดเกมล่าจารชน คนอันตราย",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/The-Bourne-Ultimatum-2007-ปิดเกมล่าจารชน-คนอันตราย-1-187x269.jpg",
-      "url": "https://www.24-hd.com/the-bourne-ultimatum/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Bourne Supremacy (2004) สุดยอดเกมล่าจารชน",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/The-Bourne-Supremacy-2004-สุดยอดเกมล่าจารชน-1-187x269.jpg",
-      "url": "https://www.24-hd.com/the-bourne-supremacy/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "The Bourne Identity (2002) ล่าจารชน ยอดคนอันตราย",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/The-Bourne-Identity-2002-ล่าจารชน-ยอดคนอันตราย-1-187x269.jpg",
-      "url": "https://www.24-hd.com/the-bourne-identity/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Hannibal Rising (2007) ฮันนิบาล ตำนานอำมหิตไม่เงียบ",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Hannibal-Rising-2007-ฮันนิบาล-ตำนานอำมหิตไม่เงียบ-187x269.jpg",
-      "url": "https://www.24-hd.com/hannibal-rising/",
-      "referer": "https://www.24-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-      "playInNatPlayer": "True"
-    },
-    {
-      "name": "Hannibal (2001) ฮันนิบาล อำมหิตลั่นโลก",
-      "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Hannibal-2001-ฮันนิบาล-อำมหิตลั่นโลก-187x269.jpg",
-      "url": "https://www.24-hd.com/hannibal/",
       "referer": "https://www.24-hd.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
       "playInNatPlayer": "True"
