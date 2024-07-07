@@ -4,5 +4,174 @@
   "image": "https://som.edu.vn/wp-content/uploads/2022/11/tri-tue-nhan-tao-la-gi.jpg",
   "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/AutoGenerateMovie",
   "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้นเป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
-  "stations": []
+  "stations": [
+    {
+      "name": "Pattaya Heat (2024) ปิดเมืองล่า",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/Pattaya-Heat-2024-ปิดเมืองล่า-300x450.jpg",
+      "url": "https://www.123-hd.com/pattaya-heat",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "Bhaje Vaayu Vegam (2024) เดิมพันอันตราย",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/Bhaje-Vaayu-Vegam-2024-เดิมพันอันตราย-1-300x450.jpg",
+      "url": "https://www.123-hd.com/bhaje-vaayu-vegam",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "A Quiet Place Day One (2024) ดินแดนไร้เสียง วันที่หนึ่ง",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/A-Quiet-Place-Day-One-2024-ดินแดนไร้เสียง-วันที่หนึ่ง-1-300x450.jpg",
+      "url": "https://www.123-hd.com/a-quiet-place-day-one",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "The Watchers (2024) เดอะวอทเชอร์ส",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/06/The-Watchers-2024-เดอะวอทเชอร์ส-300x450.jpg",
+      "url": "https://www.123-hd.com/the-watchers",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "IF (2024) เพื่อนในจินตนาการ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/05/IF-2024-เพื่อนในจินตนาการ-1-300x450.jpg",
+      "url": "https://www.123-hd.com/if",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "Beverly Hills Cop Axel F (2024) โปลิศจับตำรวจ เอ็กเซล เอฟ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/Beverly-Hills-Cop-Axel-F-2024-โปลิศจับตำรวจ-เอ็กเซล-เอฟ-300x450.jpg",
+      "url": "https://www.123-hd.com/beverly-hills-cop-axel-f",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "Life After Fighting (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/Life-After-Fighting-2024-1-300x450.jpg",
+      "url": "https://www.123-hd.com/life-after-fighting",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "The Intimate (2005) ลึกกว่ารัก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/The-Intimate-2005-ลึกกว่ารัก-300x450.jpg",
+      "url": "https://www.123-hd.com/the-intimate",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "The Roundup Punishment (2024) บู๊ระห่ำล่าล้างนรก นรกลงทัณฑ์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/05/The-Roundup-Punishment-2024-บู๊ระห่ำล่าล้างนรก-นรกลงทัณฑ์-1-300x450.jpg",
+      "url": "https://www.123-hd.com/the-roundup-punishment",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "Tan-Ti-Ana (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/Tan-Ti-Ana-2024-300x450.jpg",
+      "url": "https://www.123-hd.com/tan-ti-ana",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "Love Is Light (2022)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/Love-Is-Light-2022-300x450.jpg",
+      "url": "https://www.123-hd.com/love-is-light",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "I Heard the Bells (2022) แสงแห่งหวัง ระฆังแห่งชีวิต",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/I-Heard-the-Bells-2022-แสงแห่งหวัง-ระฆังแห่งชีวิต-300x450.jpg",
+      "url": "https://www.123-hd.com/i-heard-the-bells",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "A Tale of Two Guns (2022)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/A-Tale-of-Two-Guns-2022-300x450.jpg",
+      "url": "https://www.123-hd.com/a-tale-of-two-guns",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "Altitude (2017)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/Altitude-2017-300x450.jpg",
+      "url": "https://www.123-hd.com/altitude",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "10,000 Days (2014)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/10000-Days-2014-300x450.jpg",
+      "url": "https://www.123-hd.com/10000-days",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "Rescue Dawn (2006) แหกนรกสมรภูมิเดือด",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Rescue-Dawn-2006-แหกนรกสมรภูมิเดือด-300x450.png",
+      "url": "https://www.123-hd.com/rescue-dawn",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "The Comeback (2023) เดือดร้อนให้หาลุงหัว",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/The-Comeback-2023-เดือดร้อนให้หาลุงหัว-1-300x450.jpg",
+      "url": "https://www.123-hd.com/the-comeback",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "The Seeding (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/The-Seeding-2023-1-300x450.jpg",
+      "url": "https://www.123-hd.com/the-seeding",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "Furiosa A Mad Max Saga (2024) ฟูริโอซ่า มหากาพย์ แมด แม็กซ์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/05/Furiosa-A-Mad-Max-Saga-2024-ฟูริโอซ่า-มหากาพย์-แมด-แม็กซ์-1-300x450.jpg",
+      "url": "https://www.123-hd.com/furiosa-a-mad-max-saga",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "The Fall Guy (2024) สตันท์แมนคนจริง",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/05/The-Fall-Guy-2024-สตันท์แมนคนจริง-1-300x450.jpg",
+      "url": "https://www.123-hd.com/the-fall-guy",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "Monkey Man (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Monkey-Man-2024-1-300x450.jpg",
+      "url": "https://www.123-hd.com/monkey-man",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "Drawing Closer (2024) วาดรัก... จนกว่าจะหมดเวลา",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Drawing-Closer-2024-วาดรัก.-จนกว่าจะหมดเวลา-300x450.jpg",
+      "url": "https://www.123-hd.com/drawing-closer",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "Haikyuu!! The Dumpster Battle (2024) ไฮคิว!! คู่ตบฟ้าประทาน ตอน ศึกที่กองขยะ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Haikyuu-The-Dumpster-Battle-2024-ไฮคิว-คู่ตบฟ้าประทาน-ตอน-ศึกที่กองขยะ-1-300x450.jpg",
+      "url": "https://www.123-hd.com/haikyuu-the-dumpster-battle",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    },
+    {
+      "name": "Mat Tudung Begins (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Mat-Tudung-Begins-2023-300x450.jpg",
+      "url": "https://www.123-hd.com/mat-tudung-begins",
+      "referer": "https://www.123-hd.com/",
+      "import": false
+    }
+  ]
 }
