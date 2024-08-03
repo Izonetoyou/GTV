@@ -47,7 +47,7 @@
 {
 "name": "จากพันธมิตร",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrd8cebKWFMd8qlDu2Ddzvz7iIMdkSEwgqgmHIFca9HA&s",
-"url": "https://raw.githubusercontent.com/SUN1996GTR/SUN1996GTR/main/SPORTSv6",
+"url": "https://pastebin.com/h6MtXfMf",
 "import": false
 },
 
