@@ -44,12 +44,6 @@
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/KIDS.txt",
 "import": false
 },
-{
-"name": "จากพันธมิตร",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrd8cebKWFMd8qlDu2Ddzvz7iIMdkSEwgqgmHIFca9HA&s",
-"url": "https://pastebin.com/h6MtXfMf",
-"import": false
-},
 
 ]
 }
