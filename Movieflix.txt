@@ -48,6 +48,13 @@
 "import": false
 },
 {
+"name": "จากพันธมิตร",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrd8cebKWFMd8qlDu2Ddzvz7iIMdkSEwgqgmHIFca9HA&s",
+"url": "https://pastebin.com/h6MtXfMf",
+"import": false
+},
+
+{
 "name": "เว็ปดูหนังออนไลน์เปิดได้เฉพาะมือถือ",
 "image": "https://media3.giphy.com/media/3o7rc0qU6m5hneMsuc/giphy.gif?cid=ecf05e47c1b9xrf4rqbz8p476xiuy8h21yf2lrsx2jrtk0r9&ep=v1_gifs_search&rid=giphy.gif&ct=g",
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/web",
