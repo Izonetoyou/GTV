@@ -200,8 +200,6 @@
 "playInNatPlayer": "true"
 },
 
-
-
 {
 "name": "Spot TV2(สำรอง2)",
 "image":"https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015",
