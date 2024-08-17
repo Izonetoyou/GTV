@@ -207,8 +207,7 @@
 "url": "https://edge-s7x.onlineprostream.com:9093/v5/Nid_Itt4_fymiki8QW6JAg/1723901629/7fc82ee105d79fedb73db6fb7234df13/klxPN-Bw907fG_uQnuMj4A/1723912309/live/dx-origin/hd-spotv2_720/playlist.m3u8",
 "referer": "
 https://dooball66x.com/",
-"userAgent": "
-Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
 "info": "Godzilla TV",
 "playInNatPlayer": "true"
 },
