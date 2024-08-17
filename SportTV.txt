@@ -204,7 +204,7 @@
 "name": "Spot TV2(สำรอง2)",
 "image":"https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015",
 "url": "https://edge-s9.onlineprostream.com:9205/v5/LuKaAbf8uuDbR82X_MCTCg/1723898111/7fc82ee105d79fedb73db6fb7234df13/QCIYvYx66Vf07JiCiw7MGw/1723908791/live/dx-origin/hd-spotv2_720/playlist.m3u8",
-"referer": "https://playerembed-lb.blackboxsys.net/",
+"referer": "https://dooball66x.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
 "info": "Godzilla TV",
 "playInNatPlayer": "true"
