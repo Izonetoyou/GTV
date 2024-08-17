@@ -204,7 +204,7 @@
 {
 "name": "Spot TV2(สำรอง2)",
 "image":"https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015",
-"url": "https://edge-s9.onlineprostream.com/v5/LuKaAbf8uuDbR82X_MCTCg/1723898111/7fc82ee105d79fedb73db6fb7234df13/QCIYvYx66Vf07JiCiw7MGw/1723908791/live/dx-origin/hd-spotv2_720/playlist.m3u8",
+"url": "https://edge-s9.onlineprostream.com:9204/v5/EKebt7WXc7AgFtSJJM3IRQ/1723900877/7fc82ee105d79fedb73db6fb7234df13/uBpnLYScfrLRTQ6aEob7Ag/1723911557/live/dx-origin/hd-spotv2_720/playlist.m3u8",
 "referer": "
 https://playerembed-lb.blackboxsys.net/",
 "userAgent": "
