@@ -6,58 +6,37 @@
   "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้นเป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
   "stations": [
     {
-      "name": "Deadpool & Wolverine (2024) เดดพูล & วูล์ฟเวอรีน",
-      "image": "https://www.imoviehds.com/wp-content/uploads/2024/07/Deadpool-Wolverine-2024-เดดพูล-วูล์ฟเวอรีน-170x250.jpg",
-      "url": "https://www.imoviehds.com/deadpool-wolverine/",
+      "name": "Jackpot! (2024) แจ็คพ็อต ลุ้น รอด รวย!",
+      "image": "https://www.imoviehds.com/wp-content/uploads/2024/08/Jackpot-2024-แจ็คพ็อต-ลุ้น-รอด-รวย-170x250.jpg",
+      "url": "https://www.imoviehds.com/jackpot-2/",
       "referer": "https://www.imoviehds.com",
       "import": false
     },
     {
-      "name": "Exhuma (2024) ขุดมันขึ้นมาจากหลุม",
-      "image": "https://www.imoviehds.com/wp-content/uploads/2024/04/Exhuma-2024-ขุดมันขึ้นมาจากหลุม-170x250.jpg",
-      "url": "https://www.imoviehds.com/exhuma/",
+      "name": "Twilight of the Warriors Walled In (2024) เมืองพญายม ปิดบัญชียมบาล",
+      "image": "https://www.imoviehds.com/wp-content/uploads/2024/08/Twilight-of-the-Warriors-Walled-In-2024-เมืองพญายม-ปิดบัญชียมบาล-170x250.jpg",
+      "url": "https://www.imoviehds.com/twilight-of-the-warriors-walled-in/",
       "referer": "https://www.imoviehds.com",
       "import": false
     },
     {
-      "name": "Breaking and Re entering (2024) ปล้นย้อนศร",
-      "image": "https://www.imoviehds.com/wp-content/uploads/2024/08/Breaking-and-Re-entering-2024-ปล้นย้อนศร-170x250.jpg",
-      "url": "https://www.imoviehds.com/breaking-and-re-entering/",
+      "name": "Daughters (2024)",
+      "image": "https://www.imoviehds.com/wp-content/uploads/2024/08/Daughters-2024-1-170x250.jpg",
+      "url": "https://www.imoviehds.com/daughters/",
       "referer": "https://www.imoviehds.com",
       "import": false
     },
     {
-      "name": "A Sacrifice (2024)",
-      "image": "https://www.imoviehds.com/wp-content/uploads/2024/07/A-Sacrifice-2024-170x250.jpg",
-      "url": "https://www.imoviehds.com/a-sacrifice/",
+      "name": "Escape (2024) หนีให้พ้นนรก",
+      "image": "https://www.imoviehds.com/wp-content/uploads/2024/08/Escape-2024-หนีให้พ้นนรก-1-170x250.jpg",
+      "url": "https://www.imoviehds.com/escape-2/",
       "referer": "https://www.imoviehds.com",
       "import": false
     },
     {
-      "name": "Hard Guy Sniper (2024) มือปืนคนแกร่ง",
-      "image": "https://www.imoviehds.com/wp-content/uploads/2024/07/Hard-Guy-Sniper-2024-มือปืนคนแกร่ง-170x250.jpg",
-      "url": "https://www.imoviehds.com/hard-guy-sniper/",
-      "referer": "https://www.imoviehds.com",
-      "import": false
-    },
-    {
-      "name": "Master of the House (2024) สืบสันดาน",
-      "image": "https://www.imoviehds.com/wp-content/uploads/2024/07/Master-of-the-House-2024-สืบสันดาน-170x250.jpg",
-      "url": "https://www.imoviehds.com/master-of-the-house/",
-      "referer": "https://www.imoviehds.com",
-      "import": false
-    },
-    {
-      "name": "House of the Dragon Season 2 (2024)",
-      "image": "https://www.imoviehds.com/wp-content/uploads/2024/07/House-of-the-Dragon-Season-2-170x250.jpg",
-      "url": "https://www.imoviehds.com/house-of-the-dragon-season-2/",
-      "referer": "https://www.imoviehds.com",
-      "import": false
-    },
-    {
-      "name": "Yolo (2024) หมวยย้วย…มวยไม่ยอมม้วย",
-      "image": "https://www.imoviehds.com/wp-content/uploads/2024/04/Yolo-2024-หมวยย้วย.มวยไม่ยอมม้วย-1-170x250.jpg",
-      "url": "https://www.imoviehds.com/yolo/",
+      "name": "Twisters (2024) ทวิสเตอร์ส",
+      "image": "https://www.imoviehds.com/wp-content/uploads/2024/07/Twisters-2024-ทวิสเตอร์ส-1-170x250.jpg",
+      "url": "https://www.imoviehds.com/twisters/",
       "referer": "https://www.imoviehds.com",
       "import": false
     },
@@ -69,79 +48,100 @@
       "import": false
     },
     {
-      "name": "Bad Boys Ride or Die (2024) คู่หูขวางนรก ลุยต่อให้โลกจำ",
-      "image": "https://www.imoviehds.com/wp-content/uploads/2024/06/Bad-Boys-Ride-or-Die-2024-คู่หูขวางนรก-ลุยต่อให้โลกจำ-170x250.jpg",
-      "url": "https://www.imoviehds.com/bad-boys-ride-or-die/",
+      "name": "I Saw the TV Glow (2024) จิตจ้องจอ",
+      "image": "https://www.imoviehds.com/wp-content/uploads/2024/08/I-Saw-the-TV-Glow-2024-จิตจ้องจอ-170x250.jpg",
+      "url": "https://www.imoviehds.com/i-saw-the-tv-glow/",
       "referer": "https://www.imoviehds.com",
       "import": false
     },
     {
-      "name": "Wonderland (2024) วันเดอร์แลนด์",
-      "image": "https://www.imoviehds.com/wp-content/uploads/2024/07/Wonderland-2024-วันเดอร์แลนด์-1-170x250.jpg",
-      "url": "https://www.imoviehds.com/wonderland/",
+      "name": "Harom Hara (2024)",
+      "image": "https://www.imoviehds.com/wp-content/uploads/2024/08/Harom-Hara-2024-170x250.jpg",
+      "url": "https://www.imoviehds.com/harom-hara/",
       "referer": "https://www.imoviehds.com",
       "import": false
     },
     {
-      "name": "Non Negotiable (2024) เจรจาท้ารัก",
-      "image": "https://www.imoviehds.com/wp-content/uploads/2024/07/Non-Negotiable-2024-เจรจาท้ารัก-170x250.jpg",
-      "url": "https://www.imoviehds.com/non-negotiable/",
+      "name": "Watchmen Chapter I (2024)",
+      "image": "https://www.imoviehds.com/wp-content/uploads/2024/08/Watchmen-Chapter-I-2024-170x250.jpg",
+      "url": "https://www.imoviehds.com/watchmen-chapter-i/",
       "referer": "https://www.imoviehds.com",
       "import": false
     },
     {
-      "name": "House of Ga’a (2024) บัลลังก์แห่งกาอา",
-      "image": "https://www.imoviehds.com/wp-content/uploads/2024/07/House-of-Gaa-2024-บัลลังก์แห่งกาอา-1-170x250.jpg",
-      "url": "https://www.imoviehds.com/house-of-gaa/",
+      "name": "Chandu Champion (2024) จันทราแชมป์",
+      "image": "https://www.imoviehds.com/wp-content/uploads/2024/08/Chandu-Champion-2024-จันทราแชมป์-1-170x250.jpg",
+      "url": "https://www.imoviehds.com/chandu-champion/",
       "referer": "https://www.imoviehds.com",
       "import": false
     },
     {
-      "name": "Pee Nak 4 (2024) พี่นาค 4",
-      "image": "https://www.imoviehds.com/wp-content/uploads/2024/07/Pee-Nak-4-2024-พี่นาค-4-1-170x250.jpg",
-      "url": "https://www.imoviehds.com/pee-nak-4/",
+      "name": "The Goat Life (2024) คนเลี้ยงแพะ",
+      "image": "https://www.imoviehds.com/wp-content/uploads/2024/08/The-Goat-Life-2024-คนเลี้ยงแพะ-1-170x250.jpg",
+      "url": "https://www.imoviehds.com/the-goat-life/",
       "referer": "https://www.imoviehds.com",
       "import": false
     },
     {
-      "name": "The Mystery Of Humanoid Puppet (2024) ตี๋เหรินเจี๋ยกับตุ๊กตาหุ่นเชิด",
-      "image": "https://www.imoviehds.com/wp-content/uploads/2024/07/The-Mystery-Of-Humanoid-Puppet-2024-ตี๋เหรินเจี๋ยกับตุ๊กตาหุ่นเชิด-170x250.jpg",
-      "url": "https://www.imoviehds.com/the-mystery-of-humanoid-puppet/",
+      "name": "Srikanth (2024) ศรีคานธ์",
+      "image": "https://www.imoviehds.com/wp-content/uploads/2024/08/Srikanth-2024-ศรีคานธ์-170x250.jpg",
+      "url": "https://www.imoviehds.com/srikanth/",
       "referer": "https://www.imoviehds.com",
       "import": false
     },
     {
-      "name": "Space Cadet (2024) สาวแสบซ่า ท้าอวกาศ",
-      "image": "https://www.imoviehds.com/wp-content/uploads/2024/07/Space-Cadet-2024-สาวแสบซ่า-ท้าอวกาศ-170x250.jpg",
-      "url": "https://www.imoviehds.com/space-cadet/",
+      "name": "Borderlands (2024) บอร์เดอร์แลนดส์ แดนล้น คนปล้นจักรวาล",
+      "image": "https://www.imoviehds.com/wp-content/uploads/2024/08/Borderlands-2024-บอร์เดอร์แลนดส์-แดนล้น-คนปล้นจักรวาล-170x250.jpg",
+      "url": "https://www.imoviehds.com/borderlands/",
       "referer": "https://www.imoviehds.com",
       "import": false
     },
     {
-      "name": "Sweet Home 3 (2024) สวีทโฮม 3",
-      "image": "https://www.imoviehds.com/wp-content/uploads/2024/07/Sweet-Home-3-2024-สวีทโฮม-3-170x250.jpg",
-      "url": "https://www.imoviehds.com/sweet-home-3-2/",
+      "name": "Dead Man (2024)",
+      "image": "https://www.imoviehds.com/wp-content/uploads/2024/08/Dead-Man-2024-1-170x250.jpg",
+      "url": "https://www.imoviehds.com/dead-man/",
       "referer": "https://www.imoviehds.com",
       "import": false
     },
     {
-      "name": "Find Me Falling (2024) ล้มลุกแล้วเจอรัก",
-      "image": "https://www.imoviehds.com/wp-content/uploads/2024/07/Find-Me-Falling-2024-ล้มลุกแล้วเจอรัก-1-170x250.jpg",
-      "url": "https://www.imoviehds.com/find-me-falling/",
+      "name": "Fly Me to the Moon (2024) ทะยานฟ้าสู่พื้นจันทร์",
+      "image": "https://www.imoviehds.com/wp-content/uploads/2024/08/Fly-Me-to-the-Moon-2024-ทะยานฟ้าสู่พื้นจันทร์-170x250.jpg",
+      "url": "https://www.imoviehds.com/fly-me-to-the-moon/",
       "referer": "https://www.imoviehds.com",
       "import": false
     },
     {
-      "name": "Skywalkers A Love Story (2024) คู่รักนักไต่ฟ้า",
-      "image": "https://www.imoviehds.com/wp-content/uploads/2024/07/Skywalkers-A-Love-Story-2024-คู่รักนักไต่ฟ้า-170x250.jpg",
-      "url": "https://www.imoviehds.com/skywalkers-a-love-story/",
+      "name": "Conjuring Curse (2024) คำสาปเมืองผี",
+      "image": "https://www.imoviehds.com/wp-content/uploads/2024/08/Conjuring-Curse-2024-คำสาปเมืองผี-1-170x250.jpg",
+      "url": "https://www.imoviehds.com/conjuring-curse/",
       "referer": "https://www.imoviehds.com",
       "import": false
     },
     {
-      "name": "Curbing Violence (2024) ปฏิบัติการช่วยเธอจากนรก",
-      "image": "https://www.imoviehds.com/wp-content/uploads/2024/07/Curbing-Violence-2024-ปฏิบัติการช่วยเธอจากนรก-1-170x250.jpg",
-      "url": "https://www.imoviehds.com/curbing-violence/",
+      "name": "Unsung Hero (2024) รัก ฝัน ศรัทธา",
+      "image": "https://www.imoviehds.com/wp-content/uploads/2024/08/Unsung-Hero-2024-รัก-ฝัน-ศรัทธา-170x250.jpg",
+      "url": "https://www.imoviehds.com/unsung-hero/",
+      "referer": "https://www.imoviehds.com",
+      "import": false
+    },
+    {
+      "name": "Romance in the House (2024) บ้านกรุ่นรัก",
+      "image": "https://www.imoviehds.com/wp-content/uploads/2024/08/Romance-in-the-House-2024-บ้านกรุ่นรัก-170x250.jpg",
+      "url": "https://www.imoviehds.com/romance-in-the-house/",
+      "referer": "https://www.imoviehds.com",
+      "import": false
+    },
+    {
+      "name": "King Kong Return (2024) ทวงบัลลังก์ราชันย์คิงคอง",
+      "image": "https://www.imoviehds.com/wp-content/uploads/2024/08/King-Kong-Return-2024-ทวงบัลลังก์ราชันย์คิงคอง-170x250.jpg",
+      "url": "https://www.imoviehds.com/king-kong-return/",
+      "referer": "https://www.imoviehds.com",
+      "import": false
+    },
+    {
+      "name": "Nezha Demon Child is Back (2024) นาจา การกลับมาของเด็กปีศาจ",
+      "image": "https://www.imoviehds.com/wp-content/uploads/2024/08/Nezha-Demon-Child-is-Back-2024-นาจา-การกลับมาของเด็กปีศาจ-170x250.jpg",
+      "url": "https://www.imoviehds.com/nezha-demon-child-is-back/",
       "referer": "https://www.imoviehds.com",
       "import": false
     }
