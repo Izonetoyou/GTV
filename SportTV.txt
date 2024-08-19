@@ -360,37 +360,6 @@ url:"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/playlist.m3u8",
 "info": "Godzilla TV",
 "playInNatPlayer": "true"
 },
-{
-"name": "EPL1 (สำรอง2)",
-"image": "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",
-"url": "https://mediasv.online/stream_live/600_eng1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDIyIDE6MDg6NDggUE0maGFzaF92YWx1ZT1GUTFUYnRTeVVyb1JMTks2VzlBSzB3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIwJmlkPWNoXzQ2Mzc5",
-"referer": "https://www.doofree88.com/",
-"info": "Godzilla TV",
-"playInNatPlayer": "true"
-},
-{
-"name": "EPL2 (สำรอง2)",
-"image": "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",
-"url": "https://mediasv.online/stream_live/602_eng2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzoyODozNCBQTSZoYXNoX3ZhbHVlPUxPbFVwQXJzR3BtM3A0Qm10N2tIN3c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjAmaWQ9Y2hfODQwMDY=",
-"referer": "https://we-play.live/",
-"info": "Godzilla TV",
-"playInNatPlayer": "true"
-},
-{
-"name": "EPL3 (สำรอง2)",
-"image":"https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",
-"url": "https://mediasv.online/stream_live/603_eng3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzozMjowNiBQTSZoYXNoX3ZhbHVlPVNRVlhJZ2hjaUpWbk1qL09DeFl6ZlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjAmaWQ9Y2hfODU5NDU=",
-"referer": "https://we-play.live/",
-"info": "Godzilla TV",
-"playInNatPlayer": "true"
-},
-{
-"name": "EPL4 (สำรอง2)",
-"image":"https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",
-"url": "https://mediasv.online/stream_live/604_eng4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzozMzowOSBQTSZoYXNoX3ZhbHVlPVRrNzZ5MHlJTHRGaDN0ZFViWDNsUHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjAmaWQ9Y2hfMzAwMTY=",
-"referer": "https://we-play.live/",
-"info": "Godzilla TV",
-"playInNatPlayer": "true"
-},
+
 ]
 }
