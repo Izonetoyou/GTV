@@ -33,6 +33,12 @@
 "import": false
 },
 {
+"name": "Premier League",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",
+"url": "https://bit.ly/TRUEEPL",
+"import": false
+},
+{
 "name": "Ball Thai League",
 "image": "https://upload.wikimedia.org/wikipedia/th/2/28/Hilux_Revo_Thai_League_2021%E2%80%9322.png",
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Ball%20Thai%20League",
