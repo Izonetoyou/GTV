@@ -1,0 +1,122 @@
+{
+"name": "💖 Premier league 💖 ",
+"author": "Godzilla TV",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",
+"url": "",
+"info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
+
+
+"stations"	:
+[
+
+{"name":"True Premier 1 Livescore",
+"image":"https://img2.pic.in.th/pic/pp1550561a5c7a8eca5.png",
+"url":"https://streaming.livescorethai.net/iptv/bsb-epl1.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer":"true"},
+
+{"name":"True Premier 1 Dookeela",
+"image":"https://img2.pic.in.th/pic/pp1550561a5c7a8eca5.png",
+"url":"https://dookeela.live/live-tv/epl1_sd",
+"playInNatPlayer":"true"},
+
+{"name":"True Premier 1 Madoohd",
+"image":"https://img2.pic.in.th/pic/pp1550561a5c7a8eca5.png",
+"url":"https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8",
+"referer": "https://www.madoohd.com/",
+"playInNatPlayer":"true"},
+
+{"name":"True Premier 1 Doolive4k",
+"image":"https://img2.pic.in.th/pic/pp1550561a5c7a8eca5.png",
+"url":"https://oral.thaim3u.com/doolive4k-tv/siamsport-1/chunks.m3u8",
+"referer": "https://doolive4k.tv/",
+"playInNatPlayer": "true"},
+
+{"name":"True Premier 1 Ball24",
+"image":"https://img2.pic.in.th/pic/pp1550561a5c7a8eca5.png",
+"url":"https://www.ball24.tv/allchannel/?id=epl1",
+"playInNatPlayer":"true"},
+
+{"name":"True Premier 1 Dooball2you",
+"image":"https://img2.pic.in.th/pic/pp1550561a5c7a8eca5.png",
+"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/th-sport/tpf1/chunks.m3u8",
+"referer": "https://dooball2you.com/",
+"playInNatPlayer":"true"},
+
+{"name":"True Premier 2 Livescore",
+"image":"https://img2.pic.in.th/pic/pp2175703f8cdfed6a5.png",
+"url":"https://streaming.livescorethai.net/iptv/bsb-epl2.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer":"true"},
+
+{"name":"True Premier 2 Dookeela",
+"image":"https://img2.pic.in.th/pic/pp2175703f8cdfed6a5.png",
+"url":"https://dookeela.live/live-tv/epl2",
+"playInNatPlayer":"true"},
+
+{"name":"True Premier 2 Madoohd",
+"image":"https://img2.pic.in.th/pic/pp2175703f8cdfed6a5.png",
+"url":"https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8",
+"referer": "https://www.madoohd.com/",
+"playInNatPlayer":"true"},
+
+{"name":"True Premier 2 Doolive4k",
+"image":"https://img2.pic.in.th/pic/pp2175703f8cdfed6a5.png",
+"url":"https://oral.thaim3u.com/doolive4k-tv/siamsport-2/chunks.m3u8",
+"referer": "https://doolive4k.tv/",
+"playInNatPlayer": "true"},
+
+{"name":"True Premier 2 Ball24",
+"image":"https://img2.pic.in.th/pic/pp2175703f8cdfed6a5.png",
+"url":"https://www.ball24.tv/allchannel/?id=epl2",
+"playInNatPlayer":"true"},
+
+{"name":"True Premier 2 Dooball2you",
+"image":"https://img2.pic.in.th/pic/pp2175703f8cdfed6a5.png",
+"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/th-sport/tpf2/chunks.m3u8",
+"referer": "https://dooball2you.com/",
+"playInNatPlayer":"true"},
+
+{"name":"True Premier 3 Dooball2you",
+"image":"https://img5.pic.in.th/file/secure-sv1/pp3.png",
+"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/th-sport/tpf3/chunks.m3u8",
+"referer": "https://dooball2you.com/",
+"playInNatPlayer":"true"},
+
+{"name": "TRUE PREMIER 3 Livescore",
+"image": "https://img5.pic.in.th/file/secure-sv1/pp3.png",
+"url": "https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/","userAgent": "ExoPlayerLib/2.8.4"},
+
+
+
+{"name":"True Premier 3 Dookeela",
+"image":"https://img5.pic.in.th/file/secure-sv1/pp3.png",
+"url":"https://dookeela.live/live-tv/epl3",
+"playInNatPlayer":"true"},
+
+{"name":"True Premier 4 Dooball2you",
+"image":"https://img2.pic.in.th/pic/pp4.png",
+"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/th-sport/tpf4/chunks.m3u8",
+"referer": "https://dooball2you.com/",
+"playInNatPlayer":"true"},
+
+{"name": "TRUE PREMIER 4 Livescore",
+"image": "https://img2.pic.in.th/pic/pp4.png",
+"url": "https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/","userAgent": "ExoPlayerLib/2.8.4"} ,
+
+
+{"name": "TRUE PREMIER 5 Livescore",
+"image": "https://img5.pic.in.th/file/secure-sv1/pp5.png",
+"url": "https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/","userAgent": "ExoPlayerLib/2.8.4"},
+
+{"name":"True Premier 5 Dooball2you",
+"image":"https://img5.pic.in.th/file/secure-sv1/pp5.png",
+"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/th-sport/tpf5/chunks.m3u8",
+"referer": "https://dooball2you.com/",
+"playInNatPlayer":"true"},
+
+]
+}
