@@ -8,7 +8,7 @@
 
 "stations":[
 {
-"name": "EPL1 A",
+"name": "EPL1",
 "image": "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",
 "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8",
 "referer": "https://dooball2you.com/",
@@ -17,26 +17,10 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "EPL1 B",
+"name": "EPL1 (สำรอง)",
 "image": "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",
 "url": "https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8",
 "referer": "https://freetvdd.com/",
-"info": "Godzilla TV",
-"playInNatPlayer": "true"
-},
-{
-"name": "EPL1 C",
-"image": "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",
-"url": "https://dooballkub.com/live/?epl1",
-"referer": "https://dooballkub.com/",
-"info": "Godzilla TV",
-"playInNatPlayer": "true"
-},
-{
-"name": "EPL1 D",
-"image": "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",
-"url": "https://www.ufa77.fun/channel?ch=epl1",
-"referer": "https://www.ufa77.fun",
 "info": "Godzilla TV",
 "playInNatPlayer": "true"
 },
