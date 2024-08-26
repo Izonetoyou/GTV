@@ -244,126 +244,118 @@ url:"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "NBA TV",
-"image":"https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",
-"url": "https://www.livestream88.com/sport/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-nba-tv/",
-"referer": "https://we-play.live/",
-"info": "Godzilla TV",
-"playInNatPlayer": "true"
-},
-{
-"name": "Golf Channel",
-"image":"https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",
-"url": "https://www.livestream88.com/sport/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-golf-channel-thailand/",
-"referer": "https://we-play.live/",
-"info": "Godzilla TV",
-"playInNatPlayer": "true"
-},
-{
-"name": "NFL Network",
-"image":"https://static.www.nfl.com/image/private/f_auto/league/uowyiwxfcyccofswi5pz",
-"url": "https://www.livestream88.com/sport/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-nfl-tv/",
-"referer": "https://we-play.live/",
-"info": "Godzilla TV",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "sport tv 1",  
-"image": "https://api-soccer.iamtheme.com/images/tv/iYqHHo3uVU7DUV8DMmVO4wTkh3CRhJptv-station-pt-sport-tv-1-450.png",  
-"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/allball168/sporttv1/playlist.m3u8",
-"referer": "https://allball168.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"info": "Godzilla TV",
-"playInNatPlayer": "true"
-},
-{
-"name": "sport tv 2",  
-"image": "https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-2-451.png",  
-"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/allball168/sporttv2/playlist.m3u8",
-"referer": "https://allball168.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"info": "Godzilla TV",
-"playInNatPlayer": "true"
-},
-{
-"name": "sport tv 3",  
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--452.png",  
-"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/allball168/sporttv3/playlist.m3u8",
-"referer": "https://allball168.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"info": "Godzilla TV",
-"playInNatPlayer": "true"
-},
-{
-"name": "sport tv 4",  
-"image": "https://img.sport-tv-guide.live/images/tv-station-sport-tv-4-453.png", 
-"url": "https://dooball2you.com/live/sport-tv-4/",
-"referer": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/", 
-"playInNatPlayer": "true"
-},
-{
-"name": "BT Sport ESPN",  
-"image": "https://www.liveballsod.com/api/table/icon/BTSportESPN.png",  
-"url": "https://www.liveballsod.com/tv-online/ch091/",
-"referer": "https://www.doofootball.com/",
-"info": "Godzilla TV",
-"playInNatPlayer": "true"
-},
-{
-"name": "BT Sport 1 HD",  
-"image": "https://www.liveballsod.com/api/table/icon/BTSport1HD.png",  
-"url": "https://www.liveballsod.com/tv-online/ch088/",
-"referer": "https://www.doofootball.com/",
-"info": "Godzilla TV",
-"playInNatPlayer": "true"
-},
-{
-"name": "BT Sport 1 HD(สำรอง)",  
-"image": "https://www.liveballsod.com/api/table/icon/BTSport1HD.png",  
-"url": "https://fifa55u.com/ballsod/ch088/",
-"referer": "https://fifa55u.com/",
-"info": "Godzilla TV",
-"playInNatPlayer": "true"
-},
-{
-"name": "BT Sport 2 HD",  
-"image": "https://www.liveballsod.com/api/table/icon/BTSport2HD.png",  
-"url": "https://www.liveballsod.com/tv-online/ch089/",
-"referer": "https://we-play.live/",
-"info": "Godzilla TV",
-"playInNatPlayer": "true"
-},
-{
-"name": "BT Sport 2 HD (สำรอง) ",  
-"image": "https://www.liveballsod.com/api/table/icon/BTSport2HD.png",  
-"url": "https://r3-sn-5fo-c37ed6.googleuservideo.com/fifa55u_x4/btsport2/chunks.m3u8?nimblesessionid=59798848&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDIyIDY6MjM6NTYgQU0maGFzaF92YWx1ZT16RHVJL09lTTNXc2ZUMUJyTEtsd29nPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MTkmaWQ9MTkwNzQ0",
-"referer": "https://fifa55u.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"info": "Godzilla TV",
-"playInNatPlayer": "true"
-},
-{
-"name": "BT Sport 3 HD",  
-"image": "https://www.liveballsod.com/api/table/icon/BTSport3HD.png",  
-"url": "https://www.liveballsod.com/tv-online/ch090/",
-"referer": "https://www.doofootball.com/",
-"info": "Godzilla TV",
-"playInNatPlayer": "true"
-},
-{
-"name": "BT Sport 3 HD (สำรอง) ",  
-"image": "https://www.liveballsod.com/api/table/icon/BTSport3HD.png",  
-"url": "https://fifa55u.com/ballsod/ch090/",
-"referer": "https://fifa55u.com/",
-"info": "Godzilla TV",
-"playInNatPlayer": "true"
-},
-{
-"name": "ห้อง (สำรอง) ",  
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrd8cebKWFMd8qlDu2Ddzvz7iIMdkSEwgqgmHIFca9HA&s",  
-"url": "https://pastebin.com/dRwA2JMR",
-"playInNatPlayer": "true"
-},
+     "name": "AIS PLAY 1",
+     "image": "https://api-soccer.thai-play.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/football-play-1/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "AIS PLAY 1",
+     "image": "https://api-soccer.thai-play.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/football-play-1/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "AIS PLAY 2",
+     "image": "https://api-soccer.thai-play.com/images/tv/4uJiK3DhZb82mr6lq8Cl4dv3oKiiZCKais2.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/football-play-2/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "AIS PLAY 3",
+     "image": "https://api-soccer.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/football-play-3/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "AIS PLAY 4",
+     "image": "https://api-soccer.thai-play.com/images/tv/pBivjaUbfo4dNnCbcyFpXPE1fL9YIV0ais4.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/football-play-4/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sports 1 Thailand",
+     "image": "https://api-soccer.thai-play.com/images/tv/0rp3HnvgY5kT0Ru9ImsRMRj5dodjYvYa1077.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-6/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sports 3 Thailand",
+     "image": "https://api-soccer.thai-play.com/images/tv/dhYruZGT8FK0IhTPasplhSjV1hh1EqVtv-station-th-bein-sports-3-1079.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-7/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "SPOTV 1",
+     "image": "https://api-soccer.thai-play.com/images/tv/71FfEfS1Zp7fLJ4TW4luDauTLQSlKZxspotv1.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/true-spotv-1/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "SPOTV 2",
+     "image": "https://api-soccer.thai-play.com/images/tv/0RGV8VMgXBuGIyl2wEwkYWNpHDRpfk3spotv2.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/true-spotv-2/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "True Premier Football HD 1",
+     "image": "https://api-soccer.thai-play.com/images/tv/FxKl1hWHCcaRmo9ZOIiE2HnUJygUQCNTrue_Premier_Football_HD_1.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-1/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "True Premier Football HD 2",
+     "image": "https://api-soccer.thai-play.com/images/tv/8cdpTAZzt5KNu2QcIpOSJbKsBZHCXfHa1819.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-2/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "True Premier Football HD 3",
+     "image": "https://api-soccer.thai-play.com/images/tv/Nm0iqmsKCLZBxlYShlSp702TjLUpEFkTrue_Premier_Football_HD_3.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-3/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "True Premier Football HD 4",
+     "image": "https://api-soccer.thai-play.com/images/tv/w3dj8zkTukWC49JZSm1kzXqIa3lDljitv-station-true-premier-football-4-1821.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-4/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "True Premier Football HD 5",
+     "image": "https://api-soccer.thai-play.com/images/tv/lU31HrjVOMsrvGp7AVNSvQTX1JleH8ntv-station-true-premier-football-5-1822.png",
+     "url": "https://dolive.thaim3u.com:443/doolive4k-tv/siamsport-5/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "True Sport 3",
+     "image": "https://api-soccer.thai-play.com/images/tv/iQTBiWXYkO8BhDkAkM4BOSEw2IQFRfltv-station-true-sport-3-1072.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-10/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "True Sport 5",
+     "image": "https://api-soccer.thai-play.com/images/tv/cOtTtxtRU37zX1GSYdsDl9CSUAJ0pkstv-station-true-sport-5-1074.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-11/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "True Sport 7",
+     "image": "https://api-soccer.thai-play.com/images/tv/huCgcxvqLVccZTiFE3KOicWmCB8v7VJtv-station-true-sport-7-1076.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-12/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "True Sport HD 1",
+     "image": "https://api-soccer.thai-play.com/images/tv/zOBltAxdpaa8zT4UCfoDbkaWuRyHJ2Ctrue_sport_hd.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-8/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "True Sport HD 3",
+     "image": "https://api-soccer.thai-play.com/images/tv/G4JHj2E6chFdYDk7tGNDXaPCrdTQDXZtrue_sport_hd3.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-10/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    }
 ]
 }
