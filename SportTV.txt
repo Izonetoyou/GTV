@@ -359,6 +359,11 @@ url:"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/playlist.m3u8",
 "info": "Godzilla TV",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "ห้อง (สำรอง) ",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrd8cebKWFMd8qlDu2Ddzvz7iIMdkSEwgqgmHIFca9HA&s",  
+"url": "https://pastebin.com/dRwA2JMR",
+"playInNatPlayer": "true"
+},
 ]
 }
