@@ -35,7 +35,7 @@
 {
 "name": "Premier League",
 "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",
-"url": "https://bit.ly/TRUEEPL",
+"url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Premier",
 "import": false
 },
 {
