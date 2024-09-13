@@ -6,6 +6,41 @@
 "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
 "stations":[
 {
+"name": "Back to Black (2024)",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/09/Back-to-Black-2024-300x450.jpg",
+"url": "https://www.123-hd.com/back-to-black",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
+"name": "Apollo 13 Survival อะพอลโล 13 ภารกิจต้องรอด (2024)",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/09/Apollo-13-Survival-%E0%B8%AD%E0%B8%B0%E0%B8%9E%E0%B8%AD%E0%B8%A5%E0%B9%82%E0%B8%A5-13-%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%AD%E0%B8%94-2024-300x450.jpg",
+"url": "https://www.123-hd.com/apollo-13-survival",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
+"name": "Non Negotiable เจรจาท้ารัก (2024)",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/09/Non-Negotiable-%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%88%E0%B8%B2%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81-2024-300x450.jpg",
+"url": "https://www.123-hd.com/non-negotiable-2",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
+"name": "Mountain Queen The Summits of Lhakpa Sherpa ราชินีขุนเขา ลัคปา เชอร์ปา (2024)",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/09/Mountain-Queen-The-Summits-of-Lhakpa-Sherpa-%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B4%E0%B8%99%E0%B8%B5%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B9%80%E0%B8%82%E0%B8%B2-%E0%B8%A5%E0%B8%B1%E0%B8%84%E0%B8%9B%E0%B8%B2-%E0%B9%80%E0%B8%8A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%9B%E0%B8%B2-2024-300x450.jpg",
+"url": "https://www.123-hd.com/mountain-queen-sherpa",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
+"name": "The Balkan Line (2019)",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/09/The-Balkan-Line-2019-300x450.jpg",
+"url": "https://www.123-hd.com/the-balkan-line",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
 "name": "Descendants The Rise of Red (2024)",
 "image":"https://www.123-hd.com/wp-content/uploads/2024/07/Descendants-The-Rise-of-Red-2024-300x450.jpg",
 "url": "https://www.123-hd.com/descendants-the-rise-of-red",
