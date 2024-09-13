@@ -6,6 +6,20 @@
 "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
 "stations":[
 {
+"name": "Alien Romulus เอเลี่ยน โรมูลัส (2024)",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/09/Alien-Romulus-%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99-%E0%B9%82%E0%B8%A3%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%B1%E0%B8%AA-2024-300x450.jpg",
+"url": "https://www.123-hd.com/alien-romulus",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
+"name": "หลานม่า How to Make Millions Before Grandma Dies (2024)",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/09/%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%99%E0%B8%A1%E0%B9%88%E0%B8%B2-How-to-Make-Millions-Before-Grandma-Dies-2024-300x450.jpg",
+"url": "https://www.123-hd.com/how-millions-grandma",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
 "name": "Back to Black (2024)",
 "image":"https://www.123-hd.com/wp-content/uploads/2024/09/Back-to-Black-2024-300x450.jpg",
 "url": "https://www.123-hd.com/back-to-black",
