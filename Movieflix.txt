@@ -2,60 +2,60 @@
 "name": "MOVIE FLIX",
 "author": "Godzilla TV",
 "image": "https://newssow.com/wp-content/uploads/2021/07/moviesflix.png",
-"url": "",
-"info": "",
+"url": "https://raw.githubusercontent.com/Izonetoyou/GTV/refs/heads/main/Movieflix.txt",
 "groups": [
+
 {
-"name": "New Movie",
+"name": "New Movie ",
 "image": "https://img.freepik.com/free-vector/colorful-movie-logo_18099-26.jpg",
-"url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/New%20Movie.txt",
+"url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/NewMovie.txt",
 "import": true
 },
 {
-"name": "Movie",
+"name": "Movie ",
 "image": "https://dota2.ru/img/news/t1653908813.jpg",
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/Movie.txt",
 "import": true
 },
 {
-"name": "หนังภาคต่อ",
+"name": "หนังภาคต่อ ",
 "image": "https://thumbs.dreamstime.com/b/movie-time-logo-white-background-movie-time-logo-white-background-135314604.jpg",
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%95%E0%B9%88%E0%B8%AD.txt",
 "import": true
 },
 {
-"name": "Series",
+"name": "Series ",
 "image": "https://logos.flamingtext.com/Word-Logos/series-design-sketch-name.png",
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/SeriesTV.txt",
 "import": true
 },
 {
-"name": "Cartoon Animation",
+"name": "Cartoon Animation ",
 "image": "https://play-lh.googleusercontent.com/n8YO5pES-6Rc586zMw4v4AdPG0Xin7od7kQ0k6Vuvfv6TVYgPMZ5UnGtLUzB3IB2fQ=w512",
-"url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/Cartoon%20Animation.txt",
+"url": "https://raw.githubusercontent.com/Izonetoyou/GTV/refs/heads/main/Movieflix/CartoonAnimation.txt",
 "import": true
 },
 {
-"name": "New AI Generate Movie",
+"name": "New AI Generate Movie ",
 "image": "https://images.newscientist.com/wp-content/uploads/2023/03/21105741/SEI_1485349141.jpg?width=1200",
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/AIGenerateMovie",
 "import": true
 },
 {
-"name": "4K Movies",
+"name": "4K Movies ",
 "image": "https://t4.ftcdn.net/jpg/05/33/02/23/360_F_533022360_pQ3WjgQvkL4n4oAYVHCgsJgjvJmFV9Pv.jpg",
 "url": "https://pastebin.ai/raw/dmlru356ta",
 "import": true
 },
 {
-"name": "จากพันธมิตร",
+"name": "จากพันธมิตร ",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrd8cebKWFMd8qlDu2Ddzvz7iIMdkSEwgqgmHIFca9HA&s",
 "url": "https://pastebin.com/h6MtXfMf",
 "import": true
 },
 
 {
-"name": "เว็ปดูหนังออนไลน์เปิดได้เฉพาะมือถือ",
+"name": "เว็ปดูหนังออนไลน์เปิดได้เฉพาะมือถือ ",
 "image": "https://media3.giphy.com/media/3o7rc0qU6m5hneMsuc/giphy.gif?cid=ecf05e47c1b9xrf4rqbz8p476xiuy8h21yf2lrsx2jrtk0r9&ep=v1_gifs_search&rid=giphy.gif&ct=g",
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/web",
 "import": true
