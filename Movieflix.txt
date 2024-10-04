@@ -19,7 +19,7 @@
 {
 "name": "หนังภาคต่อ ",
 "image": "https://thumbs.dreamstime.com/b/movie-time-logo-white-background-movie-time-logo-white-background-135314604.jpg",
-"url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%95%E0%B9%88%E0%B8%AD.txt",
+"url": "https://raw.githubusercontent.com/Izonetoyou/GTV/refs/heads/main/Movieflix/MovieSeries.txt",
 "import": true
 },
 {
