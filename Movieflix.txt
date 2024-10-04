@@ -4,7 +4,6 @@
 "image": "https://newssow.com/wp-content/uploads/2021/07/moviesflix.png",
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/refs/heads/main/Movieflix.txt",
 "groups": [
-
 {
 "name": "New Movie ",
 "image": "https://img.freepik.com/free-vector/colorful-movie-logo_18099-26.jpg",
@@ -53,14 +52,11 @@
 "url": "https://pastebin.com/h6MtXfMf",
 "import": true
 },
-
 {
 "name": "เว็ปดูหนังออนไลน์เปิดได้เฉพาะมือถือ ",
 "image": "https://media3.giphy.com/media/3o7rc0qU6m5hneMsuc/giphy.gif?cid=ecf05e47c1b9xrf4rqbz8p476xiuy8h21yf2lrsx2jrtk0r9&ep=v1_gifs_search&rid=giphy.gif&ct=g",
 "url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/web",
 "import": true
 },
-
-	
 ]
 }
