@@ -6,8 +6,7 @@
 "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
 "stations":[
 {
-"name": "
-Memoir Seorang Guru บันทึกของคุณครู (2024)",
+"name": "Memoir Seorang Guru บันทึกของคุณครู (2024)",
 "image":"https://www.123-hd.com/wp-content/uploads/2024/10/Memoir-Seorang-Guru-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%84%E0%B8%A3%E0%B8%B9-2024-300x450.jpg",
 "url": "https://www.123-hd.com/memoir-seorang-guru",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
