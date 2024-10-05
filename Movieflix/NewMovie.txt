@@ -6,6 +6,36 @@
 "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
 "stations":[
 {
+"name": "
+Memoir Seorang Guru บันทึกของคุณครู (2024)",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/10/Memoir-Seorang-Guru-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%84%E0%B8%A3%E0%B8%B9-2024-300x450.jpg",
+"url": "https://www.123-hd.com/memoir-seorang-guru",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
+"name": "Rez Ball เรซบอล (2024)",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/09/Rez-Ball-%E0%B9%80%E0%B8%A3%E0%B8%8B%E0%B8%9A%E0%B8%AD%E0%B8%A5-2024-300x450.jpg",
+"url": "https://www.123-hd.com/rez-ball",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
+"name": "MaXXXine แม็กซีน (2024)",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/09/MaXXXine-%E0%B9%81%E0%B8%A1%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B8%B5%E0%B8%99-2024-300x450.jpg",
+"url": "https://www.123-hd.com/maxxxine",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
+"name": "Wolfs สองคมคู่แสบมหากาฬ (2024)",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/09/Wolfs-%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A1%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B9%81%E0%B8%AA%E0%B8%9A%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC-2024-300x450.jpg",
+"url": "https://www.123-hd.com/wolfs-2024",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
+{
 "name": "Arthur the King (2024) อาเธอร์ จอมราชา",
 "image":"https://www.24-hd.com/wp-content/uploads/2024/08/Arthur-the-King-%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B2-2024-187x269.jpg",
 "url": "https://www.24-hd.com/arthur-the-king/",
