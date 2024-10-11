@@ -8,6 +8,13 @@
 
 "stations":[
 {
+"name": "Monster High 2 (2023)",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/10/Monster-High-2-2023-300x450.jpg",
+"url": "https://www.123-hd.com/monster-high-2",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
 "name": "Reptile (2023) ลอกคราบฆาตกร",
 "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Reptile-2023-%E0%B8%A5%E0%B8%AD%E0%B8%81%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3-300x450.jpg",
 "url": "https://www.123-hd.com/reptile",
