@@ -45,7 +45,7 @@
 {
 "name": "EPL3",
 "image":"https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",
-"url": "https://dookeela.live/live-tv/epl3",
+"url": "https://dookeela.live/live-tv/epl3#",
 "referer": "https://dookeela.live/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
 "info": "Godzilla TV",
