@@ -53,13 +53,14 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "EPL3 (สำรอง)",
-"image":"https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",
-"url": "https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8",
-"referer": "https://freetvdd.com/",
+"name":"EPL3 (สำรอง)",
+"image":"https://api.blackboxsys.net/images/png/epl-3.png",
+"url":"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-3&api_key=MIcWPyCpm6maZGJQ",
+"referer":"https://www.ufa191i.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
 "info": "Godzilla TV",
+"embed": true,
 "playInNatPlayer": "true"
-},
 {
 "name": "EPL4",
 "image":"https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",
@@ -70,11 +71,13 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "EPL4 (สำรอง)",
-"image":"https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",
-"url": "https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8",
-"referer": "https://freetvdd.com/",
+"name":"EPL4 (สำรอง)",
+"image":"https://api.blackboxsys.net/images/png/epl-4.png",
+"url":"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-4&api_key=MIcWPyCpm6maZGJQ",
+"referer":"https://www.ufa191i.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
 "info": "Godzilla TV",
+"embed": true,
 "playInNatPlayer": "true"
 },
 {
@@ -86,12 +89,14 @@
 "info": "Godzilla TV",
 "playInNatPlayer": "true"
 },
-{
-"name": "EPL5 (สำรอง)",
-"image":"https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",
-"url": "https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8",
-"referer": "https://freetvdd.com/",
+ {
+"name":"EPL5 (สำรอง)",
+"image":"https://api.blackboxsys.net/images/png/epl-5.png",
+"url":"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-5&api_key=MIcWPyCpm6maZGJQ",
+"referer":"https://www.ufa191i.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
 "info": "Godzilla TV",
+"embed": true,
 "playInNatPlayer": "true"
 },
 {
