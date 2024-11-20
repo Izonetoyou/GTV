@@ -62,6 +62,7 @@
 "info": "Godzilla TV",
 "embed": true,
 "playInNatPlayer": "true"
+},
 {
 "name": "EPL4",
 "image":"https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",
