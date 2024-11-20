@@ -15,13 +15,11 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "EPL1 (สำรอง)",
-"image": "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",
-"url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-1&api_key=MIcWPyCpm6maZGJQ",
-"referer": "https://www.ufa191i.com/",
-"info": "Godzilla TV",
-"playInNatPlayer": "true"
-},
+"name":"",
+"image":"https://api.blackboxsys.net/images/png/epl-1.png",
+"url":"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-1&api_key=MIcWPyCpm6maZGJQ",
+"referer":"https://www.ufa191i.com/",
+"embed": true},
 {
 "name": "EPL2",
 "image": "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",
