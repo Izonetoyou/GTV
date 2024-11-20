@@ -5,59 +5,139 @@
 "url": "",
 "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
 
-
 "stations":[
-
-
 {
-name:"Sumlojlok",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jbMqrJUKJ0-7_J8JQCtOj4VFDo__7LlLiw&usqp=CAU",
-url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8",
- "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-},
+     "name": "Asian Food Network",
+     "image": "https://dookeela.live/uploads/1717696078.png",
+     "url": "https://dookeela.live/live-tv/afn",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
 {
-name:"MySci",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9a0o12Gnm62_YR7malqCzdJlwVUAlPNn6mA&usqp=CAU",
-url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC37/index.m3u8",
- "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-},
+     "name": "Food Network",
+     "image": "https://dookeela.live/uploads/1717696062.png",
+     "url": "https://dookeela.live/live-tv/foodnetwork",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "BBC Lifestyle",
+     "image": "https://dookeela.live/uploads/1727766790.png",
+     "url": "https://dookeela.live/live-tv/bbc-lifestyle",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Animal Planet",
+     "image": "https://dookeela.live/uploads/1706112700.png",
+     "url": "https://dookeela.live/live-tv/animal-planet",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Animal Show",
+     "image": "https://dookeela.live/uploads/1705537126.png",
+     "url": "https://dookeela.live/live-tv/animalshow",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "BBC EARTH",
+     "image": "https://dookeela.live/uploads/1714101191.png",
+     "url": "https://dookeela.live/live-tv/bbc-earth",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Crime + Investigation",
+     "image": "https://dookeela.live/uploads/1714101661.png",
+     "url": "https://dookeela.live/live-tv/crime-investigation",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Discovery",
+     "image": "https://dookeela.live/uploads/1706112738.png",
+     "url": "https://dookeela.live/live-tv/discovery",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Discovery Asia",
+     "image": "https://dookeela.live/uploads/1706112755.png",
+     "url": "https://dookeela.live/live-tv/discovery-asia",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "DMAX",
+     "image": "https://dookeela.live/uploads/1714101765.png",
+     "url": "https://dookeela.live/live-tv/dmax",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "History",
+     "image": "https://dookeela.live/uploads/1713231372.png",
+     "url": "https://dookeela.live/live-tv/history",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Love Nature 4K",
+     "image": "https://dookeela.live/uploads/1713508633.png",
+     "url": "https://dookeela.live/live-tv/love-nature-4k",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "MySci",
+     "image": "https://dookeela.live/uploads/1705536991.png",
+     "url": "https://dookeela.live/live-tv/mysci",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Nat Geo WILD",
+     "image": "https://dookeela.live/uploads/1716363369.png",
+     "url": "https://dookeela.live/live-tv/nat-geo-wild",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "National Geographic",
+     "image": "https://dookeela.live/uploads/1716366217.png",
+     "url": "https://dookeela.live/live-tv/national-geographic",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
 {
-name:"Discovery Asia",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJxQqvZpQHNsPu-kYHVsSm_Y2Og6UJcekRA&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8",
-"referer": "https://freetvdd.com/"
-},
+     "name": "True Explore Life",
+     "image": "https://dookeela.live/uploads/1724166670.png",
+     "url": "https://dookeela.live/live-tv/trueexplorelife",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
 {
-name:"BBC earth",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBtrW90s7FgmfIvjlmZ_LW9k2BO3_hSgskmQ&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8",
-"referer": "https://freetvdd.com/"
-},
-{  
-name:"History",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpO_e_sX-GaJrkhXAIFUOya20aEtvCkuqmOA&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8",
-"referer": "https://freetvdd.com/"
-},
+     "name": "True Explore Sci",
+     "image": "https://dookeela.live/uploads/1724167268.png",
+     "url": "https://dookeela.live/live-tv/trueexploresci",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
 {
-name:"TRUE EXPLORE WILD",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RI4TRP5ZKKtpolvI72iBD0mKLXdNwYb_qA&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8",
-"referer": "https://freetvdd.com/"
-},
-{  
-name:"ของดี ประเทศไทย",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2t9gXeGgWDls8JzHCy9ak9uPfVhLt4dybAg&usqp=CAU",
-url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC31/index.m3u8",
- "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-},
-{  
-name:"ทรูปลูกปัญญา",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXmoVPffwBbbuTvvT_RdWwnUpqXITVVkuBA&usqp=CAU",
-url:"http://www.trueplookpanya.com/tv/",
- "referer": "http://www.trueplookpanya.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
-}
-
+     "name": "True Explore Wild",
+     "image": "https://dookeela.live/uploads/1724166218.png",
+     "url": "https://dookeela.live/live-tv/trueexplorewild",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "สำรวจโลก",
+     "image": "https://dookeela.live/uploads/1705536821.png",
+     "url": "https://dookeela.live/live-tv/samrujlok",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    }
 ]
 }
