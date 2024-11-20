@@ -5,8 +5,6 @@
 "url": "https://drive.google.com/uc?export=download&id=1yThA1r-MEe9Cd5S2xgZoVlDN8o_1p0S9",
 "info": "ช่องและรายการทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
 
-
-
 "stations": [
 {
      "name": "True Asian More",
