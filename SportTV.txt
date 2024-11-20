@@ -210,9 +210,8 @@
 {
 "name": "Spot TV2(สำรอง2)",
 "image":"https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015",
-"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv2/playlist.m3u8",
-"referer": "
-https://dooball2you.com/",
+"url": "https://www.dooballfree24hr.com/live/spotv2/",
+"referer": "https://www.dooballfree24hr.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
 "info": "Godzilla TV",
 "playInNatPlayer": "true"
