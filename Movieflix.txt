@@ -35,18 +35,6 @@
 "import": true
 },
 {
-"name": "New AI Generate Movie ",
-"image": "https://images.newscientist.com/wp-content/uploads/2023/03/21105741/SEI_1485349141.jpg?width=1200",
-"url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/AIGenerateMovie",
-"import": true
-},
-{
-"name": "4K Movies ",
-"image": "https://t4.ftcdn.net/jpg/05/33/02/23/360_F_533022360_pQ3WjgQvkL4n4oAYVHCgsJgjvJmFV9Pv.jpg",
-"url": "https://pastebin.ai/raw/dmlru356ta",
-"import": true
-},
-{
 "name": "จากพันธมิตร ",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrd8cebKWFMd8qlDu2Ddzvz7iIMdkSEwgqgmHIFca9HA&s",
 "url": "https://pastebin.com/h6MtXfMf",
