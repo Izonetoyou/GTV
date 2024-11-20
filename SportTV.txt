@@ -15,7 +15,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name":"",
+"name":"EPL1 (สำรอง)",
 "image":"https://api.blackboxsys.net/images/png/epl-1.png",
 "url":"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-1&api_key=MIcWPyCpm6maZGJQ",
 "referer":"https://www.ufa191i.com/",
