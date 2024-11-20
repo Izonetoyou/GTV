@@ -9,117 +9,101 @@
 "stations"	:
 [
 
-{"name":"True Premier 1 ",
-"image":"https://img2.pic.in.th/pic/pp1550561a5c7a8eca5.png",
-"url":"https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8",
-"referer": "https://livescorethai.net/",
-"playInNatPlayer":"true"},
-
-{"name":"True Premier 1 Dookeela",
-"image":"https://img2.pic.in.th/pic/pp1550561a5c7a8eca5.png",
-"url":"https://dookeela.live/live-tv/epl1_sd",
-"playInNatPlayer":"true"},
-
-{"name":"True Premier 1 Madoohd",
-"image":"https://img2.pic.in.th/pic/pp1550561a5c7a8eca5.png",
-"url":"https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8",
-"referer": "https://www.madoohd.com/",
-"playInNatPlayer":"true"},
-
-{"name":"True Premier 1 Doolive4k",
-"image":"https://img2.pic.in.th/pic/pp1550561a5c7a8eca5.png",
-"url":"https://oral.thaim3u.com/doolive4k-tv/siamsport-1/chunks.m3u8",
-"referer": "https://doolive4k.tv/",
-"playInNatPlayer": "true"},
-
-{"name":"True Premier 1 Ball24",
-"image":"https://img2.pic.in.th/pic/pp1550561a5c7a8eca5.png",
-"url":"https://www.ball24.tv/allchannel/?id=epl1",
-"playInNatPlayer":"true"},
-
-{"name":"True Premier 1 Dooball2you",
-"image":"https://img2.pic.in.th/pic/pp1550561a5c7a8eca5.png",
-"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/th-sport/tpf1/chunks.m3u8",
-"referer": "https://dooball2you.com/",
-"playInNatPlayer":"true"},
-
-{"name":"True Premier 2",
-"image":"https://img2.pic.in.th/pic/pp2175703f8cdfed6a5.png",
-"url":"https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8",
-"referer": "https://livescorethai.net/",
-"playInNatPlayer":"true"},
-
-{"name":"True Premier 2 Dookeela",
-"image":"https://img2.pic.in.th/pic/pp2175703f8cdfed6a5.png",
-"url":"https://dookeela.live/live-tv/epl2",
-"playInNatPlayer":"true"},
-
-{"name":"True Premier 2 Madoohd",
-"image":"https://img2.pic.in.th/pic/pp2175703f8cdfed6a5.png",
-"url":"https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8",
-"referer": "https://www.madoohd.com/",
-"playInNatPlayer":"true"},
-
-{"name":"True Premier 2 Doolive4k",
-"image":"https://img2.pic.in.th/pic/pp2175703f8cdfed6a5.png",
-"url":"https://oral.thaim3u.com/doolive4k-tv/siamsport-2/chunks.m3u8",
-"referer": "https://doolive4k.tv/",
-"playInNatPlayer": "true"},
-
-{"name":"True Premier 2 Ball24",
-"image":"https://img2.pic.in.th/pic/pp2175703f8cdfed6a5.png",
-"url":"https://www.ball24.tv/allchannel/?id=epl2",
-"playInNatPlayer":"true"},
-
-{"name":"True Premier 2 Dooball2you",
-"image":"https://img2.pic.in.th/pic/pp2175703f8cdfed6a5.png",
-"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/th-sport/tpf2/chunks.m3u8",
-"referer": "https://dooball2you.com/",
-"playInNatPlayer":"true"},
-
-{"name": "TRUE PREMIER 3",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png",
-"url": "https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8",
-"referer": "https://freetvdd.com/","userAgent": "ExoPlayerLib/2.8.4"},
-
-
-{"name":"True Premier 3 Dooball2you",
-"image":"https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png",
-"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/th-sport/tpf3/chunks.m3u8",
-"referer": "https://dooball2you.com/",
-"playInNatPlayer":"true"},
-
-
-
-{"name":"True Premier 3 Dookeela",
-"image":"https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png",
-"url":"https://dookeela.live/live-tv/epl3",
-"playInNatPlayer":"true"},
-
-{"name": "TRUE PREMIER 4 ",
-"image": "https://img2.pic.in.th/pic/pp4.png",
-"url": "https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8",
-"referer": "https://freetvdd.com/","userAgent": "ExoPlayerLib/2.8.4"} ,
-
-
-{"name":"True Premier 4 Dooball2you",
-"image":"https://img2.pic.in.th/pic/pp4.png",
-"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/th-sport/tpf4/chunks.m3u8",
-"referer": "https://dooball2you.com/",
-"playInNatPlayer":"true"},
-
-
-
-{"name": "TRUE PREMIER 5",
-"image": "https://img5.pic.in.th/file/secure-sv1/pp5.png",
-"url": "https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8",
-"referer": "https://freetvdd.com/","userAgent": "ExoPlayerLib/2.8.4"},
-
-{"name":"True Premier 5 Dooball2you",
-"image":"https://img5.pic.in.th/file/secure-sv1/pp5.png",
-"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/th-sport/tpf5/chunks.m3u8",
-"referer": "https://dooball2you.com/",
-"playInNatPlayer":"true"},
+{
+"name": "EPL1",
+"image": "https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",
+"url": "https://dookeela.live/live-tv/epl1_sd",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name":"EPL1 (สำรอง)",
+"image":"https://api.blackboxsys.net/images/png/epl-1.png",
+"url":"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-1&api_key=MIcWPyCpm6maZGJQ",
+"referer":"https://www.ufa191i.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"info": "Godzilla TV",
+"embed": true,
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL2",
+"image": "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",
+"url": "https://dookeela.live/live-tv/epl2",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name":"EPL2 (สำรอง)",
+"image":"https://api.blackboxsys.net/images/png/epl-2.png",
+"url":"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-2&api_key=MIcWPyCpm6maZGJQ",
+"referer":"https://www.ufa191i.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"info": "Godzilla TV",
+"embed": true,
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL3",
+"image":"https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",
+"url": "https://dookeela.live/live-tv/epl3#",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name":"EPL3 (สำรอง)",
+"image":"https://api.blackboxsys.net/images/png/epl-3.png",
+"url":"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-3&api_key=MIcWPyCpm6maZGJQ",
+"referer":"https://www.ufa191i.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"info": "Godzilla TV",
+"embed": true,
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL4",
+"image":"https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",
+"url": "https://dookeela.live/live-tv/epl4",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+{
+"name":"EPL4 (สำรอง)",
+"image":"https://api.blackboxsys.net/images/png/epl-4.png",
+"url":"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-4&api_key=MIcWPyCpm6maZGJQ",
+"referer":"https://www.ufa191i.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"info": "Godzilla TV",
+"embed": true,
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL5",
+"image":"https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",
+"url": "https://dookeela.live/live-tv/epl5",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"info": "Godzilla TV",
+"playInNatPlayer": "true"
+},
+ {
+"name":"EPL5 (สำรอง)",
+"image":"https://api.blackboxsys.net/images/png/epl-5.png",
+"url":"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-5&api_key=MIcWPyCpm6maZGJQ",
+"referer":"https://www.ufa191i.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"info": "Godzilla TV",
+"embed": true,
+"playInNatPlayer": "true"
+},
 
 ]
 }
