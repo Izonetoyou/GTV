@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="EPL1" tvg-name="True premier football hd 1" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Sports",True Premier Football hd 1
-https://dookeela.live/live-tv/epl1_sd
+https://s8.apple-streams.com:9308/v5/scbWxltLJwXb3TgsmA04yQ/1733557396/f2220e563b117952acdd3bc45d7dc337/ALQsl-5Cj5SQ1iYVBxpPMQ/1733568076/live/vx-origin/dooball66-epl1x_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="EPL2" tvg-name="True premier football hd 2" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" group-title="Sports",True Premier Football hd 2
 https://dookeela.live/live-tv/epl2
