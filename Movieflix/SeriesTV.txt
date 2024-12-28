@@ -14,7 +14,7 @@
 {
 "name": "Squid Game S1",
 "image": "https://www.123-hd.com/wp-content/uploads/2021/09/Squid-Game-2021-%E0%B8%AA%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2-300x450.png",
-"url": "https://drive.google.com/uc?export=download&id=1Snm4XpcxVF9g9h3os7_n38xJCuPFyIRf",
+"url": "https://raw.githubusercontent.com/Izonetoyou/GTV/main/Movieflix/Series/SquidGameS1",
 "import": false
 },
 {
