@@ -6,6 +6,20 @@
 "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
 "stations":[
 {
+"name": "Nednari (2023) อวสานเนตรนารี",
+"image":"https://www.123-hd.com/wp-content/uploads/2025/01/Nednari-2023-%E0%B8%AD%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B5-1-300x450.png",
+"url": "https://www.123-hd.com/nednari",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
+"name": "Escape (2024) หนีให้พ้นนรก",
+"image":"https://www.123-hd.com/wp-content/uploads/2024/08/Escape-2024-%E0%B8%AB%E0%B8%99%E0%B8%B5%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9E%E0%B9%89%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%81-300x450.jpg",
+"url": "https://www.123-hd.com/escape-2",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+{
 "name": "The Paradise of Thorns (2024) วิมานหนาม",
 "image":"https://www.123-hd.com/wp-content/uploads/2025/01/The-Paradise-of-Thorns-2024-%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%A1-300x450.png",
 "url": "https://www.123-hd.com/the-paradise-of-thorns",
