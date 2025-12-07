@@ -219,8 +219,8 @@
 {
 "name": "BEIN SPORTS 1",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_LrpYYqZag6MlTphZ8XiS2sG5juyprYbhYg&usqp=CAU",
-"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/th-sport/bein1/chunks.m3u8?nimblesessionid=232859546",
-"referer": "https://dooball2you.com/",
+"url": "https://dookeela2.live/events/8348",
+"referer": "https://dookeela2.live",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
 "info": "Godzilla TV",
 "playInNatPlayer": "true"
